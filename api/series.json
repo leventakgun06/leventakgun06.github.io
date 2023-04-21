@@ -1080,7 +1080,7 @@
       "contentRating": "15+",
       "episode": "20",
       "playerAbout1": "https://mydramalist.com/people/346-jung-so-min",
-      "playerAbout2": "",
+      "playerAbout2": "https://mydramalist.com/people/1137-sung-joon",
       "playerAbout3": "https://mydramalist.com/people/516-lee-mi-sook"
     },
     {
@@ -1803,7 +1803,7 @@
       "episode": "16",
       "playerAbout1": "",
       "playerAbout2": "https://mydramalist.com/people/1171-eric",
-      "playerAbout3": ""
+      "playerAbout3": "https://mydramalist.com/people/1137-sung-joon"
     },
     {
       "id": 96,
@@ -3227,7 +3227,7 @@
       "contentRating": "15+",
       "episode": "16",
       "playerAbout1": "",
-      "playerAbout2": "",
+      "playerAbout2": "https://mydramalist.com/people/1137-sung-joon",
       "playerAbout3": "https://mydramalist.com/people/3014-park-hyung-shik"
     },
     {
@@ -3418,7 +3418,7 @@
       "episode": "20",
       "playerAbout1": "",
       "playerAbout2": "",
-      "playerAbout3": ""
+      "playerAbout3": "https://mydramalist.com/people/1137-sung-joon"
     },
     {
       "id": 181,
@@ -3550,7 +3550,7 @@
       "contentRating": "15+",
       "episode": "16",
       "playerAbout1": "",
-      "playerAbout2": "",
+      "playerAbout2": "https://mydramalist.com/people/1137-sung-joon",
       "playerAbout3": "https://mydramalist.com/people/513-nam-goong-min"
     },
     {
@@ -4463,7 +4463,7 @@
       "episode": "16",
       "playerAbout1": "",
       "playerAbout2": "https://mydramalist.com/people/252-kang-ji-hwan",
-      "playerAbout3": ""
+      "playerAbout3": "https://mydramalist.com/people/1137-sung-joon"
     },
     {
       "id": 236,
@@ -4689,7 +4689,7 @@
       "genre": "Psikolojik Komedi Romantik",
       "contentRating": "15+",
       "episode": "16",
-      "playerAbout1": "",
+      "playerAbout1": "https://mydramalist.com/people/1137-sung-joon",
       "playerAbout2": "https://mydramalist.com/people/1269-han-ye-seul",
       "playerAbout3": ""
     },
@@ -7178,7 +7178,7 @@
       "genre": "Müzik Gençlik Dram",
       "contentRating": "15+",
       "episode": "16",
-      "playerAbout1": "",
+      "playerAbout1": "https://mydramalist.com/people/1137-sung-joon",
       "playerAbout2": "",
       "playerAbout3": "https://mydramalist.com/people/1552-l"
     },
@@ -10523,7 +10523,7 @@
       "contentRating": "15+",
       "episode": "20",
       "playerAbout1": "",
-      "playerAbout2": "",
+      "playerAbout2": "https://mydramalist.com/people/1137-sung-joon",
       "playerAbout3": ""
     },
     {
@@ -13812,6 +13812,25 @@
       "playerAbout1": "https://mydramalist.com/people/3014-park-hyung-shik",
       "playerAbout2": "https://mydramalist.com/people/20724-jeon-so-nee",
       "playerAbout3": "https://mydramalist.com/people/11573-pyo-ye-jin"
-    }
+    },
+    {
+      "id": 728,
+          "koreasName": "Call It Love",
+          "koreasImage": "https://i.mydramalist.com/1wm5R5_4f.jpg",
+          "rating": 8.4,
+          "description": "2023 yılı yapımı bu dizide: Hayatın zorlukları herkesi etkileyebilir ve bu romantik melodram, derinden etkilenen bir erkek ve kadının hikayesini anlatıyor. Birbirlerine karşı artan empati ve anlayışları sayesinde, yeni duygularla dolu dönüştürücü bir yolculuğa çıkarlar. Sim Woo Joo'nun hayatı, metresi tarafından zorla evinden atılan babasının ölümünden sonra daha da kötüye gider. İntikam almak için babasının eski sevgilisinin oğlu Han Dong Jin'e yaklaşır. Onunla daha fazla zaman geçirdikçe aşık olduğunu fark eder. Yalnız bir hayatı olan bir işkolik olan Han Dong Jin, Sim Woo Joo'nun gelişiyle dünyasının alt üst olduğunu fark eder.",
+          "playerName1": "Kim Young Kwang\n(Han Dong Jin)",
+          "playerName2": "Lee Sung Kyung\n(Shim Woo Joo)",
+          "playerName3": "Sung Joon\n(Yoon Joon)",
+          "playerImage1": "https://i.mydramalist.com/QwnLg_5c.jpg",
+          "playerImage2": "https://i.mydramalist.com/6q6Z2_5c.jpg",
+          "playerImage3": "https://i.mydramalist.com/kAzJmj_5c.jpg",
+          "genre": "Romantik Dram Melodram",
+          "contentRating": "15+",
+          "episode": "16",
+          "playerAbout1": "https://mydramalist.com/people/1944-kim-young-kwang",
+          "playerAbout2": "https://mydramalist.com/people/7660-lee-sung-kyung",
+          "playerAbout3": "https://mydramalist.com/people/1137-sung-joon"
+      }
   ]
 }
