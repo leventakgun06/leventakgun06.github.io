@@ -1,0 +1,131 @@
+{
+"dua": [
+  {
+    "id": 1,
+    "name": "Cennete gitmek için? ",
+    "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
+    "descp": "* Yalan söyleme. * İftira atma.\n * Kul hakkı yeme. * Hırsızlık yapma.\n * Yalancı şahitlik yapma. * Yolsuzluk yapma.\n * İhtiyaçtan fazlasını dağıt. * Servet yığma.\n * İnsan öldürme. * Fitne fesat çıkarma."
+  },
+  {
+    "id": 2,
+    "name": "Hastalara şifa veren dua.",
+    "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
+    "descp": "Ezhibil-be'se rabben'nasi eşfi ve enteş'şafi la şifae illa şifauke şifaen la yugadiru sekame."
+  },
+  {
+    "id": 3,
+    "name": "Ezan duası.",
+    "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
+    "descp": "Allâhumme Rabbe hâzihi davetit tâmmeh, ve salâtil kâimeh, âti Muhammedenil vesîlete vel fadîlete, veb'ashü makâmem mahmûdenil lezî va'adteh."
+  },
+  {
+    "id": 4,
+    "name": "Hastanın iyileşmesi için dua.",
+    "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
+    "descp": "Allahümme innî es'elüke ve eteveccehü ileyke bi-Nebiyyike Muhammed’in Nebiyyirrahme, yâ Muhammed innî eteveccehü bike ilâ Rabbi fî hâcetî-hâzihî, li taktıye-li, Allahümme şeffi'hü fiyye"
+  },
+  {
+    "id": 5,
+    "name": "Yemek duası.",
+    "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
+    "descp": "Elhamdu lillâhi hamden kesîran mubâreken fîhi, ğayra mekfiyyin, ve lâ muveddein ve lâ musteğnen anhu Rabbenâ."
+  },
+  {
+    "id": 6,
+    "name": "Sağlık afiyet için dua.",
+    "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
+    "descp": "Allahümme innî es'elüke-ssıhhate vel-âfiyete vel-emânete ve hüsnel-hulkı verrıdâe bilkaderi birahmetike yâ Erhamerrâhimîn"
+  },
+  {
+    "id": 7,
+    "name": "Günahların affı için dua.",
+    "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
+    "descp": "Sübhânallahi ve bi-hamdihi sübhânallahil-azîm."
+  },
+  {
+    "id": 8,
+    "name": "Kalpte imanın olması için dua.",
+    "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
+    "descp": "Allahümme, yâ mukallibelkulûb, sebbit kalbî, alâ dînik"
+  },
+  {
+    "id": 9,
+    "name": "Zararlardan korunmak için dua.",
+    "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
+    "descp": "E’ûzü bikelimâtillâhit-tâmmâti min şerri külli şeytânin ve hâmmatin. Ve min şerri külli effâkin kâzibetin. Ve min şerri külli gammâzin hâinetin. Ve min şerri külli aynin lâmmetin. Ve min şerri külli bid’atin dâlletin."
+  },
+  {
+    "id": 10,
+    "name": "Çarşıya çıkarken okunacak dua.",
+    "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
+    "descp": "Lâ ilâhe illallahü vahde hü lâ şerîke leh, le hül mülkü ve le hül hamdü, yuhyî ve yümît, ve hüve hayyün lâ yemût, bi yedi-hil-hayr, ve hüve alâ külli şey’in kadîr."
+  },
+  {
+    "id": 11,
+    "name": "Fitneden korunmak için dua.",
+    "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
+    "descp": "Allahümme innî es'elü-ke fiilel hayrât ve terkelmünkerât ve hubbel-mesâkin ve izâ eredte fitneten fî kavmî fe-teveffenî gayre meftûn"
+  },
+  {
+    "id": 12,
+    "name": "Seyyidül istiğfar duası.",
+    "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
+    "descp": "Allahümme ente Rabbî lâ ilahe illâ ente halaktenî ve ene abdüke ve ene alâ ahdike ve vâ’dike mes’tetâtü eûzü bike min şerri mâ sanâtü ebû’ü leke bi-nîmetike aleyye ve ebû’ü bizenbî fağfirlî feinnehû lâ yağfıruz-zünûbe illâ ente."
+  },
+  {
+    "id": 13,
+    "name": "Borçtan kurtulma duası.",
+    "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
+    "descp": "Elem neşrah leke sadrek Ve vada'na'anke vizreke Elleziy enkada zahreke Ve refa'na leke zikreke Feinne me'al'usri yüsren İnne me'al'usri yüsren Feiza ferağte fensab Ve ila rabbike ferğab."
+  },
+  {
+    "id": 14,
+    "name": "Sıkıntıdan kurtulmak için dua.",
+    "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
+    "descp": "La ilahe illallahül halimül kerimü sübhanellahi ve tebarekellahü rabbül'arşil-azim vel hamdülillahi rabbil alemin."
+  },
+  {
+    "id": 15,
+    "name": "Üzüntülü anlarda okunacak dua.",
+    "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
+    "descp": "La ilahe illallahül'azim-ül-halim la ilaheillahü Rabbül'Arş-il'azim la ilaheillahü Rabbüs-semavati ve Rabbül-Erdı Rabbül'Arş-il-kerim"
+  },
+  {
+    "id": 16,
+    "name": "Uykudan kalkarken okunacak dua.",
+    "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
+    "image": "assets/dualar/hastalarasifaverendualar.jpeg",
+    "descp": "El-hamdu lillahillezi ehyana ba'de ma ematena ve ileyhi'n-nüşur."
+  }
+],
+  "ayetel": [
+    {
+    "id": 1,
+    "name": "Ayetel Kürsi",
+    "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
+    "descp": "Allâhü lâ ilâhe illâ hüve’l-hayyü’l-kayyûm, lâ te’huzühû sinetün ve lâ nevm, lehû mâ fi’ssemâvâti ve mâ fi’l-ard, men-ze’l-lezî yeşfe’u ‘indehû illâ bi-iznih, ya’lemü mâ beyne eydîhim ve mâ halfehüm, ve lâ yuhîtûne bi-şey’in min‘ılmihî illâ bimâ şâe, vesi’a kürsiyyühü’s-semâvâti ve’l-ard ve lâ yeûdühû hifzuhumâ ve hüve’laliyyü’l-azîm.",
+    "meaning": "Allah ki, O’ndan başka ilah yoktur. O hayydır, kayyûmdur. Kendisine ne uyku gelir ne de uyuklama. Göklerde ve yerdekilerin hepsi O’nundur. O’nun izni olmadan katında kim şefaat edebilir? O, kullarının yaptıklarını ve yapacaklarını bilir. (Hiçbir şey O’na gizli kalmaz.)  O’nun bildirdiklerinin dışında insanlar, O’nun ilminden hiçbir şeyi tam olarak bilemezler. O’nun kürsüsü gökleri ve yeri içine alır, onları koruyup gözetmek kendisine zor gelmez. O, yücedir, büyüktür.",
+    "one": "1.\nYüce Peygamberimiz: Bakara Sûresinde bir âyet var ki, O Kur’ân âyetlerinin seyyididir. Bu Ayetel Kürsidir. Ayetel Kürsî içinde şeytan bulunan bir evde okunsa; şeytan, o evden feryad ederek kaçar ve sur’atle oradan uzaklaşır. O faziletli âyet, Ayetel Kürsidir buyurmuştur.",
+    "twoo": "2.\n“Yatağınıza yattığınız zaman, Ayetel Kürsi’yi okuyunuz. Çünkü orada bulunduğunuz müddetçe koruyucunuz bizzat Yüce Allah kendisi olur ve sabaha kadar o yatağın etrafına kesinlikle şeytan yaklaşamaz.” buyurmuştur.",
+    "three": "3.\nHerhangi bir ev ki, içinde Ayetel Kürsi ve Fatiha Sûresi okunsa, o gün içinde o evde bulunanlara hiçbir zarar ve musibet gelmez. İns ve cin şerrinde emniyette bulunur. Nazar değme olayı da asla olmaz. Kendi evinde veya bulunduğun herhangi bir evde veya herhangi bir yerde korkusuzca emniyet ve huzur içinde bulunmak istiyorsan, bu sûreleri oku. Ayetel Kürsiyi hiçbir zaman dilinden bırakma. Kendin okuduğun gibi çoluk çocuğuna da öğret. Onlar da okusun. Sen de oku. Dünya bu, derdi de var, kederi de var. Dünyanın derdinden, kederinden Ayetel Kürsiyi okuyarak Allah’ın yüce kudretine sığınmış olur. O yüce kudret sahibi Rabbimizden yardım dilemiş oluruz. O da bize hemen yardımını lütfeder. İnsan şeytanlarının şerrinden, cin şeytanlarının şerrinden ve kötü ruhlu, hain gözlü adi kimselerin şerrinden emin olmuş olursun. Ayetel Kürsiyle birlikte ”İhlas, Felak, Nâs ve Fatiha” sûrelerini de oku. Ayetel Kürsi İsm-i Â’zamdır. Bir dileği olan önce Ayetel Kürsi’yi okumalı ve sonunda da her ne gibi ihtiyacı haceti, dileği varsa onları Cenâb-ı Haktan dilemelidir. Yani, bir kimse bütün duâlarının kabul olmasını istiyorsa bol bol Ayetel Kürsi okumalıdır. Bir şeyden, bir hadiseden korkan kimse, 3-5-7 kere Ayetel Kürsi okuyarak o korktuğu şeyin şerrinden Allah’a sığınmalıdır. ”Ya Rabbi, okuduğum Ayetel Kürsi hürmetine bu şeyin şerrinden sana sığınırım” diye yalvaran kulunu Cenâb-ı Hak mahrum bırakmaz.",
+    "four": "4.\nYine Hadis-i Şerifde buyrulmuştur ki: Her kim, yatağına yattığında “Ayetel Kürsi’yi okursa, Cenâb-ı Hak, o kulunu sabaha kadar koruyacak iki melek görevlendirir.” Cenâb-ı Allah’ın kullarına olan merhametini düşün!… Sen, yatağında huzur içinde uyuyasın diye. Senin için iki meleğini görevlendirmiş ve seni koruyorlar. “Aman Allâh’ım sen ne büyüksün ne çok merhametlisin!…”",
+    "five": "5.\nHer kim, evinden çıkarken “Ayetel Kürsi’yi okursa, Allah Teâlâ, o kimse için yetmiş melek görevlendirir. Bu melekler, Ayetel Kürsî okuyan bu kimseye dua ederler, himaye ederler.” Bu durum evine selâmetle dönünceye kadar devam eder.",
+    "six": "6.\nEvine dönerken de Ayetel Kürsi’yi okuyan kimse, fakirlik çekmez, yoksulluk derdi görmez. Evinden çıkarken ve evine girerken okuduğu iki Ayetel Kürsî hürmetine sabahtan akşama kadar işleri hayırla selâmette olur.",
+    "seven": "7.\nHer kim, dara düşdüğünde, sıkıntı ve bunalıma girdiğinde Ayetel Kürsi’yi okursa, Cenâb-ı Hak, bu kulunun imdadına yetişir."
+  }
+  ],
+"hadis": [
+  {
+    "id": 1,
+    "name": "Kabe'nin Anahtarı:",
+    "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
+    "descp": "Kâbe'nin hizmetinde olan sahâbî.\n\n Osman bin Talhâ, Mekke'de Kâbe Kayyımlığı ile vazîfeliydi. Sülâlesi câhiliye devrinde Kâbe'nin hicâbet vazîfesini yapardı, ya'nî kapı anahtarını taşırdı. Peygamber efendimiz, hicretten önce Osman'ı da bizzat îmâna da'vet etti. Osman: Yâ Muhammed! Sen kavminin dînine aykırı davranmış ve ortaya yeni bir dîn çıkarmış bulunuyorsun. Doğrusu, benim sana tâbi olacağımı ümit etmen şaşılacak şeydir, diyerek îmâna gelmedi.\n\n Bir defasında Resûlullah efendimiz, îmân edenlerle birlikte Kâbe'ye girmek istemişlerdi. Osman Kâbe'ye de sokmak istemediği gibi sert de davrandı.\n\n Kime isterseniz verirsiniz.\n\n Fakat Resûlullah efendimiz onun bu hareketini sükûnetle karşılayıp, şöyle buyurdu:\n\n Ey Osman! Ümit ederim ki, bir gün sen beni, bu anahtarı nereye isterseniz koyarsınız, kime isterseniz verirsiniz diyeceğin bir mevkide de göreceksin!\n\n O zaman Kureyş mahvolmuş, kıymetten düşmüş olur.\n\n Hayır! Asıl o zaman, Kureyş yaşayacak ve kıymetlenecektir.\n\n Osman bin Talhâ, Uhud harbine müşriklerin safında katıldı. Babası kardeşleri ve akrabası öldürülünce, Kâbe'nin hicâbet vazîfesi tek başına üzerinde kaldı.\n\n Mekke'nin fethinden altı ay önce Amr bin Âs ve Hâlid bin Velid ile birlikte Medine-i münevvereye gelerek, Müslüman oldu. Fetihten önce îmâna gelen Muhâcirlerin derecelerine kavuştu.\n\n Emâneti ehline veriniz.\n\n Mekke'nin fethine katılıp, Resûlullahın yanında bulundu. Kâbe'nin anahtarını Resûlullaha arzetti, beraber girdiler. Burada Resûlullah efendimiz iki rek'at namaz kıldı. Beyt-i şerîften çıkarken, Resûlullah efendimiz, Nisâ sûresinin, (Allahü teâlâ size emânetleri ehline vermenizi emreder) meâlindeki 58. âyet-i kerîmesini okuyup, anahtarı Osman bin Talha'ya ve amcasının oğlu Şeybe'ye verdi. Ona buyurdu ki:\n\n Ey Ebû Talhâ evlâdı! Ceddinizden kalma olan emâneti sizde payidar ve bâki olmak üzere alınız. Bunu zâlim olmaksızın hiçbir kimse sizden alamaz.\n\n Sonra, 'Sana vaktiyle söylemiş olduğum şey gerçekleşmedi mi?' buyurarak Hicretten önceki sözlerini de hatırlattı. O da dedi ki:\n\n Evet, şehâdet ederim ki, sen hiç şüphesiz Resûlullahsın.\n\n Resûlullah efendimiz o gün şöyle bir hutbe okudu:\n\n Va'di, sözü hak olan, kuluna yardım eden, kendinden başka kulluğa müstahak bir ilâh bulunmayan Allahü teâlâya hamdolsun. Dikkat ediniz! Câhiliye devrinde değer verdiğiniz her türlü âdet ve kan dâvâsı ayağımın altındadır. Bunlardan Kâbe'ye hizmet etmek ve hacılara su dağıtmak müstesnâdır.\n\n O günden itibaren hicâbet vazîfesi, Osmanlı devletinin sonuna kadar, Osman bin Talhâ'nın sülâlesinde kalmıştır.\n\n Mekke'nin fethinden sonra Resûlullah efendimiz ile Huneyn gazâsına katıldı. Resûlullahın vefâtından sonra Mekke-i mükerremeye döndü. Kâbe-i muazzamadaki hicâbet vazîfesine devam etti. Dört Halîfe devrinde gazâlara katıldı. Hazret-i Muâviye'nin hilâfeti devrinde 662 senesinde Mekke-i mükerremede vefât etti."
+  },
+  {
+    "id": 1,
+    "name": "Devlet malından çalmak:",
+    "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
+    "descp": "Hayber savaşının vukû bulduğu gün Peygamber'in ashâbından birkaç kişi gelerek 'Filân şehit, filân şehittir!..' dediler. Nihayet bir kişinin yanına vararak 'Bu da şehittir!' dediler. Bunun üzerine Peygamber: \"Hayır! Ben onu çaldığı bir hırka yahut yağmurluktan dolayı cehennemde gördüm.\" buyurdu."
+  }
+]
+}

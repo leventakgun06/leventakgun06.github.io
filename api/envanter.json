@@ -1,0 +1,124 @@
+{
+  "envanter": [
+    {
+      "id": 1,
+      "schoolClass": "5/A Sınıfı",
+      "teacherTable": 1,
+      "schoolDesk": 2,
+      "redChair": 4,
+      "orangeChair": 1,
+      "blackChair": 0,
+      "whiteChair": 0
+    },
+    {
+      "id": 2,
+      "schoolClass": "6/A Sınıfı",
+      "teacherTable": 1,
+      "schoolDesk": 6,
+      "redChair": 12,
+      "orangeChair": 0,
+      "blackChair": 0,
+      "whiteChair": 0
+    },
+    {
+      "id": 3,
+      "schoolClass": "7/A Sınıfı",
+      "teacherTable": 1,
+      "schoolDesk": 6,
+      "redChair": 12,
+      "orangeChair": 0,
+      "blackChair": 0,
+      "whiteChair": 0
+    },
+    {
+      "id": 4,
+      "schoolClass": "8/A Sınıfı",
+      "teacherTable": 1,
+      "schoolDesk": 7,
+      "redChair": 11,
+      "orangeChair": 3,
+      "blackChair": 0,
+      "whiteChair": 0
+    },
+    {
+      "id": 5,
+      "schoolClass": "9/A Sınıfı",
+      "teacherTable": 1,
+      "schoolDesk": 5,
+      "redChair": 10,
+      "orangeChair": 0,
+      "blackChair": 0,
+      "whiteChair": 0
+    },
+    {
+      "id": 6,
+      "schoolClass": "10/A Sınıfı",
+      "teacherTable": 1,
+      "schoolDesk": 6,
+      "redChair": 12,
+      "orangeChair": 0,
+      "blackChair": 0,
+      "whiteChair": 0
+    },
+    {
+      "id": 7,
+      "schoolClass": "10/B Sınıfı",
+      "teacherTable": 1,
+      "schoolDesk": 6,
+      "redChair": 13,
+      "orangeChair": 0,
+      "blackChair": 0,
+      "whiteChair": 0
+    },
+    {
+      "id": 8,
+      "schoolClass": "11/TM Sınıfı",
+      "teacherTable": 2,
+      "schoolDesk": 4,
+      "redChair": 8,
+      "orangeChair": 0,
+      "blackChair": 0,
+      "whiteChair": 0
+    },
+    {
+      "id": 9,
+      "schoolClass": "11/Dil Sınıfı",
+      "teacherTable": 1,
+      "schoolDesk": 6,
+      "redChair": 12,
+      "orangeChair": 0,
+      "blackChair": 1,
+      "whiteChair": 0
+    },
+    {
+      "id": 10,
+      "schoolClass": "11/Say Sınıfı",
+      "teacherTable": 1,
+      "schoolDesk": 7,
+      "redChair": 14,
+      "orangeChair": 0,
+      "blackChair": 0,
+      "whiteChair": 0
+    },
+    {
+      "id": 11,
+      "schoolClass": "12/Dil Sınıfı",
+      "teacherTable": 1,
+      "schoolDesk": 4,
+      "redChair": 5,
+      "orangeChair": 0,
+      "blackChair": 0,
+      "whiteChair": 0
+    },
+    {
+      "id": 12,
+      "schoolClass": "12/TM Sınıfı",
+      "teacherTable": 1,
+      "schoolDesk": 4,
+      "redChair": 3,
+      "orangeChair": 0,
+      "blackChair": 0,
+      "whiteChair": 0
+    }
+  ]
+}
