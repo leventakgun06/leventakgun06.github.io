@@ -1,0 +1,23 @@
+{
+	"japon": [
+  {
+    "id": 1,
+    "koreasName": "Gannibal",
+    "koreasImage": "https://i.mydramalist.com/6xVkX_4f.jpg",
+    "rating": 8.3,
+    "description": "Bir polis memuru, kırsal kesimdeki ücra bir köye gönderildiğinde, bir yamyam topluluğuna tecavüz ettiğini çok az fark eder.",
+    "playerName1": "Yagira Yuya\n(Agawa Daigo)",
+    "playerName2": "Kasamatsu Sho\n(Goto Keisuke)",
+    "playerName3": "Yoshioka Riho\n(Agawa Yuki)",
+    "playerImage1": "https://i.mydramalist.com/r5rDj_5c.jpg",
+    "playerImage2": "https://i.mydramalist.com/6Ld2Xc.jpg",
+    "playerImage3": "https://i.mydramalist.com/jRQYr_5c.jpg",
+    "genre": "Gerilim Gizem Korku",
+    "contentRating": "15+",
+    "episode": "7",
+    "playerAbout1": "https://mydramalist.com/people/836-yagira-yuuya",
+    "playerAbout2": "https://mydramalist.com/people/20913-kasamatsu-sho",
+    "playerAbout3": "https://mydramalist.com/people/12670-yoshioka-riho"
+}
+	]
+}
