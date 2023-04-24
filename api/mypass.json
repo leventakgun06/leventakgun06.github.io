@@ -1,0 +1,316 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "topNameUrl": "leventakgunka@gmail.com",
+      "subNameUrl": "Gmail-ka",
+      "password": "ap"
+    },
+    {
+      "id": 2,
+      "topNameUrl": "leventakgun06@gmail.com",
+      "subNameUrl": "Gmail-06",
+      "password": "gm"
+    },
+    {
+      "id": 3,
+      "topNameUrl": "leventakgunka@hotmail.com",
+      "subNameUrl": "Hotmail-ka",
+      "password": "hm"
+    },
+    {
+      "id": 4,
+      "topNameUrl": "leventakgun06@hotmail.com",
+      "subNameUrl": "Hotmail-06",
+      "password": "hm"
+    },
+    {
+      "id": 5,
+      "topNameUrl": "kikirim06@gmail.com",
+      "subNameUrl": "Gmail-06",
+      "password": "gm"
+    },
+    {
+      "id": 6,
+      "topNameUrl": "kikirim06@hotmail.com",
+      "subNameUrl": "Hotmail-06",
+      "password": "hm"
+    },
+    {
+      "id": 7,
+      "topNameUrl": "lvntakgn06@gmail.com",
+      "subNameUrl": "Gmail-06",
+      "password": "gm"
+    },
+    {
+      "id": 8,
+      "topNameUrl": "leventakgun06@yandex.com",
+      "subNameUrl": "Yandex-06",
+      "password": "yd"
+    },
+    {
+      "id": 9,
+      "topNameUrl": "ayhanakgun1945@gmail.com",
+      "subNameUrl": "Gmail-1945",
+      "password": "gm"
+    },
+    {
+      "id": 10,
+      "topNameUrl": "havvaakgun06@gmail.com",
+      "subNameUrl": "Gmail-06",
+      "password": "gm"
+    },
+    {
+      "id": 11,
+      "topNameUrl": "E-Devlet",
+      "subNameUrl": "leventakgunka@hotmail.com",
+      "password": "ed"
+    },
+    {
+      "id": 12,
+      "topNameUrl": "Levent MHRS",
+      "subNameUrl": "leventakgunka@hotmail.com",
+      "password": "mh"
+    },
+    {
+      "id": 13,
+      "topNameUrl": "Annem MHRS",
+      "subNameUrl": "leventakgun06@hotmail.com",
+      "password": "mh"
+    },
+    {
+      "id": 14,
+      "topNameUrl": "Babam MHRS",
+      "subNameUrl": "leventakgun06@hotmail.com",
+      "password": "mh"
+    },
+    {
+      "id": 15,
+      "topNameUrl": "Denizbank",
+      "subNameUrl": "leventakgunka@hotmail.com",
+      "password": "23"
+    },
+    {
+      "id": 16,
+      "topNameUrl": "Akbank",
+      "subNameUrl": "leventakgunka@hotmail.com",
+      "password": "23" 
+    },
+    {
+      "id": 17,
+      "topNameUrl": "Garanti Bankası",
+      "subNameUrl": "leventakgunka@hotmail.com",
+      "password": "23"
+    },
+    {
+      "id": 18,
+      "topNameUrl": "Yapı Kredi Bankası",
+      "subNameUrl": "leventakgunka@hotmail.com",
+      "password": "23"
+    },
+    {
+      "id": 19,
+      "topNameUrl": "Ziraat Bankası",
+      "subNameUrl": "leventakgunka@hotmail.com",
+      "password": "23"
+    },
+    {
+      "id": 20,
+      "topNameUrl": "PTT",
+      "subNameUrl": "leventakgunka@hotmail.com",
+      "password": "23"
+    },
+    {
+      "id": 21,
+      "topNameUrl": "Instagram",
+      "subNameUrl": "leventakgun06@hotmail.com",
+      "password": "in"
+    },
+    {
+      "id": 22,
+      "topNameUrl": "Twitter",
+      "subNameUrl": "leventakgun06@hotmail.com",
+      "password": "tw"
+    },
+    {
+      "id": 23,
+      "topNameUrl": "Mega",
+      "subNameUrl": "leventakgun06@hotmail.com",
+      "password": "mg"
+    },
+    {
+      "id": 24,
+      "topNameUrl": "GitHub kikirim-rn",
+      "subNameUrl": "leventakgun06@gmail.com",
+      "password": "gh"
+    },
+    {
+      "id": 25,
+      "topNameUrl": "GitHub leventakgun06",
+      "subNameUrl": "leventakgunka@gmail.com",
+      "password": "gh"
+    },
+    {
+      "id": 26,
+      "topNameUrl": "Sahibinden",
+      "subNameUrl": "leventakgun06@hotmail.com",
+      "password": "sh"
+    },
+    {
+      "id": 27,
+      "topNameUrl": "HepsiBurada",
+      "subNameUrl": "leventakgun06@hotmail.com",
+      "password": "hb"
+    },
+    {
+      "id": 28,
+      "topNameUrl": "Teknosa",
+      "subNameUrl": "leventakgun06@hotmail.com",
+      "password": "ts"
+    },
+    {
+      "id": 29,
+      "topNameUrl": "n11",
+      "subNameUrl": "leventakgun06@hotmail.com",
+      "password": "n11Lvnt06Akgn23"
+    },
+    {
+      "id": 30,
+      "topNameUrl": "tr.aliexpress",
+      "subNameUrl": "leventakgun06@gmail.com",
+      "password": "ae"
+    },
+    {
+      "id": 31,
+      "topNameUrl": "Trendyol",
+      "subNameUrl": "leventakgun06@gmail.com",
+      "password": "ty"
+    },
+    {
+      "id": 32,
+      "topNameUrl": "Amazon",
+      "subNameUrl": "leventakgun06@gmail.com",
+      "password": "am"
+    },
+    {
+      "id": 33,
+      "topNameUrl": "Lc Waikiki",
+      "subNameUrl": "leventakgun06@gmail.com",
+      "password": "lc"
+    },
+    {
+      "id": 34,
+      "topNameUrl": "akakçe",
+      "subNameUrl": "leventakgun06@gmail.com",
+      "password": "aa"
+    },
+    {
+      "id": 35,
+      "topNameUrl": "pazarama",
+      "subNameUrl": "leventakgun06@gmail.com",
+      "password": "pa"
+    },
+    {
+      "id": 36,
+      "topNameUrl": "Mordepom",
+      "subNameUrl": "leventakgun06@gmail.com",
+      "password": "md"
+    },
+    {
+      "id": 37,
+      "topNameUrl": "Çiçek Sepeti",
+      "subNameUrl": "leventakgun06@gmail.com",
+      "password": "cs"
+    },
+    {
+      "id": 38,
+      "topNameUrl": "MediaMarkt",
+      "subNameUrl": "leventakgun06@gmail.com",
+      "password": "mm"
+    },
+    {
+      "id": 39,
+      "topNameUrl": "Vatan Bilgisayar",
+      "subNameUrl": "leventakgun06@gmail.com",
+      "password": "va"
+    },
+    {
+      "id": 40,
+      "topNameUrl": "Kablonet",
+      "subNameUrl": "leventakgun06@hotmail.com",
+      "password": "kn"
+    },
+    {
+      "id": 41,
+      "topNameUrl": "Oracle Java",
+      "subNameUrl": "leventakgun06@gmail.com",
+      "password": "oj"
+    },
+    {
+      "id": 42,
+      "topNameUrl": "ok.ru",
+      "subNameUrl": "leventakgun06@gmail.com",
+      "password": "or"
+    },
+    {
+      "id": 43,
+      "topNameUrl": "iienstitu",
+      "subNameUrl": "leventakgun06@hotmail.com",
+      "password": "ie"
+    },
+    {
+      "id": 44,
+      "topNameUrl": "Vidmoly",
+      "subNameUrl": "leventakgun06@hotmail.com",
+      "password": "vm"
+    },
+    {
+      "id": 45,
+      "topNameUrl": "Discord",
+      "subNameUrl": "leventakgun06@hotmail.com",
+      "password": "dc"
+    },
+    {
+      "id": 46,
+      "topNameUrl": "Adobe",
+      "subNameUrl": "leventakgun06@gmail.com",
+      "password": "ad"
+    },
+    {
+      "id": 47,
+      "topNameUrl": "Donanım Haber",
+      "subNameUrl": "leventakgun06@hotmail.com",
+      "password": "dh"
+    },
+    {
+      "id": 48,
+      "topNameUrl": "Opera Browser",
+      "subNameUrl": "leventakgun06@gmail.com",
+      "password": "op"
+    },
+    {
+      "id": 49,
+      "topNameUrl": "ChatGPT",
+      "subNameUrl": "leventakgun06@gmail.com",
+      "password": "cp"
+    },
+    {
+      "id": 50,
+      "topNameUrl": "Spotify",
+      "subNameUrl": "leventakgun06@gmail.com",
+      "password": "sp"
+    },
+    {
+      "id": 51,
+      "topNameUrl": "EvShop",
+      "subNameUrl": "ayhanakgun1945@gmail.com",
+      "password": "es"
+    },
+    {
+      "id": 52,
+      "topNameUrl": "Beymen",
+      "subNameUrl": "leventakgun06@hotmail.com",
+      "password": "be"
+    }
+  ]
+}
