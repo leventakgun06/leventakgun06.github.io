@@ -314,7 +314,7 @@
       "id": 52,
       "topNameUrl": "Milli Piyango",
       "subNameUrl": "leventakgun06@gmail.com",
-      "password": "mp"
+      "characters": "mp"
     }
   ],
   "n11": [
@@ -322,7 +322,7 @@
       "id": 53,
       "topNameUrl": "n11",
       "subNameUrl": "leventakgun06@hotmail.com",
-      "password": "n11"
+      "characters": "n11"
     }
   ],
   "dolap": [
@@ -330,7 +330,7 @@
       "id": 54,
       "topNameUrl": "Dolap",
       "subNameUrl": "leventakgun06@gmail.com",
-      "password": "do"
+      "characters": "do"
     }
   ],
   "a101": [
@@ -338,7 +338,7 @@
       "id": 55,
       "topNameUrl": "A101",
       "subNameUrl": "leventakgun06@gmail.com",
-      "password": "ay"
+      "characters": "ay"
     }
   ],
   "what": [
@@ -346,7 +346,7 @@
       "id": 56,
       "topNameUrl": "Whatshapp",
       "subNameUrl": "leventakgun06@hotmail.com",
-      "password": "la"
+      "characters": "la"
     }
   ]
 }
