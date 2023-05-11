@@ -8983,7 +8983,7 @@
       "genre": "Gizem Romantik Suç",
       "contentRating": "15+",
       "episode": "32",
-      "playerAbout1": "",
+      "playerAbout1": "https://mydramalist.com/people/11840-kim-jung-hyun",
       "playerAbout2": "",
       "playerAbout3": ""
     },
@@ -10257,7 +10257,7 @@
       "contentRating": "15+",
       "episode": "20",
       "playerAbout1": "https://mydramalist.com/people/7194-shin-hye-sun",
-      "playerAbout2": "",
+      "playerAbout2": "https://mydramalist.com/people/11840-kim-jung-hyun",
       "playerAbout3": ""
     },
     {
@@ -13888,6 +13888,25 @@
               "playerAbout1": "https://mydramalist.com/people/1106-lee-ji-ah",
               "playerAbout2": "https://mydramalist.com/people/694-lee-sang-yoon",
               "playerAbout3": "https://mydramalist.com/people/638-jang-hee-jin"
-          }
+          },
+          {
+            "id": 732,
+                "koreasName": "Kokdu: Season of Deity",
+                "koreasImage": "https://i.mydramalist.com/BRZK7_4f.jpg",
+                "rating": 7.4,
+                "description": "2023 yılı yapımı bu dizide: Bir zamanlar eski Kore'de ölümlü bir adam olan Kkok Du, insanlığı zayıflıkları nedeniyle cezalandırmak için her 99 yılda bir ölümlü dünyayı ziyaret eden ölümsüz bir orakçıya dönüşür. Zamanla Kkok Du, acımasız ve acımasız bir doğa geliştirerek insanları hor görmesine neden olur. Son ziyaretinde Kkok Du, Do Jin Woo adlı yetenekli genç bir doktorun vücudunu devralır. Ancak Jin Woo'nun tıbbi görevlerini yerine getirmek zorunda kalan Kkok Du'nun görevi karmaşık bir hal alır. Bu beklenmedik durum sayesinde Kkok Du, düşük dereceli bir tıp fakültesinden mezun olan bir doktor olan Han Gye Jeol ile tanışır. Geçmişine rağmen Kkok Du, Gye Jeol'un kendisi üzerinde büyüleyici bir etkisi varmış gibi görünen gizemli güçlere sahip olduğunu keşfeder. Kaderleri geçmiş bir yaşamdan bağlantılı olabilir mi ve neden onun üzerinde bu gücü elinde tutuyor? Kkok Du, görevini tamamlamakta zorlanırken, Gye Jeol'a giderek daha fazla ilgi duyduğunu fark eder ve onu bir ikilemle baş başa bırakır: görevini yerine getirmek ya da aşk için her şeyi riske atmak.",
+                "playerName1": "Kim Jung Hyun\n(Kkok Du)",
+                "playerName2": "Im Soo Hyang\n(Han Gye Jeol)",
+                "playerName3": "Kim Da Som\n(Tae Jung Won)",
+                "playerImage1": "https://i.mydramalist.com/QVKxv_5c.jpg",
+                "playerImage2": "https://i.mydramalist.com/2DKAdc.jpg",
+                "playerImage3": "https://i.mydramalist.com/4DDVkc.jpg",
+                "genre": "Komedi Romantik Medikal",
+                "contentRating": "15+",
+                "episode": "16",
+                "playerAbout1": "https://mydramalist.com/people/11840-kim-jung-hyun",
+                "playerAbout2": "https://mydramalist.com/people/545-im-soo-hyang",
+                "playerAbout3": "https://mydramalist.com/people/4761-kim-da-som"
+            }
   ]
 }
