@@ -3018,7 +3018,7 @@
       "contentRating": "15+",
       "episode": "16",
       "playerAbout1": "",
-      "playerAbout2": "",
+      "playerAbout2": "https://mydramalist.com/people/19700-shin-ye-eun",
       "playerAbout3": ""
     },
     {
@@ -4671,7 +4671,7 @@
       "contentRating": "15+",
       "episode": "16",
       "playerAbout1": "https://mydramalist.com/people/279-yoo-ji-tae",
-      "playerAbout2": "",
+      "playerAbout2": "https://mydramalist.com/people/11745-woo-do-hwan",
       "playerAbout3": ""
     },
     {
@@ -4994,7 +4994,7 @@
       "contentRating": "15+",
       "episode": "24",
       "playerAbout1": "https://mydramalist.com/people/1552-l",
-      "playerAbout2": "",
+      "playerAbout2": "https://mydramalist.com/people/19700-shin-ye-eun",
       "playerAbout3": ""
     },
     {
@@ -5393,7 +5393,7 @@
       "contentRating": "15+",
       "episode": "16",
       "playerAbout1": "",
-      "playerAbout2": "",
+      "playerAbout2": "https://mydramalist.com/people/11745-woo-do-hwan",
       "playerAbout3": ""
     },
     {
@@ -6914,7 +6914,7 @@
       "episode": "16",
       "playerAbout1": "",
       "playerAbout2": "https://mydramalist.com/people/423-ok-taec-yeon",
-      "playerAbout3": ""
+      "playerAbout3": "https://mydramalist.com/people/11745-woo-do-hwan"
     },
     {
       "id": 365,
@@ -8166,7 +8166,7 @@
       "genre": "Romantik Gençlik Dram",
       "contentRating": "15+",
       "episode": "32",
-      "playerAbout1": "",
+      "playerAbout1": "https://mydramalist.com/people/11745-woo-do-hwan",
       "playerAbout2": "",
       "playerAbout3": "https://mydramalist.com/people/17947-geum-sae-rok"
     },
@@ -8396,7 +8396,7 @@
       "episode": "16",
       "playerAbout1": "https://mydramalist.com/people/232-lee-min-ho",
       "playerAbout2": "",
-      "playerAbout3": ""
+      "playerAbout3": "https://mydramalist.com/people/11745-woo-do-hwan"
     },
     {
       "id": 443,
@@ -10029,7 +10029,7 @@
       "contentRating": "15+",
       "episode": "32",
       "playerAbout1": "https://mydramalist.com/people/618-ha-suk-jin",
-      "playerAbout2": "",
+      "playerAbout2": "https://mydramalist.com/people/14452-bona",
       "playerAbout3": ""
     },
     {
@@ -11815,7 +11815,7 @@
       "contentRating": "15+",
       "episode": "16",
       "playerAbout1": "",
-      "playerAbout2": "",
+      "playerAbout2": "https://mydramalist.com/people/19700-shin-ye-eun",
       "playerAbout3": ""
     },
     {
@@ -12348,7 +12348,7 @@
       "episode": "17",
       "playerAbout1": "",
       "playerAbout2": "https://mydramalist.com/people/4047-lee-se-young",
-      "playerAbout3": ""
+      "playerAbout3": "https://mydramalist.com/people/18814-kang-hoon"
     },
     {
       "id": 651,
@@ -12443,7 +12443,7 @@
       "episode": "16",
       "playerAbout1": "",
       "playerAbout2": "",
-      "playerAbout3": ""
+      "playerAbout3": "https://mydramalist.com/people/14452-bona"
     },
     {
       "id": 656,
@@ -13907,6 +13907,44 @@
                 "playerAbout1": "https://mydramalist.com/people/11840-kim-jung-hyun",
                 "playerAbout2": "https://mydramalist.com/people/545-im-soo-hyang",
                 "playerAbout3": "https://mydramalist.com/people/4761-kim-da-som"
-            }
+            },
+            {
+              "id": 733,
+                  "koreasName": "Joseon Attorney: A Morality",
+                  "koreasImage": "https://i.mydramalist.com/wJJlwp_4f.jpg",
+                  "rating": 8.1,
+                  "description": "2023 yılı yapımı bu dizide: Kang Han Su, davalarını titizlikle planlayan ve müvekkillerinin duygularını kişisel çıkarları için kullanan sinsi bir avukattır. Ancak, istemeden de olsa sıradan insanlar arasında bir kahraman ve problem çözücü olarak ün kazandıkça, gerçek adaleti aramanın değerini görmeye başlar. Zamanla Kang Han Su, adil ve ahlaklı bir avukat olarak olgunlaşır. Müşterilerinden biri olan Lee Yeon Joo, başlangıçta onu intikam alması için tutar, ancak sonunda onun kanunları uygulama ve masumları savunma misyonunun bir destekçisi olur. Bu dönüşüm, Kang Han Su'nun bir hukukçu ve bir kişi olarak büyümesini yansıtıyor.",
+                  "playerName1": "Woo Do Hwan\n(Kang Han Su)",
+                  "playerName2": "Bona\n(Lee Yeon Joo)",
+                  "playerName3": "Cha Hak Yeon\n(Yoo Ji Sun)",
+                  "playerImage1": "https://i.mydramalist.com/R1ybg_5c.jpg",
+                  "playerImage2": "https://i.mydramalist.com/pmorQ_5c.jpg",
+                  "playerImage3": "https://i.mydramalist.com/eB16Y_5c.jpg",
+                  "genre": "Tarihi Hukuk Romantik",
+                  "contentRating": "15+",
+                  "episode": "16",
+                  "playerAbout1": "https://mydramalist.com/people/11745-woo-do-hwan",
+                  "playerAbout2": "https://mydramalist.com/people/14452-bona",
+                  "playerAbout3": "https://mydramalist.com/people/6877-n"
+              },
+              {
+                "id": 734,
+                    "koreasName": "The Secret Romantic Guesthouse",
+                    "koreasImage": "https://i.mydramalist.com/E55le0_4f.jpg",
+                    "rating": 8.2,
+                    "description": "2023 yılı yapımı bu dizide: Yoon Dan Oh, hali vakti yerinde bir ailenin sevgili en küçük kızı olarak rahat bir hayatın tadını çıkaran ama artık değil. Şimdi ailenin geçimini sağlayan kişi, Ihwawon Inn'i işletiyor. Mevcut konuklar, yüksek rütbeli memurlar olma umuduyla kamu hizmeti giriş sınavına giren akademisyenlerdir. Aralarında derin sırları olan Kang San, Kim Shi Yeol ve Jung Yoo Ha da var. Onlar ve Yoon Dan Oh, 13 yıl önce ortadan kaybolan Lee Seol'u bulmak için bilgi paylaşacak ve işbirliği yapacaklardır.",
+                    "playerName1": "Shin Ye Eun\n(Yoon Da Oh)",
+                    "playerName2": "Ryeoun\n(Kang San)",
+                    "playerName3": "Kang Hoon\n(Kim Shi Yeol)",
+                    "playerImage1": "https://i.mydramalist.com/jKAzB_5c.jpg",
+                    "playerImage2": "https://i.mydramalist.com/4egpm1_5c.jpg",
+                    "playerImage3": "https://i.mydramalist.com/xrXYX_5c.jpg",
+                    "genre": "Tarihi Gizem Romantik",
+                    "contentRating": "15+",
+                    "episode": "18",
+                    "playerAbout1": "https://mydramalist.com/people/19700-shin-ye-eun",
+                    "playerAbout2": "https://mydramalist.com/people/23633-ryeo-woon",
+                    "playerAbout3": "https://mydramalist.com/people/18814-kang-hoon"
+                }
   ]
 }
