@@ -1879,7 +1879,7 @@
       "episode": "32",
       "playerAbout1": "https://mydramalist.com/people/513-nam-goong-min",
       "playerAbout2": "",
-      "playerAbout3": ""
+      "playerAbout3": "https://mydramalist.com/people/4439-kim-byung-chul"
     },
     {
       "id": 100,
@@ -10066,7 +10066,7 @@
       "genre": "Komedi Dram",
       "contentRating": "15+",
       "episode": "12",
-      "playerAbout1": "",
+      "playerAbout1": "https://mydramalist.com/people/4439-kim-byung-chul",
       "playerAbout2": "",
       "playerAbout3": ""
     },
@@ -11132,7 +11132,7 @@
       "episode": "12",
       "playerAbout1": "https://mydramalist.com/people/339-lee-yo-won",
       "playerAbout2": "",
-      "playerAbout3": ""
+      "playerAbout3": "https://mydramalist.com/people/1233-myung-se-bin"
     },
     {
       "id": 587,
@@ -13945,6 +13945,25 @@
                     "playerAbout1": "https://mydramalist.com/people/19700-shin-ye-eun",
                     "playerAbout2": "https://mydramalist.com/people/23633-ryeo-woon",
                     "playerAbout3": "https://mydramalist.com/people/18814-kang-hoon"
-                }
+                },
+                {
+                  "id": 735,
+                      "koreasName": "Doctor Cha",
+                      "koreasImage": "https://i.mydramalist.com/eYzmNE_4f.jpg",
+                      "rating": 8.2,
+                      "description": "2023 yılı yapımı bu dizide: Cha Jung Sook, bir üniversite hastanesinde baş cerrah olarak çalışan Seo In Ho ile evlidir. Katı, hassas ve titiz bir kişiliğe sahiptir. Cha Jung Sook, 20 yıldır tam zamanlı bir ev hanımıdır ve tıpta ikamet ettiği yıllarda doktorluk kariyerinden vazgeçmiştir. Bunca yıldan sonra, tıbbi asistanlık kursuna yeniden başlamaya karar verir.",
+                      "playerName1": "Uhm Jung Hwa\n(Cha Jung Sook)",
+                      "playerName2": "Kim Byung Chul\n(Seo In Ho)",
+                      "playerName3": "Myung Se Bin\n(Choi Sung Hee)",
+                      "playerImage1": "https://i.mydramalist.com/dK73e_5c.jpg",
+                      "playerImage2": "https://i.mydramalist.com/v3O68_5c.jpg",
+                      "playerImage3": "https://i.mydramalist.com/QkEPW_5c.jpg",
+                      "genre": "Komedi Romantik Dram",
+                      "contentRating": "15+",
+                      "episode": "16",
+                      "playerAbout1": "https://mydramalist.com/people/632-uhm-jung-hwa",
+                      "playerAbout2": "https://mydramalist.com/people/4439-kim-byung-chul",
+                      "playerAbout3": "https://mydramalist.com/people/1233-myung-se-bin"
+                  }
   ]
 }
