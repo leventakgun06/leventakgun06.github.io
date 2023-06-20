@@ -301,7 +301,7 @@
       "contentRating": "15+",
       "episode": "16",
       "playerAbout1": "https://mydramalist.com/people/1498-park-bo-young",
-      "playerAbout2": "",
+      "playerAbout2": "https://mydramalist.com/people/11001-ahn-hyo-sub",
       "playerAbout3": "https://mydramalist.com/people/1404-lee-sung-jae"
     },
     {
@@ -1978,7 +1978,7 @@
     },
     {
       "id": 105,
-      "koreasName": "Dr. Romantic",
+      "koreasName": "Dr. Romantic 1",
       "koreasImage": "https://i.mydramalist.com/KxgYRf.jpg",
       "rating": 8.7,
       "description": "2016 yılı yapımı bu dizide: Boo Yong Joo ünlü bir cerrahtır. Bir gün, aniden ortadan kaybolur ve hiç kimse onun neden ortadan kaybolduğunu tam olarak bilmiyordur. Boo Yong Joo tekrar ortaya Öğretmen Kim olarak çıkmış ve kendisine Romantik Doktor ismini takmıştır. O, şimdi gözlerden uzak bir hayatın tadını çıkarmaktadır. Kang Dong Joo, birisini kazanmak için bir doktor olmuştur ve Yoon Seo Jung ise birisi tarafından takdir edilmek için doktor olmuştur. Her ikisi, Öğretmen Kim ile tanıştıktan sonra hayatın değerini öğrenir ve aşktan teselli bulurlar.",
@@ -6514,7 +6514,7 @@
       "contentRating": "15+",
       "episode": "21",
       "playerAbout1": "",
-      "playerAbout2": "",
+      "playerAbout2": "https://mydramalist.com/people/11001-ahn-hyo-sub",
       "playerAbout3": ""
     },
     {
@@ -7045,7 +7045,7 @@
       "genre": "Tarihi Dram Politik",
       "contentRating": "15+",
       "episode": "24",
-      "playerAbout1": "",
+      "playerAbout1": "https://mydramalist.com/people/968-han-seok-kyu",
       "playerAbout2": "",
       "playerAbout3": ""
     },
@@ -9173,7 +9173,7 @@
       "genre": "Tarihi Gizem Siyasi",
       "contentRating": "15+",
       "episode": "24",
-      "playerAbout1": "",
+      "playerAbout1": "https://mydramalist.com/people/968-han-seok-kyu",
       "playerAbout2": "https://mydramalist.com/people/181-jang-hyuk",
       "playerAbout3": "https://mydramalist.com/people/993-shin-se-kyung"
     },
@@ -9516,7 +9516,7 @@
       "contentRating": "15+",
       "episode": "16",
       "playerAbout1": "https://mydramalist.com/people/6214-seo-kang-joon",
-      "playerAbout2": "",
+      "playerAbout2": "https://mydramalist.com/people/968-han-seok-kyu",
       "playerAbout3": "https://mydramalist.com/people/848-kim-hyun-joo"
     },
     {
@@ -11378,7 +11378,7 @@
       "contentRating": "15+",
       "episode": "16",
       "playerAbout1": "https://mydramalist.com/people/1894-kim-yoo-jung",
-      "playerAbout2": "",
+      "playerAbout2": "https://mydramalist.com/people/11001-ahn-hyo-sub",
       "playerAbout3": ""
     },
     {
@@ -13983,6 +13983,44 @@
       "playerAbout1": "https://mydramalist.com/people/274-lee-dong-wook",
       "playerAbout2": "https://mydramalist.com/people/609-kim-so-yeon",
       "playerAbout3": "https://mydramalist.com/people/234-kim-bum"
+    },
+    {
+      "id": 737,
+      "koreasName": "Dr. Romantic 2",
+      "koreasImage": "https://i.mydramalist.com/Rr7DEf.jpg",
+      "rating": 8.7,
+      "description": "2020 yılı yapımı bu dizide: Doldam Hastanesi adlı küçük, mütevazi bir hastanede geçen bir \"gerçek doktor\" hikayesi. Dahi bir doktor olan Kim Sa Bu ile tanışan ve \"gerçek romantizmi\" keşfeden insanların hikayesi. Kim Sa Bu, bir zamanlar büyük bir hastanede en iyi cerrah olarak ün kazanmıştır. Bir gün halkın gözünden kaybolur ve sessizce kırsal kesimdeki Doldam Hastanesi'nde baş cerrah olur. Başkan Shin üzerinde başarılı bir operasyon yürüttükten sonra, güvenilir bir destek alarak hastaneyi iyileştirmeyi başarır. Ama sonra Başkan Shin vefat eder ve eski bir düşman geri döner. Yeni insanlar ortaya çıkar ve öğrencileri hastaneden ayrılmak zorunda kalır. Üstelik üç yıl önce yaralanan bileği tuhaf hareketler yapmaya başlar. Kim Sa Bu, Doldam'daki insan gücü açığını çözmek için büyük bir hastaneye gitmeye karar verir ve burada eski öğrencilerine benzeyen ancak çok daha eksik görünen iki kişi bulur. Seo Woo Jin para için her şeyi yapan kişidir. Cha Eun Jae ne zaman ameliyat yapmaya kalksa midesi bulanan biridir. Kim Sa Bu, bu ikisiyle Doldam Hastanesi'ni yönetebilecek mi?",
+      "playerName1": "Han Seok Kyu\n(Teacher Kim)",
+      "playerName2": "Ahn Hyo Seop\n(Seo Woo Jin)",
+      "playerName3": "Lee Sung Kyung\n(Cha Eun Jae)",
+      "playerImage1": "https://i.mydramalist.com/B0e75c.jpg",
+      "playerImage2": "https://i.mydramalist.com/jzXd8_5c.jpg",
+      "playerImage3": "https://i.mydramalist.com/6q6Z2_5c.jpg",
+      "genre": "Romantik Dram Medikal",
+      "contentRating": "15+",
+      "episode": "16",
+      "playerAbout1": "https://mydramalist.com/people/968-han-seok-kyu",
+      "playerAbout2": "https://mydramalist.com/people/11001-ahn-hyo-sub",
+      "playerAbout3": "https://mydramalist.com/people/7660-lee-sung-kyung"
+    },
+    {
+      "id": 738,
+      "koreasName": "Dr. Romantic 3",
+      "koreasImage": "https://i.mydramalist.com/d02LlA_4f.jpg",
+      "rating": 9.0,
+      "description": "2023 yılı yapımı bu dizide: Doldam Hastanesi'nde Dr. Kim Sa Bu ve ekibi kendilerini hayat kurtarmaya adamıştır. Üç yıl sonra, en son tıbbi teknolojiyle donatılmış, son teknoloji bir travma merkezi açılacak. Ancak merkezin resmi açılışından önce, Güney Kore sularına sürüklenen bir Kuzey Kore gemisinde bir kriz baş gösterir. Doldam Hastanesinden doktorlar, gemide ağır yaralılara yardım etmek için dışarı çıkıyor. Ancak hastaların hastaneye sevk edilmesi gerekiyor. Güney Kore hükümeti, işleri daha da karmaşık hale getirmek için, komşu ülkeyle diplomatik çabalarının bir parçası olarak Kuzey Koreli hastaların ülkelerine geri gönderilmesini istiyor. Kaosun ortasında, Cha Eun Jae'nin babası ve Dr. Kim Sa Bu'nun eski rakibi olan Cha Jin Man, yeni travma merkezini yönetmesi için gemiye getirilir.",
+      "playerName1": "Han Seok Kyu\n(Teacher Kim)",
+      "playerName2": "Ahn Hyo Seop\n(Seo Woo Jin)",
+      "playerName3": "Lee Sung Kyung\n(Cha Eun Jae)",
+      "playerImage1": "https://i.mydramalist.com/B0e75c.jpg",
+      "playerImage2": "https://i.mydramalist.com/jzXd8_5c.jpg",
+      "playerImage3": "https://i.mydramalist.com/6q6Z2_5c.jpg",
+      "genre": "Romantik Dram Medikal",
+      "contentRating": "15+",
+      "episode": "16",
+      "playerAbout1": "https://mydramalist.com/people/968-han-seok-kyu",
+      "playerAbout2": "https://mydramalist.com/people/11001-ahn-hyo-sub",
+      "playerAbout3": "https://mydramalist.com/people/7660-lee-sung-kyung"
     }
   ]
 }
