@@ -1516,7 +1516,7 @@
       "genre": "Romantik Aile",
       "contentRating": "15+",
       "episode": "31",
-      "playerAbout1": "",
+      "playerAbout1": "https://mydramalist.com/people/336-eugene",
       "playerAbout2": "",
       "playerAbout3": ""
     },
@@ -10106,7 +10106,7 @@
       "episode": "21",
       "playerAbout1": "https://mydramalist.com/people/1106-lee-ji-ah",
       "playerAbout2": "https://mydramalist.com/people/609-kim-so-yeon",
-      "playerAbout3": ""
+      "playerAbout3": "https://mydramalist.com/people/336-eugene"
     },
     {
       "id": 533,
@@ -10352,7 +10352,7 @@
       "contentRating": "15+",
       "episode": "13",
       "playerAbout1": "https://mydramalist.com/people/609-kim-so-yeon",
-      "playerAbout2": "",
+      "playerAbout2": "https://mydramalist.com/people/336-eugene",
       "playerAbout3": "https://mydramalist.com/people/1106-lee-ji-ah"
     },
     {
@@ -14021,6 +14021,25 @@
       "playerAbout1": "https://mydramalist.com/people/968-han-seok-kyu",
       "playerAbout2": "https://mydramalist.com/people/11001-ahn-hyo-sub",
       "playerAbout3": "https://mydramalist.com/people/7660-lee-sung-kyung"
+    },
+    {
+      "id": 739,
+      "koreasName": "The Penthouse 3: War in Life",
+      "koreasImage": "https://i.mydramalist.com/670YW_4f.jpg",
+      "rating": 8.1,
+      "description": "2021 yılı yapımı bu dizide: Su Ryeon sonunda Hera Sarayı sakinlerinden intikam alır. Cheonsoo Bölgesi'ne yatırım yaparak tüm paralarını kaybettiler ve daha da kötüsü, Seol A'nın ölümünü örtbas ettikleri için mahkeme önüne çıktılar. Kendilerini tuzağa düşüren Hera Sarayı'nın açgözlü sakinleri sonunda servetlerini, itibarlarını ve sahip oldukları her şeyi kaybederler ve Su Ryeon, onu öldürmeye çalışan Dan Tae'den intikamını almayı başarır. Su Ryeon kabusun nihayet bittiğini düşündüğünde Logan'ın gözlerinin önünde ölümüne tanık olur. Logan'ı öldürmeyi kim planlamış olabilir ve bundan sonra Hera Sarayı sakinlerine ne olacak? İntikam arzuları henüz bitmedi.",
+      "playerName1": "Lee Ji Ah\n(Na Ae Gyo)",
+      "playerName2": "Eugene\n(Oh Yoon Hee)",
+      "playerName3": "Kim So Yeon\n(Cheon Seo Jin)",
+      "playerImage1": "https://i.mydramalist.com/6PNrK_5c.jpg",
+      "playerImage2": "https://i.mydramalist.com/RyoYV_5c.jpg",
+      "playerImage3": "https://i.mydramalist.com/WRw3D_5c.jpg",
+      "genre": "Suç Dram Aile",
+      "contentRating": "15+",
+      "episode": "14",
+      "playerAbout1": "https://mydramalist.com/people/1106-lee-ji-ah",
+      "playerAbout2": "https://mydramalist.com/people/336-eugene",
+      "playerAbout3": "https://mydramalist.com/people/609-kim-so-yeon"
     }
   ]
 }
