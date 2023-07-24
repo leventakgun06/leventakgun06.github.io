@@ -14022,7 +14022,7 @@
       "playerAbout2": "https://mydramalist.com/people/11001-ahn-hyo-sub",
       "playerAbout3": "https://mydramalist.com/people/7660-lee-sung-kyung"
     },
-        {
+    {
       "id": 739,
       "koreasName": "The Penthouse 3: War in Life",
       "koreasImage": "https://i.mydramalist.com/670YW_4f.jpg",
@@ -14059,6 +14059,44 @@
       "playerAbout1": "https://mydramalist.com/people/11745-woo-do-hwan",
       "playerAbout2": "https://mydramalist.com/people/15660-lee-sang-yi",
       "playerAbout3": "https://mydramalist.com/people/9500-heo-joon-ho"
+    },
+    {
+      "id": 741,
+      "koreasName": "Shadow Detective 1",
+      "koreasImage": "https://i.mydramalist.com/BQgvA_4f.jpg",
+      "rating": 7.9,
+      "description": "2022 yılı yapımı bu dizide: Kim Taek Rok, Geumo Polis Karakolunda emekliliğini bekleyen kıdemli bir dedektiftir. Bir gün eski dostu olduğunu iddia eden birinden telefon almaya başlar. Arayan kişi, Kim Taek Rok'un meslektaşı Woo Hyun Seok'u öldürdüğünü söyler ve yanlış yaptığı şeyleri bulmak için Kim Taek Rok'un geçmişine bakmayı önerir. Başlangıçta, yakın zamanda Geumo Polis Karakoluna transfer olan Taek Rok'un Soruşturma Timi Şefi Kook Jin Han, Kim Taek Rok'un Woo Hyun Seok'un katili olduğundan şüphelenir, ancak Kim Taek Rok'a ve onun masumiyetine güvenmeye başlar. Dedektif Lee Sung A ve Son Kyung Chan'ın yardımıyla Kim Taek Rok'un gizemli arayanını aramaya başlarlar.",
+      "playerName1": "Lee Sung Min\n(Kim Taek Rok)",
+      "playerName2": "Jin Goo\n(Kook Jin Han)",
+      "playerName3": "Kyung Soo Jin\n(Lee Sung A)",
+      "playerImage1": "https://i.mydramalist.com/d78nD_5c.jpg",
+      "playerImage2": "https://i.mydramalist.com/64JeXc.jpg",
+      "playerImage3": "https://i.mydramalist.com/eP608_5c.jpg",
+      "genre": "Gizem Suç Dram",
+      "contentRating": "15+",
+      "episode": "6",
+      "playerAbout1": "https://mydramalist.com/people/1658-lee-sung-min",
+      "playerAbout2": "https://mydramalist.com/people/1334-jin-goo",
+      "playerAbout3": "https://mydramalist.com/people/2690-kyung-soo-jin"
+    },
+    {
+      "id": 742,
+      "koreasName": "Shadow Detective Season 2",
+      "koreasImage": "https://i.mydramalist.com/2wmq1V_4f.jpg",
+      "rating": 8.2,
+      "description": "2023 yılı yapımı bu dizide: Şantajcı 'Friend'in arkasındaki gizli dehayı araştırmak için geri dönen deneyimli cinayet masası dedektifi Kim Taek Rok'un nihai karşı saldırısını gözler önüne seriyor.",
+      "playerName1": "Lee Sung Min\n(Kim Taek Rok)",
+      "playerName2": "Jung Jin Young\n(Choi Do Hyung)",
+      "playerName3": "Kyung Soo Jin\n(Lee Sung A)",
+      "playerImage1": "https://i.mydramalist.com/d78nD_5c.jpg",
+      "playerImage2": "https://i.mydramalist.com/dZojW_5c.jpg",
+      "playerImage3": "https://i.mydramalist.com/eP608_5c.jpg",
+      "genre": "Gizem Suç Dram",
+      "contentRating": "15+",
+      "episode": "6",
+      "playerAbout1": "https://mydramalist.com/people/1658-lee-sung-min",
+      "playerAbout2": "https://mydramalist.com/people/289-jung-jin-young",
+      "playerAbout3": "https://mydramalist.com/people/2690-kyung-soo-jin"
     }
   ]
 }
