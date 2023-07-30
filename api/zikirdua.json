@@ -132,496 +132,595 @@
       {
         "id": 1,
         "name": "Allah:",
+        "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
         "descp": "Eşi benzeri bulunmayan."
     },
     {
         "id": 2,
         "name": "Er-Rahmân:",
+        "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
         "descp": "Yaratılmışlara merhamet eden"
     },
     {
         "id": 3,
         "name": "Er-Rahim:",
+        "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
         "descp": "Ahirette, müminlere sonsuz ihsanda, lütufta ve ikramda bulunan."
     },
     {
         "id": 4,
         "name": "El-Melik:",
+        "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
         "descp": "Kainatın sahibi, mülk ve saltanatı sürekli olan."
     },
     {
         "id": 5,
+        "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
         "name": "El-Kuddûs:",
         "descp": "Her türlü eksiklikten uzak olan."
     },
     {
         "id": 6,
         "name": "Es-Selâm:",
+        "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
         "descp": "Her tehlikeden selamete çıkaran."
     },
     {
         "id": 7,
         "name": "El-Mü'min:",
+        "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
         "descp": "Güven veren, koruyan."
     },
     {
         "id": 8,
         "name": "El-Müheymin:",
+        "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
         "descp": "Her şeyi gören gözeten."
     },
     {
         "id": 9,
         "name": "El-Azîz:",
+        "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
         "descp": "İzzet sahibi, her şeyin galibi."
     },
     {
         "id": 10,
         "name": "El-Cebbâr:",
+        "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
         "descp": "Kudret ve azamet sahibi."
     },
     {
         "id": 11,
         "name": "El-Mütekebbir:",
+        "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
         "descp": "Büyüklükte eşi ve benzeri olmayan."
     },
     {
         "id": 11,
         "name": "El-Hâlık:",
+        "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
         "descp": "Yaratan"
     },
     {
         "id": 13,
         "name": "El-Bâri:",
+        "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
         "descp": "Her şeyi uyumlu ve kusursuz yaratan."
     },
     {
         "id": 14,
         "name": "El-Musavvir:",
+        "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
         "descp": "Varlıklara şekillerini veren."
     },
     {
         "id": 15,
         "name": "El-Gaffâr:",
+        "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
         "descp": "Çok mağfiret eden."
     },
     {
         "id": 16,
         "name": "El-Kahhâr:",
+        "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
         "descp": "Her şeye hakim ve galip olan."
     },
     {
         "id": 17,
         "name": "El-Vehhâb:",
+        "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
         "descp": "Karşılıksız hibeler veren."
     },
     {
         "id": 18,
         "name": "Er-Rezzâk:",
+        "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
         "descp": "Rızkını veren."
     },
     {
         "id": 19,
         "name": "El-Fettâh:",
+        "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
         "descp": "Darlıktan kurtaran."
     },
     {
         "id": 20,
         "name": "El-Alîm:",
+        "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
         "descp": "Her şeyi en küçük detaylarını bilen."
     },
     {
         "id": 21,
         "name": "El-Kâbıd:",
+        "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
         "descp": "Dilediğine darlık veren."
     },
     {
         "id": 22,
         "name": "El-Bâsıt:",
+        "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
         "descp": "Dilediğine bolluk veren."
     },
     {
         "id": 23,
         "name": "El-Hâfıd:",
+        "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
         "descp": "Dereceleri alçaltan"
     },
     {
         "id": 24,
         "name": "Er-Râfi:",
+        "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
         "descp": "Şeref vererek yükselten."
     },
     {
         "id": 25,
         "name": "El-Mu'ız:",
+        "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
         "descp": "Dilediğini aziz eden."
     },
     {
         "id": 26,
         "name": "El-Müzil:",
+        "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
         "descp": "Dilediğini zillete düşüren."
     },
     {
         "id": 27,
         "name": "Es-Semi:",
+        "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
         "descp": "Her şeyi işiten."
     },
     {
         "id": 28,
         "name": "El-Basîr:",
+        "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
         "descp": "Her şeyi en iyi gören."
     },
     {
         "id": 29,
         "name": "El-Hakem:",
+        "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
         "descp": "Mutlak hakim olan. Hikmetle hükmeden."
     },
     {
         "id": 30,
         "name": "El-Adl:",
+        "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
         "descp": "Mutlak adil olan."
     },
     {
         "id": 31,
         "name": "El-Latîf:",
+        "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
         "descp": "Bütün incelikleri bilen."
     },
     {
         "id": 32,
         "name": "El-Habîr:",
+        "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
         "descp": "Her şeyden haberdar."
     },
     {
         "id": 33,
         "name": "El-Halîm:",
+        "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
         "descp": "Cezada, acele etmeyen."
     },
     {
         "id": 34,
         "name": "El-Azîm:",
+        "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
         "descp": "Pek yüce."
     },
     {
         "id": 35,
         "name": "El-Gafûr:",
+        "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
         "descp": "Mağfireti bol."
     },
     {
         "id": 36,
         "name": "Eş-Şekûr:",
+        "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
         "descp": "Çok sevap veren."
     },
     {
         "id": 37,
         "name": "El-Aliyy:",
+        "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
         "descp": "Yüceler yücesi."
     },
     {
         "id": 38,
         "name": "El-Kebîr:",
+        "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
         "descp": "Çok büyük olan."
     },
     {
         "id": 39,
         "name": "El-Hafîz:",
+        "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
         "descp": "Her şeyi koruyan."
     },
     {
         "id": 40,
         "name": "El-Mukît:",
+        "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
         "descp": "Her yaratılmışın rızkını veren."
     },
     {
         "id": 41,
         "name": "El-Hasîb:",
+        "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
         "descp": "Kulların hesabını gören."
     },
     {
         "id": 42,
         "name": "El-Celîl:",
+        "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
         "descp": "Azamet sahibi olan."
     },
     {
         "id": 43,
         "name": "El-Kerîm:",
+        "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
         "descp": "Çok ikram eden."
     },
     {
         "id": 44,
         "name": "Er-Rakîb:",
+        "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
         "descp": "Her an gören gözeten."
     },
     {
         "id": 45,
         "name": "El-Mucîb:",
+        "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
         "descp": "Duaları kabul eden."
     },
     {
         "id": 46,
         "name": "El-Vâsi:",
+        "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
         "descp": "İlmi ile her şeyi kuşatan."
     },
     {
         "id": 47,
         "name": "El-Hakîm:",
+        "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
         "descp": "Her işi hikmetli."
     },
     {
         "id": 48,
         "name": "El-Vedûd:",
+        "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
         "descp": "Kullarını seven, sevilmeye en layık olan."
     },
     {
         "id": 49,
         "name": "El-Mecîd:",
+        "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
         "descp": "Övgüye layık bulunan."
     },
     {
         "id": 50,
         "name": "El-Bâis:",
+        "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
         "descp": "Ölüleri dirilten."
     },
     {
         "id": 51,
         "name": "Eş-Şehîd:",
+        "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
         "descp": "Her yerde her zaman hazır olan."
     },
     {
         "id": 52,
         "name": "El-Hakk:",
+        "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
         "descp": "Var olan, hakkı gösteren."
     },
     {
         "id": 53,
         "name": "El-Vekîl:",
+        "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
         "descp": "Kendisine tevekkül edenlerin her işini yoluna koyan."
     },
     {
         "id": 54,
         "name": "El-Kaviyy:",
+        "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
         "descp": "Kudreti en üstün."
     },
     {
         "id": 55,
         "name": "El-Metîn:",
+        "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
         "descp": "Çok güçlü."
     },
     {
         "id": 56,
         "name": "El-Veliyy:",
+        "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
         "descp": "İnananların dostu."
     },
     {
         "id": 57,
         "name": "El-Hamîd:",
+        "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
         "descp": "Hamd ve senaya layık olan."
     },
     {
         "id": 58,
         "name": "El-Muhsî:",
+        "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
         "descp": "Tüm varlıkların sayısını bilen."
     },
     {
         "id": 59,
         "name": "El-Mübdi:",
+        "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
         "descp": "Örneksiz yaratan."
     },
     {
         "id": 60,
         "name": "El-Muîd:",
+        "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
         "descp": "Yeniden diriten."
     },
     {
         "id": 61,
         "name": "El-Muhyî:",
+        "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
         "descp": "Can veren."
     },
     {
         "id": 62,
         "name": "El-Mümît:",
+        "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
         "descp": "Ölümü yaratan."
     },
     {
         "id": 63,
         "name": "El-Hayy:",
+        "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
         "descp": "Sonsuz hayat sahibi."
     },
     {
         "id": 64,
         "name": "El-Kayyûm:",
+        "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
         "descp": "Varlıkları diri tutan."
     },
     {
         "id": 65,
         "name": "El-Vâcid:",
+        "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
         "descp": "İstediğini bulan."
     },
     {
         "id": 66,
         "name": "El-Macîd:",
+        "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
         "descp": "Kadri ve şanı büyük."
     },
     {
         "id": 67,
         "name": "El-Vâhid:",
+        "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
         "descp": "Fiillerinde, sıfatlarında ve zatında eşi benzeri olmayan."
     },
     {
         "id": 68,
         "name": "Es-Samed:",
+        "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
         "descp": "Herkesin muhtaç olduğu."
     },
     {
         "id": 69,
         "name": "El-Kâdir:",
+        "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
         "descp": "Dilediğini yapan."
     },
     {
         "id": 70,
         "name": "El-Muktedir:",
+        "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
         "descp": "Dilediği gibi tasarruf eden."
     },
     {
         "id": 71,
         "name": "El-Mukaddim:",
+        "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
         "descp": "Dilediğini yükselten."
     },
     {
         "id": 72,
         "name": "El-Muahhir:",
+        "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
         "descp": "Dilediğini alçaltan."
     },
     {
         "id": 73,
         "name": "El-Evvel:",
+        "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
         "descp": "Ezeli olan."
     },
     {
         "id": 74,
         "name": "El-Âhir:",
+        "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
         "descp": "Ebedi olan."
     },
     {
         "id": 75,
         "name": "El-Zâhir:",
+        "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
         "descp": "Varlığı açık olan."
     },
     {
         "id": 76,
         "name": "El-Bâtın:",
+        "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
         "descp": "Yüceliği gizli olan."
     },
     {
         "id": 77,
         "name": "El-Vâlî:",
+        "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
         "descp": "Kainatı idare eden."
     },
     {
         "id": 78,
         "name": "El-Müteâlî:",
+        "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
         "descp": "Yüce olan."
     },
     {
         "id": 79,
         "name": "El-Berr:",
+        "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
         "descp": "İyilik ve ihsanı bol."
     },
     {
         "id": 80,
         "name": "Et-Tevvâb:",
+        "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
         "descp": "Günahları bağışlayan."
     },
     {
         "id": 81,
         "name": "El-Müntekim:",
+        "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
         "descp": "İntikam alan."
     },
     {
         "id": 82,
         "name": "El-Afüvv:",
+        "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
         "descp": "Affı çok olan."
     },
     {
         "id": 83,
         "name": "Er-Raûf:",
+        "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
         "descp": "Çok merhametli."
     },
     {
         "id": 84,
         "name": "Mâlik-ül Mülk:",
+        "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
         "descp": "Her varlığın sahibi."
     },
     {
         "id": 85,
         "name": "Zül-Celâli Vel İkrâm:",
+        "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
         "descp": "Celal, azamet sahibi."
     },
     {
         "id": 86,
         "name": "El-Muksit:",
+        "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
         "descp": "Her işi birbirine denk yapan."
     },
     {
         "id": 87,
         "name": "El-Câmi:",
+        "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
         "descp": "Mahşerde bir araya toplayan."
     },
     {
         "id": 88,
         "name": "El-Ganiyy:",
+        "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
         "descp": "İhtiyacı olmayan."
     },
     {
         "id": 89,
         "name": "El-Mugnî:",
+        "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
         "descp": "Müstağni kılan."
     },
     {
         "id": 90,
         "name": "El-Mâni:",
+        "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
         "descp": "Dilemediği şeyi engelleyen."
     },
     {
         "id": 91,
         "name": "Ed-Dârr:",
+        "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
         "descp": "Zarar verenleri yaratan."
     },
     {
         "id": 92,
         "name": "En-Nâfi:",
+        "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
         "descp": "Fayda verenleri yaratan."
     },
     {
         "id": 93,
         "name": "En-Nûr:",
+        "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
         "descp": "Alemleri nurlandıran."
     },
     {
         "id": 94,
         "name": "El-Hâdî:",
+        "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
         "descp": "Hidayet veren."
     },
     {
         "id": 95,
         "name": "El-Bedî:",
+        "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
         "descp": "Eşsiz yaratan."
     },
     {
         "id": 96,
         "name": "El-Bâkî:",
+        "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
         "descp": "Ebedi olan."
     },
     {
         "id": 97,
         "name": "El-Vâris:",
+        "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
         "descp": "Her şeyin asıl sahibi olan."
     },
     {
         "id": 98,
         "name": "Er-Reşîd:",
+        "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
         "descp": "Doğru yolu gösteren."
     },
     {
         "id": 99,
         "name": "Es-Sabûr:",
+        "besmele": "بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم",
         "descp": "Cezada acele etmeyen."
     }
 ]
