@@ -1,6 +1,6 @@
 {
-  status: "ok",
-  totalResults: 900,
+  "status": "ok",
+  "totalResults": 900,
   "series": [
     {
       "id": 1,
