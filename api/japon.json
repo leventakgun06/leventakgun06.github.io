@@ -1,7 +1,5 @@
 {
-	  "status": "ok",
-  "totalResults": 900,
-	"japon": [
+"japon": [
   {
     "id": 1,
     "koreasName": "Gannibal",
@@ -21,5 +19,5 @@
     "playerAbout2": "https://mydramalist.com/people/20913-kasamatsu-sho",
     "playerAbout3": "https://mydramalist.com/people/12670-yoshioka-riho"
 }
-	]
+]
 }
