@@ -1,6 +1,4 @@
 {
-  "status": "ok",
-  "totalResults": 900,
   "series": [
     {
       "id": 1,
@@ -1691,7 +1689,7 @@
       "episode": "28",
       "playerAbout1": "https://mydramalist.com/people/431-song-joong-ki",
       "playerAbout2": "https://mydramalist.com/people/294-song-hye-kyo",
-      "playerAbout3": ""
+      "playerAbout3": "https://mydramalist.com/people/1334-jin-goo"
     },
     {
       "id": 90,
@@ -1727,7 +1725,7 @@
       "genre": "Komedi Romantik Dram",
       "contentRating": "15+",
       "episode": "16",
-      "playerAbout1": "",
+      "playerAbout1": "https://mydramalist.com/people/1328-choi-jin-hyuk",
       "playerAbout2": "",
       "playerAbout3": ""
     },
@@ -2051,7 +2049,7 @@
       "contentRating": "15+",
       "episode": "21",
       "playerAbout1": "",
-      "playerAbout2": "",
+      "playerAbout2": "https://mydramalist.com/people/1328-choi-jin-hyuk",
       "playerAbout3": ""
     },
     {
@@ -2318,7 +2316,7 @@
       "episode": "20",
       "playerAbout1": "https://mydramalist.com/people/181-jang-hyuk",
       "playerAbout2": "https://mydramalist.com/people/668-jang-na-ra",
-      "playerAbout3": ""
+      "playerAbout3": "https://mydramalist.com/people/1328-choi-jin-hyuk"
     },
     {
       "id": 123,
@@ -2411,7 +2409,7 @@
       "genre": "Romantik Dram",
       "contentRating": "15+",
       "episode": "32",
-      "playerAbout1": "",
+      "playerAbout1": "https://mydramalist.com/people/1465-kim-dong-wook",
       "playerAbout2": "https://mydramalist.com/people/17947-geum-sae-rok",
       "playerAbout3": ""
     },
@@ -3666,7 +3664,7 @@
       "contentRating": "15+",
       "episode": "20",
       "playerAbout1": "",
-      "playerAbout2": "",
+      "playerAbout2": "https://mydramalist.com/people/1658-lee-sung-min",
       "playerAbout3": "https://mydramalist.com/people/1155-kang-so-ra"
     },
     {
@@ -3952,7 +3950,7 @@
       "episode": "16",
       "playerAbout1": "https://mydramalist.com/people/252-kang-ji-hwan",
       "playerAbout2": "",
-      "playerAbout3": ""
+      "playerAbout3": "https://mydramalist.com/people/2690-kyung-soo-jin"
     },
     {
       "id": 209,
@@ -4026,7 +4024,7 @@
       "genre": "Gizem Hukuk Dram",
       "contentRating": "15+",
       "episode": "32",
-      "playerAbout1": "",
+      "playerAbout1": "https://mydramalist.com/people/1328-choi-jin-hyuk",
       "playerAbout2": "https://mydramalist.com/people/3391-son-hyun-joo",
       "playerAbout3": ""
     },
@@ -4349,9 +4347,9 @@
       "genre": "Gizem Komedi Hukuk",
       "contentRating": "15+",
       "episode": "16",
-      "playerAbout1": "",
+      "playerAbout1": "https://mydramalist.com/people/1334-jin-goo",
       "playerAbout2": "",
-      "playerAbout3": ""
+      "playerAbout3": "https://mydramalist.com/people/5824-yoon-park"
     },
     {
       "id": 230,
@@ -4731,7 +4729,7 @@
       "episode": "20",
       "playerAbout1": "",
       "playerAbout2": "",
-      "playerAbout3": ""
+      "playerAbout3": "https://mydramalist.com/people/1465-kim-dong-wook"
     },
     {
       "id": 250,
@@ -4976,7 +4974,7 @@
       "genre": "Hukuk Dram Tıbbi",
       "contentRating": "15+",
       "episode": "16",
-      "playerAbout1": "",
+      "playerAbout1": "https://mydramalist.com/people/1658-lee-sung-min",
       "playerAbout2": "https://mydramalist.com/people/1212-kim-jee-soo",
       "playerAbout3": ""
     },
@@ -5832,7 +5830,7 @@
       "contentRating": "15+",
       "episode": "20",
       "playerAbout1": "https://mydramalist.com/people/339-lee-yo-won",
-      "playerAbout2": "",
+      "playerAbout2": "https://mydramalist.com/people/1334-jin-goo",
       "playerAbout3": ""
     },
     {
@@ -6078,7 +6076,7 @@
       "genre": "Komedi Romantik Dram",
       "contentRating": "15+",
       "episode": "16",
-      "playerAbout1": "",
+      "playerAbout1": "https://mydramalist.com/people/1328-choi-jin-hyuk",
       "playerAbout2": "",
       "playerAbout3": ""
     },
@@ -6287,9 +6285,9 @@
       "genre": "Hukuk Romantik Soruşturma",
       "contentRating": "15+",
       "episode": "21",
-      "playerAbout1": "",
+      "playerAbout1": "https://mydramalist.com/people/1328-choi-jin-hyuk",
       "playerAbout2": "",
-      "playerAbout3": ""
+      "playerAbout3": "https://mydramalist.com/people/1507-choi-min-soo"
     },
     {
       "id": 332,
@@ -6574,7 +6572,7 @@
       "episode": "16",
       "playerAbout1": "https://mydramalist.com/people/1851-kim-so-hyun",
       "playerAbout2": "",
-      "playerAbout3": ""
+      "playerAbout3": "https://mydramalist.com/people/5824-yoon-park"
     },
     {
       "id": 347,
@@ -6857,7 +6855,7 @@
       "genre": "Aksiyon Suç Dram",
       "contentRating": "15+",
       "episode": "16",
-      "playerAbout1": "",
+      "playerAbout1": "https://mydramalist.com/people/1328-choi-jin-hyuk",
       "playerAbout2": "",
       "playerAbout3": "https://mydramalist.com/people/1657-jo-dong-hyeok"
     },
@@ -6973,7 +6971,7 @@
       "episode": "10",
       "playerAbout1": "https://mydramalist.com/people/12682-jang-dong-yoon",
       "playerAbout2": "",
-      "playerAbout3": ""
+      "playerAbout3": "https://mydramalist.com/people/5824-yoon-park"
     },
     {
       "id": 368,
@@ -7714,7 +7712,7 @@
       "episode": "20",
       "playerAbout1": "",
       "playerAbout2": "",
-      "playerAbout3": ""
+      "playerAbout3": "https://mydramalist.com/people/1507-choi-min-soo"
     },
     {
       "id": 407,
@@ -8263,7 +8261,7 @@
       "genre": "Gerilim Gizem Korku",
       "contentRating": "15+",
       "episode": "16",
-      "playerAbout1": "",
+      "playerAbout1": "https://mydramalist.com/people/1465-kim-dong-wook",
       "playerAbout2": "",
       "playerAbout3": ""
     },
@@ -8455,7 +8453,7 @@
       "episode": "52",
       "playerAbout1": "https://mydramalist.com/people/668-jang-na-ra",
       "playerAbout2": "https://mydramalist.com/people/1488-shin-sung-rok",
-      "playerAbout3": ""
+      "playerAbout3": "https://mydramalist.com/people/1328-choi-jin-hyuk"
     },
     {
       "id": 446,
@@ -9157,7 +9155,7 @@
       "contentRating": "15+",
       "episode": "12",
       "playerAbout1": "",
-      "playerAbout2": "",
+      "playerAbout2": "https://mydramalist.com/people/2690-kyung-soo-jin",
       "playerAbout3": "https://mydramalist.com/people/3824-shin-so-yool"
     },
     {
@@ -10049,7 +10047,7 @@
       "genre": "Komedi Dram Fantezi",
       "contentRating": "15+",
       "episode": "24",
-      "playerAbout1": "",
+      "playerAbout1": "https://mydramalist.com/people/1328-choi-jin-hyuk",
       "playerAbout2": "",
       "playerAbout3": ""
     },
@@ -10193,8 +10191,8 @@
       "rating": 8.8,
       "description": "2020 yılı yapımı bu dizide: Yaklaşık yirmi yıllık evlilikten sonra, Jung Da Jung ve Hong Dae Young, ev hayatları iyi gider. On sekiz yaşındaki ikizlerin gururlu ebeveynleri olan özverili çift, birlikte mutlu bir yuva kurmak için çok çalışırlar. Ama dışarıdan ideal bir yaşam gibi görünen şey, aslında başka bir şey değil. Dae Young'un bitmek bilmeyen saçmalıklarından bıkan Da Jung, boşanmayı iyiden iyiye düşünür. Dae Young kovulduğunu açıklayınca Da Jung, kocası olmadan hayatın daha iyi olacağına inanır ve boşanma davası açar. Karısının onu terk etme kararıyla sarsılan ve hayatın onu nereye götürdüğü konusunda tamamen hayal kırıklığına uğrayan Dae Young. İşlerin ters gittiği ve hayatıyla ilgili her şeyden pişmanlık duyarken bulur. Pişmanlık düşünceleri kafasına girdiği anda vücudu anında on sekiz yaşındaki bedenine dönüşür, otuz yedi yaşındaki zihni ise bozulmadan kalır. Aniden tüm hayatını yeniden yaşama şansına sahip olan Dae Young, adını Ko Woo Young olarak değiştirir ve çocuklarının okuluna kaydolur. Hayata tamamen farklı bir perspektiften bakan Dae Young, orta yaşlı beynine rağmen hala öğrenecek çok şeyi olduğunu kısa sürede fark eder.",
       "playerName1": "Kim Ha Neul\n(Jung Da Jung)",
-      "playerName2": "Yoon Sang Hyun\n(Dae Young 37)",
-      "playerName3": "Lee Do Hyun\n(Dae Young 18)",
+      "playerName2": "Yoon Sang Hyun\n(Hong Dae Young 37)",
+      "playerName3": "Lee Do Hyun\n(Hong Dae Young 18)",
       "playerImage1": "https://i.mydramalist.com/Qy7kW_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/dxN6W_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/6PlYW_5c.jpg",
@@ -10392,7 +10390,7 @@
       "contentRating": "15+",
       "episode": "16",
       "playerAbout1": "https://mydramalist.com/people/299-go-soo",
-      "playerAbout2": "",
+      "playerAbout2": "https://mydramalist.com/people/1658-lee-sung-min",
       "playerAbout3": ""
     },
     {
@@ -11399,8 +11397,8 @@
       "contentRating": "15+",
       "episode": "16",
       "playerAbout1": "https://mydramalist.com/people/941-seo-hyun-jin",
-      "playerAbout2": "",
-      "playerAbout3": ""
+      "playerAbout2": "https://mydramalist.com/people/1465-kim-dong-wook",
+      "playerAbout3": "https://mydramalist.com/people/5824-yoon-park"
     },
     {
       "id": 601,
@@ -12293,7 +12291,7 @@
       "episode": "10",
       "playerAbout1": "https://mydramalist.com/people/1176-kim-hye-soo",
       "playerAbout2": "https://mydramalist.com/people/2671-kim-mu-yeol",
-      "playerAbout3": ""
+      "playerAbout3": "https://mydramalist.com/people/1658-lee-sung-min"
     },
     {
       "id": 648,
@@ -12388,7 +12386,7 @@
       "episode": "16",
       "playerAbout1": "https://mydramalist.com/people/430-park-min-young",
       "playerAbout2": "",
-      "playerAbout3": ""
+      "playerAbout3": "https://mydramalist.com/people/5824-yoon-park"
     },
     {
       "id": 653,
@@ -12595,7 +12593,7 @@
       "genre": "Gizem Korku Dram",
       "contentRating": "18+",
       "episode": "8",
-      "playerAbout1": "",
+      "playerAbout1": "https://mydramalist.com/people/1334-jin-goo",
       "playerAbout2": "",
       "playerAbout3": ""
     },
@@ -12709,7 +12707,7 @@
       "genre": "Gerilim Gizem Dram",
       "contentRating": "18+",
       "episode": "12",
-      "playerAbout1": "",
+      "playerAbout1": "https://mydramalist.com/people/1465-kim-dong-wook",
       "playerAbout2": "",
       "playerAbout3": ""
     },
@@ -14033,9 +14031,9 @@
       "playerName1": "Lee Ji Ah\n(Na Ae Gyo)",
       "playerName2": "Eugene\n(Oh Yoon Hee)",
       "playerName3": "Kim So Yeon\n(Cheon Seo Jin)",
-      "playerImage1": "https://i.mydramalist.com/WRw3D_5c.jpg",
+      "playerImage1": "https://i.mydramalist.com/6PNrK_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/RyoYV_5c.jpg",
-      "playerImage3": "https://i.mydramalist.com/1reg6_5c.jpg",
+      "playerImage3": "https://i.mydramalist.com/WRw3D_5c.jpg",
       "genre": "Suç Dram Aile",
       "contentRating": "15+",
       "episode": "14",
@@ -14099,6 +14097,44 @@
       "playerAbout1": "https://mydramalist.com/people/1658-lee-sung-min",
       "playerAbout2": "https://mydramalist.com/people/289-jung-jin-young",
       "playerAbout3": "https://mydramalist.com/people/2690-kyung-soo-jin"
+    },
+    {
+      "id": 743,
+      "koreasName": "Delightfully Deceitful",
+      "koreasImage": "https://i.mydramalist.com/0w4pnr_4f.jpg",
+      "rating": 7.8,
+      "description": "2023 yılı yapımı bu dizide: Zeki dolandırıcı Lee Ro Um, belirgin bir empati eksikliğinden muzdariptir. Bir gün, yanlış bir şekilde görüşmediği ebeveynlerini öldürmekle suçlanır. Tutkulu, son derece empatik bir avukat olan Han Moo Young'un yardımıyla 10 yıl sonra temize çıkarılır. İkili, yanlış yapanlara karşı savaşmak ve onlardan intikam almak için beklenmedik bir ittifak kurmaya başlar.",
+      "playerName1": "Chun Woo Hee\n(Lee Ro Um)",
+      "playerName2": "Kim Dong Wook\n(Han Moo Young)",
+      "playerName3": "Yoon Park\n(Go Yo Han)",
+      "playerImage1": "https://i.mydramalist.com/0rZON_5c.jpg",
+      "playerImage2": "https://i.mydramalist.com/p1PAE_5c.jpg",
+      "playerImage3": "https://i.mydramalist.com/XXJqq_5c.jpg",
+      "genre": "Komedi Suç Dram",
+      "contentRating": "15+",
+      "episode": "16",
+      "playerAbout1": "https://mydramalist.com/people/4163-chun-woo-hee",
+      "playerAbout2": "https://mydramalist.com/people/1465-kim-dong-wook",
+      "playerAbout3": "https://mydramalist.com/people/5824-yoon-park"
+    },
+    {
+      "id": 744,
+      "koreasName": "Numbers",
+      "koreasImage": "https://i.mydramalist.com/XdAWyp_4f.jpg",
+      "rating": 7.9,
+      "description": "2023 yılı yapımı bu dizide: Ho Woo, ülkedeki en iyi muhasebe firmasına katılan ilk ve tek lise mezunu muhasebecidir. Sıradan bir muhasebecinin nadiren sahip olduğu olağanüstü hafızası, gözlemi, uyumu ve adalet duygusuyla, mükemmel bir çalışandan daha fazlasıdır. Je Kyun ve Seung Jo baba ve oğul ve Je Kyun muhasebe firmasının Başkan Yardımcısıdır. Cömert kişiliği ile tanınmasına rağmen istediğini elde etmekten çekinmeyen bir adamdır. Seung Jo, Ho Woo'nun tam tersi olan firmanın en iyi muhasebecisidir. Bu ikisi, kendi hedeflerine ulaşmak için sayılarla birlikte çalışır. Hedefleri farklı ama aynı hedefe doğru gidiyorlar. Bu muhasebe firmasında adaleti sağlayabilecekler mi?",
+      "playerName1": "Kim Myung Soo\n(Jang Ho Woo)",
+      "playerName2": "Choi Jin Hyuk\n(Han Seung Jo)",
+      "playerName3": "Choi Min Soo\n(Han Je Kyun)",
+      "playerImage1": "https://i.mydramalist.com/w1l7J_5c.jpg",
+      "playerImage2": "https://i.mydramalist.com/pb7nb_5c.jpg",
+      "playerImage3": "https://i.mydramalist.com/eYwj2Y_5c.jpg",
+      "genre": "Aksiyon Gerilim Gizem",
+      "contentRating": "15+",
+      "episode": "12",
+      "playerAbout1": "https://mydramalist.com/people/1552-l",
+      "playerAbout2": "https://mydramalist.com/people/1328-choi-jin-hyuk",
+      "playerAbout3": "https://mydramalist.com/people/1507-choi-min-soo"
     }
   ]
 }
