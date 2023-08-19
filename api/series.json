@@ -1422,7 +1422,7 @@
       "contentRating": "15+",
       "episode": "32",
       "playerAbout1": "https://mydramalist.com/people/8226-jang-ki-yong",
-      "playerAbout2": "",
+      "playerAbout2": "https://mydramalist.com/people/10520-jin-ki-joo",
       "playerAbout3": "https://mydramalist.com/people/9500-heo-joon-ho"
     },
     {
@@ -7408,7 +7408,7 @@
       "episode": "02",
       "playerAbout1": "",
       "playerAbout2": "",
-      "playerAbout3": ""
+      "playerAbout3": "https://mydramalist.com/people/10520-jin-ki-joo"
     },
     {
       "id": 391,
@@ -12709,7 +12709,7 @@
       "episode": "12",
       "playerAbout1": "https://mydramalist.com/people/1465-kim-dong-wook",
       "playerAbout2": "",
-      "playerAbout3": ""
+      "playerAbout3": "https://mydramalist.com/people/442-chae-jung-ahn"
     },
     {
       "id": 670,
@@ -12974,7 +12974,7 @@
       "contentRating": "15+",
       "episode": "16",
       "playerAbout1": "https://mydramalist.com/people/645-park-hae-jin",
-      "playerAbout2": "",
+      "playerAbout2": "https://mydramalist.com/people/10520-jin-ki-joo",
       "playerAbout3": ""
     },
     {
@@ -13720,7 +13720,7 @@
     },
     {
       "id": 723,
-      "koreasName": "Island",
+      "koreasName": "Island 1",
       "koreasImage": "https://i.mydramalist.com/kl5N8_4f.jpg",
       "rating": 8.2,
       "description": "2022 yılı yapımı bu dizide: Won Mi Ho, Daehan Group'u yöneten babasının tek kızıdır. Kibirli ve bencil tavrı, sonunda babasını kızdırarak onu Jeju adasına sürmesi için büyük bir hata yapmasına neden olur. Orada lise ahlak öğretmeni olarak çalışmak üzere görevlendirilir. Onun haberi olmadan, ada kötülüğün serbestçe dolaştığı yerdir. Adadaki diğer kişilerle tanışır ve birlikte karakterler yaşamak için güçlerini birleştirir.",
@@ -14135,6 +14135,63 @@
       "playerAbout1": "https://mydramalist.com/people/1552-l",
       "playerAbout2": "https://mydramalist.com/people/1328-choi-jin-hyuk",
       "playerAbout3": "https://mydramalist.com/people/1507-choi-min-soo"
+    },
+    {
+      "id": 745,
+      "koreasName": "Family: The Unbreakable Bond",
+      "koreasImage": "https://i.mydramalist.com/2wwb6P_4f.jpg",
+      "rating": 7.5,
+      "description": "2023 yılı yapımı bu dizide: Kwon Do Hoon, uzman bir keskin nişancı ve Ulusal İstihbarat Servisi için çalışan gizli ajandır. Gerçek kimliğini gizlemek için, karısı Kang Yoo Ra'yı bile karanlıkta bırakarak, düzenli bir ticaret şirketi çalışanı olarak ikili bir hayat yaşar. İşiyle meşgul olmasına rağmen, Kwon Do Hoon karısına derinden değer verir. Bu arada, kendini işine adamış bir ev hanımı olan Kang Yoo Ra'nın bir sırrı vardır. Tae Koo ortaya çıkıp özenle hazırlanmış cephelerine tehdit oluşturduğunda, sakin varlıkları kargaşaya sürüklenir.",
+      "playerName1": "Jang Hyuk\n(Kwon Do Hoon)",
+      "playerName2": "Jang Na Ra\n(Kang Yoo Ra)",
+      "playerName3": "Chae Jung An\n(Oh Cheon Ryun)",
+      "playerImage1": "https://i.mydramalist.com/01XN7c.jpg",
+      "playerImage2": "https://i.mydramalist.com/1rQJQ_5c.jpg",
+      "playerImage3": "https://i.mydramalist.com/E0VP5_5c.jpg",
+      "genre": "Aksiyon Gerilim Komedi",
+      "contentRating": "15+",
+      "episode": "12",
+      "playerAbout1": "https://mydramalist.com/people/181-jang-hyuk",
+      "playerAbout2": "https://mydramalist.com/people/668-jang-na-ra",
+      "playerAbout3": "https://mydramalist.com/people/442-chae-jung-ahn"
+    },
+    {
+      "id": 746,
+      "koreasName": "Island 2",
+      "koreasImage": "https://i.mydramalist.com/BddB47_4f.jpg",
+      "rating": 8.0,
+      "description": "2023 yılı yapımı bu dizide: Won Mi Ho, Daehan Group'u yöneten bir babanın tek çocuğu. Kibirli ve bencil ama aynı zamanda üzgün görünümüne sahip. Bir gün başını büyük belaya sokar. Bu nedenle babası onu Jeju Adası'na sürgüne gönderir. Orada lise öğretmeni olarak çalışmak üzere görevlendirilir ve etik dersi verir. Bu sırada Won Mi Ho, hayaletlerle ilgili bir davaya karışır. Hayaletler insan dünyasından kurtulmaya çalışırlar ve Won Mi Ho'yu hedef alırlar. Gizemli bir hayalet avcısı, Won Mi Ho'yu korumaya çalışır.",
+      "playerName1": "Kim Nam Gil\n(Van)",
+      "playerName2": "Lee Da Hee\n(Won Mi Ho)",
+      "playerName3": "Cha Eun Woo\n(Kang Chan Hyuk)",
+      "playerImage1": "https://i.mydramalist.com/x8mJ0_5c.jpg",
+      "playerImage2": "https://i.mydramalist.com/Xyp0q_5c.jpg",
+      "playerImage3": "https://i.mydramalist.com/ROkdP_5c.jpg",
+      "genre": "Aksiyon Gerilim Korku",
+      "contentRating": "15+",
+      "episode": "6",
+      "playerAbout1": "https://mydramalist.com/people/261-kim-nam-gil",
+      "playerAbout2": "https://mydramalist.com/people/1736-lee-da-hee",
+      "playerAbout3": "https://mydramalist.com/people/10399-cha-eun-woo"
+    },
+    {
+      "id": 747,
+      "koreasName": "My Perfect Stranger",
+      "koreasImage": "https://i.mydramalist.com/Z8Rw71_4f.jpg",
+      "rating": 8.6,
+      "description": "2023 yılı yapımı bu dizide: Yoon Hae Joon, yayın istasyonunda çalışan en genç sunucudur. Bir gazeteci olarak sakin, açık sözlü ve özel hayatında kibar olan biridir. Öte yandan, Baek Yoon Young yazar olmayı hayal eder ama sonunda bir yayınevinde çalışmaya başlar. İkisi bir şekilde zamanda geriye gidip 1987 yılına giderler. Orada, Yoon Hae Joon bir seri cinayet davasının ardındaki gerçeği bulmaya çalışırken Baek Yoon Young, ailesinin evlenmesini engellemeye çalışır. Yakında hedeflerinin bağlantılı olduğunu anlarlar.",
+      "playerName1": "Kim Dong Wook\n(Yoon Hae Joon)",
+      "playerName2": "Jin Ki Joo\n(Baek Yoon Young)",
+      "playerName3": "Seo Ji Hye\n(Lee Soon Ae)",
+      "playerImage1": "https://i.mydramalist.com/jdVzv_5c.jpg",
+      "playerImage2": "https://i.mydramalist.com/E5xEeb_5c.jpg",
+      "playerImage3": "https://i.mydramalist.com/XEdgpc.jpg",
+      "genre": "Gizem Romantik Dram",
+      "contentRating": "15+",
+      "episode": "16",
+      "playerAbout1": "https://mydramalist.com/719347-bumped-into-you",
+      "playerAbout2": "https://mydramalist.com/people/10520-jin-ki-joo",
+      "playerAbout3": "https://mydramalist.com/people/28093-seo-ji-hye"
     }
   ]
 }
