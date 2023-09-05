@@ -1,5 +1,5 @@
 {
-  "results": [
+  "movies": [
     {
       "id": 1,
       "koreasName": "200 Pounds Beauty",
@@ -149,7 +149,7 @@
       "contentRating": "12+",
       "episode": "Süre: 1s 39d",
       "playerAbout1": "",
-      "playerAbout2": "",
+      "playerAbout2": "https://mydramalist.com/people/2991-kim-ok-bin",
       "playerAbout3": "https://mydramalist.com/people/629-choi-daniel"
     },
     {
@@ -416,7 +416,7 @@
       "episode": "Süre: 1s 43d",
       "playerAbout1": "",
       "playerAbout2": "https://mydramalist.com/people/972-im-yoon-ah",
-      "playerAbout3": ""
+      "playerAbout3": "https://mydramalist.com/people/1659-go-doo-shim"
     },
     {
       "id": 23,
@@ -521,7 +521,7 @@
       "description": "2015 yılı yapımı bu filmde: Rüşvetin giderek arttığı zamanlarda Seul, Gangnam’da yapısal dönüşüm başlar. Çocukluk arkadaşı olan Kim Jong Dae ve Baek Yong Ki şehir yapılandırılmasında yaşadıkları gecekonduyu yıktırmamak için mücadele verirler.",
       "playerName1": "Lee Min Ho\n(Kim Jong Dae)",
       "playerName2": "Kim Rae Won\n(Baek Yong Gi)",
-      "playerName3": "Jung Jin Young\n(Kang Gil Soo)",
+      "playerName3": "Jung Jin Youngi\n(Kang Gil Soo)",
       "playerImage1": "https://i.mydramalist.com/kEpQwc.jpg",
       "playerImage2": "https://i.mydramalist.com/vEpkg_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/dZojW_5c.jpg",
@@ -910,7 +910,7 @@
       "episode": "Süre: 1s 51d",
       "playerAbout1": "",
       "playerAbout2": "",
-      "playerAbout3": ""
+      "playerAbout3": "https://mydramalist.com/people/1742-park-sung-woong"
     },
     {
       "id": 49,
@@ -939,7 +939,7 @@
       "description": "2016 yılı yapımı bu filmde: Jae Hyeok felaketten ailesini ve ülkesini kurtarmak için mücadele eder.",
       "playerName1": "Kim Nam Gil\n(Jae Heok)",
       "playerName2": "Kim Joo Hyun\n(Yeon Ju)",
-      "playerName3": "Jung Jin Young\n(Pyung Sup)",
+      "playerName3": "Jung Jin Youngi\n(Pyung Sup)",
       "playerImage1": "https://i.mydramalist.com/x8mJ0_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/Wq7jD_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/dZojW_5c.jpg",
@@ -986,7 +986,7 @@
       "episode": "Süre: 2s 6d",
       "playerAbout1": "",
       "playerAbout2": "",
-      "playerAbout3": ""
+      "playerAbout3": "https://mydramalist.com/people/3044-kim-sung-kyun"
     },
     {
       "id": 53,
@@ -1280,7 +1280,7 @@
       "rating": 7.5,
       "description": "2014 yılı yapımı bu filmde: Woo Gon bir yetenek şirketinde menejer olarak çalışmaktadır. Mi Jin'i elemelerde görüp ona karşı özel hisler besler ve onda bir yıldız potansiyeli görür. Woo Gon'un çabaları sayesinde Mi Jin bir filmde rol alır. Menejeri olan Woo Gon'un da çalışmaları sayesinde Mi Jin oldukça ünlenir ve bir dizide rol alır. Ancak Mi Jin'in tanınmış bir politkacıyla seks skandalına karıştığını söyleyen korkunç bir skandal patlak verir. Woo Gon, kaynağı belli olmayan bir söylentinin doğru olmadığını söylese de kimse dinlemez. Kısa bir süre sonra da Mi Jin evinde ölü bulunur. Woo Gon bu asılsız söylentiyi kimin yaydığını bulmaya karar verir.",
       "playerName1": "Kim Kang Woo\n(Wu Gon)",
-      "playerName2": "Jung Jin Young\n(Başkan Park)",
+      "playerName2": "Jung Jin Youngi\n(Başkan Park)",
       "playerName3": "Ko Chang Seok\n(Baek Mun)",
       "playerImage1": "https://i.mydramalist.com/kdVAm_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/dZojW_5c.jpg",
@@ -1413,7 +1413,7 @@
       "rating": 8.2,
       "description": "2003 yılı yapımı bu filmde: Üniversitede okuyan bir genç kız olan Ji Hye‘nin babası, O henüz küçük bir kızken ölmüş. Annesi de, Ji Hye yeniden evlenmesini istese de bu fikre hiçbir zaman cazip bakmamış ve bir süre önce çalışmak için yurt dışına gitmiştir. Edebiyatı seven, duygusal bir kız olan Ji Hye, annesine olan özlemini onun geçmişine ait hatıraları tekrar gün yüzüne çıkararak gidermektedir. En sevdiği hatıralar ise annesinin, babasıyla evlenmeden önceki flörtü ve ilk aşkı olan Jun Ho ile birbirlerine gönderdikleri mektuplardır. Ji Hye‘nin buram buram sevda kokan bu mektupları sevmesinin bir nedeni daha vardır. Genç kız, içinde kopan fırtınadan bu mektuplara dalarak kaçmaktadır.",
       "playerName1": "Son Ye Jin\n(Joo Hee)",
-      "playerName2": "Jo Seung Woo\n(Oh Joon Ha)",
+      "playerName2": "Cho Seung Woo\n(Oh Joon Ha)",
       "playerName3": "Jo In Sung\n(Oh Sang Min)",
       "playerImage1": "https://i.mydramalist.com/vgnXX_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/QmdJ7c.jpg",
@@ -1422,7 +1422,7 @@
       "contentRating": "12+",
       "episode": "Süre: 2s 12d",
       "playerAbout1": "",
-      "playerAbout2": "",
+      "playerAbout2": "https://mydramalist.com/people/298-jo-seung-woo",
       "playerAbout3": ""
     },
     {
@@ -1479,7 +1479,7 @@
       "contentRating": "12+",
       "episode": "Süre: 2s 2d",
       "playerAbout1": "",
-      "playerAbout2": "",
+      "playerAbout2": "https://mydramalist.com/people/1742-park-sung-woong",
       "playerAbout3": ""
     },
     {
@@ -2010,7 +2010,7 @@
       "genreIds": [5, 12, 3],
       "contentRating": "12+",
       "episode": "Süre: 2s 3d",
-      "playerAbout1": "",
+      "playerAbout1": "https://mydramalist.com/people/2991-kim-ok-bin",
       "playerAbout2": "https://mydramalist.com/people/287-shin-ha-kyun",
       "playerAbout3": "https://mydramalist.com/people/1137-sung-joon"
     },
@@ -2562,7 +2562,7 @@
       "contentRating": "13+",
       "episode": "Süre: 1s 57d",
       "playerAbout1": "https://mydramalist.com/people/488-cha-seung-won",
-      "playerAbout2": "",
+      "playerAbout2": "https://mydramalist.com/people/3044-kim-sung-kyun",
       "playerAbout3": "https://mydramalist.com/people/1817-lee-kwang-soo"
     },
     {
