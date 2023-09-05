@@ -1,5 +1,5 @@
 {
-  "results": [
+  "series": [
     {
       "id": 1,
       "koreasName": "3 Days",
@@ -939,7 +939,7 @@
       "description": "2011 yılı yapımı bu dizide: Lee Kang Hoon tıp fakültesini en iyi derece ile bitirmiş ve Kore’nin en iyi hastanesi olan Chunha Üniversitesi Hastanesi’nde çalışmakta olan yetenekli bir beyin cerrahıdır. Chunha Hastanesinde Başhekim olmak konusunda büyük bir tutkusu vardır ve bunu elde etmek için çalışmalarına hırsla devam etmektedir. Karakterindeki sağlam, kendinden emin yönü ile kızgın, şiddetli yönlerinin her ikisinin de temelinde saplantı boyutunda olan başarı tutkusu yatmaktadır. Bu nedenle başarı Lee Kang Hoon’u hem zayıf kılan hem de güçlü tutan anahtartır. Lee Kang Hoon, sıcak davranışları ve hastalarına karşı kibarlığının yanı sıra dünyaca ünlü beyin cerrahı Profesör Kim Sang Chul’u kendine rakip olarak görmektedir. Yoon Ji Hye ise 3 yıldır beyin cerrahisi bölümünde çalışmakta olan sevilen birisidir. Başlarda Lee Kang Hoon’a zıt olsa da zamanla onun tarafına geçip sadık bir destekçisi olur. Lee Kang Hoon’un sınıf arkadaşı olan Seo Joon Suk ise hem aşk hayatında hem de kariyerinde ona önemli bir rakip olacaktır.",
       "playerName1": "Shin Ha Kyun\n(Lee Kang Hoon)",
       "playerName2": "Choi Jung Won\n(Yoon Ji Hye)",
-      "playerName3": "Jung Jin Young\n(Kim Sang Chul)",
+      "playerName3": "Jung Jin Youngi\n(Kim Sang Chul)",
       "playerImage1": "https://i.mydramalist.com/EN4dp_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/Zvbz1c.jpg",
       "playerImage3": "https://i.mydramalist.com/dZojW_5c.jpg",
@@ -1251,7 +1251,7 @@
       "contentRating": "15+",
       "episode": "Bölüm: 16",
       "playerAbout1": "https://mydramalist.com/people/829-yoon-kye-sang",
-      "playerAbout2": "",
+      "playerAbout2": "https://mydramalist.com/people/187-ha-ji-won",
       "playerAbout3": "https://mydramalist.com/people/8652-jang-seung-jo"
     },
     {
@@ -1347,7 +1347,7 @@
       "episode": "Bölüm: 16",
       "playerAbout1": "",
       "playerAbout2": "https://mydramalist.com/people/17947-geum-sae-rok",
-      "playerAbout3": ""
+      "playerAbout3": "https://mydramalist.com/people/15847-jun"
     },
     {
       "id": 72,
@@ -1649,7 +1649,7 @@
       "genreIds": [8, 5, 12],
       "contentRating": "15+",
       "episode": "Bölüm: 14",
-      "playerAbout1": "",
+      "playerAbout1": "https://mydramalist.com/people/187-ha-ji-won",
       "playerAbout2": "https://mydramalist.com/people/699-lee-seo-jin",
       "playerAbout3": ""
     },
@@ -1860,7 +1860,7 @@
       "episode": "Bölüm: 32",
       "playerAbout1": "https://mydramalist.com/people/469-ji-sung",
       "playerAbout2": "https://mydramalist.com/people/4047-lee-se-young",
-      "playerAbout3": ""
+      "playerAbout3": "https://mydramalist.com/people/12102-lee-kyu-hyung"
     },
     {
       "id": 99,
@@ -2105,7 +2105,7 @@
       "genreIds": [8, 4, 3],
       "contentRating": "15+",
       "episode": "Bölüm: 51",
-      "playerAbout1": "",
+      "playerAbout1": "https://mydramalist.com/people/187-ha-ji-won",
       "playerAbout2": "https://mydramalist.com/people/806-ji-chang-wook",
       "playerAbout3": "https://mydramalist.com/people/281-joo-jin-mo"
     },
@@ -2144,7 +2144,7 @@
       "contentRating": "15+",
       "episode": "Bölüm: 18",
       "playerAbout1": "https://mydramalist.com/people/469-ji-sung",
-      "playerAbout2": "",
+      "playerAbout2": "https://mydramalist.com/people/2664-hyeri",
       "playerAbout3": ""
     },
     {
@@ -2638,7 +2638,7 @@
       "contentRating": "15+",
       "episode": "Bölüm: 12",
       "playerAbout1": "https://mydramalist.com/people/668-jang-na-ra",
-      "playerAbout2": "",
+      "playerAbout2": "https://mydramalist.com/people/3891-son-ho-jun",
       "playerAbout3": ""
     },
     {
@@ -3170,7 +3170,7 @@
       "contentRating": "15+",
       "episode": "Bölüm: 16",
       "playerAbout1": "",
-      "playerAbout2": "",
+      "playerAbout2": "https://mydramalist.com/people/12102-lee-kyu-hyung",
       "playerAbout3": "https://mydramalist.com/people/8430-go-bo-gyeol"
     },
     {
@@ -3207,7 +3207,7 @@
       "genreIds": [15, 3, 22],
       "contentRating": "15+",
       "episode": "Bölüm: 16",
-      "playerAbout1": "",
+      "playerAbout1": "https://mydramalist.com/people/1742-park-sung-woong",
       "playerAbout2": "https://mydramalist.com/people/234-kim-bum",
       "playerAbout3": "https://mydramalist.com/people/1502-yoon-so-yi"
     },
@@ -3321,7 +3321,7 @@
       "genreIds": [5, 3, 10],
       "contentRating": "15+",
       "episode": "Bölüm: 40",
-      "playerAbout1": "",
+      "playerAbout1": "https://mydramalist.com/people/187-ha-ji-won",
       "playerAbout2": "",
       "playerAbout3": ""
     },
@@ -3378,7 +3378,7 @@
       "genreIds": [8, 5, 3],
       "contentRating": "15+",
       "episode": "Bölüm: 24",
-      "playerAbout1": "",
+      "playerAbout1": "https://mydramalist.com/people/187-ha-ji-won",
       "playerAbout2": "",
       "playerAbout3": ""
     },
@@ -4120,7 +4120,7 @@
       "contentRating": "15+",
       "episode": "Bölüm: 20",
       "playerAbout1": "https://mydramalist.com/people/387-lee-seung-gi",
-      "playerAbout2": "",
+      "playerAbout2": "https://mydramalist.com/people/187-ha-ji-won",
       "playerAbout3": ""
     },
     {
@@ -4264,7 +4264,7 @@
       "description": "2008 yılı yapımı bu dizide: The Kingdom of The Winds aynı isimli bir manh'dan uyarlanmış olan Goguryeo’un \"Savaşların Tanrısı\" olarak tanınan 3. kralı Muhyul Daemosin’in hayatı konu edinmektedir. Muhyul’un doğumuyla beraber bir kehanetide dünyaya getirdiğine inanılır, bu kehanete göre Muhyul aynı zamanda ailesini ve ülkesini yok edecek kişidir. Kehanetten korkan ancak kendi oğlunu öldürebilecek bir yapıya sahip olmayan babası Kral Yuri en büyük oğlu Haemyung’u Muhyul’u alıp saraydan götürmesi ve halk tabakasından birisi olarak yaşaması için görevlendirir. Muhyul’u yanına alan Haemyung, Kral Jumong’un Mezarında çalışmakta olan arkadaşı Şef Dekarotör Hye Ap’ın yanına götürür. Aradan 20 yıl geçer, Muhyul artık büyümüş ve yetişkin bir adam olmuştur ancak gerçek kimliği hakkında hiçbir bilgiye sahip değildir.",
       "playerName1": "Song Il Gook\n(Mu Hyul)",
       "playerName2": "Choi Jung Won\n(Prenses Yeon)",
-      "playerName3": "Jung Jin Young\n(Kral Yu Ri)",
+      "playerName3": "Jung Jin Youngi\n(Kral Yu Ri)",
       "playerImage1": "https://i.mydramalist.com/jnjVw_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/Zvbz1c.jpg",
       "playerImage3": "https://i.mydramalist.com/dZojW_5c.jpg",
@@ -4348,7 +4348,7 @@
       "contentRating": "15+",
       "episode": "Bölüm: 16",
       "playerAbout1": "https://mydramalist.com/people/1334-jin-goo",
-      "playerAbout2": "",
+      "playerAbout2": "https://mydramalist.com/people/12392-seo-eun-soo",
       "playerAbout3": "https://mydramalist.com/people/5824-yoon-park"
     },
     {
@@ -4500,7 +4500,7 @@
       "contentRating": "15+",
       "episode": "Bölüm: 16",
       "playerAbout1": "https://mydramalist.com/people/698-jung-kyung-ho",
-      "playerAbout2": "",
+      "playerAbout2": "https://mydramalist.com/people/1742-park-sung-woong",
       "playerAbout3": ""
     },
     {
@@ -4747,7 +4747,7 @@
       "contentRating": "15+",
       "episode": "Bölüm: 16",
       "playerAbout1": "https://mydramalist.com/people/1220-moon-chae-won",
-      "playerAbout2": "",
+      "playerAbout2": "https://mydramalist.com/people/1659-go-doo-shim",
       "playerAbout3": "https://mydramalist.com/people/5395-yoon-hyun-min"
     },
     {
@@ -4786,7 +4786,7 @@
       "episode": "Bölüm: 16",
       "playerAbout1": "https://mydramalist.com/people/645-park-hae-jin",
       "playerAbout2": "",
-      "playerAbout3": ""
+      "playerAbout3": "https://mydramalist.com/people/1742-park-sung-woong"
     },
     {
       "id": 253,
@@ -5069,7 +5069,7 @@
       "genreIds": [4, 19, 3],
       "contentRating": "15+",
       "episode": "Bölüm: 16",
-      "playerAbout1": "",
+      "playerAbout1": "https://mydramalist.com/people/2664-hyeri",
       "playerAbout2": "https://mydramalist.com/people/814-kim-sang-kyung",
       "playerAbout3": ""
     },
@@ -5261,7 +5261,7 @@
       "episode": "Bölüm: 20",
       "playerAbout1": "https://mydramalist.com/people/207-lee-joon-gi",
       "playerAbout2": "",
-      "playerAbout3": ""
+      "playerAbout3": "https://mydramalist.com/people/3850-kang-ha-neul"
     },
     {
       "id": 278,
@@ -6628,7 +6628,7 @@
       "contentRating": "15+",
       "episode": "Bölüm: 20",
       "playerAbout1": "",
-      "playerAbout2": "",
+      "playerAbout2": "https://mydramalist.com/people/1742-park-sung-woong",
       "playerAbout3": "https://mydramalist.com/people/513-nam-goong-min"
     },
     {
@@ -6856,7 +6856,7 @@
       "contentRating": "15+",
       "episode": "Bölüm: 16",
       "playerAbout1": "https://mydramalist.com/people/1328-choi-jin-hyuk",
-      "playerAbout2": "",
+      "playerAbout2": "https://mydramalist.com/people/1742-park-sung-woong",
       "playerAbout3": "https://mydramalist.com/people/1657-jo-dong-hyeok"
     },
     {
@@ -7065,7 +7065,7 @@
       "contentRating": "15+",
       "episode": "Bölüm: 20",
       "playerAbout1": "",
-      "playerAbout2": "",
+      "playerAbout2": "https://mydramalist.com/people/187-ha-ji-won",
       "playerAbout3": ""
     },
     {
@@ -7807,7 +7807,7 @@
       "episode": "Bölüm: 32",
       "playerAbout1": "https://mydramalist.com/people/493-so-ji-sub",
       "playerAbout2": "",
-      "playerAbout3": ""
+      "playerAbout3": "https://mydramalist.com/people/3891-son-ho-jun"
     },
     {
       "id": 412,
@@ -8776,7 +8776,7 @@
       "episode": "Bölüm: 16",
       "playerAbout1": "https://mydramalist.com/people/2576-seo-in-guk",
       "playerAbout2": "https://mydramalist.com/people/346-jung-so-min",
-      "playerAbout3": ""
+      "playerAbout3": "https://mydramalist.com/people/1742-park-sung-woong"
     },
     {
       "id": 463,
@@ -8888,7 +8888,7 @@
       "genreIds": [18, 4, 17],
       "contentRating": "15+",
       "episode": "Bölüm: 16",
-      "playerAbout1": "",
+      "playerAbout1": "https://mydramalist.com/people/187-ha-ji-won",
       "playerAbout2": "",
       "playerAbout3": ""
     },
@@ -9212,7 +9212,7 @@
       "contentRating": "15+",
       "episode": "Bölüm: 32",
       "playerAbout1": "",
-      "playerAbout2": "",
+      "playerAbout2": "https://mydramalist.com/people/2664-hyeri",
       "playerAbout3": "https://mydramalist.com/people/15244-kim-sun-ho"
     },
     {
@@ -9630,7 +9630,7 @@
       "contentRating": "15+",
       "episode": "Bölüm: 40",
       "playerAbout1": "",
-      "playerAbout2": "",
+      "playerAbout2": "https://mydramalist.com/people/3850-kang-ha-neul",
       "playerAbout3": "https://mydramalist.com/people/343-kim-ji-suk"
     },
     {
@@ -9649,7 +9649,7 @@
       "contentRating": "15+",
       "episode": "Bölüm: 16",
       "playerAbout1": "https://mydramalist.com/people/698-jung-kyung-ho",
-      "playerAbout2": "",
+      "playerAbout2": "https://mydramalist.com/people/1742-park-sung-woong",
       "playerAbout3": ""
     },
     {
@@ -10922,7 +10922,7 @@
       "contentRating": "15+",
       "episode": "Bölüm: 16",
       "playerAbout1": "https://mydramalist.com/people/8226-jang-ki-yong",
-      "playerAbout2": "",
+      "playerAbout2": "https://mydramalist.com/people/2664-hyeri",
       "playerAbout3": ""
     },
     {
@@ -11094,7 +11094,7 @@
       "episode": "Bölüm: 10",
       "playerAbout1": "",
       "playerAbout2": "",
-      "playerAbout3": ""
+      "playerAbout3": "https://mydramalist.com/people/32961-chae-jong-hyeop"
     },
     {
       "id": 585,
@@ -11189,7 +11189,7 @@
       "episode": "Bölüm: 8",
       "playerAbout1": "",
       "playerAbout2": "https://mydramalist.com/people/1434-nam-ji-hyun",
-      "playerAbout3": ""
+      "playerAbout3": "https://mydramalist.com/people/32961-chae-jong-hyeop"
     },
     {
       "id": 590,
@@ -11492,7 +11492,7 @@
       "contentRating": "15+",
       "episode": "Bölüm: 16",
       "playerAbout1": "",
-      "playerAbout2": "",
+      "playerAbout2": "https://mydramalist.com/people/3891-son-ho-jun",
       "playerAbout3": ""
     },
     {
@@ -11967,7 +11967,7 @@
       "contentRating": "15+",
       "episode": "Bölüm: 10",
       "playerAbout1": "",
-      "playerAbout2": "",
+      "playerAbout2": "https://mydramalist.com/people/15847-jun",
       "playerAbout3": ""
     },
     {
@@ -12309,7 +12309,7 @@
       "contentRating": "15+",
       "episode": "Bölüm: 16",
       "playerAbout1": "",
-      "playerAbout2": "",
+      "playerAbout2": "https://mydramalist.com/people/2664-hyeri",
       "playerAbout3": ""
     },
     {
@@ -12955,7 +12955,7 @@
       "contentRating": "15+",
       "episode": "Bölüm: 16",
       "playerAbout1": "https://mydramalist.com/people/24041-park-joo-hyun",
-      "playerAbout2": "",
+      "playerAbout2": "https://mydramalist.com/people/32961-chae-jong-hyeop",
       "playerAbout3": ""
     },
     {
@@ -14086,7 +14086,7 @@
       "rating": 8.2,
       "description": "2023 yılı yapımı bu dizide: Şantajcı 'Friend'in arkasındaki gizli dehayı araştırmak için geri dönen deneyimli cinayet masası dedektifi Kim Taek Rok'un nihai karşı saldırısını gözler önüne seriyor.",
       "playerName1": "Lee Sung Min\n(Kim Taek Rok)",
-      "playerName2": "Jung Jin Young\n(Choi Do Hyung)",
+      "playerName2": "Jung Jin Youngi\n(Choi Do Hyung)",
       "playerName3": "Kyung Soo Jin\n(Lee Sung A)",
       "playerImage1": "https://i.mydramalist.com/d78nD_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/dZojW_5c.jpg",
@@ -14287,6 +14287,120 @@
           "playerAbout1": "https://mydramalist.com/people/2991-kim-ok-bin",
           "playerAbout2": "https://mydramalist.com/people/11255-yoo-teo",
           "playerAbout3": "https://mydramalist.com/people/1270-kim-ji-hoon"
+      },
+      {
+      "id": 753,
+          "koreasName": "Curtain Call",
+          "koreasImage": "https://i.mydramalist.com/w13Xg_4f.jpg",
+          "rating": 7.7,
+          "description": "2022 yılı yapımı bu dizide: Ja Geum Soon, 1930'da şimdiki Kuzey Kore'de doğdu. 1950'lerde Kore Savaşı patlak verdiğinde, şimdiki Güney Kore'ye kaçtı ve kocasından ve küçük çocuğundan koparıldı. Onlarla yeniden bir araya gelmenin hayalini kurdu ve mecazi bir deniz feneri olacağını ve kayıp ailesini ona geri getireceğini umduğu bir otel kurdu. Bu otel başarılı Nakwon otel zinciri haline geldi. Artık Ja Geum Soon hayatının sonuna yaklaşmaktadır ve hiç tanımadığı torunu Im Moon Sung ile yeniden bir araya gelmenin hayalini kurmaktadır. Her zaman sadık asistanı Jung Sang Cheol, ölmeden önce yaşlı kadına huzur getirmeye yardımcı olacak bir plan yapar - Im Moon Sung rolünü üstlenecek bir aktör tutar. Bir tiyatro gösterisinde Kuzey Koreli bir askeri canlandıran, zor durumdaki bir sahne oyuncusu olan Yoo Jae Heon'u arıyor. Yoo Jae Heon da aynı fikirde. Kuzey'e dönmeye çalışmadan önce bir süreliğine yaşlı kadını ziyarete gelen bir sığınmacı gibi davranması söylenir. Ancak çok geçmeden çiğneyebileceğinden fazlasını ısırdığı anlaşılıyor. Ayrıca Ja Geum Soon'un torunu, Nakwon'u yöneten kadın Park Se Yeon'la da yolları kesişir... ve onun başkasının eline geçmesine izin vermeyeceğine yemin etmiştir!",
+          "playerName1": "Kang Ha Neul\n(Yoo Jae Hun)",
+          "playerName2": "Ha Ji Won\n(Park Se Yun)",
+          "playerName3": "Go Doo Shim\n(Ja Geum Sun)",
+          "playerImage1": "https://i.mydramalist.com/0Kxmr_5c.jpg",
+          "playerImage2": "https://i.mydramalist.com/4Peyw_5c.jpg",
+          "playerImage3": "https://i.mydramalist.com/RJnePc.jpg",
+          "genreIds": [3, 5, 19],
+          "contentRating": "13+",
+          "episode": "Bölüm: 16",
+          "playerAbout1": "https://mydramalist.com/people/3850-kang-ha-neul",
+          "playerAbout2": "https://mydramalist.com/people/187-ha-ji-won",
+          "playerAbout3": "https://mydramalist.com/people/1659-go-doo-shim"
+      },
+      {
+      "id": 754,
+          "koreasName": "May I Help You",
+          "koreasImage": "https://i.mydramalist.com/6RqNX_4f.jpg",
+          "rating": 8.2,
+          "description": "2022 yılı yapımı bu dizide: Baek Dong Joo, cenaze müdürü olarak çalışmaya yeni başlayan eski bir profesyonel pinpon sporcusudur. İşteki ilk gününde, yakın zamanda ölen insanlara dokunduğunda bir an için dirilme ve onlarla konuşma yeteneğine sahip olduğunu ya da lanetlediğini öğrenir. Yaşamla ölüm arasında kalan bu insanların, onun yerine getirmesi gereken son dilekleri vardır, aksi takdirde günleri bir dizi kötü şans ve kazalarla dolu olacaktır. Ölülerin hayata dönmesinden korkarak ilk günden itibaren işyerinden kaçar ve daha önce başarısız olduğu sivil sınava çalışmaya geri döner. Ancak o günden sonra yaşadığı talihsizlik ve terk ettiği ilk müşterisinin hatırası onu yalnız bırakmadı. Bu nedenle, bir yıldan fazla bir süre sonra Baek Dong Joo, karmik talihsizliğine son vermek için ölü insanlara karşı görevini ve isteklerini yerine getirmek amacıyla cenaze müdürü olarak işe geri dönmeye karar verir. Bu kaderden kurtulmak için toplamda 21 dilek dilemesi gerekiyor. Müşterileri tarafından Kim Jip Sa olarak da bilinen Kim Tae Hee, kiralık erkek olarak çalışıyor. Yeni açılan ayak işleri hizmeti şirketi "A Dime A Job"u yöneten amcası Vincent tarafından işe alınıyor ve yüz Won kadar düşük bir ücret karşılığında her türlü tuhaf ama yasal görev için işe alınabiliyor. Bir gün Kim Tae Hee, erkek arkadaşı tarafından onun yerine ondan ayrılması için işe alınan Baek Dong Joo ile karşılaşır. Bundan sonra yolları kesişmeye devam eder ve yaptıkları iş gereği kaderleri, ölen insanların arzularını ve yaşanacak acı dolu geçmişi kuşatan bir dizi ölüm kalım durumuyla giderek daha derin bir şekilde iç içe geçer. her ikisi için de çözülür.",
+          "playerName1": "Lee Hye Ri\n(Baek Dong Joo)",
+          "playerName2": "Lee Jun Young\n(Kim Tae Hee)",
+          "playerName3": "Song Deok Ho\n(Seo Hae Ahn)",
+          "playerImage1": "https://i.mydramalist.com/EbVK0_5c.jpg",
+          "playerImage2": "https://i.mydramalist.com/v2yzZ_5c.jpg",
+          "playerImage3": "https://i.mydramalist.com/2vEod_5c.jpg",
+          "genreIds": [3, 5, 15],
+          "contentRating": "15+",
+          "episode": "Bölüm: 16",
+          "playerAbout1": "https://mydramalist.com/people/2664-hyeri",
+          "playerAbout2": "https://mydramalist.com/people/15847-jun",
+          "playerAbout3": "https://mydramalist.com/people/66843-song-deok-ho"
+      },
+      {
+      "id": 755,
+          "koreasName": "May It Please the Court",
+          "koreasImage": "https://i.mydramalist.com/jkwdw_4f.jpg",
+          "rating": 8.2,
+          "description": "2022 yılı yapımı bu dizide: Büyük bir hukuk firmasının başarılı avukatı No Chak Hee, bir davayı kazanmak için her türlü riski almaya hazırdır ve ortak pozisyonunda terfi almaya hazırdır ancak kabul ettiği bir davada bir sorun ortaya çıkar. Dava nedeniyle bir yıl uzaklaştırma cezası alıyor. Daha sonra kamu avukatı olarak çalışmaya başlıyor ancak daha önce çalıştığı hukuk firmasındaki görevine geri dönmeyi umuyor. Bir kamu savunucusu olarak, Adli Araştırma ve Eğitim Enstitüsü'nün en iyi mezunlarından biri olan kamu savunucusu Jwa Shi Baek ile aynı ofisi paylaşıyor. Büyük bir hukuk firmasında hakim, savcı ya da avukat olmak yerine kamu avukatı olarak çalışmayı seçti. İşinden heyecan duyuyor ama aynı zamanda kişisel hayatında kimsenin bilmediği gizemli bir kısmına da sahip. No Chak Hee ve Jwa Shi Baek pek iyi anlaşamıyorlar ama bir seri cinayet davası onları bir araya getirdi ve davayı birlikte çözmeye çalıştıkça daha fazla sır ortaya çıkıyor ve birbirlerine güvenmeye başlıyorlar.",
+          "playerName1": "Jung Ryeo Won\n(Noh Chak Hee)",
+          "playerName2": "Lee Kyu Hyung\n(Jwa Si Baek)",
+          "playerName3": "Jung Jin Youngi\n(Jang Gi Do)",
+          "playerImage1": "https://i.mydramalist.com/j7dw8_5c.jpg",
+          "playerImage2": "https://i.mydramalist.com/W6rol_5c.jpg",
+          "playerImage3": "https://i.mydramalist.com/dZojW_5c.jpg",
+          "genreIds": [3, 13, 15],
+          "contentRating": "15+",
+          "episode": "Bölüm: 12",
+          "playerAbout1": "https://mydramalist.com/people/989-jung-ryeo-won",
+          "playerAbout2": "https://mydramalist.com/people/12102-lee-kyu-hyung",
+          "playerAbout3": "https://mydramalist.com/people/289-jung-jin-young"
+      },
+      {
+      "id": 756,
+          "koreasName": "The First Responders 1",
+          "koreasImage": "https://i.mydramalist.com/XnW5J_4f.jpg",
+          "rating": 8.6,
+          "description": "2022 yılı yapımı bu dizide: Birlikte heyecan verici bir hikaye anlatacak olan polis gücü ve itfaiye teşkilatının ortak operasyonlarını izleyin. Acımasız dedektif Jin Ho Gae'nin amacı serserileri yakalamaktır. Olay yerlerini kavrama, bir suçlunun aklını okuma konusundaki mükemmel yeteneğiyle vakaları çözüyor ve güçlü bir kazanma isteği var. Dışarıdan soğuk görünen korkusuz itfaiyeci Bong Do Jin, etrafındakilere karşı iyi davranır ve kurbanlarla iyi ilgilenir. Bir an bile tereddüt etmeden yangın alanlarına koşuyor. İkiliye, yaraları tedavi ederken kırık kalpleri de iyileştiren empatik bir sağlık görevlisi olan Song Seol da katılıyor.",
+          "playerName1": "Kim Rae Won\n(Jin Ho Gae)",
+          "playerName2": "Son Ho Jun\n(Bong Do Jin)",
+          "playerName3": "Gong Seung Yeon\n(Song Seol)",
+          "playerImage1": "https://i.mydramalist.com/vEpkg_5c.jpg",
+          "playerImage2": "https://i.mydramalist.com/BNjpR_5c.jpg",
+          "playerImage3": "https://i.mydramalist.com/eYyXln_5c.jpg",
+          "genreIds": [1, 3, 15],
+          "contentRating": "15+",
+          "episode": "Bölüm: 12",
+          "playerAbout1": "https://mydramalist.com/people/301-kim-rae-won",
+          "playerAbout2": "https://mydramalist.com/people/3891-son-ho-jun",
+          "playerAbout3": "https://mydramalist.com/people/9347-gong-seung-yeon"
+      },
+            {
+      "id": 757,
+          "koreasName": "The First Responders 2",
+          "koreasImage": "https://i.mydramalist.com/BdrXdl_4f.jpg",
+          "rating": 8.2,
+          "description": "2023 yılı yapımı bu dizide: Sezon, polis gücü, itfaiye teşkilatı ve sağlık görevlilerinin tehlike karşısında cesaretlerini ve ekip çalışmalarını sergileyen ortak operasyonlarını takip etmeye devam ediyor. Ancak bu sefer izleyiciler karakterlerin motivasyonlarını ve kişisel mücadelelerini daha derinden anlayacaklar.",
+          "playerName1": "Kim Rae Won\n(Jin Ho Gae)",
+          "playerName2": "Son Ho Jun\n(Bong Do Jin)",
+          "playerName3": "Gong Seung Yeon\n(Song Seol)",
+          "playerImage1": "https://i.mydramalist.com/vEpkg_5c.jpg",
+          "playerImage2": "https://i.mydramalist.com/BNjpR_5c.jpg",
+          "playerImage3": "https://i.mydramalist.com/eYyXln_5c.jpg",
+          "genreIds": [1, 3, 15],
+          "contentRating": "15+",
+          "episode": "Bölüm: 12",
+          "playerAbout1": "https://mydramalist.com/people/301-kim-rae-won",
+          "playerAbout2": "https://mydramalist.com/people/3891-son-ho-jun",
+          "playerAbout3": "https://mydramalist.com/people/9347-gong-seung-yeon"
+      },
+      {
+      "id": 758,
+          "koreasName": "Unlock My Boss",
+          "koreasImage": "https://i.mydramalist.com/xeQgy_4f.jpg",
+          "rating": 8.0,
+          "description": "2022 yılı yapımı bu dizide: Ülkenin en büyük BT şirketlerinden birinin kurucusu ve CEO'su olan Kim Sun Joo, herkesin tanıdığı bir isim. Alanında gerçek bir dahi olan Sun Joo, hayatta her şeyin onun için yolunda gitmesini sağlar. Ancak zirvede yaşamanın kendine has zorlukları da vardır ve bazıları onu aşağıya çekmek için her şeyi yapar. Bu durumda kelimenin tam anlamıyla. Bilinmeyen bir katilin peşine düşen Sun Joo, anlamsız bir cinayetin talihsiz kurbanı olur. Ancak Sun Joo'nun ruhu bu hayatı terk etmek yerine bir şekilde akıllı telefonuna yerleşir. Artık telefonunun içinde sıkışıp kalan Sun Joo, eğer Park In Sung tesadüfen telefonuna rastlamasaydı orada sonsuza kadar kalabilirdi. İş bulamayan, perişan bir üniversite mezunu olan In Sung, Sun Joo'nun ruhunun yaşadığı bir telefon bulunca şok olur. Bu durumdan yararlanan Sun Joo, In Sung'u kendisine yardım etmeye ikna etmek için elinden geleni yapar; Hizmetlerinin karşılığında In Sung'a vermek istediği ağır ödülden bahsettiğinde bu görev daha da kolaylaşıyor. Geçici CEO rolünü üstlenen In Sung, şirkette Sun Joo'nun yerine geçer ve bu durum sekreteri Jung Se Yeon'u çok üzer. Birlikte gizlice çalışan ikili, Sun Joo'nun ölümünden sorumlu olanları bulabilecek mi?",
+          "playerName1": "Chae Jong Hyeop\n(Park In Sung)",
+          "playerName2": "Park Sung Woong\n(Kim Sun Joo)",
+          "playerName3": "Seo Eun Soo\n(Jung Se Yeon)",
+          "playerImage1": "https://i.mydramalist.com/22ZE2_5c.jpg",
+          "playerImage2": "https://i.mydramalist.com/Zvb4jc.jpg",
+          "playerImage3": "https://i.mydramalist.com/6LDBPc.jpg",
+          "genreIds": [2, 4, 15],
+          "contentRating": "15+",
+          "episode": "Bölüm: 12",
+          "playerAbout1": "https://mydramalist.com/people/32961-chae-jong-hyeop",
+          "playerAbout2": "https://mydramalist.com/people/1742-park-sung-woong",
+          "playerAbout3": "https://mydramalist.com/people/12392-seo-eun-soo"
       }
   ]
 }
