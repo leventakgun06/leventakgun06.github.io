@@ -167,7 +167,7 @@
       "genreIds": [8, 4, 3],
       "contentRating": "12+",
       "episode": "Süre: 2s 9d",
-      "playerAbout1": "",
+      "playerAbout1": "https://mydramalist.com/people/1810-lee-je-hoon",
       "playerAbout2": "",
       "playerAbout3": ""
     },
@@ -984,7 +984,7 @@
       "genreIds": [15, 12, 22],
       "contentRating": "12+",
       "episode": "Süre: 2s 6d",
-      "playerAbout1": "",
+      "playerAbout1": "https://mydramalist.com/people/1810-lee-je-hoon",
       "playerAbout2": "",
       "playerAbout3": "https://mydramalist.com/people/3044-kim-sung-kyun"
     },
@@ -1062,7 +1062,7 @@
       "episode": "Süre: 2s 1d",
       "playerAbout1": "",
       "playerAbout2": "https://mydramalist.com/people/883-jang-dong-gun",
-      "playerAbout3": ""
+      "playerAbout3": "https://mydramalist.com/people/6557-jo-woo-jin"
     },
     {
       "id": 57,
@@ -1518,7 +1518,7 @@
       "episode": "Süre: 2s 20d",
       "playerAbout1": "",
       "playerAbout2": "",
-      "playerAbout3": ""
+      "playerAbout3": "https://mydramalist.com/people/342-park-hae-il"
     },
     {
       "id": 81,
@@ -1612,7 +1612,7 @@
       "contentRating": "12+",
       "episode": "Süre: 2s 25d",
       "playerAbout1": "",
-      "playerAbout2": "",
+      "playerAbout2": "https://mydramalist.com/people/8838-kim-tae-ri",
       "playerAbout3": ""
     },
     {
@@ -1631,7 +1631,7 @@
       "contentRating": "12+",
       "episode": "Süre: 1s 50d",
       "playerAbout1": "https://mydramalist.com/people/276-song-kang-ho",
-      "playerAbout2": "",
+      "playerAbout2": "https://mydramalist.com/people/342-park-hae-il",
       "playerAbout3": ""
     },
     {
@@ -1650,7 +1650,7 @@
       "contentRating": "12+",
       "episode": "Süre: 1s 7d",
       "playerAbout1": "",
-      "playerAbout2": "",
+      "playerAbout2": "https://mydramalist.com/people/342-park-hae-il",
       "playerAbout3": "https://mydramalist.com/people/1851-kim-so-hyun"
     },
     {
@@ -2048,7 +2048,7 @@
       "genreIds": [2, 15, 3],
       "contentRating": "12+",
       "episode": "Süre: 1s 54d",
-      "playerAbout1": "",
+      "playerAbout1": "https://mydramalist.com/people/342-park-hae-il",
       "playerAbout2": "https://mydramalist.com/people/1908-yoo-yeon-seok",
       "playerAbout3": ""
     },
@@ -2143,7 +2143,7 @@
       "genreIds": [1, 8, 3],
       "contentRating": "12+",
       "episode": "Süre: 2s 2d",
-      "playerAbout1": "",
+      "playerAbout1": "https://mydramalist.com/people/342-park-hae-il",
       "playerAbout2": "",
       "playerAbout3": "https://mydramalist.com/people/1220-moon-chae-won"
     },
@@ -2163,7 +2163,7 @@
       "contentRating": "12+",
       "episode": "Süre: 1s 51d",
       "playerAbout1": "",
-      "playerAbout2": "",
+      "playerAbout2": "https://mydramalist.com/people/7710-byun-yo-han",
       "playerAbout3": ""
     },
     {
@@ -2525,7 +2525,7 @@
       "episode": "Süre: 2s 15d",
       "playerAbout1": "",
       "playerAbout2": "",
-      "playerAbout3": ""
+      "playerAbout3": "https://mydramalist.com/people/6557-jo-woo-jin"
     },
     {
       "id": 134,
@@ -2583,6 +2583,82 @@
       "playerAbout1": "",
       "playerAbout2": "https://mydramalist.com/people/346-jung-so-min",
       "playerAbout3": ""
-    }
+    },
+    {
+      "id": 137,
+          "koreasName": "The Assassin",
+          "koreasImage": "https://i.mydramalist.com/QJ86D2_4f.jpg",
+          "rating": 6.7,
+          "description": "2023 yılı yapımı bu filmde: Joseon'un en iyi kılıç ustası Yi Nan'ın geri dönüşü olmayan bir kaderle karşı karşıya kalan hikayesini anlatan, aksiyon tarihi bir drama.",
+          "playerName1": "Shin Hyun Joon\n(Yi Nan)",
+          "playerName2": "Lee Moon Shik\n(Yi Bang)",
+          "playerName3": "Kim Min Kyung\n(Seon Hong)",
+          "playerImage1": "https://i.mydramalist.com/6031k2_5c.jpg",
+          "playerImage2": "https://i.mydramalist.com/jKm7d_5c.jpg",
+          "playerImage3": "https://i.mydramalist.com/BdprX5_5c.jpg",
+          "genreIds": [1, 8, 11],
+          "contentRating": "15+",
+          "episode": "Süre: 1s 41d",
+          "playerAbout1": "https://mydramalist.com/people/286-shin-hyun-joon",
+          "playerAbout2": "https://mydramalist.com/people/379-lee-moon-shik",
+          "playerAbout3": "https://mydramalist.com/people/2147-kim-min-kyung"
+      },
+      {
+      "id": 138,
+          "koreasName": "Hard Hit",
+          "koreasImage": "https://i.mydramalist.com/dKnWg_4f.jpg",
+          "rating": 7.9,
+          "description": "2021 yılı yapımı bu filmde: Sung Kyu bir banka şubesinde yönetici olarak çalışmaktadır. Bir sabah çocuklarını okula ve ardından işe gitmek üzere yola çıkar ancak arayan kimliği olmayan bir telefon alır. Arayan kişi ona \"arabadan indiğinde bomba patlayacak" der.\",
+          "playerName1": "Jo Woo Jin\n(Lee Sung Gyu)",
+          "playerName2": "Ji Chang Wook\n(Jin Woo)",
+          "playerName3": "Lee Jae In\n(Lee Hye In)",
+          "playerImage1": "https://i.mydramalist.com/6zd3g_5c.jpg",
+          "playerImage2": "https://i.mydramalist.com/ZyyEJ_5c.jpg",
+          "playerImage3": "https://i.mydramalist.com/1wd6r6_5c.jpg",
+          "genreIds": [1, 2, 15],
+          "contentRating": "15+",
+          "episode": "Süre: 1s 34d",
+          "playerAbout1": "https://mydramalist.com/people/6557-jo-woo-jin",
+          "playerAbout2": "https://mydramalist.com/people/806-ji-chang-wook",
+          "playerAbout3": "https://mydramalist.com/people/10359-lee-jae-in"
+      },
+      {
+      "id": 139,
+          "koreasName": "Hansan: Rising Dragon",
+          "koreasImage": "https://i.mydramalist.com/RDogR_4f.jpg",
+          "rating": 7.9,
+          "description": "2022 yılı yapımı bu filmde: 'Hansan', 8 Temmuz 1592'de Hansando açıklarında Japon deniz kuvvetlerini büyük ölçüde yenilgiye uğratan Kore Donanması Muharebesi olan Hansando Muharebesi'ni konu alan bir filmdir.",
+          "playerName1": "Park Hae Il\n(Lee Sun Shin)",
+          "playerName2": "Byun Yo Han\n(Wakisaka Yasuharu)",
+          "playerName3": "Ahn Sung Ki\n(Eo Young Dam)",
+          "playerImage1": "https://i.mydramalist.com/dvdBDc.jpg",
+          "playerImage2": "https://i.mydramalist.com/jPLOB_5c.jpg",
+          "playerImage3": "https://i.mydramalist.com/XB23d_5c.jpg",
+          "genreIds": [3, 8, 26],
+          "contentRating": "13+",
+          "episode": "Süre: 2s 10d",
+          "playerAbout1": "https://mydramalist.com/people/342-park-hae-il",
+          "playerAbout2": "https://mydramalist.com/people/7710-byun-yo-han",
+          "playerAbout3": "https://mydramalist.com/people/2722-ahn-sung-ki"
+      },
+      {
+      "id": 140,
+          "koreasName": "Special Delivery",
+          "koreasImage": "https://i.mydramalist.com/ZxArO_4f.jpg",
+          "rating": 8.2,
+          "description": "2022 yılı yapımı bu filmde: \"Özel Kargo\", paraya değer her şeyi teslim etmede %100 başarı oranına sahip bir sürücü olan Jang Eun Ha'nın arabasına bir çocuk koymasıyla ortaya çıkan beklenmedik olayları konu alan bir suç aksiyon filmi.",
+          "playerName1": "Park So Dam\n(Jang Eun Ha)",
+          "playerName2": "Song Sae Byuk\n(Jo Kyeong Pil)",
+          "playerName3": "Kim Eui Sung\n(CEO Baek)",
+          "playerImage1": "https://i.mydramalist.com/qYyNKP_5c.jpg",
+          "playerImage2": "https://i.mydramalist.com/QXBL5c.jpg",
+          "playerImage3": "https://i.mydramalist.com/j86wrc.jpg",
+          "genreIds": [1, 3, 12],
+          "contentRating": "15+",
+          "episode": "Süre: 1s 48d",
+          "playerAbout1": "https://mydramalist.com/people/7706-park-so-dam",
+          "playerAbout2": "https://mydramalist.com/people/1989-song-sae-byeok",
+          "playerAbout3": "https://mydramalist.com/people/4625-kim-eui-sung"
+      }
   ]
 }
