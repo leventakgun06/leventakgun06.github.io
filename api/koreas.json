@@ -1043,7 +1043,7 @@
       "episode": "Bölüm: 20",
       "playerAbout1": "https://mydramalist.com/people/493-so-ji-sub",
       "playerAbout2": "",
-      "playerAbout3": ""
+      "playerAbout3": "https://mydramalist.com/people/286-shin-hyun-joon"
     },
     {
       "id": 56,
@@ -3152,7 +3152,7 @@
       "episode": "Bölüm: 16",
       "playerAbout1": "https://mydramalist.com/people/430-park-min-young",
       "playerAbout2": "",
-      "playerAbout3": ""
+      "playerAbout3": "https://mydramalist.com/people/9854-ahn-bo-hyun"
     },
     {
       "id": 167,
@@ -6266,7 +6266,7 @@
       "genreIds": [21, 4, 5],
       "contentRating": "15+",
       "episode": "Bölüm: 16",
-      "playerAbout1": "",
+      "playerAbout1": "https://mydramalist.com/people/1989-song-sae-byeok",
       "playerAbout2": "",
       "playerAbout3": "https://mydramalist.com/people/671-yeon-jung-hoon"
     },
@@ -7446,7 +7446,7 @@
       "episode": "Bölüm: 20",
       "playerAbout1": "",
       "playerAbout2": "",
-      "playerAbout3": ""
+      "playerAbout3": "https://mydramalist.com/people/286-shin-hyun-joon"
     },
     {
       "id": 393,
@@ -10125,7 +10125,7 @@
       "episode": "Bölüm: 16",
       "playerAbout1": "https://mydramalist.com/people/1488-shin-sung-rok",
       "playerAbout2": "https://mydramalist.com/people/4047-lee-se-young",
-      "playerAbout3": ""
+      "playerAbout3": "https://mydramalist.com/people/9854-ahn-bo-hyun"
     },
     {
       "id": 534,
@@ -11341,7 +11341,7 @@
       "episode": "Bölüm: 8",
       "playerAbout1": "",
       "playerAbout2": "https://mydramalist.com/people/2587-park-hee-soon",
-      "playerAbout3": ""
+      "playerAbout3": "https://mydramalist.com/people/9854-ahn-bo-hyun"
     },
     {
       "id": 598,
@@ -11702,7 +11702,7 @@
       "episode": "Bölüm: 12",
       "playerAbout1": "",
       "playerAbout2": "",
-      "playerAbout3": ""
+      "playerAbout3": "https://mydramalist.com/people/6557-jo-woo-jin"
     },
     {
       "id": 617,
@@ -12574,7 +12574,7 @@
       "genreIds": [1, 25, 15],
       "contentRating": "15+",
       "episode": "Bölüm: 16",
-      "playerAbout1": "",
+      "playerAbout1": "https://mydramalist.com/people/9854-ahn-bo-hyun",
       "playerAbout2": "",
       "playerAbout3": "https://mydramalist.com/people/914-oh-yeon-soo"
     },
@@ -14514,6 +14514,25 @@
           "playerAbout1": "https://mydramalist.com/people/8838-kim-tae-ri",
           "playerAbout2": "https://mydramalist.com/people/4684-oh-jung-se",
           "playerAbout3": "https://mydramalist.com/people/15693-hong-kyung"
+    },
+    {
+      "id": 765,
+          "koreasName": "See You in My 19th Life",
+          "koreasImage": "https://i.mydramalist.com/0wBjD4_4f.jpg",
+          "rating": 8.4,
+          "description": "2023 yılı yapımı bu dizide: Ban Ji Eum'un olağanüstü bir yeteneği var: tüm geçmiş yaşamlarının anılarını hatırlayabiliyor. Yaklaşık bin yıldır reenkarnasyonunu tekrarlayan Ban Ji Eum, tüm hayatını özenle yaşıyor. Önceki hayatı trajik bir kaza nedeniyle yarıda kaldıktan sonra, şimdiki hayatında geçmiş hayatındaki insanlarla yeniden bağlantı kurmak için yola çıkar ve 18. hayatında tanıştığı Moon Seo Ha adında bir adam bulmaya karar verir. 18. yaşamındaki anılar 19. yaşamındaki romantizmi sabote edecek mi? Yoksa aşk farklı yaşamlarda da devam edecek mi? Diğer tarafta ise bir peyzaj mimarı olan ve ablasının ölümünden sonra hayatı altüst olan Yoon Joo Won'un küçük kız kardeşi Yoon Cho Won vardır. Sevgili kız kardeşinin ölümüyle yüzleştikten sonra bile cesur ve naziktir ancak parlaklığını korumakta zorlanır. Yoon Cho Won şans eseri Ban Ji Eum'la tanışıp ablasını onda görünce Ban Ji Eum'un kimliğini merak eder. Bir de Moon Seo Ha'nın sekreteri ve çocukluğundan beri en yakın arkadaşı Ha Do Yoon var. Tamamen farklı geçmişlerden gelmelerine rağmen Ha Do Yoon ona karşı bir tür yakınlık hissediyor.",
+          "playerName1": "Shin Hye Sun\n(Ban Ji Eum)",
+          "playerName2": "Ahn Bo Hyun\n(Moon Seo Ha)",
+          "playerName3": "Ha Yoon Kyung\n(Yoo Cho Won)",
+          "playerImage1": "https://i.mydramalist.com/4L47w_5c.jpg",
+          "playerImage2": "https://i.mydramalist.com/B6wPl_5c.jpg",
+          "playerImage3": "https://i.mydramalist.com/jz0zd_5c.jpg",
+          "genreIds": [3, 4, 5],
+          "contentRating": "15+",
+          "episode": "Bölüm: 12",
+          "playerAbout1": "https://mydramalist.com/people/7194-shin-hye-sun",
+          "playerAbout2": "https://mydramalist.com/people/9854-ahn-bo-hyun",
+          "playerAbout3": "https://mydramalist.com/people/9536-ha-yoon-kyung"
       }
   ]
 }
