@@ -756,7 +756,7 @@
       "genreIds": [1, 12, 22],
       "contentRating": "12+",
       "episode": "Süre: 2s 23d",
-      "playerAbout1": "",
+      "playerAbout1": "https://mydramalist.com/people/324-lee-byung-hun",
       "playerAbout2": "",
       "playerAbout3": ""
     },
@@ -1098,7 +1098,7 @@
       "genreIds": [1, 2, 3],
       "contentRating": "12+",
       "episode": "Süre: 1s 56d",
-      "playerAbout1": "",
+      "playerAbout1": "https://mydramalist.com/people/276-song-kang-ho",
       "playerAbout2": "https://mydramalist.com/people/276-song-kang-ho",
       "playerAbout3": ""
     },
@@ -1516,7 +1516,7 @@
       "genreIds": [8, 26, 28],
       "contentRating": "12+",
       "episode": "Süre: 2s 20d",
-      "playerAbout1": "",
+      "playerAbout1": "https://mydramalist.com/people/324-lee-byung-hun",
       "playerAbout2": "",
       "playerAbout3": "https://mydramalist.com/people/342-park-hae-il"
     },
@@ -2754,6 +2754,25 @@
           "playerAbout1": "https://mydramalist.com/people/938-hwang-jung-min",
           "playerAbout2": "https://mydramalist.com/people/183-hyun-bin",
           "playerAbout3": "https://mydramalist.com/people/9081-kang-ki-young"
+      },
+      {
+      "id": 146,
+          "koreasName": "Emergency Declaration",
+          "koreasImage": "https://i.mydramalist.com/ZnbbO_4f.jpg",
+          "rating": 8.5,
+          "description": "2022 yılı yapımı bu filmde: Kıdemli dedektif Gu In Ho, bir adamdan uçaktaki terör saldırısıyla ilgili bir rapor alır. Soruşturma sırasında şüphelinin KI501'e bindiğini öğrenir. Park Jae Hyuk, uçak fobisine rağmen kızı için Hawaii'ye gitmeye karar verir. Havaalanında Park Jae Hyuk'un dikkati, etrafta dolaşan tehditkar bir ses tonuyla şüpheli bir adam tarafından dağıtılır. KI501 uçağı Incheon Havalimanı'ndan ayrılır ve Hawaii'ye doğru yola çıkar, ancak kısa süre sonra bilinmeyen bir nedenden dolayı bir adam ölür. Korku ve kafa karışıklığı durumu sadece uçağa değil yere de yayılır. Haberi duyan Kara, Altyapı ve Ulaştırma Bakanı Kim Sook Hee, terörle mücadeleye yönelik bir karargah kurar ve KI501'i indirmenin bir yolunu bulmak için bir acil müdahale toplantısı düzenler.",
+          "playerName1": "Song Kang Ho\n(Gu In Ho)",
+          "playerName2": "Lee Byung Hun\n(Park Jae Hyuk)",
+          "playerName3": "Jeon Do Yeon\n(Kim Sook Hee)",
+          "playerImage1": "https://i.mydramalist.com/RZ60Ec.jpg",
+          "playerImage2": "https://i.mydramalist.com/Erx2Qc.jpg",
+          "playerImage3": "https://i.mydramalist.com/2DKBdc.jpg",
+          "genreIds": [1, 3, 15],
+          "contentRating": "13+",
+          "episode": "Süre: 2s 27d",
+          "playerAbout1": "https://mydramalist.com/people/276-song-kang-ho",
+          "playerAbout2": "https://mydramalist.com/people/324-lee-byung-hun",
+          "playerAbout3": "https://mydramalist.com/people/994-jun-do-yeon"
       }
   ]
 }
