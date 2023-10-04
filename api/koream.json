@@ -207,7 +207,7 @@
       "episode": "Süre: 2s 19d",
       "playerAbout1": "",
       "playerAbout2": "",
-      "playerAbout3": ""
+      "playerAbout3": "https://mydramalist.com/people/593-ha-jung-woo"
     },
     {
       "id": 12,
@@ -680,7 +680,7 @@
       "genreIds": [1, 8, 3],
       "contentRating": "12+",
       "episode": "Süre: 2s 17d",
-      "playerAbout1": "",
+      "playerAbout1": "https://mydramalist.com/people/593-ha-jung-woo",
       "playerAbout2": "",
       "playerAbout3": ""
     },
@@ -1613,7 +1613,7 @@
       "episode": "Süre: 2s 25d",
       "playerAbout1": "",
       "playerAbout2": "https://mydramalist.com/people/8838-kim-tae-ri",
-      "playerAbout3": ""
+      "playerAbout3": "https://mydramalist.com/people/593-ha-jung-woo"
     },
     {
       "id": 85,
@@ -1708,7 +1708,7 @@
       "episode": "Süre: 1s 59d",
       "playerAbout1": "",
       "playerAbout2": "",
-      "playerAbout3": ""
+      "playerAbout3": "https://mydramalist.com/people/3622-kim-hee-won"
     },
     {
       "id": 91,
@@ -1915,7 +1915,7 @@
       "genreIds": [2, 15, 16],
       "contentRating": "12+",
       "episode": "Süre: 1s 37d",
-      "playerAbout1": "",
+      "playerAbout1": "https://mydramalist.com/people/593-ha-jung-woo",
       "playerAbout2": "",
       "playerAbout3": ""
     },
@@ -2276,7 +2276,7 @@
       "genreIds": [15, 21, 3],
       "contentRating": "12+",
       "episode": "Süre: 1s 35d",
-      "playerAbout1": "",
+      "playerAbout1": "https://mydramalist.com/people/593-ha-jung-woo",
       "playerAbout2": "https://mydramalist.com/people/261-kim-nam-gil",
       "playerAbout3": ""
     },
@@ -2773,6 +2773,44 @@
           "playerAbout1": "https://mydramalist.com/people/276-song-kang-ho",
           "playerAbout2": "https://mydramalist.com/people/324-lee-byung-hun",
           "playerAbout3": "https://mydramalist.com/people/994-jun-do-yeon"
+      },
+      {
+      "id": 147,
+          "koreasName": "Unlocked",
+          "koreasImage": "https://i.mydramalist.com/E5dNg7_4f.jpg",
+          "rating": 7.9,
+          "description": "2023 yılı yapımı bu filmde: Tehlikeli bir adamın kayıp cep telefonunu ele geçirip onu her hareketini takip etmek için kullanması, bir kadının hayatını altüst eder.",
+          "playerName1": "Chun Woo Hee\n(Lee Na Mi)",
+          "playerName2": "Yim Si Wan\n(Oh Jun Yeong)",
+          "playerName3": "Kim Hee Won\n(Woo Ji Man)",
+          "playerImage1": "https://i.mydramalist.com/0rZON_5c.jpg",
+          "playerImage2": "https://i.mydramalist.com/QQJv2_5c.jpg",
+          "playerImage3": "https://i.mydramalist.com/1qZ0Kc.jpg",
+          "genreIds": [2, 12, 15],
+          "contentRating": "15+",
+          "episode": "Süre: 1s 57d",
+          "playerAbout1": "https://mydramalist.com/people/4163-chun-woo-hee",
+          "playerAbout2": "https://mydramalist.com/people/1891-im-shi-wan",
+          "playerAbout3": "https://mydramalist.com/people/3622-kim-hee-won"
+      },
+      {
+      "id": 148,
+          "koreasName": "Ransomed",
+          "koreasImage": "https://i.mydramalist.com/WP5jb3_4f.jpg",
+          "rating": 7.9,
+          "description": "2023 yılı yapımı bu filmde: Beyrut 1986'da Lübnan iç savaşı sırasında Koreli bir diplomat iz bırakmadan rehin alınır. Aradan iki yıl geçmiş ve çoktan unutulmuş genç diplomat Min-jun, rehinenin hâlâ hayatta olduğunu kanıtlayan bir telefon alır. Verilen görevle Min-jun, rehineyi kurtarmak için bir çanta dolusu fidye parasıyla Beyrut'a gönderilir.",
+          "playerName1": "Ha Jung Woo\n(Lee Min Joon)",
+          "playerName2": "Ju Ji Hoon\n(Kim Pan Su)",
+          "playerName3": "Im Hyung Guk\n(Oh Jae Seok)",
+          "playerImage1": "https://i.mydramalist.com/xw56y_5c.jpg",
+          "playerImage2": "https://i.mydramalist.com/qJVnB_5c.jpg",
+          "playerImage3": "https://i.mydramalist.com/WZpxp_5c.jpg",
+          "genreIds": [1, 3, 15],
+          "contentRating": "15+",
+          "episode": "Süre: 2s 12d",
+          "playerAbout1": "https://mydramalist.com/people/593-ha-jung-woo",
+          "playerAbout2": "https://mydramalist.com/people/251-joo-ji-hoon",
+          "playerAbout3": "https://mydramalist.com/people/3042-im-hyun-kook"
       }
   ]
 }
