@@ -15027,6 +15027,25 @@
           "playerAbout1": "https://mydramalist.com/people/261-kim-nam-gil",
           "playerAbout2": "https://mydramalist.com/people/5888-seo-hyun",
           "playerAbout3": "https://mydramalist.com/people/6288-yoo-jae-myung"
+      },
+      {
+        "id": 792,
+          "koreasName": "Revenge of Others",
+          "koreasImage": "https://i.mydramalist.com/BX7AA_4f.jpg",
+          "rating": 8.5,
+          "description": "2022 yılı yapımı bu dizide: Bir çocuk okulda düşerek ölür ancak Ok Chan Mi, ikiz kardeşi Park Won Seok'un intihar ettiğine inanmaz. Daha sonra erkek kardeşinin Yongtan Lisesi okuluna transfer olur ve erkek kardeşinin ölümüne tanık olan Ji Soo Heon ile tanışır. Bu sırada Yongtan Lisesi'nde zorbalığa uğrayan öğrencilerin intikamını alan bir \"kahraman\" ortaya çıkar. Ok Chan Mi bunun kardeşiyle bağlantılı olabileceğini tahmin eder ve bu kahramanı aramaya başlar.",
+          "playerName1": "Shin Ye Eun\n(Ok Chan Mi)",
+          "playerName2": "Lomon\n(Ji Soo Heon)",
+          "playerName3": "Seo Ji Hoon\n(Seok Jae Beom)",
+          "playerImage1": "https://i.mydramalist.com/jKAzB_5c.jpg",
+          "playerImage2": "https://i.mydramalist.com/kA0exO_5c.jpg",
+          "playerImage3": "https://i.mydramalist.com/xK7bqc.jpg",
+          "genreIds": [1, 2, 15],
+          "contentRating": "18+",
+          "episode": "Bölüm: 12",
+          "playerAbout1": "https://mydramalist.com/people/19700-shin-ye-eun",
+          "playerAbout2": "https://mydramalist.com/people/15157-park-solomon",
+          "playerAbout3": "https://mydramalist.com/people/12436-seo-ji-hoon"
       }
   ]
 }
