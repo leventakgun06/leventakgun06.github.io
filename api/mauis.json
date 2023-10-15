@@ -1,0 +1,23 @@
+ {
+  "data": [
+    {
+          "id": 1,
+          "koreasName": "Bitch X Rich",
+          "koreasImage": "https://i.mydramalist.com/QJ1Vw6_4f.jpg",
+          "rating": 7.5,
+          "description": "2023 yılı yapımı bu dizide: Baek Je Na, üçüncü nesil bir holdingtir ve Cheongdam Uluslararası Lisesi'nin en yüksek sınıfından bir altın kaşıktır. Kim Hye In yoksulluk içinde büyür ve tanık olduğu bir cinayete sessiz kalması karşılığında Cheongdam Uluslararası Lisesi'nde eğitim görme şansı teklif edilir. Cheongdam Uluslararası Lisesi, Je Na'nın Kim Hye In ile zihinsel savaşta birbirlerine karşı rekabetini konu alan bir cinayet gizemidir.",
+          "playerName1": "Lee Eun Saem\n(Kim Hye In)",
+          "playerName2": "Yeri\n(Baek Je Na)",
+          "playerName3": "Lee Jong Hyuk\n(Seo Do Eon)",
+          "playerImage1": "https://i.mydramalist.com/eWngY_5c.jpg",
+          "playerImage2": "https://i.mydramalist.com/WRX4P_5c.jpg",
+          "playerImage3": "https://i.mydramalist.com/XddXyq_5c.jpg",
+          "genreIds": [2, 15, 29],
+          "contentRating": "15+",
+          "episode": "Bölüm: 10",
+          "playerAbout1": "https://mydramalist.com/people/20270-lee-eun-saem",
+          "playerAbout2": "https://mydramalist.com/people/11863-yeri",
+          "playerAbout3": "https://mydramalist.com/people/74575-lee-jong-hyuk"
+    }
+  ]
+}
