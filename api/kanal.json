@@ -27,7 +27,7 @@
 {
 "id": 5,
 "name": "Show TV",
-"video": "https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8",
+"video": "https://ciner-live.daioncdn.net/showtv/showtv.m3u8",
 "image": "https://leventakgun06.github.io/assets/show.png"
 },
 {
