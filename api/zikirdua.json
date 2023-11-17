@@ -4,114 +4,114 @@
       "id": 1,
       "name": "Cennete gitmek için? ",
       "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
-      "descp": "* Yalan söyleme. * İftira atma.\n * Kul hakkı yeme. * Hırsızlık yapma.\n * Yalancı şahitlik yapma. * Yolsuzluk yapma.\n * İhtiyaçtan fazlasını dağıt. * Servet yığma.\n * İnsan öldürme. * Fitne fesat çıkarma."
+      "descp": "* Yalan söyleme. * İftira atma.\n * Kul hakkı yeme. * Hırsızlık yapma.\n * Yalancı şahitlik yapma. * Yolsuzluk yapma.\n * İhtiyaçtan fazlasını dağıt. * Servet yığma.\n * İnsan öldürme. * Fitne fesat çıkarma.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
     },
     {
       "id": 2,
       "name": "Hastalara şifa veren dua.",
       "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
-      "descp": "Ezhibil-be'se rabben'nasi eşfi ve enteş'şafi la şifae illa şifauke şifaen la yugadiru sekame."
+      "descp": "Ezhibil-be'se rabben'nasi eşfi ve enteş'şafi la şifae illa şifauke şifaen la yugadiru sekame.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
     },
     {
       "id": 3,
       "name": "Ezan duası.",
       "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
-      "descp": "Allâhumme Rabbe hâzihi davetit tâmmeh, ve salâtil kâimeh, âti Muhammedenil vesîlete vel fadîlete, veb'ashü makâmem mahmûdenil lezî va'adteh."
+      "descp": "Allâhumme Rabbe hâzihi davetit tâmmeh, ve salâtil kâimeh, âti Muhammedenil vesîlete vel fadîlete, veb'ashü makâmem mahmûdenil lezî va'adteh.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
     },
     {
       "id": 4,
       "name": "Hastanın iyileşmesi için dua.",
       "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
-      "descp": "Allahümme innî es'elüke ve eteveccehü ileyke bi-Nebiyyike Muhammed’in Nebiyyirrahme, yâ Muhammed innî eteveccehü bike ilâ Rabbi fî hâcetî-hâzihî, li taktıye-li, Allahümme şeffi'hü fiyye"
+      "descp": "Allahümme innî es'elüke ve eteveccehü ileyke bi-Nebiyyike Muhammed’in Nebiyyirrahme, yâ Muhammed innî eteveccehü bike ilâ Rabbi fî hâcetî-hâzihî, li taktıye-li, Allahümme şeffi'hü fiyye",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
     },
     {
       "id": 5,
       "name": "Yemek duası.",
       "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
-      "descp": "Elhamdu lillâhi hamden kesîran mubâreken fîhi, ğayra mekfiyyin, ve lâ muveddein ve lâ musteğnen anhu Rabbenâ."
+      "descp": "Elhamdu lillâhi hamden kesîran mubâreken fîhi, ğayra mekfiyyin, ve lâ muveddein ve lâ musteğnen anhu Rabbenâ.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
     },
     {
       "id": 6,
       "name": "Sağlık afiyet için dua.",
       "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
-      "descp": "Allahümme innî es'elüke-ssıhhate vel-âfiyete vel-emânete ve hüsnel-hulkı verrıdâe bilkaderi birahmetike yâ Erhamerrâhimîn"
+      "descp": "Allahümme innî es'elüke-ssıhhate vel-âfiyete vel-emânete ve hüsnel-hulkı verrıdâe bilkaderi birahmetike yâ Erhamerrâhimîn",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
     },
     {
       "id": 7,
       "name": "Günahların affı için dua.",
       "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
-      "descp": "Sübhânallahi ve bi-hamdihi sübhânallahil-azîm."
+      "descp": "Sübhânallahi ve bi-hamdihi sübhânallahil-azîm.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
     },
     {
       "id": 8,
       "name": "Kalpte imanın olması için dua.",
       "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
-      "descp": "Allahümme, yâ mukallibelkulûb, sebbit kalbî, alâ dînik"
+      "descp": "Allahümme, yâ mukallibelkulûb, sebbit kalbî, alâ dînik",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
     },
     {
       "id": 9,
       "name": "Zararlardan korunmak için dua.",
       "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
-      "descp": "E’ûzü bikelimâtillâhit-tâmmâti min şerri külli şeytânin ve hâmmatin. Ve min şerri külli effâkin kâzibetin. Ve min şerri külli gammâzin hâinetin. Ve min şerri külli aynin lâmmetin. Ve min şerri külli bid’atin dâlletin."
+      "descp": "E’ûzü bikelimâtillâhit-tâmmâti min şerri külli şeytânin ve hâmmatin. Ve min şerri külli effâkin kâzibetin. Ve min şerri külli gammâzin hâinetin. Ve min şerri külli aynin lâmmetin. Ve min şerri külli bid’atin dâlletin.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
     },
     {
       "id": 10,
       "name": "Çarşıya çıkarken okunacak dua.",
       "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
-      "descp": "Lâ ilâhe illallahü vahde hü lâ şerîke leh, le hül mülkü ve le hül hamdü, yuhyî ve yümît, ve hüve hayyün lâ yemût, bi yedi-hil-hayr, ve hüve alâ külli şey’in kadîr."
+      "descp": "Lâ ilâhe illallahü vahde hü lâ şerîke leh, le hül mülkü ve le hül hamdü, yuhyî ve yümît, ve hüve hayyün lâ yemût, bi yedi-hil-hayr, ve hüve alâ külli şey’in kadîr.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
     },
     {
       "id": 11,
       "name": "Fitneden korunmak için dua.",
       "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
-      "descp": "Allahümme innî es'elü-ke fiilel hayrât ve terkelmünkerât ve hubbel-mesâkin ve izâ eredte fitneten fî kavmî fe-teveffenî gayre meftûn"
+      "descp": "Allahümme innî es'elü-ke fiilel hayrât ve terkelmünkerât ve hubbel-mesâkin ve izâ eredte fitneten fî kavmî fe-teveffenî gayre meftûn",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
     },
     {
       "id": 12,
       "name": "Seyyidül istiğfar duası.",
       "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
-      "descp": "Allahümme ente Rabbî lâ ilahe illâ ente halaktenî ve ene abdüke ve ene alâ ahdike ve vâ’dike mes’tetâtü eûzü bike min şerri mâ sanâtü ebû’ü leke bi-nîmetike aleyye ve ebû’ü bizenbî fağfirlî feinnehû lâ yağfıruz-zünûbe illâ ente."
+      "descp": "Allahümme ente Rabbî lâ ilahe illâ ente halaktenî ve ene abdüke ve ene alâ ahdike ve vâ’dike mes’tetâtü eûzü bike min şerri mâ sanâtü ebû’ü leke bi-nîmetike aleyye ve ebû’ü bizenbî fağfirlî feinnehû lâ yağfıruz-zünûbe illâ ente.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
     },
     {
       "id": 13,
       "name": "Borçtan kurtulma duası.",
       "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
-      "descp": "Elem neşrah leke sadrek Ve vada'na'anke vizreke Elleziy enkada zahreke Ve refa'na leke zikreke Feinne me'al'usri yüsren İnne me'al'usri yüsren Feiza ferağte fensab Ve ila rabbike ferğab."
+      "descp": "Elem neşrah leke sadrek Ve vada'na'anke vizreke Elleziy enkada zahreke Ve refa'na leke zikreke Feinne me'al'usri yüsren İnne me'al'usri yüsren Feiza ferağte fensab Ve ila rabbike ferğab.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
     },
     {
       "id": 14,
       "name": "Sıkıntıdan kurtulmak için dua.",
       "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
-      "descp": "La ilahe illallahül halimül kerimü sübhanellahi ve tebarekellahü rabbül'arşil-azim vel hamdülillahi rabbil alemin."
+      "descp": "La ilahe illallahül halimül kerimü sübhanellahi ve tebarekellahü rabbül'arşil-azim vel hamdülillahi rabbil alemin.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
     },
     {
       "id": 15,
       "name": "Üzüntülü anlarda okunacak dua.",
       "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
-      "descp": "La ilahe illallahül'azim-ül-halim la ilaheillahü Rabbül'Arş-il'azim la ilaheillahü Rabbüs-semavati ve Rabbül-Erdı Rabbül'Arş-il-kerim"
+      "descp": "La ilahe illallahül'azim-ül-halim la ilaheillahü Rabbül'Arş-il'azim la ilaheillahü Rabbüs-semavati ve Rabbül-Erdı Rabbül'Arş-il-kerim",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
     },
     {
       "id": 16,
       "name": "Uykudan kalkarken okunacak dua.",
       "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
       "image": "assets/dualar/hastalarasifaverendualar.jpeg",
-      "descp": "El-hamdu lillahillezi ehyana ba'de ma ematena ve ileyhi'n-nüşur."
-    }
-  ],
-  "ayetel": [
-        {
-      "id": 1,
-      "name": "Ayetel Kürsi",
-      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
-      "descp": "Allâhü lâ ilâhe illâ hüve’l-hayyü’l-kayyûm, lâ te’huzühû sinetün ve lâ nevm, lehû mâ fi’ssemâvâti ve mâ fi’l-ard, men-ze’l-lezî yeşfe’u ‘indehû illâ bi-iznih, ya’lemü mâ beyne eydîhim ve mâ halfehüm, ve lâ yuhîtûne bi-şey’in min‘ılmihî illâ bimâ şâe, vesi’a kürsiyyühü’s-semâvâti ve’l-ard ve lâ yeûdühû hifzuhumâ ve hüve’laliyyü’l-azîm.",
-      "meaning": "Allah ki, O’ndan başka ilah yoktur. O hayydır, kayyûmdur. Kendisine ne uyku gelir ne de uyuklama. Göklerde ve yerdekilerin hepsi O’nundur. O’nun izni olmadan katında kim şefaat edebilir? O, kullarının yaptıklarını ve yapacaklarını bilir. (Hiçbir şey O’na gizli kalmaz.)  O’nun bildirdiklerinin dışında insanlar, O’nun ilminden hiçbir şeyi tam olarak bilemezler. O’nun kürsüsü gökleri ve yeri içine alır, onları koruyup gözetmek kendisine zor gelmez. O, yücedir, büyüktür.",
-      "one": "1.\nYüce Peygamberimiz: Bakara Sûresinde bir âyet var ki, O Kur’ân âyetlerinin seyyididir. Bu Ayetel Kürsidir. Ayetel Kürsî içinde şeytan bulunan bir evde okunsa; şeytan, o evden feryad ederek kaçar ve sur’atle oradan uzaklaşır. O faziletli âyet, Ayetel Kürsidir buyurmuştur.",
-      "twoo": "2.\n“Yatağınıza yattığınız zaman, Ayetel Kürsi’yi okuyunuz. Çünkü orada bulunduğunuz müddetçe koruyucunuz bizzat Yüce Allah kendisi olur ve sabaha kadar o yatağın etrafına kesinlikle şeytan yaklaşamaz.” buyurmuştur.",
-      "three": "3.\nHerhangi bir ev ki, içinde Ayetel Kürsi ve Fatiha Sûresi okunsa, o gün içinde o evde bulunanlara hiçbir zarar ve musibet gelmez. İns ve cin şerrinde emniyette bulunur. Nazar değme olayı da asla olmaz. Kendi evinde veya bulunduğun herhangi bir evde veya herhangi bir yerde korkusuzca emniyet ve huzur içinde bulunmak istiyorsan, bu sûreleri oku. Ayetel Kürsiyi hiçbir zaman dilinden bırakma. Kendin okuduğun gibi çoluk çocuğuna da öğret. Onlar da okusun. Sen de oku. Dünya bu, derdi de var, kederi de var. Dünyanın derdinden, kederinden Ayetel Kürsiyi okuyarak Allah’ın yüce kudretine sığınmış olur. O yüce kudret sahibi Rabbimizden yardım dilemiş oluruz. O da bize hemen yardımını lütfeder. İnsan şeytanlarının şerrinden, cin şeytanlarının şerrinden ve kötü ruhlu, hain gözlü adi kimselerin şerrinden emin olmuş olursun. Ayetel Kürsiyle birlikte \"İhlas, Felak, Nâs ve Fatiha\" sûrelerini de oku. Ayetel Kürsi İsm-i Â’zamdır. Bir dileği olan önce Ayetel Kürsi’yi okumalı ve sonunda da her ne gibi ihtiyacı haceti, dileği varsa onları Cenâb-ı Haktan dilemelidir. Yani, bir kimse bütün duâlarının kabul olmasını istiyorsa bol bol Ayetel Kürsi okumalıdır. Bir şeyden, bir hadiseden korkan kimse, 3-5-7 kere Ayetel Kürsi okuyarak o korktuğu şeyin şerrinden Allah’a sığınmalıdır. \"Ya Rabbi, okuduğum Ayetel Kürsi hürmetine bu şeyin şerrinden sana sığınırım\" diye yalvaran kulunu Cenâb-ı Hak mahrum bırakmaz.",
-      "four": "4.\nYine Hadis-i Şerifde buyrulmuştur ki: Her kim, yatağına yattığında “Ayetel Kürsi’yi okursa, Cenâb-ı Hak, o kulunu sabaha kadar koruyacak iki melek görevlendirir.” Cenâb-ı Allah’ın kullarına olan merhametini düşün!… Sen, yatağında huzur içinde uyuyasın diye. Senin için iki meleğini görevlendirmiş ve seni koruyorlar. “Aman Allâh’ım sen ne büyüksün ne çok merhametlisin!…”",
-      "five": "5.\nHer kim, evinden çıkarken “Ayetel Kürsi’yi okursa, Allah Teâlâ, o kimse için yetmiş melek görevlendirir. Bu melekler, Ayetel Kürsî okuyan bu kimseye dua ederler, himaye ederler.” Bu durum evine selâmetle dönünceye kadar devam eder.",
-      "six": "6.\nEvine dönerken de Ayetel Kürsi’yi okuyan kimse, fakirlik çekmez, yoksulluk derdi görmez. Evinden çıkarken ve evine girerken okuduğu iki Ayetel Kürsî hürmetine sabahtan akşama kadar işleri hayırla selâmette olur.",
-      "seven": "7.\nHer kim, dara düşdüğünde, sıkıntı ve bunalıma girdiğinde Ayetel Kürsi’yi okursa, Cenâb-ı Hak, bu kulunun imdadına yetişir."
+      "descp": "El-hamdu lillahillezi ehyana ba'de ma ematena ve ileyhi'n-nüşur.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
     }
   ],
   "hadis": [
@@ -135,595 +135,694 @@
       "id": 1,
       "name": "Allah:",
       "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
-      "descp": "Eşi benzeri bulunmayan."
+      "descp": "Eşi benzeri bulunmayan.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
     },
     {
       "id": 2,
       "name": "Er-Rahmân:",
       "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
-      "descp": "Yaratılmışlara merhamet eden"
+      "descp": "Yaratılmışlara merhamet eden",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
     },
     {
       "id": 3,
       "name": "Er-Rahim:",
       "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
-      "descp": "Ahirette, müminlere sonsuz ihsanda, lütufta ve ikramda bulunan."
+      "descp": "Ahirette, müminlere sonsuz ihsanda, lütufta ve ikramda bulunan.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
     },
     {
       "id": 4,
       "name": "El-Melik:",
       "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
-      "descp": "Kainatın sahibi, mülk ve saltanatı sürekli olan."
+      "descp": "Kainatın sahibi, mülk ve saltanatı sürekli olan.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
     },
     {
       "id": 5,
       "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
       "name": "El-Kuddûs:",
-      "descp": "Her türlü eksiklikten uzak olan."
+      "descp": "Her türlü eksiklikten uzak olan.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
     },
     {
       "id": 6,
       "name": "Es-Selâm:",
       "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
-      "descp": "Her tehlikeden selamete çıkaran."
+      "descp": "Her tehlikeden selamete çıkaran.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
     },
     {
       "id": 7,
       "name": "El-Mü'min:",
       "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
-      "descp": "Güven veren, koruyan."
+      "descp": "Güven veren, koruyan.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
     },
     {
       "id": 8,
       "name": "El-Müheymin:",
       "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
-      "descp": "Her şeyi gören gözeten."
+      "descp": "Her şeyi gören gözeten.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
     },
     {
       "id": 9,
       "name": "El-Azîz:",
       "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
-      "descp": "İzzet sahibi, her şeyin galibi."
+      "descp": "İzzet sahibi, her şeyin galibi.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
     },
     {
       "id": 10,
       "name": "El-Cebbâr:",
       "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
-      "descp": "Kudret ve azamet sahibi."
+      "descp": "Kudret ve azamet sahibi.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
     },
     {
       "id": 11,
       "name": "El-Mütekebbir:",
       "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
-      "descp": "Büyüklükte eşi ve benzeri olmayan."
+      "descp": "Büyüklükte eşi ve benzeri olmayan.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
     },
     {
       "id": 11,
       "name": "El-Hâlık:",
       "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
-      "descp": "Yaratan"
+      "descp": "Yaratan",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
     },
     {
       "id": 13,
       "name": "El-Bâri:",
       "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
-      "descp": "Her şeyi uyumlu ve kusursuz yaratan."
+      "descp": "Her şeyi uyumlu ve kusursuz yaratan.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
     },
     {
       "id": 14,
       "name": "El-Musavvir:",
       "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
-      "descp": "Varlıklara şekillerini veren."
+      "descp": "Varlıklara şekillerini veren.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
     },
     {
       "id": 15,
       "name": "El-Gaffâr:",
       "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
-      "descp": "Çok mağfiret eden."
+      "descp": "Çok mağfiret eden.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
     },
     {
       "id": 16,
       "name": "El-Kahhâr:",
       "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
-      "descp": "Her şeye hakim ve galip olan."
+      "descp": "Her şeye hakim ve galip olan.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
     },
     {
       "id": 17,
       "name": "El-Vehhâb:",
       "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
-      "descp": "Karşılıksız hibeler veren."
+      "descp": "Karşılıksız hibeler veren.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
     },
     {
       "id": 18,
       "name": "Er-Rezzâk:",
       "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
-      "descp": "Rızkını veren."
+      "descp": "Rızkını veren.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
     },
     {
       "id": 19,
       "name": "El-Fettâh:",
       "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
-      "descp": "Darlıktan kurtaran."
+      "descp": "Darlıktan kurtaran.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
     },
     {
       "id": 20,
       "name": "El-Alîm:",
       "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
-      "descp": "Her şeyi en küçük detaylarını bilen."
+      "descp": "Her şeyi en küçük detaylarını bilen.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
     },
     {
       "id": 21,
       "name": "El-Kâbıd:",
       "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
-      "descp": "Dilediğine darlık veren."
+      "descp": "Dilediğine darlık veren.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
     },
     {
       "id": 22,
       "name": "El-Bâsıt:",
       "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
-      "descp": "Dilediğine bolluk veren."
+      "descp": "Dilediğine bolluk veren.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
     },
     {
       "id": 23,
       "name": "El-Hâfıd:",
       "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
-      "descp": "Dereceleri alçaltan"
+      "descp": "Dereceleri alçaltan",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
     },
     {
       "id": 24,
       "name": "Er-Râfi:",
       "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
-      "descp": "Şeref vererek yükselten."
+      "descp": "Şeref vererek yükselten.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
     },
     {
       "id": 25,
       "name": "El-Mu'ız:",
       "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
-      "descp": "Dilediğini aziz eden."
+      "descp": "Dilediğini aziz eden.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
     },
     {
       "id": 26,
       "name": "El-Müzil:",
       "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
-      "descp": "Dilediğini zillete düşüren."
+      "descp": "Dilediğini zillete düşüren.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
     },
     {
       "id": 27,
       "name": "Es-Semi:",
       "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
-      "descp": "Her şeyi işiten."
+      "descp": "Her şeyi işiten.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
     },
     {
       "id": 28,
       "name": "El-Basîr:",
       "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
-      "descp": "Her şeyi en iyi gören."
+      "descp": "Her şeyi en iyi gören.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
     },
     {
       "id": 29,
       "name": "El-Hakem:",
       "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
-      "descp": "Mutlak hakim olan. Hikmetle hükmeden."
+      "descp": "Mutlak hakim olan. Hikmetle hükmeden.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
     },
     {
       "id": 30,
       "name": "El-Adl:",
       "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
-      "descp": "Mutlak adil olan."
+      "descp": "Mutlak adil olan.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
     },
     {
       "id": 31,
       "name": "El-Latîf:",
       "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
-      "descp": "Bütün incelikleri bilen."
+      "descp": "Bütün incelikleri bilen.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
     },
     {
       "id": 32,
       "name": "El-Habîr:",
       "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
-      "descp": "Her şeyden haberdar."
+      "descp": "Her şeyden haberdar.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
     },
     {
       "id": 33,
       "name": "El-Halîm:",
       "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
-      "descp": "Cezada, acele etmeyen."
+      "descp": "Cezada, acele etmeyen.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
     },
     {
       "id": 34,
       "name": "El-Azîm:",
       "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
-      "descp": "Pek yüce."
+      "descp": "Pek yüce.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
     },
     {
       "id": 35,
       "name": "El-Gafûr:",
       "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
-      "descp": "Mağfireti bol."
+      "descp": "Mağfireti bol.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
     },
     {
       "id": 36,
       "name": "Eş-Şekûr:",
       "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
-      "descp": "Çok sevap veren."
+      "descp": "Çok sevap veren.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
     },
     {
       "id": 37,
       "name": "El-Aliyy:",
       "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
-      "descp": "Yüceler yücesi."
+      "descp": "Yüceler yücesi.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
     },
     {
       "id": 38,
       "name": "El-Kebîr:",
       "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
-      "descp": "Çok büyük olan."
+      "descp": "Çok büyük olan.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
     },
     {
       "id": 39,
       "name": "El-Hafîz:",
       "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
-      "descp": "Her şeyi koruyan."
+      "descp": "Her şeyi koruyan.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
     },
     {
       "id": 40,
       "name": "El-Mukît:",
       "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
-      "descp": "Her yaratılmışın rızkını veren."
+      "descp": "Her yaratılmışın rızkını veren.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
     },
     {
       "id": 41,
       "name": "El-Hasîb:",
       "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
-      "descp": "Kulların hesabını gören."
+      "descp": "Kulların hesabını gören.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
     },
     {
       "id": 42,
       "name": "El-Celîl:",
       "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
-      "descp": "Azamet sahibi olan."
+      "descp": "Azamet sahibi olan.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
     },
     {
       "id": 43,
       "name": "El-Kerîm:",
       "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
-      "descp": "Çok ikram eden."
+      "descp": "Çok ikram eden.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
     },
     {
       "id": 44,
       "name": "Er-Rakîb:",
       "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
-      "descp": "Her an gören gözeten."
+      "descp": "Her an gören gözeten.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
     },
     {
       "id": 45,
       "name": "El-Mucîb:",
       "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
-      "descp": "Duaları kabul eden."
+      "descp": "Duaları kabul eden.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
     },
     {
       "id": 46,
       "name": "El-Vâsi:",
       "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
-      "descp": "İlmi ile her şeyi kuşatan."
+      "descp": "İlmi ile her şeyi kuşatan.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
     },
     {
       "id": 47,
       "name": "El-Hakîm:",
       "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
-      "descp": "Her işi hikmetli."
+      "descp": "Her işi hikmetli.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
     },
     {
       "id": 48,
       "name": "El-Vedûd:",
       "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
-      "descp": "Kullarını seven, sevilmeye en layık olan."
+      "descp": "Kullarını seven, sevilmeye en layık olan.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
     },
     {
       "id": 49,
       "name": "El-Mecîd:",
       "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
-      "descp": "Övgüye layık bulunan."
+      "descp": "Övgüye layık bulunan.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
     },
     {
       "id": 50,
       "name": "El-Bâis:",
       "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
-      "descp": "Ölüleri dirilten."
+      "descp": "Ölüleri dirilten.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
     },
     {
       "id": 51,
       "name": "Eş-Şehîd:",
       "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
-      "descp": "Her yerde her zaman hazır olan."
+      "descp": "Her yerde her zaman hazır olan.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
     },
     {
       "id": 52,
       "name": "El-Hakk:",
       "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
-      "descp": "Var olan, hakkı gösteren."
+      "descp": "Var olan, hakkı gösteren.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
     },
     {
       "id": 53,
       "name": "El-Vekîl:",
       "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
-      "descp": "Kendisine tevekkül edenlerin her işini yoluna koyan."
+      "descp": "Kendisine tevekkül edenlerin her işini yoluna koyan.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
     },
     {
       "id": 54,
       "name": "El-Kaviyy:",
       "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
-      "descp": "Kudreti en üstün."
+      "descp": "Kudreti en üstün.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
     },
     {
       "id": 55,
       "name": "El-Metîn:",
       "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
-      "descp": "Çok güçlü."
+      "descp": "Çok güçlü.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
     },
     {
       "id": 56,
       "name": "El-Veliyy:",
       "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
-      "descp": "İnananların dostu."
+      "descp": "İnananların dostu.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
     },
     {
       "id": 57,
       "name": "El-Hamîd:",
       "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
-      "descp": "Hamd ve senaya layık olan."
+      "descp": "Hamd ve senaya layık olan.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
     },
     {
       "id": 58,
       "name": "El-Muhsî:",
       "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
-      "descp": "Tüm varlıkların sayısını bilen."
+      "descp": "Tüm varlıkların sayısını bilen.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
     },
     {
       "id": 59,
       "name": "El-Mübdi:",
       "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
-      "descp": "Örneksiz yaratan."
+      "descp": "Örneksiz yaratan.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
     },
     {
       "id": 60,
       "name": "El-Muîd:",
       "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
-      "descp": "Yeniden diriten."
+      "descp": "Yeniden diriten.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
     },
     {
       "id": 61,
       "name": "El-Muhyî:",
       "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
-      "descp": "Can veren."
+      "descp": "Can veren.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
     },
     {
       "id": 62,
       "name": "El-Mümît:",
       "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
-      "descp": "Ölümü yaratan."
+      "descp": "Ölümü yaratan.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
     },
     {
       "id": 63,
       "name": "El-Hayy:",
       "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
-      "descp": "Sonsuz hayat sahibi."
+      "descp": "Sonsuz hayat sahibi.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
     },
     {
       "id": 64,
       "name": "El-Kayyûm:",
       "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
-      "descp": "Varlıkları diri tutan."
+      "descp": "Varlıkları diri tutan.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
     },
     {
       "id": 65,
       "name": "El-Vâcid:",
       "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
-      "descp": "İstediğini bulan."
+      "descp": "İstediğini bulan.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
     },
     {
       "id": 66,
       "name": "El-Macîd:",
       "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
-      "descp": "Kadri ve şanı büyük."
+      "descp": "Kadri ve şanı büyük.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
     },
     {
       "id": 67,
       "name": "El-Vâhid:",
       "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
-      "descp": "Fiillerinde, sıfatlarında ve zatında eşi benzeri olmayan."
+      "descp": "Fiillerinde, sıfatlarında ve zatında eşi benzeri olmayan.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
     },
     {
       "id": 68,
       "name": "Es-Samed:",
       "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
-      "descp": "Herkesin muhtaç olduğu."
+      "descp": "Herkesin muhtaç olduğu.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
     },
     {
       "id": 69,
       "name": "El-Kâdir:",
       "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
-      "descp": "Dilediğini yapan."
+      "descp": "Dilediğini yapan.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
     },
     {
       "id": 70,
       "name": "El-Muktedir:",
       "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
-      "descp": "Dilediği gibi tasarruf eden."
+      "descp": "Dilediği gibi tasarruf eden.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
     },
     {
       "id": 71,
       "name": "El-Mukaddim:",
       "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
-      "descp": "Dilediğini yükselten."
+      "descp": "Dilediğini yükselten.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
     },
     {
       "id": 72,
       "name": "El-Muahhir:",
       "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
-      "descp": "Dilediğini alçaltan."
+      "descp": "Dilediğini alçaltan.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
     },
     {
       "id": 73,
       "name": "El-Evvel:",
       "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
-      "descp": "Ezeli olan."
+      "descp": "Ezeli olan.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
     },
     {
       "id": 74,
       "name": "El-Âhir:",
       "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
-      "descp": "Ebedi olan."
+      "descp": "Ebedi olan.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
     },
     {
       "id": 75,
       "name": "El-Zâhir:",
       "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
-      "descp": "Varlığı açık olan."
+      "descp": "Varlığı açık olan.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
     },
     {
       "id": 76,
       "name": "El-Bâtın:",
       "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
-      "descp": "Yüceliği gizli olan."
+      "descp": "Yüceliği gizli olan.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
     },
     {
       "id": 77,
       "name": "El-Vâlî:",
       "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
-      "descp": "Kainatı idare eden."
+      "descp": "Kainatı idare eden.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
     },
     {
       "id": 78,
       "name": "El-Müteâlî:",
       "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
-      "descp": "Yüce olan."
+      "descp": "Yüce olan.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
     },
     {
       "id": 79,
       "name": "El-Berr:",
       "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
-      "descp": "İyilik ve ihsanı bol."
+      "descp": "İyilik ve ihsanı bol.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
     },
     {
       "id": 80,
       "name": "Et-Tevvâb:",
       "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
-      "descp": "Günahları bağışlayan."
+      "descp": "Günahları bağışlayan.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
     },
     {
       "id": 81,
       "name": "El-Müntekim:",
       "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
-      "descp": "İntikam alan."
+      "descp": "İntikam alan.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
     },
     {
       "id": 82,
       "name": "El-Afüvv:",
       "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
-      "descp": "Affı çok olan."
+      "descp": "Affı çok olan.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
     },
     {
       "id": 83,
       "name": "Er-Raûf:",
       "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
-      "descp": "Çok merhametli."
+      "descp": "Çok merhametli.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
     },
     {
       "id": 84,
       "name": "Mâlik-ül Mülk:",
       "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
-      "descp": "Her varlığın sahibi."
+      "descp": "Her varlığın sahibi.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
     },
     {
       "id": 85,
       "name": "Zül-Celâli Vel İkrâm:",
       "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
-      "descp": "Celal, azamet sahibi."
+      "descp": "Celal, azamet sahibi.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
     },
     {
       "id": 86,
       "name": "El-Muksit:",
       "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
-      "descp": "Her işi birbirine denk yapan."
+      "descp": "Her işi birbirine denk yapan.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
     },
     {
       "id": 87,
       "name": "El-Câmi:",
       "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
-      "descp": "Mahşerde bir araya toplayan."
+      "descp": "Mahşerde bir araya toplayan.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
     },
     {
       "id": 88,
       "name": "El-Ganiyy:",
       "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
-      "descp": "İhtiyacı olmayan."
+      "descp": "İhtiyacı olmayan.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
     },
     {
       "id": 89,
       "name": "El-Mugnî:",
       "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
-      "descp": "Müstağni kılan."
+      "descp": "Müstağni kılan.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
     },
     {
       "id": 90,
       "name": "El-Mâni:",
       "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
-      "descp": "Dilemediği şeyi engelleyen."
+      "descp": "Dilemediği şeyi engelleyen.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
     },
     {
       "id": 91,
       "name": "Ed-Dârr:",
       "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
-      "descp": "Zarar verenleri yaratan."
+      "descp": "Zarar verenleri yaratan.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
     },
     {
       "id": 92,
       "name": "En-Nâfi:",
       "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
-      "descp": "Fayda verenleri yaratan."
+      "descp": "Fayda verenleri yaratan.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
     },
     {
       "id": 93,
       "name": "En-Nûr:",
       "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
-      "descp": "Alemleri nurlandıran."
+      "descp": "Alemleri nurlandıran.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
     },
     {
       "id": 94,
       "name": "El-Hâdî:",
       "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
-      "descp": "Hidayet veren."
+      "descp": "Hidayet veren.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
     },
     {
       "id": 95,
       "name": "El-Bedî:",
       "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
-      "descp": "Eşsiz yaratan."
+      "descp": "Eşsiz yaratan.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
     },
     {
       "id": 96,
       "name": "El-Bâkî:",
       "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
-      "descp": "Ebedi olan."
+      "descp": "Ebedi olan.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
     },
     {
       "id": 97,
       "name": "El-Vâris:",
       "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
-      "descp": "Her şeyin asıl sahibi olan."
+      "descp": "Her şeyin asıl sahibi olan.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
     },
     {
       "id": 98,
       "name": "Er-Reşîd:",
       "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
-      "descp": "Doğru yolu gösteren."
+      "descp": "Doğru yolu gösteren.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
     },
     {
       "id": 99,
       "name": "Es-Sabûr:",
       "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
-      "descp": "Cezada acele etmeyen."
+      "descp": "Cezada acele etmeyen.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
     }
   ]
 }
