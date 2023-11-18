@@ -15122,6 +15122,44 @@
           "playerAbout1": "https://mydramalist.com/people/2213-jo-bo-ah",
           "playerAbout2": "https://mydramalist.com/people/11629-ro-woon",
           "playerAbout3": "https://mydramalist.com/people/16762-ha-joon"
+    },
+    {
+      "id": 797,
+          "koreasName": "The Killing Vote",
+          "koreasImage": "https://i.mydramalist.com/d0zgYK_4f.jpg",
+          "rating": 8.0,
+          "description": "2023 yılı yapımı bu dizide: İğrenç suçlular kanundan ceza almaktan kaçındığında, 18 yaşın üzerindeki tüm vatandaşlara o kişinin ölüm cezası alıp almaması konusunda anket yapan bir kısa mesaj gönderilir. Eğer %50'den fazlası idam cezası lehine yanıt verirse, o kişi sanal dünyada çalışan, kimliği bilinmeyen \"Köpek Maskesi\" tarafından öldürülür. Bu sırada polis \"Köpek Maskesi\"nin peşine düşer ve üç kişi olaya karışır: Güney Polis Teşkilatı Birinci Soruşturma Ekibinin lideri Kim Moo Chan, gençlerine saldıran tecavüzcüyü öldüren eski ünlü hukuk bilgini Kwon Seok Joo kızı ve daha sonra polise ve Seul Büyükşehir Polis Teşkilatı Siber Güvenlik Bürosunda 5 yıl boyunca çalışan bir polis memuru olan Joo Hyun'a teslim olur.",
+          "playerName1": "Park Hae Jin\n(Kim Moo Chan)",
+          "playerName2": "Park Sung Woong\n(Kwon Seok Joo)",
+          "playerName3": "Im Ji Yeon\n(Joo Hyun)",
+          "playerImage1": "https://i.mydramalist.com/kBpEr_5c.jpg",
+          "playerImage2": "https://i.mydramalist.com/Zvb4jc.jpg",
+          "playerImage3": "https://i.mydramalist.com/pmvnV_5c.jpg",
+          "genreIds": [2, 15, 21],
+          "contentRating": "15+",
+          "episode": "Bölüm: 12",
+          "playerAbout1": "https://mydramalist.com/people/645-park-hae-jin",
+          "playerAbout2": "https://mydramalist.com/people/1742-park-sung-woong",
+          "playerAbout3": "https://mydramalist.com/people/7310-im-ji-yeon"
+    },
+    {
+      "id": 798,
+          "koreasName": "Evilive",
+          "koreasImage": "https://i.mydramalist.com/x4EmK0_4f.jpg",
+          "rating": 8.1,
+          "description": "2023 yılı yapımı bu dizide: Han Dong Soo bir geçim avukatıdır. Ziyaret etmek için rastgele bir mahkum seçer ve bir davayı alır. Genellikle rasyonel ve makuldür ancak zihninin derinliklerinde karanlık bir taraf vardır. Bir şey onu çizgiyi aşıp kötülük dünyasına adım atmaya iter. Küçük üvey kardeşi Han Beom Jae'dir. Han Beom Jae, ikinci el bir bilgisayar mağazasında çalışır ve aynı zamanda Han Dong Soo'ya müşteri getiren bir dava komisyoncusu olarak da hareket eder. Bir gün Han Beom Jae, Han Dong Soo'nun kendisine bir dava getirdiğinden beri değiştiğini fark eder. Bu dava, bir suç örgütünün 2. sıradaki üyesi olan Seo Do Young'u içerir. Kendisi eski bir beyzbol oyuncusudur ve tipik bir gangstere hiç benzememektedir. Yakışıklı görünümünün arkasında acımasız ve öngörülemeyen bir çılgınlık gizlidir.",
+          "playerName1": "Shin Ha Kyun\n(Han Dong Soo)",
+          "playerName2": "Kim Young Kwang\n(Seo Do Young)",
+          "playerName3": "Shin Jae Ha\n(Han Beom Jae)",
+          "playerImage1": "https://i.mydramalist.com/EN4dp_5c.jpg",
+          "playerImage2": "https://i.mydramalist.com/QwnLg_5c.jpg",
+          "playerImage3": "https://i.mydramalist.com/E07m7_5c.jpg",
+          "genreIds": [2, 12, 15],
+          "contentRating": "18+",
+          "episode": "Bölüm: 10",
+          "playerAbout1": "https://mydramalist.com/people/287-shin-ha-kyun",
+          "playerAbout2": "https://mydramalist.com/people/1944-kim-young-kwang",
+          "playerAbout3": "https://mydramalist.com/people/7436-shin-jae-ha"
       }
   ]
 }
