@@ -15179,6 +15179,25 @@
           "playerAbout1": "https://mydramalist.com/people/806-ji-chang-wook",
           "playerAbout2": "https://mydramalist.com/people/16210-wi-ha-joon",
           "playerAbout3": "https://mydramalist.com/people/1585-im-se-mi"
-    }
+    },
+        {
+      "id": 800,
+          "koreasName": "The Kidnapping Day",
+          "koreasImage": "https://i.mydramalist.com/0wymE7_4f.jpg",
+          "rating": 8.6,
+          "description": "2023 yılı yapımı bu dizide: Kim Myung Joon sıcak kalpli, fakir bir adamdır. Hasta kızının ameliyatı için acilen paraya ihtiyacı vardır. Eski karısı, zengin ebeveynleri olan bir çocuğu kaçırmasını önerir. Kim Myung Joon onun fikrini kabul edecek kadar çaresizdir. Kim Myung Joon, Choi Ro Hee'yi kaçırmaya giderken bir kaza geçirir ve genç bir kıza çarpar. Kurban hafızasını kaybeden Choi Ro Hee'den başkası değil. Babası gibi davranan Kim Myung Joon, Choi Ro Hee'yi hastaneden evine getirir. Fidye parası için Choi Ro Hee'nin ebeveynleriyle iletişime geçtiğinde çağrıları cevapsız kalır. Araştırmaya karar vererek evlerine gider, ancak cesetlerinin sedye üzerinde taşındığına tanık olur. Daha da kötüsü, Choi Ro Hee'nin babası olmaması da dahil olmak üzere yalan ağını ortaya çıkarması.",
+          "playerName1": "Yoon Kye Sang\n(kim Myung Joon)",
+          "playerName2": "Park Sung Hoon\n(Park Sang Yoon)",
+          "playerName3": "Yuna\n(Choi Ro Hee)",
+          "playerImage1": "https://i.mydramalist.com/QNZo7c.jpg",
+          "playerImage2": "https://i.mydramalist.com/1xgAQ_5c.jpg",
+          "playerImage3": "https://i.mydramalist.com/E5vlyQ_5c.jpg",
+          "genreIds": [2, 4, 15],
+          "contentRating": "15+",
+          "episode": "Bölüm: 12",
+          "playerAbout1": "https://mydramalist.com/people/829-yoon-kye-sang",
+          "playerAbout2": "https://mydramalist.com/people/5255-park-sung-hoon",
+          "playerAbout3": "https://mydramalist.com/people/99175-jeon-yu-na"
+      }
   ]
 }
