@@ -56,6 +56,25 @@
       "playerAbout1": "https://mydramalist.com/people/412-yoshitaka-yuriko",
       "playerAbout2": "https://mydramalist.com/people/4858-matsushita-kouhei",
       "playerAbout3": "https://mydramalist.com/people/1004-iura-arata"
+    },
+    {
+      "id": 4,
+      "koreasName": "Trillion Game",
+      "koreasImage": "https://i.mydramalist.com/qYVRoz_4f.jpg",
+      "rating": 8.3,
+      "description": "2023 yılı yapımı bu dizide: Tennoji Haru mükemmel bir iletişimcidir. Yaşı ve cinsiyeti ne olursa olsun herkes tarafından sevilir. Rahat bir insan gibi görünse de aslında hırslıdır ve başarı için her şeyi yapar. Haru'ya ülkenin en büyük bilişim şirketi \"Dragon Bank\"tan iş teklif edilir, ancak o teklifi geri çevirir. Bunun yerine arkadaşı Taira Manabu ile kendi işini kurmaya karar verir. Hedefi 1 trilyon dolar kazanmak. Bu arada Taira, olağanüstü BT bilgisine sahip mükemmel bir mühendistir. Kişilik açısından Haru'nun tam tersidir. Pasiftir ve insanlarla iletişim kurmakta zorluk çeker. Bu nedenle \"Dragon Bank\" ile yaptığı iş görüşmesinde başarısız olur ve Haru ile 1 trilyon dolar kazanmak gibi yeni bir hedef belirler.",
+      "playerName1": "Meguro Ren\n(Tennoji Haru)",
+      "playerName2": "Sano Hayato\n(Taira Manabu)",
+      "playerName3": "Imada Mio\n(Kokuryu Kirika)",
+      "playerImage1": "https://i.mydramalist.com/e4lkn_5c.jpg",
+      "playerImage2": "https://i.mydramalist.com/Rv7wr_5c.jpg",
+      "playerImage3": "https://i.mydramalist.com/rljZD_5c.jpg",
+      "genreIds": [3, 5, 32],
+      "contentRating": "15+",
+      "episode": "Bölüm: 10",
+      "playerAbout1": "https://mydramalist.com/people/26915-meguro-ren",
+      "playerAbout2": "https://mydramalist.com/people/13661-sano-hayato",
+      "playerAbout3": "https://mydramalist.com/people/17543-imada-mio"
     }
   ]
 }
