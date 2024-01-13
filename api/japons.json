@@ -113,6 +113,44 @@
           "playerAbout1": "https://mydramalist.com/people/4009-yamada-yuki",
           "playerAbout2": "https://mydramalist.com/people/14752-akaso-eiji",
           "playerAbout3": "https://mydramalist.com/people/19697-kamishiraishi-moka"
+      },
+        {
+      "id": 7,
+      "koreasName": "Rikon Shiyou Yo",
+      "koreasImage": "https://i.mydramalist.com/0wmzzO_4f.jpg",
+      "rating": 7.2,
+      "description": "2023 yılı yapımı bu dizide: Shoji Taishi, politikacılardan oluşan bir aileden gelen ve korunaklı bir eğitim almış yeni bir üçüncü nesil milletvekilidir. Çapkın ve pek de zeki olmayan Taishi ve büyük çıkışını bir drama dizisiyle yapan aktris eşi Kurosawa Yui, beş yıldır evliler. İşleri ve kamuoyundaki imajı uğruna mutlu evli bir çift gibi davranırlar, ancak evlilikleri çoktan çökmüş durumda. Taishi ve Yui, sosyal medyada canlı yayın yaptıkları zamanlar dışında neredeyse hiç konuşmazlar ve birbirlerini evde bile görmezler. Evliliklerinde hayal kırıklığı yaşamalarına rağmen ailelerinin baskıları ve ciro anlaşmaları nedeniyle hemen boşanmazlar. Çiftin sarsılmaz ayrılık hedefiyle birleşmekten başka seçeneği yoktur.",
+      "playerName1": "Matsuzaka Tori\n(Shoji Taishi)",
+      "playerName2": "Naka Riisa\n(Kurusawa Yui)",
+      "playerName3": "Nishikido Ryo\n(Kano Kyoi)",
+      "playerImage1": "https://i.mydramalist.com/RBYqDP_5c.jpg",
+      "playerImage2": "https://i.mydramalist.com/r57rg_5c.jpg",
+      "playerImage3": "https://i.mydramalist.com/WDgxm_5c.jpg",
+      "genreIds": [3, 4, 19],
+      "contentRating": "15+",
+      "episode": "Bölüm: 9",
+      "playerAbout1": "https://mydramalist.com/people/184-nishikido-ryo",
+      "playerAbout2": "https://mydramalist.com/people/449-naka-riisa",
+      "playerAbout3": "https://mydramalist.com/people/663-matsuzaka-tori"
+    },
+    {
+      "id": 8,
+          "koreasName": "From Me to You",
+          "koreasImage": "https://i.mydramalist.com/kAAVVr_4f.jpg",
+          "rating": 7.8,
+          "description": "2023 yılı yapımı bu dizide: İyi niyetli ama sosyal açıdan garip olan Kuronuma Sawako, korku filmi \"Ring\"in ana karakterine benzer saç stili nedeniyle lisedeki sınıf arkadaşları tarafından \"Sadako\" lakabıyla anılır. Hiç arkadaşı yok ve gününü sessizce geçirir. Sınıf arkadaşı Kazehaya Shota'ya rahat ve arkadaş canlısı doğasından dolayı hayranlık duyar, ancak kendisinin bilmediği Kazehaya Shota da onunla ilgileniyor.",
+          "playerName1": "Minami Sara\n(Kuronuma Sawako)",
+          "playerName2": "Suzuka Ouji\n(Kazehaya Shota)",
+          "playerName3": "Sakurai Kaito\n(Sanada Ryu)",
+          "playerImage1": "https://i.mydramalist.com/dkJpg_5c.jpg",
+          "playerImage2": "https://i.mydramalist.com/RnZXE_5c.jpg",
+          "playerImage3": "https://i.mydramalist.com/jJREJ_5c.jpg",
+          "genreIds": [5, 19, 29],
+          "contentRating": "15+",
+          "episode": "Bölüm: 12",
+          "playerAbout1": "https://mydramalist.com/people/70969-kaito",
+          "playerAbout2": "https://mydramalist.com/people/22452-suzuka-oji",
+          "playerAbout3": "https://mydramalist.com/people/15850-minami-sara"
       }
   ]
 }
