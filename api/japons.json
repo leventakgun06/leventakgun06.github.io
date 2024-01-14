@@ -151,6 +151,44 @@
           "playerAbout1": "https://mydramalist.com/people/70969-kaito",
           "playerAbout2": "https://mydramalist.com/people/22452-suzuka-oji",
           "playerAbout3": "https://mydramalist.com/people/15850-minami-sara"
+      },
+        {
+      "id": 9,
+          "koreasName": "Yu Yu Hakusho",
+          "koreasImage": "https://i.mydramalist.com/E58Oxl_4f.jpg",
+          "rating": 8.2,
+          "description": "2023 yılı yapımı bu dizide: Urameshi Yusuke, özverili bir hareket onun hayatını değiştirene kadar, suçlu bir gençtir. Küçük bir çocuğu hızla giden bir arabadan kurtarırken öldüğünde, öbür dünya onunla ne yapacağını bilmiyordu, bu yüzden ona ikinci bir yaşam şansı verdi. Artık Yusuke, Styx Nehri'nin kayıkçısı Botan ve ölülerin emzik emen yargıcı Koenma'nın emriyle iyi işler yapan, görevi olan bir hayalettir.",
+          "playerName1": "Kitamura Takumi\n(Urameshi Yusuke)",
+          "playerName2": "Uesugi Shuhei\n(Kuwabara Kazuma)",
+          "playerName3": "Shison Jun\n(Kurama)",
+          "playerImage1": "https://i.mydramalist.com/pddm8n_5c.jpg",
+          "playerImage2": "https://i.mydramalist.com/vXoWnB_5c.jpg",
+          "playerImage3": "https://i.mydramalist.com/qxYYP_5c.jpg",
+          "genreIds": [1, 11, 31],
+          "contentRating": "15+",
+          "episode": "Bölüm: 5",
+          "playerAbout1": "https://mydramalist.com/people/6371-kitamura-takumi",
+          "playerAbout2": "https://mydramalist.com/people/15705-shuhei-uesugi",
+          "playerAbout3": "https://mydramalist.com/people/6613-shison-jun"
+    },
+    {
+      "id": 10,
+          "koreasName": "Vivant",
+          "koreasImage": "https://i.mydramalist.com/603exX_4f.jpg",
+          "rating": 8.1,
+          "description": "2023 yılı yapımı bu dizide: Nogi Yusuke, Marubishi Corporation'ın Enerji Geliştirme Bölüm 2'nin başkanıdır ve bir altyapı projesinde birlikte çalıştığı GFL'ye aktarılan fazladan 90 milyon doları geri almak için Balka Cumhuriyeti'ni ziyaret eder. Ancak para 10'dan fazla taşerona aktarılır ve Yusuke Aman İnşaat'a gitmeye karar verir, ancak taksi şoförü tarafından ihanete uğrar. Yusuke'nin çölün ortasında kalmaktan başka çaresi yoktur ve tüm sorunlarını çözmenin yollarını bulması gerekir.",
+          "playerName1": "Sakai Masato\n(Nogi Yusuke)",
+          "playerName2": "Abe Hiroshi\n(Nozaki Mamoru)",
+          "playerName3": "Nikaido Fumi\n(Yuzuki Kaoru)",
+          "playerImage1": "https://i.mydramalist.com/E1kgm_5c.jpg",
+          "playerImage2": "https://i.mydramalist.com/6wwg0_5c.jpg",
+          "playerImage3": "https://i.mydramalist.com/E3ew7_5c.jpg",
+          "genreIds": [1, 2, 15],
+          "contentRating": "15+",
+          "episode": "Bölüm: 10",
+          "playerAbout1": "https://mydramalist.com/people/590-sakai-masato",
+          "playerAbout2": "https://mydramalist.com/people/304-abe-hiroshi",
+          "playerAbout3": "https://mydramalist.com/people/3489-nikaido-fumi"
       }
   ]
 }
