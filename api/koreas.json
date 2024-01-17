@@ -15180,7 +15180,7 @@
           "playerAbout2": "https://mydramalist.com/people/16210-wi-ha-joon",
           "playerAbout3": "https://mydramalist.com/people/1585-im-se-mi"
     },
-        {
+    {
       "id": 800,
           "koreasName": "The Kidnapping Day",
           "koreasImage": "https://i.mydramalist.com/0wymE7_4f.jpg",
@@ -15198,6 +15198,25 @@
           "playerAbout1": "https://mydramalist.com/people/829-yoon-kye-sang",
           "playerAbout2": "https://mydramalist.com/people/5255-park-sung-hoon",
           "playerAbout3": "https://mydramalist.com/people/99175-jeon-yu-na"
+      },
+        {
+      "id": 801,
+          "koreasName": "Night Has Come",
+          "koreasImage": "https://i.mydramalist.com/RBWq7P_4f.jpg",
+          "rating": 8.0,
+          "description": "2023 yılı yapımı bu dizide: Lise ikinci sınıf öğrencilerinden oluşan bir sınıfın, tatilleri sırasında aniden gerçek hayatta mafya oyunları oynamaya zorlanmasıyla geçen gizemli bir gençlik draması. Drama, hayatta kalma moduna giren öğrenciler arasındaki yoğun psikolojik savaşı ortaya çıkaracak. Yooil Lisesi 2. sınıf 3. sınıf öğrencileri okul gezisine çıkar. Orada mafyanın ölüm oyununa katılmak zorunda kalırlar ve hayatta kalma mücadelesi verirler. Lee Yoon Seo'nun mükemmel gözlem ve muhakeme yetenekleri vardır ve bunları kaçmaya çalışmak için kullanır. Kim Jun Hee güçlü bir adalet ve sorumluluk duygusuna sahip sınıf başkanıdır. Oh Jung Won akademik olarak okulda birinci sıradadır ancak o bir dışlanmış ve yalnız biridir. Hayatta kalabilmek için diğer öğrencilerle birlikte çalışması gerekir.",
+          "playerName1": "Lee Jae In\n(Lee Yoon Seo)",
+          "playerName2": "Kim Woo Seok\n(Kim Jun Hee)",
+          "playerName3": "Choi Ye Bin\n(Oh Jung Won)",
+          "playerImage1": "https://i.mydramalist.com/1wd6r6_5c.jpg",
+          "playerImage2": "https://i.mydramalist.com/QJnwE6_5c.jpg",
+          "playerImage3": "https://i.mydramalist.com/Wek83_5c.jpg",
+          "genreIds": [2, 15, 21],
+          "contentRating": "18+",
+          "episode": "Bölüm: 12",
+          "playerAbout1": "https://mydramalist.com/people/10359-lee-jae-in",
+          "playerAbout2": "https://mydramalist.com/people/16804-woo-shin",
+          "playerAbout3": "https://mydramalist.com/people/50277-choi-ae-bin"
       }
   ]
 }
