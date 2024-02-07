@@ -189,6 +189,25 @@
           "playerAbout1": "https://mydramalist.com/people/590-sakai-masato",
           "playerAbout2": "https://mydramalist.com/people/304-abe-hiroshi",
           "playerAbout3": "https://mydramalist.com/people/3489-nikaido-fumi"
+      },
+    {
+      "id": 11,
+          "koreasName": "Fermat no Ryori",
+          "koreasImage": "https://i.mydramalist.com/RBP2lx_4f.jpg",
+          "rating": 8.0,
+          "description": "2023 yılı yapımı bu dizide: Kitada Gaku matematikte yeteneklidir. Matematikçi olmayı hayal eder ama bu hayalinden vazgeçer. Artık günlerini amaçsız geçirir. Bir gün Asakura Kai adında dahi bir şefle tanışır. Asakura Kai, Kitada Gaku'yu mutfak dünyasına taşır. Kitada Gaku kısa süre sonra dünyanın her yerinden yetenekli şeflerin birlikte çalışıp birlikte öğrendiği Asakura Kai'nin iki yıldızlı restoranı K'ya katılır. Kitada Gaku orada yemek yapmayı da öğrenir ve matematiksel düşünceden yola çıkarak kendi tariflerini geliştirir.",
+          "playerName1": "Takahashi Fumiya\n(Kitada Gaku)",
+          "playerName2": "Shison Jun\n(Asakura Kai)",
+          "playerName3": "Koshiba Fuka\n(Akamatsu Ranna)",
+          "playerImage1": "https://i.mydramalist.com/BkwL7_5c.jpg",
+          "playerImage2": "https://i.mydramalist.com/qxYYP_5c.jpg",
+          "playerImage3": "https://i.mydramalist.com/q1eXB_5c.jpg",
+          "genreIds": [3, 24, 32],
+          "contentRating": "15+",
+          "episode": "Bölüm: 10",
+          "playerAbout1": "https://mydramalist.com/people/29539-takahashi-fumiya",
+          "playerAbout2": "https://mydramalist.com/people/6613-shison-jun",
+          "playerAbout3": "https://mydramalist.com/people/4013-koshiba-fuka"
       }
   ]
 }
