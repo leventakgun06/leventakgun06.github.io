@@ -300,7 +300,7 @@
       "genreIds": [2, 15, 12],
       "contentRating": "12+",
       "episode": "Süre: 1s 59d",
-      "playerAbout1": "",
+      "playerAbout1": "https://mydramalist.com/people/297-jung-woo-sung",
       "playerAbout2": "https://mydramalist.com/people/300-han-hyo-joo",
       "playerAbout3": "https://mydramalist.com/people/1266-sol-kyung-gu"
     },
@@ -338,7 +338,7 @@
       "genreIds": [1, 5, 3],
       "contentRating": "12+",
       "episode": "Süre: 1s 50d",
-      "playerAbout1": "",
+      "playerAbout1": "https://mydramalist.com/people/297-jung-woo-sung",
       "playerAbout2": "",
       "playerAbout3": "https://mydramalist.com/people/1404-lee-sung-jae"
     },
@@ -471,7 +471,7 @@
       "genreIds": [4, 12, 22],
       "contentRating": "12+",
       "episode": "Süre: 1s 51d",
-      "playerAbout1": "",
+      "playerAbout1": "https://mydramalist.com/people/960-ryu-seung-ryong",
       "playerAbout2": "",
       "playerAbout3": "https://mydramalist.com/people/5628-jin-sun-gyu"
     },
@@ -1250,7 +1250,7 @@
       "genreIds": [2, 3, 16],
       "contentRating": "12+",
       "episode": "Süre: 2s 18d",
-      "playerAbout1": "",
+      "playerAbout1": "https://mydramalist.com/people/297-jung-woo-sung",
       "playerAbout2": "",
       "playerAbout3": "https://mydramalist.com/people/949-kim-gab-soo"
     },
@@ -1327,7 +1327,7 @@
       "contentRating": "12+",
       "episode": "Süre: 1s 57d",
       "playerAbout1": "https://mydramalist.com/people/441-lee-sun-gyun",
-      "playerAbout2": "",
+      "playerAbout2": "https://mydramalist.com/people/2599-kim-go-eun",
       "playerAbout3": ""
     },
     {
@@ -1917,7 +1917,7 @@
       "episode": "Süre: 1s 37d",
       "playerAbout1": "https://mydramalist.com/people/593-ha-jung-woo",
       "playerAbout2": "",
-      "playerAbout3": ""
+      "playerAbout3": "https://mydramalist.com/people/5947-kim-so-jin"
     },
     {
       "id": 102,
@@ -2144,7 +2144,7 @@
       "contentRating": "12+",
       "episode": "Süre: 2s 2d",
       "playerAbout1": "https://mydramalist.com/people/342-park-hae-il",
-      "playerAbout2": "",
+      "playerAbout2": "https://mydramalist.com/people/960-ryu-seung-ryong",
       "playerAbout3": "https://mydramalist.com/people/1220-moon-chae-won"
     },
     {
@@ -2448,7 +2448,7 @@
       "contentRating": "15+",
       "episode": "Süre: 1s 43d",
       "playerAbout1": "https://mydramalist.com/people/10520-jin-ki-joo",
-      "playerAbout2": "",
+      "playerAbout2": "https://mydramalist.com/people/16210-wi-ha-joon",
       "playerAbout3": ""
     },
     {
@@ -2468,7 +2468,7 @@
       "episode": "Süre: 1s 45d",
       "playerAbout1": "https://mydramalist.com/people/1944-kim-young-kwang",
       "playerAbout2": "https://mydramalist.com/people/12160-lee-sun-bin",
-      "playerAbout3": ""
+      "playerAbout3": "https://mydramalist.com/people/4731-oh-dae-hwan"
     },
     {
       "id": 131,
@@ -2855,7 +2855,7 @@
           "koreasName": "Phantom",
           "koreasImage": "https://i.mydramalist.com/EE01O_4f.jpg",
           "rating": 7.7,
-          "description": "2023 yılı yapımı bu filmde: 1933'te, Kore'nin Japonya tarafından sömürgeleştirilmesi sırasında geçen bir aksiyon-casusluk filmi. Film, Japon karşıtı direnişin casusu olan gizemli \"Hayalet\" olduğundan şüphelenilen beş şüphelinin hikayesini anlatıyor. Sorgulanmak üzere izole bir otelde mahsur kalan beş karakter, bir yandan birbirlerinden şüphelenip ve şüphe ederken, bir yandan da kaçmak için savaşmak zekalarını kullanmalıdır.",
+          "description": "2023 yılı yapımı bu filmde: 1933'te, Kore'nin Japonya tarafından sömürgeleştirilmesi sırasında geçen bir aksiyon-casusluk filmi. Film, Japon karşıtı direnişin casusu olan gizemli "Hayalet" olduğundan şüphelenilen beş şüphelinin hikayesini anlatıyor. Sorgulanmak üzere izole bir otelde mahsur kalan beş karakter, bir yandan birbirlerinden şüphelenip ve şüphe ederken, bir yandan da kaçmak için savaşmak zekalarını kullanmalıdır.",
           "playerName1": "Sol Kyung Gu\n(Murayama Junji)",
           "playerName2": "Lee Ha Nee\n(Park Cha Gyeong)",
           "playerName3": "Park So Dam\n(Yoshinaga Yuriko)",
@@ -2925,6 +2925,82 @@
           "playerAbout1": "https://mydramalist.com/people/1493-jo-jin-woong",
           "playerAbout2": "https://mydramalist.com/people/2551-choi-woo-shik",
           "playerAbout3": "https://mydramalist.com/people/2587-park-hee-soon"
+      },
+      {
+      "id": 155,
+          "koreasName": "12.12: The Day",
+          "koreasImage": "https://i.mydramalist.com/WPQwED_4f.jpg",
+          "rating": 8.3,
+          "description": "2023 yılı yapımı bu filmde: Aralık 1979'da Seul, yaklaşan bahar öncesinde sert bir kış geçirir. Başkan Park'a düzenlenen suikastın ardından sıkıyönetim ilan edilir. Savunma ve Güvenlik Komutanı Chun Doo Kwang ve onu takip eden özel bir grup subay tarafından bir darbe patlak verir. Ordunun siyasi eylemlerde bulunmaması gerektiğine inanan inatçı bir asker olan Sermaye Savunma Komutanı Lee Tae Shin, onu durdurmak için Chun Doo Kwang'a karşı savaşır. Askeri liderler kararlarını korurken ve Savunma Bakanı giderken ikili arasındaki çatışma büyür. Kaosun ortasında, herkesin özlemini duyduğu Seul baharı beklenmedik bir yöne doğru yönelir.",
+          "playerName1": "Hwang Jung Min\n(Chun Doo Kwang)",
+          "playerName2": "Jung Woo Sung\n(Lee Tae Shin)",
+          "playerName3": "Lee Sung Min\n(Jeong Sang Ho)",
+          "playerImage1": "https://i.mydramalist.com/dQWWb_5c.jpg",
+          "playerImage2": "https://i.mydramalist.com/4e3101_5c.jpg",
+          "playerImage3": "https://i.mydramalist.com/d78nD_5c.jpg",
+          "genreIds": [1, 2, 3],
+          "contentRating": "15+",
+          "episode": "Süre: 2s 21d",
+          "playerAbout1": "https://mydramalist.com/people/938-hwang-jung-min",
+          "playerAbout2": "https://mydramalist.com/people/297-jung-woo-sung",
+          "playerAbout3": "https://mydramalist.com/people/1658-lee-sung-min"
+      },
+      {
+      "id": 156,
+          "koreasName": "Behind the Shadows",
+          "koreasImage": "https://i.mydramalist.com/Bd2vRb_4f.jpg",
+          "rating": 8.2,
+          "description": "2023 yılı yapımı bu filmde: Joseon Hanedanlığı'nda geçen eşcinsel bir hikayeyi konu alıyor ve aşkın, dostluğun sosyal geleneklerin karmaşıklığını araştırılır. Yoon Ho, Jae Woon ve Seol, reşit olma törenlerinden önce birlikte takılan çocukluk arkadaşlarıdır. Ancak arkadaşlıkları aşkla iç içe geçer ve bir gün Yoon Ho kalbinin biri için çarptığını fark eder ve bu onu kimseye anlatamayacağı ilk aşkını geliştirmeye yönlendirir. Joseon'da geçen gençlik aşkı başlar.",
+          "playerName1": "Ren\n(Yoon Ho)",
+          "playerName2": "Park Sang Nam\n(Jae Woon)",
+          "playerName3": "Hong Seung Hee\n(Seol)",
+          "playerImage1": "https://i.mydramalist.com/ppKl8_5c.jpg",
+          "playerImage2": "https://i.mydramalist.com/47eEJ_5c.jpg",
+          "playerImage3": "https://i.mydramalist.com/4Y7Ok_5c.jpg",
+          "genreIds": [5, 8, 29],
+          "contentRating": "13+",
+          "episode": "Süre: 1s 22d",
+          "playerAbout1": "https://mydramalist.com/people/9606-choi-min-ki",
+          "playerAbout2": "https://mydramalist.com/people/23198-park-seul-ma-ro",
+          "playerAbout3": "https://mydramalist.com/people/26995-hong-seung-hee"
+      },
+      {
+      "id": 157,
+          "koreasName": "Devils",
+          "koreasImage": "https://i.mydramalist.com/Bd7kzA_4f.jpg",
+          "rating": 7.6,
+          "description": "2023 yılı yapımı bu filmde: Aynı zamanda kayınbiraderi olan meslektaşını iki yıl önce bir seri katil yüzünden kaybeden cinayet masası dedektifi Choi Jae Hwan, katile olan nefretini gizleyemez ve acımasız katilin peşine düşer. Choi Jae Hwan sonunda katil Cha Jin Hyuk'la yüz yüze gelir ancak kovalamacanın hararetinde bir kaza geçirirler. Hastanede uyanan Choi Jae Hwan, vücudunun katilinkiyle değiştirildiğini fark eder. Choi Jae Hwan, ailesini korumak ve bu vücut değişiminin sırrını ortaya çıkarmak için umutsuz bir kovalamacaya başlar.",
+          "playerName1": "Jang Dong Yoon\n(Cha Jin Hyuk)",
+          "playerName2": "Oh Dae Hwan\n(Choi Jae Hwan)",
+          "playerName3": "Jang Jae Ho\n(Kim Min Seong)",
+          "playerImage1": "https://i.mydramalist.com/R6Xvz_5c.jpg",
+          "playerImage2": "https://i.mydramalist.com/jKznr_5c.jpg",
+          "playerImage3": "https://i.mydramalist.com/wzO8Y_5c.jpg",
+          "genreIds": [2, 12, 15],
+          "contentRating": "18+",
+          "episode": "Süre: 1s 46d",
+          "playerAbout1": "https://mydramalist.com/people/12682-jang-dong-yoon",
+          "playerAbout2": "https://mydramalist.com/people/4731-oh-dae-hwan",
+          "playerAbout3": "https://mydramalist.com/people/11820-jang-jae-ho"
+      },
+      {
+      "id": 158,
+          "koreasName": "Live Stream",
+          "koreasImage": "https://i.mydramalist.com/2wmgYR_4f.jpg",
+          "rating": 7.3,
+          "description": "2023 yılı yapımı bu filmde: Gerçek zamanlı, canlı bir kovalamaca filmi. Serbest çalışan PD Dong Joo, kazara aldığı bir bağlantı aracılığıyla kız arkadaşının bir casus kamera tarafından canlı yayınlanma tehlikesiyle karşı karşıya olduğunu öğrenir. Bunu durdurmak ve onun açığa çıkmasını önlemek için, gizli kamera yayınının sunucusu olan ve zamana karşı yarışan gizemli 'Beyefendi' ile yüzleşmek zorundadır.",
+          "playerName1": "Park Sung Woong\n(Gentleman)",
+          "playerName2": "Park Sun Ho\n(Dong Joo)",
+          "playerName3": "Kim Hee Jung\n(Soo Jin)",
+          "playerImage1": "https://i.mydramalist.com/Zvb4jc.jpg",
+          "playerImage2": "https://i.mydramalist.com/xrkqr_5c.jpg",
+          "playerImage3": "https://i.mydramalist.com/rAKwD_5c.jpg",
+          "genreIds": [2, 12, 15],
+          "contentRating": "18+",
+          "episode": "Süre: 1s 30d",
+          "playerAbout1": "https://mydramalist.com/people/1742-park-sung-woong",
+          "playerAbout2": "https://mydramalist.com/people/7066-park-sun-ho",
+          "playerAbout3": "https://mydramalist.com/people/5635-kim-hee-jung"
       }
   ]
 }
