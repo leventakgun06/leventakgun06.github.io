@@ -113,7 +113,15 @@
       "image": "assets/dualar/hastalarasifaverendualar.jpeg",
       "descp": "La ilahe illallahül’azim-ül-halim la ilahe illallahü Rabbül-Arş-il’azim la ilahe illallahü Rabbüs-semavati ve Rabbül-Erdı Rabbül’Arş-il-kerim.",
       "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
-    }
+    },
+    {
+      "id": 17,
+      "name": "Rabbi Yesir duası.",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "image": "assets/dualar/hastalarasifaverendualar.jpeg",
+      "descp": "Rabbi Yessir ve la tüasir sehlil Aleyna bi fadlike ye müyessir Rabbi zidne ilmen ve fehmen nafian ve temmim bil hayri",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    }    
   ],
   "hadis": [
     {
