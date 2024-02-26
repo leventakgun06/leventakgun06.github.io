@@ -6057,7 +6057,7 @@
       "genreIds": [4, 5, 3],
       "contentRating": "15+",
       "episode": "Bölüm: 20",
-      "playerAbout1": "",
+      "playerAbout1": "https://mydramalist.com/people/297-jung-woo-sung",
       "playerAbout2": "https://mydramalist.com/people/1225-han-ji-min",
       "playerAbout3": "https://mydramalist.com/people/234-kim-bum"
     },
@@ -8699,7 +8699,7 @@
       "contentRating": "15+",
       "episode": "Bölüm: 24",
       "playerAbout1": "https://mydramalist.com/people/474-jung-il-woo",
-      "playerAbout2": "",
+      "playerAbout2": "https://mydramalist.com/people/1634-yoon-jin-seo",
       "playerAbout3": "https://mydramalist.com/people/1249-kim-min-jong"
     },
     {
@@ -9193,7 +9193,7 @@
       "contentRating": "15+",
       "episode": "Bölüm: 16",
       "playerAbout1": "https://mydramalist.com/people/925-ohn-joo-wan",
-      "playerAbout2": "",
+      "playerAbout2": "https://mydramalist.com/people/1634-yoon-jin-seo",
       "playerAbout3": ""
     },
     {
@@ -10429,7 +10429,7 @@
       "episode": "Bölüm: 20",
       "playerAbout1": "",
       "playerAbout2": "",
-      "playerAbout3": ""
+      "playerAbout3": "https://mydramalist.com/people/297-jung-woo-sung"
     },
     {
       "id": 550,
@@ -10617,7 +10617,7 @@
       "genreIds": [21, 9, 3],
       "contentRating": "18+",
       "episode": "Bölüm: 10",
-      "playerAbout1": "",
+      "playerAbout1": "https://mydramalist.com/people/14472-song-kang",
       "playerAbout2": "",
       "playerAbout3": "https://mydramalist.com/people/348-lee-shi-young"
     },
@@ -11056,7 +11056,7 @@
       "episode": "Bölüm: 10",
       "playerAbout1": "https://mydramalist.com/people/1810-lee-je-hoon",
       "playerAbout2": "",
-      "playerAbout3": ""
+      "playerAbout3": "https://mydramalist.com/people/26995-hong-seung-hee"
     },
     {
       "id": 583,
@@ -11093,7 +11093,7 @@
       "contentRating": "15+",
       "episode": "Bölüm: 10",
       "playerAbout1": "",
-      "playerAbout2": "",
+      "playerAbout2": "https://mydramalist.com/people/14472-song-kang",
       "playerAbout3": "https://mydramalist.com/people/32961-chae-jong-hyeop"
     },
     {
@@ -12385,7 +12385,7 @@
       "contentRating": "15+",
       "episode": "Bölüm: 16",
       "playerAbout1": "https://mydramalist.com/people/430-park-min-young",
-      "playerAbout2": "",
+      "playerAbout2": "https://mydramalist.com/people/14472-song-kang",
       "playerAbout3": "https://mydramalist.com/people/5824-yoon-park"
     },
     {
@@ -15236,6 +15236,44 @@
           "playerAbout1": "https://mydramalist.com/people/2599-kim-go-eun",
           "playerAbout2": "https://mydramalist.com/people/1434-nam-ji-hyun",
           "playerAbout3": "https://mydramalist.com/people/23277-park-ji-ho"
+    },
+    {
+      "id": 803,
+          "koreasName": "A Model Family",
+          "koreasImage": "https://i.mydramalist.com/R6YzP_4f.jpg",
+          "rating": 7.5,
+          "description": "2022 yılı yapımı bu dizide: Hikaye, iflas ve iç kavgalar yüzünden çökmenin eşiğinde olan sıradan bir ailenin, kana susamış bir uyuşturucu şebekesine bulaşmasıyla yaşananları konu alıyor. Tehlikeli görevlerin ve yakın görüşmelerin ortasında aile üyeleri bir araya gelerek, geçimlerini tehdit eden uyuşturucu çetesine karşı dururken örnek bir aile olacaklar mı?",
+          "playerName1": "Jung Woo\n(Park Dong Ha)",
+          "playerName2": "Park Hee Soon\n(Ma Kwang Chul)",
+          "playerName3": "Yoon Jin Seo\n(Kang Eun Ju)",
+          "playerImage1": "https://i.mydramalist.com/rg2Lm_5c.jpg",
+          "playerImage2": "https://i.mydramalist.com/kWLmrc.jpg",
+          "playerImage3": "https://i.mydramalist.com/QpKOYc.jpg",
+          "genreIds": [2, 12, 15],
+          "contentRating": "18+",
+          "episode": "Bölüm: 10",
+          "playerAbout1": "https://mydramalist.com/people/5124-jung-woo",
+          "playerAbout2": "https://mydramalist.com/people/2587-park-hee-soon",
+          "playerAbout3": "https://mydramalist.com/people/1634-yoon-jin-seo"
+    },
+    {
+      "id": 804,
+          "koreasName": "My Demon",
+          "koreasImage": "https://i.mydramalist.com/0w0mZ6_4f.jpg",
+          "rating": 8.3,
+          "description": "2023 yılı yapımı bu dizide: Do Do Hee, Future Group'un halefidir. Kimseye güvenmez ve aşk konusunda alaycı davranır. Do Do Hee, Jung Koo Won adında bir iblisle ilişkiye girer ve onunla sözleşmeli evlilik yapar. Cehennem gibi hayatlara katlanan insanlarla tehlikeli ama tatlı anlaşmalar yaparak sonsuza kadar yaşayabilir. Ancak 200 yıl boyunca insanlara tepeden baktıktan sonra Do Do Hee'ye bulaşır ve bir şekilde gücünü kaybeder. Kendi neslinin tükenmesini önlemek için tüm gücünü eline alan Do Do Hee'yi korumalıdır.",
+          "playerName1": "Kim You Jung\n(Do Do Hee)",
+          "playerName2": "Song Kang\n(Jung Koo Won)",
+          "playerName3": "Lee Sang Yi\n(Joo Seok Hoon)",
+          "playerImage1": "https://i.mydramalist.com/jQ84VO_5c.jpg",
+          "playerImage2": "https://i.mydramalist.com/x4XY1X_5c.jpg",
+          "playerImage3": "https://i.mydramalist.com/2PnLV_5c.jpg",
+          "genreIds": [1, 4, 5],
+          "contentRating": "15+",
+          "episode": "Bölüm: 16",
+          "playerAbout1": "https://mydramalist.com/people/1894-kim-yoo-jung",
+          "playerAbout2": "https://mydramalist.com/people/14472-song-kang",
+          "playerAbout3": "https://mydramalist.com/people/15660-lee-sang-yi"
       }
   ]
 }
