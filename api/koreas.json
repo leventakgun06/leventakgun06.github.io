@@ -15274,6 +15274,25 @@
           "playerAbout1": "https://mydramalist.com/people/1894-kim-yoo-jung",
           "playerAbout2": "https://mydramalist.com/people/14472-song-kang",
           "playerAbout3": "https://mydramalist.com/people/15660-lee-sang-yi"
+      },
+          {
+      "id": 805,
+          "koreasName": "A Bloody Lucky Day",
+          "koreasImage": "https://i.mydramalist.com/kAXnyd_4f.jpg",
+          "rating": 8.3,
+          "description": "2023 yılı yapımı bu dizide: Oh Taek taksi şoförü olarak çalışır. Bir gün rüyasında bir sürü domuzun ortaya çıktığını görür. Bu tür rüyaların iyi şans getirdiğine inanır. Aynı gün her zamanki miktarda para kazanır. Geum Hyuk Soo adında bir adam, artık bu işi bitirmeyi düşündüğünde, Oh Taek'ten onu liman şehri Mokpo'ya götürmesini ister. Onu götürmek için bir milyon won teklif eder. Oh Taek bu geziyi kabul eder ancak Oh Taek, Geum Hyuk Soo'nun bir adamı öldürdüğünün farkında değildir ve bir tekneye binmeyi planlamaktadır. Bu arada Hwang Soon Kyu, Geum Hyuk Soo tarafından öldürülen adamın annesidir. Oğlunun katilinin peşindedir.",
+          "playerName1": "Lee Sung Min\n(Oh Taek)",
+          "playerName2": "Yoo Yeon Seok\n(Geum Hyuk Soo)",
+          "playerName3": "Lee Jung Eun\n(Hwang Soon Kyu)",
+          "playerImage1": "https://i.mydramalist.com/d78nD_5c.jpg",
+          "playerImage2": "https://i.mydramalist.com/p31Py_5c.jpg",
+          "playerImage3": "https://i.mydramalist.com/WXzZ3_5c.jpg",
+          "genreIds": [2, 3, 15],
+          "contentRating": "18+",
+          "episode": "Bölüm: 10",
+          "playerAbout1": "https://mydramalist.com/people/1658-lee-sung-min",
+          "playerAbout2": "https://mydramalist.com/people/1908-yoo-yeon-seok",
+          "playerAbout3": "https://mydramalist.com/people/10706-lee-jung-eun"
       }
   ]
 }
