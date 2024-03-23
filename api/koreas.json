@@ -15312,6 +15312,44 @@
           "playerAbout1": "https://mydramalist.com/people/1974-jo-jung-suk",
           "playerAbout2": "https://mydramalist.com/people/993-shin-se-kyung",
           "playerAbout3": ""
+      },
+        {
+      "id": 807,
+          "koreasName": "Pyramid Game",
+          "koreasImage": "https://i.mydramalist.com/QJ7qQv_4f.jpg",
+          "rating": 8.7,
+          "description": "2024 yılı yapımı bu dizide: Ayda bir kez, Baekyeon Kız Lisesi'ndeki öğrenciler oylarını popülerlik anketinde kullanırlar. Sonuç? Okulun tüm sosyal hiyerarşisini belirleyen acımasız bir sıralama sistemi. Sung Soo Ji yeni transfer olur ve sıfır puan alır. En alttan başlayıp okuldaki şiddetin hedefi haline gelen Sung Soo Ji, piramidin tepesine çıkabilecek mi? Yoksa oyunu tamamen alt üst edecek mi?",
+          "playerName1": "Bona\n(Sung Soo Ji)",
+          "playerName2": "Jang Da A\n(Baek Han Rin)",
+          "playerName3": "Ryu Da In\n(Myung Ja Eun)",
+          "playerImage1": "https://i.mydramalist.com/pmorQ_5c.jpg",
+          "playerImage2": "https://i.mydramalist.com/RB24nR_5c.jpg",
+          "playerImage3": "https://i.mydramalist.com/Bd76J5_5c.jpg",
+          "genreIds": [1, 2, 3],
+          "contentRating": "15+",
+          "episode": "Bölüm: 10",
+          "playerAbout1": "https://mydramalist.com/people/14452-bona",
+          "playerAbout2": "https://mydramalist.com/people/119713-jang-da-a",
+          "playerAbout3": "https://mydramalist.com/people/51105-ryu-da-bin"
+    },
+    {
+      "id": 808,
+          "koreasName": "Welcome to Samdal-ri",
+          "koreasImage": "https://i.mydramalist.com/wJwdQ1_4f.jpg",
+          "rating": 8.6,
+          "description": "2023 yılı yapımı bu dizide: Haenyeo (deniz yaşamı toplayan kadın dalgıç) olarak çalışan annesini hatalı bir hava durumu raporu nedeniyle genç yaşta kaybeden Cho Yong Pil, hava tahmincisi olmaya ve memleketinin büyüklerini korumaya karar verir. Ancak tutkusu ve yanlış bilginin akıp gitmesine izin vermemesi ona işyerinde patronuyla tartışmaktan korkmayan inatçı bir baş belası olarak ün kazandırır. Cho Sam Dal, Cho Yong Pil ile büyümüştür. Memleketi Samdalri'de kalmaktan memnun olan Cho Yong Pil'in aksine, Cho Sam Dal, küçük kasabalarından çıkıp Seul'e taşınmayı kendine misyon edinmiştir. Seul'de adını Cho Eun Hye olarak değiştiren Cho Sam Dal, moda fotoğrafçılığı endüstrisinde yıllarca asistan olarak çalıştıktan sonra sonunda başarılı olur ve zirveye ulaşır. Ancak inşa etmek için çok çalıştığı her şey göz açıp kapayıncaya kadar yerle bir olunca, insanların onu hâlâ Eun Hye olarak değil Sam Dal olarak tanıdığı Samdali'ye geri döner. Her ne kadar Cho Yong Pil ve Cho Sam Dal küçükken kalçadan birleşmiş olsalar da, bir zamanlar birbirinden ayrılamayan arkadaşdırlar, onları ayıran bir olay nedeniyle artık birbirleriyle iletişim halinde değillerdir. Ancak Cho Sam Dal, Samdalri'ye döndüğünde, bir zamanlar birbirlerine karşı besledikleri uzun süreli sevginin hızla geri geldiğini fark ederler.",
+          "playerName1": "Ji Chang Wook\n(Cho Yong Pil)",
+          "playerName2": "Shin Hye Sun\n(Cho Sam Dal)",
+          "playerName3": "Kim Mi Kyung\n(Go Mi Ja)",
+          "playerImage1": "https://i.mydramalist.com/ZyyEJ_5c.jpg",
+          "playerImage2": "https://i.mydramalist.com/WPmVw3_5c.jpg",
+          "playerImage3": "https://i.mydramalist.com/xw1DX_5c.jpg",
+          "genreIds": [4, 5, 19],
+          "contentRating": "15+",
+          "episode": "Bölüm: 16",
+          "playerAbout1": "https://mydramalist.com/people/806-ji-chang-wook",
+          "playerAbout2": "https://mydramalist.com/people/7194-shin-hye-sun",
+          "playerAbout3": "https://mydramalist.com/people/1693-kim-mi-kyung"
       }
   ]
 }
