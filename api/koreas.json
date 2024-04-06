@@ -2392,7 +2392,7 @@
       "episode": "Bölüm: 16",
       "playerAbout1": "",
       "playerAbout2": "https://mydramalist.com/people/1692-kim-ji-won",
-      "playerAbout3": ""
+      "playerAbout3": "https://mydramalist.com/people/6005-ahn-jae-hong"
     },
     {
       "id": 127,
@@ -11797,7 +11797,7 @@
       "episode": "Bölüm: 16",
       "playerAbout1": "https://mydramalist.com/people/1897-park-eun-bin",
       "playerAbout2": "https://mydramalist.com/people/9324-kim-min-jae",
-      "playerAbout3": ""
+      "playerAbout3": "https://mydramalist.com/people/15691-park-ji-hyun"
     },
     {
       "id": 622,
@@ -12956,7 +12956,7 @@
       "episode": "Bölüm: 16",
       "playerAbout1": "https://mydramalist.com/people/24041-park-joo-hyun",
       "playerAbout2": "https://mydramalist.com/people/32961-chae-jong-hyeop",
-      "playerAbout3": ""
+      "playerAbout3": "https://mydramalist.com/people/15691-park-ji-hyun"
     },
     {
       "id": 683,
@@ -15312,8 +15312,8 @@
           "playerAbout1": "https://mydramalist.com/people/1974-jo-jung-suk",
           "playerAbout2": "https://mydramalist.com/people/993-shin-se-kyung",
           "playerAbout3": ""
-      },
-        {
+    },
+    {
       "id": 807,
           "koreasName": "Pyramid Game",
           "koreasImage": "https://i.mydramalist.com/QJ7qQv_4f.jpg",
@@ -15350,6 +15350,44 @@
           "playerAbout1": "https://mydramalist.com/people/806-ji-chang-wook",
           "playerAbout2": "https://mydramalist.com/people/7194-shin-hye-sun",
           "playerAbout3": "https://mydramalist.com/people/1693-kim-mi-kyung"
+    },
+    {
+      "id": 809,
+          "koreasName": "Flex X Cop",
+          "koreasImage": "https://i.mydramalist.com/qYbz7B_4f.jpg",
+          "rating": 8.7,
+          "description": "2024 yılı yapımı bu dizide: Jin Yi Soo'nun hayatta her şeyi vardır. Üçüncü nesil bir holding olduğundan asla başkalarının yardımına ihtiyaç duymaz. Ancak bir davaya bulaştığında işler değişmeye başlar. Jin Yi Soo, Kangha Karakolunun soyguncuları yakalama konusunda uzmanlaşmış şiddet içeren soruşturma ekibine katılır. Zenginliğini ve kişisel bağlantılarını kendi avantajına kullanmayı hedefler. Dedektif Lee Kang Hyun'un yanında çalışır. Kang Hyun kendini adamış ve akıcı bir konuşmacıdır ve ortak olarak çalışmaya başladıklarında Yi Soo'nun varlığını umursamaz.",
+          "playerName1": "Ahn Bo Hyun\n(Jin Yi Soo)",
+          "playerName2": "Park Ji Hyun\n(Lee Kang Hyun)",
+          "playerName3": "Kang Sang Jun\n(Park Joon Young)",
+          "playerImage1": "https://i.mydramalist.com/B6wPl_5c.jpg",
+          "playerImage2": "https://i.mydramalist.com/60eOrP_5c.jpg",
+          "playerImage3": "https://i.mydramalist.com/qY8Pgz_5c.jpg",
+          "genreIds": [1, 4, 15],
+          "contentRating": "15+",
+          "episode": "Bölüm: 16",
+          "playerAbout1": "https://mydramalist.com/people/9854-ahn-bo-hyun",
+          "playerAbout2": "https://mydramalist.com/people/15691-park-ji-hyun",
+          "playerAbout3": "https://mydramalist.com/people/120495-kang-sang-jun"
+    },
+    {
+      "id": 810,
+          "koreasName": "LTNS",
+          "koreasImage": "https://i.mydramalist.com/60olQO_4f.jpg",
+          "rating": 7.4,
+          "description": "2024 yılı yapımı bu dizide: Cinsel arzuyla dolup taşan ve birbirlerinin bedenlerine şehvet duydukları günler çoktan geride kalır ve Woo Jin ile Samuel, hem fiziksel hem de duygusal olarak biraz yıpranmış bir çifte dönüşürler. Tesadüfen kendilerini, aldatan çiftleri ifşa etme konusunda uzmanlaşmış bir şantaj ekibi oluştururken bulurlar ve hayatlarını tersine çevirme fırsatı ararlar.",
+          "playerName1": "Esom\n(Woo Jin)",
+          "playerName2": "Ahn Jae Hong\n(Samuel)",
+          "playerName3": "Jung Jin Youngi\n(Kang Baek Ho)",
+          "playerImage1": "https://i.mydramalist.com/18ED5_5c.jpg",
+          "playerImage2": "https://i.mydramalist.com/pwLen_5c.jpg",
+          "playerImage3": "https://i.mydramalist.com/dZojW_5c.jpg",
+          "genreIds": [3, 4, 5],
+          "contentRating": "18+",
+          "episode": "Bölüm: 6",
+          "playerAbout1": "https://mydramalist.com/people/2540-lee-som",
+          "playerAbout2": "https://mydramalist.com/people/6005-ahn-jae-hong",
+          "playerAbout3": "https://mydramalist.com/people/289-jung-jin-young"
       }
   ]
 }
