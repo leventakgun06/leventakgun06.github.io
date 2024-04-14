@@ -322,6 +322,25 @@
           "playerAbout1": "https://mydramalist.com/people/582-kaku-kento",
           "playerAbout2": "https://mydramalist.com/people/12670-yoshioka-riho",
           "playerAbout3": "https://mydramalist.com/people/681-eguchi-yosuke"
+      },
+       {
+      "id": 18,
+          "koreasName": "Sugar Sugar Honey",
+          "koreasImage": "https://i.mydramalist.com/4ekwbd_4f.jpg",
+          "rating": 7.2,
+          "description": "2024 yılı yapımı bu dizide: Mizuki, koşu ayakkabılarını asmak ve \"gerçek dünyada\" bir iş bulmak zorunda kalan bir maraton koşucusudur. Tüm hayatı boyunca koşmaya odaklanmış ve sosyal beceriler açısından çok az gelişmiş, aşk hayatına dair her türlü düşünceyi tamamen ihmal etmiş. Ona neşe veren tek şey tatlı yemeğe olan sevgisidir. Mizuki lüks bir otelde işe girdiğinde bu konuda umutsuz olduğu ortaya çıkar. Müşteri hizmetleri konusunda hiçbir deneyimi ya da doğal yeteneği olmadığı için gaf üzerine gaf yapar. Bir gün, otelde çalışan ve kadın avcısı olarak tanınan dahi pastacı Kaji ile yolları kesişir. Koşu sonrası hayatının ne kadar kötü gittiğine sinirlenen Mizuki, Kaji'ye öfkelenir. Onun tiradı onu kızdırmak yerine, onu yeni lezzet tadımcısı olarak atayan Kaji'ye ilham verir.",
+          "playerName1": "Nagatsuma Reo\n(Kaji Yusuke)",
+          "playerName2": "Kawazu Asuka\n(Sahara Mizuki)",
+          "playerName3": "Oshida Gaku\n(Akanishi Sota)",
+          "playerImage1": "https://i.mydramalist.com/20KqP_5c.jpg",
+          "playerImage2": "https://i.mydramalist.com/rl2r2_5c.jpg",
+          "playerImage3": "https://i.mydramalist.com/1VAw7_5c.jpg",
+          "genreIds": [5, 19, 24],
+          "contentRating": "15+",
+          "episode": "Bölüm: 8",
+          "playerAbout1": "https://mydramalist.com/people/11006-nagatsuma-reo",
+          "playerAbout2": "https://mydramalist.com/people/31013-kawazu-asuka",
+          "playerAbout3": "https://mydramalist.com/people/19678-oshida-gaku"
       }
   ]
 }
