@@ -303,6 +303,25 @@
           "playerAbout1": "https://mydramalist.com/people/8760-hirose-suzu",
           "playerAbout2": "https://mydramalist.com/people/18746-ren-nagase",
           "playerAbout3": "https://mydramalist.com/people/3530-matsumoto-wakana"
+      },
+      {
+      "id": 17,
+          "koreasName": "House of Ninjas",
+          "koreasImage": "https://i.mydramalist.com/1wqNV7_4f.jpg",
+          "rating": 7.9,
+          "description": "2024 yılı yapımı bu dizide: Günümüz Japonya'sında geçen \"House of Ninjas\", son ninja klanı Tawara ailesinin hikayesini anlatıyor. Geçmişte yaşanan bir olaydan sonra köklerini terk etmiş ama şimdi aile olmuş ve Japon tarihinin en büyük, ülkeyi temelden sarsmakla tehdit eden krizi üstlenmek zorundalar.",
+          "playerName1": "Kaku Kento\n(Tawara Haru)",
+          "playerName2": "Yoshioka Riho\n(Ito Karen)",
+          "playerName3": "Eguchi Yosuke\n(Tawara Soichi)",
+          "playerImage1": "https://i.mydramalist.com/ejpnq_5c.jpg",
+          "playerImage2": "https://i.mydramalist.com/jRQYr_5c.jpg",
+          "playerImage3": "https://i.mydramalist.com/1gOWyc.jpg",
+          "genreIds": [1, 2, 15],
+          "contentRating": "15+",
+          "episode": "Bölüm: 8",
+          "playerAbout1": "https://mydramalist.com/people/582-kaku-kento",
+          "playerAbout2": "https://mydramalist.com/people/12670-yoshioka-riho",
+          "playerAbout3": "https://mydramalist.com/people/681-eguchi-yosuke"
       }
   ]
 }
