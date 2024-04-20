@@ -3893,7 +3893,7 @@
       "episode": "Bölüm: 24",
       "playerAbout1": "https://mydramalist.com/people/284-cha-tae-hyun",
       "playerAbout2": "",
-      "playerAbout3": ""
+      "playerAbout3": "https://mydramalist.com/people/1885-lee-hee-joon"
     },
     {
       "id": 206,
@@ -10732,7 +10732,7 @@
       "contentRating": "15+",
       "episode": "Bölüm: 20",
       "playerAbout1": "https://mydramalist.com/people/387-lee-seung-gi",
-      "playerAbout2": "",
+      "playerAbout2": "https://mydramalist.com/people/1885-lee-hee-joon",
       "playerAbout3": ""
     },
     {
@@ -11835,7 +11835,7 @@
       "episode": "Bölüm: 16",
       "playerAbout1": "https://mydramalist.com/people/2810-park-hae-soo",
       "playerAbout2": "",
-      "playerAbout3": ""
+      "playerAbout3": "https://mydramalist.com/people/1885-lee-hee-joon"
     },
     {
       "id": 624,
@@ -15388,6 +15388,44 @@
           "playerAbout1": "https://mydramalist.com/people/2540-lee-som",
           "playerAbout2": "https://mydramalist.com/people/6005-ahn-jae-hong",
           "playerAbout3": "https://mydramalist.com/people/289-jung-jin-young"
+    },
+    {
+      "id": 811,
+          "koreasName": "The Bequeathed",
+          "koreasImage": "https://i.mydramalist.com/jQAvWw_4f.jpg",
+          "rating": 7.5,
+          "description": "2024 yılı yapımı bu dizide: Tam da ailesinin geçmişi çözülmeye başlarken, bir kadına gizemli koşullar altında bir mezarlık miras kalır.",
+          "playerName1": "Kim Hyun Joo\n(Yoon Seo Ha)",
+          "playerName2": "Park Hee Soon\n(Choi Seong Jun)",
+          "playerName3": "Park Byung Eun\n(Park Sang Min)",
+          "playerImage1": "https://i.mydramalist.com/qEqvz_5c.jpg",
+          "playerImage2": "https://i.mydramalist.com/kWLmrc.jpg",
+          "playerImage3": "https://i.mydramalist.com/jxgWB_5c.jpg",
+          "genreIds": [2, 3, 15],
+          "contentRating": "15+",
+          "episode": "Bölüm: 6",
+          "playerAbout1": "https://mydramalist.com/people/848-kim-hyun-joo",
+          "playerAbout2": "https://mydramalist.com/people/2587-park-hee-soon",
+          "playerAbout3": "https://mydramalist.com/people/5574-park-byung-eun"
+    },
+    {
+      "id": 812,
+          "koreasName": "A Killer Paradox",
+          "koreasImage": "https://i.mydramalist.com/WPrA7W_4f.jpg",
+          "rating": 7.9,
+          "description": "2024 yılı yapımı bu dizide: Hikaye, sıradan bir üniversite öğrencisi olan Lee Tang'ın, gece bir markette yarı zamanlı iş sırasında bir müşteriyle tartışmaya girmesini, bilinçsizce bir çekiç sallayıp onu öldürmesini konu alıyor. Suçluluk duygusu ve cinayet korkusuyla acı çeken Lee Tang, bir gün öldürdüğü kişinin bir seri katil olduğunu öğrenir ve yavaş yavaş \"kötü tohumları\" tespit etme konusunda doğaüstü bir yeteneğe sahip olduğunu fark eder. Kısa sürede geçmişte etik olmayan kötülükler yapan insanları cezalandıran karanlık bir kahramana dönüşür. Soğukkanlı, karizmatik ve inatçı bir dedektif, Lee Tang'ın peşine düşer.",
+          "playerName1": "Choi Woo Shik\n(Lee Tang)",
+          "playerName2": "Son Suk Ku\n(Jang Nan Gam)",
+          "playerName3": "Lee Hee Joon\n(Song Chon)",
+          "playerImage1": "https://i.mydramalist.com/xWAE0_5c.jpg",
+          "playerImage2": "https://i.mydramalist.com/2wqmeV_5c.jpg",
+          "playerImage3": "https://i.mydramalist.com/ZpyqW_5c.jpg",
+          "genreIds": [2, 4, 15],
+          "contentRating": "15+",
+          "episode": "Bölüm: 8",
+          "playerAbout1": "https://mydramalist.com/people/2551-choi-woo-shik",
+          "playerAbout2": "https://mydramalist.com/people/17419-son-seok-koo",
+          "playerAbout3": "https://mydramalist.com/people/1885-lee-hee-joon"
       }
   ]
 }
