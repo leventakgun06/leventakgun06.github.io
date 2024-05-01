@@ -262,7 +262,7 @@
       "genreIds": [15, 9, 5],
       "contentRating": "12+",
       "episode": "Süre: 2s 27d",
-      "playerAbout1": "",
+      "playerAbout1": "https://mydramalist.com/people/432-yoo-ah-in",
       "playerAbout2": "",
       "playerAbout3": "https://mydramalist.com/people/15813-jun-song-seo"
     },
@@ -376,7 +376,7 @@
       "genreIds": [5, 7, 23],
       "contentRating": "12+",
       "episode": "Süre: 1s 10d",
-      "playerAbout1": "",
+      "playerAbout1": "https://mydramalist.com/people/210-park-shin-hye",
       "playerAbout2": "",
       "playerAbout3": ""
     },
@@ -492,7 +492,7 @@
       "episode": "Süre: 2s 6d",
       "playerAbout1": "https://mydramalist.com/people/806-ji-chang-wook",
       "playerAbout2": "",
-      "playerAbout3": ""
+      "playerAbout3": "https://mydramalist.com/people/6005-ahn-jae-hong"
     },
     {
       "id": 27,
@@ -1079,9 +1079,9 @@
       "genreIds": [1, 4, 3],
       "contentRating": "12+",
       "episode": "Süre: 2s 3d",
-      "playerAbout1": "",
+      "playerAbout1": "https://mydramalist.com/people/424-kim-soo-hyun",
       "playerAbout2": "",
-      "playerAbout3": ""
+      "playerAbout3": "https://mydramalist.com/people/1544-park-ki-woong"
     },
     {
       "id": 58,
@@ -1935,7 +1935,7 @@
       "contentRating": "12+",
       "episode": "Süre: 2s 5d",
       "playerAbout1": "https://mydramalist.com/people/276-song-kang-ho",
-      "playerAbout2": "",
+      "playerAbout2": "https://mydramalist.com/people/432-yoo-ah-in",
       "playerAbout3": ""
     },
     {
@@ -2238,7 +2238,7 @@
       "genreIds": [21, 12, 7],
       "contentRating": "12+",
       "episode": "Süre: 1s 52d",
-      "playerAbout1": "",
+      "playerAbout1": "https://mydramalist.com/people/210-park-shin-hye",
       "playerAbout2": "https://mydramalist.com/people/15813-jun-song-seo",
       "playerAbout3": ""
     },
