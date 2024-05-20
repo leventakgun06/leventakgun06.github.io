@@ -341,6 +341,25 @@
           "playerAbout1": "https://mydramalist.com/people/11006-nagatsuma-reo",
           "playerAbout2": "https://mydramalist.com/people/31013-kawazu-asuka",
           "playerAbout3": "https://mydramalist.com/people/19678-oshida-gaku"
+      },
+	  {
+      "id": 19,
+          "koreasName": "Shogun",
+          "koreasImage": "https://i.mydramalist.com/WPNXoR_4f.jpg",
+          "rating": 8.6,
+          "description": "2024 yılı yapımı bu dizide: 1494 ve 1529'da Katolik İspanya ve Portekiz, Yeni Dünya'daki toprakları aralarında paylaştıran anlaşmalar imzaladılar. Katolik İspanya'nın Protestan İngiltere'yi istila etmesinden korkan İngilizler, İspanyol İmparatorluğu'na karşı savaşta Hollandalılarla (Protestan arkadaşları) güçlerini birleştirdi ve iki ülke, İspanya ve Portekiz'in Asya'daki ticaretteki Katolik tekelini kırmak için beş gemiden oluşan bir filo gönderdi. \"Shogun\", filoda kalan son gemi olan Erasmus'un 1600 yılında feodal Japonya'ya gelişiyle başlar. Aralarında İngiliz denizci John Blackthorne'un da bulunduğu, hayatta kalan az sayıdaki Erasmus mürettebatı, bu gemilere ulaşan ilk Hollandalı ve İngiliz denizcilerdi. Japonya. Mürettebatın hiçbiri Japonca konuşmamasına rağmen, Blackthorne (daha sonra Anjin olarak anılacaktır) Portekizce ve Latince konuşabiliyordu. Genç bir adamken savaş ağası Yoshii Toranaga, yakında Taikō olacak Nakamura ile tanışana kadar durdurulamaz görünüyordu. Onu alt edemeyen Toranaga, Nakamura ile güçlerini birleştirerek onun Japonya'yı birleştirmesine ve onlarca yıldır süren iç savaşı sona erdirmesine yardımcı olur. Taiko ölüm döşeğindeyken Toranaga'yı, oğlu reşit olana kadar ülkeyi yönetecek olan Vekiller Konseyi'ne atar. Toranaga, Konsey'de sadakatle hizmet eder, ancak diğer üyeler, onun adını ve gücünü bir tehdit olarak görür ve yavaş yavaş ona karşı birleşirler. Erasmus, tam da Toranaga'nın ölümcül bir köşeye sıkıştığı sırada Japon sularına ulaşır ve mürettebatının taşıdığı sırlar, Toranaga'ya durumu tersine çevirmek için beklenmedik bir fırsat sunar. Büyük bir trajedinin ardından Toranaga'nın değerli tebaalarından birinin soylu eşi Mariko, Katolikliğe geçmiştir. Portekizce ve Latince'yi ustaca konuşabilen biri haline gelir. Toranaga, Mariko'ya Blackthorne'a tercüme yapmasını emreder ve ikisi arasında bir bağ oluşur. En güçlü iki daimyo arasındaki güç mücadelesinin ortasında kalırken, hain bir siyasi ortamda ilerlerken kaderleri iç içe geçmiştir.",
+          "playerName1": "Sanada Hiroyuki\n(Lord Toranaga)",
+          "playerName2": "Cosmo Jarvis\n(John Blackthorne)",
+          "playerName3": "Anna Sawai\n(Toda Mariko)",
+          "playerImage1": "https://i.mydramalist.com/jwqyb_5c.jpg",
+          "playerImage2": "https://i.mydramalist.com/QJmR64_5c.jpg",
+          "playerImage3": "https://i.mydramalist.com/1wg0nb_5c.jpg",
+          "genreIds": [1, 8, 3],
+          "contentRating": "15+",
+          "episode": "Bölüm: 10",
+          "playerAbout1": "https://mydramalist.com/people/4675-sanada-hiroyuki",
+          "playerAbout2": "https://mydramalist.com/people/133627-cosmo-jarvis",
+          "playerAbout3": "https://mydramalist.com/people/98733-anna-sawai"
       }
   ]
 }
