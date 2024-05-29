@@ -360,6 +360,25 @@
           "playerAbout1": "https://mydramalist.com/people/4675-sanada-hiroyuki",
           "playerAbout2": "https://mydramalist.com/people/133627-cosmo-jarvis",
           "playerAbout3": "https://mydramalist.com/people/98733-anna-sawai"
+      },
+	      {
+      "id": 20,
+          "koreasName": "House of the Owl",
+          "koreasImage": "https://i.mydramalist.com/1wg4Kb_4f.jpg",
+          "rating": 6.9,
+          "description": "2024 yılı yapımı bu dizide: Japonya'nın en büyük skandallarından ve zaferlerinden bazılarında politikacılara ve iş adamlarına rehberlik eden, kariyerinin ve güçlerinin zirvesinde olan Japonya'nın usta tamircisi, son ve en büyük düzeltmesini gerçekleştirmek zorundadır. Bu arada, ailesini düzeltmenin bazen bir ülkeyi düzeltmekten daha zor olduğunu keşfederken, kendi ailesini kuşatan sorunlarla da yüzleşmek zorundadır.",
+          "playerName1": "Tanaka Min\n(Ogami Ryutaro)",
+          "playerName2": "Mackenyu\n(Ogami Ryu)",
+          "playerName3": "Manda Hisako\n(Ogami Kyoko)",
+          "playerImage1": "https://i.mydramalist.com/1wdwvd_5c.jpg",
+          "playerImage2": "https://i.mydramalist.com/jP2OJ_5c.jpg",
+          "playerImage3": "https://i.mydramalist.com/rNNQL7_5c.jpg",
+          "genreIds": [1, 2, 3],
+          "contentRating": "15+",
+          "episode": "Bölüm: 10",
+          "playerAbout1": "https://mydramalist.com/people/4122-tanaka-min",
+          "playerAbout2": "https://mydramalist.com/people/10816-mackenyu",
+          "playerAbout3": "https://mydramalist.com/people/2655-manda-hisako"
       }
   ]
 }
