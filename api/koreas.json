@@ -9743,7 +9743,7 @@
       "genreIds": [2, 15, 5],
       "contentRating": "15+",
       "episode": "Bölüm: 16",
-      "playerAbout1": "",
+      "playerAbout1": "https://mydramalist.com/people/443-so-yi-hyun",
       "playerAbout2": "https://mydramalist.com/people/423-ok-taec-yeon",
       "playerAbout3": ""
     },
@@ -15616,6 +15616,44 @@
           "playerAbout1": "https://mydramalist.com/people/18592-ahn-eun-jin",
           "playerAbout2": "https://mydramalist.com/people/432-yoo-ah-in",
           "playerAbout3": "https://mydramalist.com/people/10269-jun-sung-woo"
+    },
+    {
+      "id": 823,
+          "koreasName": "Nothing Uncovered",
+          "koreasImage": "https://i.mydramalist.com/x4KP3j_4f.jpg",
+          "rating": 7.3,
+          "description": "2024 yılı yapımı bu dizide: KBM Muhabiri Seo Jung Won, Kötü Adam Avcısı olarak bilinir. \"Nothing Uncovered\" adlı programı halkı kışkırtan kötü adamlarla ilgili haberler verir ve keskin yorumları diziyi popüler hale getirerek Seo Jung Won'u yıldız bir muhabir haline getirir. Ancak kendisini dibe çeken şok edici bir olaya karışır ve eski sevgilisi Kim Tae Heon ile ekip kurmak zorunda kalır. Kim Tae Heon, Gangha Karakolunda bir dedektiftir ve her şeyi kendi yöntemiyle yapmak zorundadır. Bir vakayı araştırırken Seo Jung Won ile tanışır ve yeniden bir araya gelmeleri karşısında kafası karışır. Seol Woo Jae, Seo Jung Won'un kocasıdır ve zengin bir aileden gelen ünlü bir gizem yazarıdır. Seo Jung Won için her şeyi yapmaya hazır bir romantik olmasına rağmen yaralı kalbini gizlice saklar. Ve şimdi bu üçü seri cinayetlere derinden bulaşmış durumda.",
+          "playerName1": "Kim Ha Neul\n(Seo Jung Won)",
+          "playerName2": "Yeon Woo Jin\n(Kim Tae Heon)",
+          "playerName3": "Jang Seung Jo\n(Seol Woo Jae)",
+          "playerImage1": "https://i.mydramalist.com/Qy7kW_5c.jpg",
+          "playerImage2": "https://i.mydramalist.com/1kOqy_5c.jpg",
+          "playerImage3": "https://i.mydramalist.com/p54Xn_5c.jpg",
+          "genreIds": [2, 15, 3],
+          "contentRating": "15+",
+          "episode": "Bölüm: 16",
+          "playerAbout1": "https://mydramalist.com/people/403-kim-ha-neul",
+          "playerAbout2": "https://mydramalist.com/people/1340-yeon-woo-jin",
+          "playerAbout3": "https://mydramalist.com/people/8652-jang-seung-jo"
+    },
+    {
+      "id": 824,
+          "koreasName": "My Happy Ending",
+          "koreasImage": "https://i.mydramalist.com/0wpD0r_4f.jpg",
+          "rating": 7.6,
+          "description": "2024 yılı yapımı bu dizide: Seo Jae Won'un mükemmele yakın kişisel ve iş hayatı vardır. Başarılı bir mobilya şirketinin CEO'sudur ve bir milyondan fazla takipçisi olan sosyal medya fenomenidir. Şirketinde tasarımın genel müdürü olması için tasarımcı Yoon Te Oh'yu araştırır. Kişisel yaşamında Seo Jae Won'un çok sevdiği bir kocasıdır, Heo Soon Young ve onların sevimli çocukları vardır. Heo Soon Young sıcak kalplidir ve neredeyse hiç öfkelenmez. Heo Soon Young, evlendikten sonra ailesini her şeyin önünde tutar. Kwon Yoon Jin, Seo Jae Won ile aynı üniversitenin sanat bölümünden mezun olmuştur. Boşanmasıyla zor bir dönem yaşar ve sanat kariyeri hızla tükenir. Seo Jae Won'la yeniden bağlantı kurduktan sonra mükemmele yakın hayatını kıskanmaya başlar. Güvendiği insanlar tarafından ihanete uğrayan Seo Jae Won'un hayatı kısa sürede değişir ve etrafındaki insanların sakladığı sırlarla yüzleşir.",
+          "playerName1": "Jang Na Ra\n(Seo Jae Woon)",
+          "playerName2": "Son Ho Jun\n(Heo Soon Young)",
+          "playerName3": "So Yi Hyun\n(Kwon Yoon Jin)",
+          "playerImage1": "https://i.mydramalist.com/1rQJQ_5c.jpg",
+          "playerImage2": "https://i.mydramalist.com/jQAxrB_5c.jpg",
+          "playerImage3": "https://i.mydramalist.com/qxvvB_5c.jpg",
+          "genreIds": [2, 15, 3],
+          "contentRating": "15+",
+          "episode": "Bölüm: 16",
+          "playerAbout1": "https://mydramalist.com/people/668-jang-na-ra",
+          "playerAbout2": "https://mydramalist.com/people/3891-son-ho-jun",
+          "playerAbout3": "https://mydramalist.com/people/443-so-yi-hyun"
       }
   ]
 }
