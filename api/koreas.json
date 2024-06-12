@@ -15730,6 +15730,25 @@
           "playerAbout1": "https://mydramalist.com/people/251-joo-ji-hoon",
           "playerAbout2": "https://mydramalist.com/people/300-han-hyo-joo",
           "playerAbout3": "https://mydramalist.com/people/1885-lee-hee-joon"
+      },
+        {
+      "id": 829,
+          "koreasName": "The Atypical Family",
+          "koreasImage": "https://i.mydramalist.com/kAWyDd_4f.jpg",
+          "rating": 8.6,
+          "description": "2024 yılı yapımı bu dizide: Bok Gwi Ju ve ailesi farklı doğaüstü güçlerle doğmuşlardır. Bok Gwi Ju zamanda geriye yolculuk edebiliyor ama yalnızca hayatındaki mutlu anlara. Geçmişi değiştiremeyeceği için yalnızca o mutlu anlara odaklanabiliyorr. Bok Gwi Ju depresyona girer ve bu onun doğaüstü gücünü kaybetmesine neden olur. Ailesi ayrıca uykusuzluk, bulimia ve akıllı telefon bağımlılığı gibi günümüzün sorunları nedeniyle kendi güçlerini de kaybeder. Bir gün Do Da Hae, Bok Gwi Ju ve ailesiyle ilişki kurar. Onlarla yaşamaya başlar ve değişim meydana gelir.",
+          "playerName1": "Jang Ki Yong\n(Bok Gwi Ju)",
+          "playerName2": "Chun Woo Hee\n(Do Da Hae)",
+          "playerName3": "Go Doo Shim\n(Bok Man Heum)",
+          "playerImage1": "https://i.mydramalist.com/eYgEOW_5c.jpg",
+          "playerImage2": "https://i.mydramalist.com/Z8BNPY_5c.jpg",
+          "playerImage3": "https://i.mydramalist.com/RJnePc.jpg",
+          "genreIds": [9, 5, 7],
+          "contentRating": "15+",
+          "episode": "Bölüm: 12",
+          "playerAbout1": "https://mydramalist.com/people/8226-jang-ki-yong",
+          "playerAbout2": "https://mydramalist.com/people/4163-chun-woo-hee",
+          "playerAbout3": "https://mydramalist.com/people/1659-go-doo-shim"
       }
   ]
 }
