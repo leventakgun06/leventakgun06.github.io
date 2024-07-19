@@ -10410,7 +10410,7 @@
       "episode": "Bölüm: 17",
       "playerAbout1": "https://mydramalist.com/people/806-ji-chang-wook",
       "playerAbout2": "https://mydramalist.com/people/1692-kim-ji-won",
-      "playerAbout3": ""
+      "playerAbout3": "https://mydramalist.com/people/2215-kim-min-suk"
     },
     {
       "id": 549,
@@ -12423,7 +12423,7 @@
       "contentRating": "15+",
       "episode": "Bölüm: 12",
       "playerAbout1": "",
-      "playerAbout2": "",
+      "playerAbout2": "https://mydramalist.com/people/30283-jeun-mi-do",
       "playerAbout3": ""
     },
     {
@@ -15844,6 +15844,44 @@
           "playerAbout1": "https://mydramalist.com/people/1810-lee-je-hoon",
           "playerAbout2": "https://mydramalist.com/people/7505-lee-dong-hwi",
           "playerAbout3": "https://mydramalist.com/people/29915-choi-woo-seong"
+    },
+    {
+      "id": 835,
+          "koreasName": "Connection",
+          "koreasImage": "https://i.mydramalist.com/0wvlXe_4f.jpg",
+          "rating": 8.4,
+          "description": "2024 yılı yapımı bu dizide: Bir gün, Ahnhyeon'un narkotik biriminde on yıllık dedektif olarak çalışan Jang Jae Kyung, birisi tarafından zorla uyuşturucu bağımlısı olur. Kullanıcı olduğunu inkar edip kullananları tutuklayan bir memur olduğunu iddia etse de polisin yeni ve bilmediği uyuşturucu nedeniyle farkında olmadan zihni ve bedeni kötüleşir. Oh Yun Jin, Ahnhyeon Economic Daily muhabiridir. Jung Jae Kyung ile Jeogang Lisesi'nden tanışırlar. Bir ay sonra işe döndükten hemen sonra, bir adamın uyuşturucu kullanmaktan gözünün önünde öldüğüne tanık olur. Oh Yun Jin, uyuşturucu davasının peşine düşer ve Jang Jae Kyung'la yeniden karşılaşır. Geumhyung Grubunun başkan yardımcısı Won Jong Soo ve Ahnhyeon'un savcısı Park Tae Jin, davaya dahil olabilecek kişilerden ikisi. Uyuşturucunun etkisiyle 50 milyon dolarla iç içe olan şeytani bir bağ oluşmaya başlar ve lise dostlukları yıpranır. Savaşın sonunda intikam ilan eden ve kazanan kim olacak Jang Jae Kyung'la yüzleşecek uyuşturucu baronu kim olabilir?",
+          "playerName1": "Ji Sung\n(Jang Jae Kyung)",
+          "playerName2": "Jeon Mi Do\n(Oh Yun Jin)",
+          "playerName3": "Kwon Yul\n(Park Tae Jin)",
+          "playerImage1": "https://i.mydramalist.com/E55lEp_5c.jpg",
+          "playerImage2": "https://i.mydramalist.com/6PKmX_5c.jpg",
+          "playerImage3": "https://i.mydramalist.com/w3V08_5c.jpg",
+          "genreIds": [2, 12, 15],
+          "contentRating": "15+",
+          "episode": "Bölüm: 14",
+          "playerAbout1": "https://mydramalist.com/people/469-ji-sung",
+          "playerAbout2": "https://mydramalist.com/people/30283-jeun-mi-do",
+          "playerAbout3": "https://mydramalist.com/people/1272-kwon-yool"
+    },
+    {
+      "id": 836,
+          "koreasName": "My Military Valentine",
+          "koreasImage": "https://i.mydramalist.com/qYxzP2_4f.jpg",
+          "rating": 7.0,
+          "description": "2024 yılı yapımı bu dizide: Onlarca yıl süren gerilimin ardından Kore Yarımadası'na barış gelmiştir. Yeni Kuzey-Güney Kore barış zamanının başlangıcını kutlamak için Güney Koreli ünlü yıldız Lloyd, bir konser vermek üzere DMZ'ye gider, ancak bir yanlış anlaşılma, Kuzey Kore özel kuvvetler askeri Baek Young Ok'u devreye girmeye zorlar. Hayranlar, aralarındaki etkileşimi ve seyirciyi yakalar. bunu romantik bir an sanır. Bir skandal patlak verir ve Lloyd'un hayranları öfkelenir. Çaresizlik içinde orduya katılır… ancak kendisini Baek Young Ok liderliğindeki bir birliğin içinde bulur! Bu beklenmedik çift arasında romantizm gelişebilir mi?",
+          "playerName1": "Nam Gyu Ri\n(Baek Young Ok)",
+          "playerName2": "Kim Min Seok\n(Lloyd)",
+          "playerName3": "Choi Hye Jin\n(Seo Hee Ji)",
+          "playerImage1": "https://i.mydramalist.com/Z8Bn31_5c.jpg",
+          "playerImage2": "https://i.mydramalist.com/0LVrK_5c.jpg",
+          "playerImage3": "https://i.mydramalist.com/4qegr_5c.jpg",
+          "genreIds": [1, 5, 25],
+          "contentRating": "15+",
+          "episode": "Bölüm: 12",
+          "playerAbout1": "https://mydramalist.com/people/533-nam-gyu-ri",
+          "playerAbout2": "https://mydramalist.com/people/2215-kim-min-suk",
+          "playerAbout3": "https://mydramalist.com/people/48447-choi-hye-jin"
       }
   ]
 }
