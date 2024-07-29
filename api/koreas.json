@@ -1231,7 +1231,7 @@
       "genreIds": [4, 3, 20],
       "contentRating": "15+",
       "episode": "Bölüm: 8",
-      "playerAbout1": "",
+      "playerAbout1": "https://mydramalist.com/people/11011-kim-hye-joon",
       "playerAbout2": "",
       "playerAbout3": ""
     },
@@ -1878,7 +1878,7 @@
       "contentRating": "15+",
       "episode": "Bölüm: 32",
       "playerAbout1": "https://mydramalist.com/people/513-nam-goong-min",
-      "playerAbout2": "",
+      "playerAbout2": "https://mydramalist.com/people/14437-nara",
       "playerAbout3": "https://mydramalist.com/people/4439-kim-byung-chul"
     },
     {
@@ -10011,7 +10011,7 @@
       "episode": "Bölüm: 32",
       "playerAbout1": "",
       "playerAbout2": "https://mydramalist.com/people/9289-lee-yoo-young",
-      "playerAbout3": ""
+      "playerAbout3": "https://mydramalist.com/people/14437-nara"
     },
     {
       "id": 528,
@@ -10162,7 +10162,7 @@
       "contentRating": "15+",
       "episode": "Bölüm: 16",
       "playerAbout1": "https://mydramalist.com/people/1552-l",
-      "playerAbout2": "",
+      "playerAbout2": "https://mydramalist.com/people/14437-nara",
       "playerAbout3": ""
     },
     {
@@ -10315,7 +10315,7 @@
       "episode": "Bölüm: 16",
       "playerAbout1": "https://mydramalist.com/people/2195-park-seo-joon",
       "playerAbout2": "",
-      "playerAbout3": ""
+      "playerAbout3": "https://mydramalist.com/people/14437-nara"
     },
     {
       "id": 544,
@@ -11891,7 +11891,7 @@
       "contentRating": "15+",
       "episode": "Bölüm: 12",
       "playerAbout1": "",
-      "playerAbout2": "",
+      "playerAbout2": "https://mydramalist.com/people/11011-kim-hye-joon",
       "playerAbout3": "https://mydramalist.com/people/3568-kim-hae-sook"
     },
     {
@@ -12176,7 +12176,7 @@
       "contentRating": "15+",
       "episode": "Bölüm: 16",
       "playerAbout1": "",
-      "playerAbout2": "",
+      "playerAbout2": "https://mydramalist.com/people/14437-nara",
       "playerAbout3": "https://mydramalist.com/people/2502-lee-joon"
     },
     {
@@ -15882,6 +15882,44 @@
           "playerAbout1": "https://mydramalist.com/people/533-nam-gyu-ri",
           "playerAbout2": "https://mydramalist.com/people/2215-kim-min-suk",
           "playerAbout3": "https://mydramalist.com/people/48447-choi-hye-jin"
+    },
+    {
+      "id": 837,
+          "koreasName": "The Midnight Studio",
+          "koreasImage": "https://i.mydramalist.com/E5PpJW_4f.jpg",
+          "rating": 8.0,
+          "description": "2024 yılı yapımı bu dizide: Şehrin sessiz ve unutulmuş bir köşesinde, yalnızca sıra dışı bir müşteri kitlesine, hayaletlere hizmet veren gizemli bir fotoğraf stüdyosu yer almaktadır. Yedinci nesil sahibi olan Seo Ki Joo, bu hayalet işi yürütmek için bir aile lanetine bağlıdır. Özel bir kamera ile silahlanan Seo Ki Joo, ölenlerin son arzularını yerine getirir, görüntülerini yakalar ve onlara hayatlarına devam etmeleri için huzur verir. Ancak ailesinin mirası karanlık bir kaderle gelir: hiçbiri 35. yaş günlerinden sonra yaşamamıştır. Seo Ki Joo'nun hayatı, adalet duygusu sarsılmaz tutkulu bir avukat olan Han Bom resme girdiğinde beklenmedik bir dönüş yapar. Gerçeği aramada çok amansız olduğu için savcılık görevinden yakın zamanda kovulan Bom, artık geçimini sağlamak için mücadele etmektedir. Kaderin bir cilvesi olarak, Seo Ki Joo ile bir ortaklık kurar ve birlikte hem yaşayanlar hem de ölüler için adaleti sağlarlar. Stüdyoda ayrıca iki benzersiz çalışan da bulunmaktadır: Görevi hayalet müşterileri çekmek olan Yardımcı Müdür Go Seong Ho ve günlük işleri yapan eski bir polis olan Baek Nam Goo. Bu sıra dışı ekip, birlikte yaşayanlar ve ölüler arasındaki hassas dengeyi yöneterek gizli gerçekleri ortaya çıkarır ve eterik müşterileri için tamamlanmamış işleri çözer.",
+          "playerName1": "Joo Won\n(Seo Ki Joo)",
+          "playerName2": "Kwon Na Ra\n(Han Bom)",
+          "playerName3": "Yoo In Soo\n(Go Seong Ho)",
+          "playerImage1": "https://i.mydramalist.com/wrJg1_5c.jpg",
+          "playerImage2": "https://i.mydramalist.com/ppx4B_5c.jpg",
+          "playerImage3": "https://i.mydramalist.com/qzOlB_5c.jpg",
+          "genreIds": [2, 5, 7],
+          "contentRating": "15+",
+          "episode": "Bölüm: 16",
+          "playerAbout1": "https://mydramalist.com/people/396-joo-won",
+          "playerAbout2": "https://mydramalist.com/people/14437-nara",
+          "playerAbout3": "https://mydramalist.com/people/20767-yoo-in-soo"
+    },
+    {
+      "id": 838,
+          "koreasName": "A Shop for Killers",
+          "koreasImage": "https://i.mydramalist.com/QJNjwg_4f.jpg",
+          "rating": 8.8,
+          "description": "2024 yılı yapımı bu dizide: Üniversiteye girdikten kısa bir süre sonra Jung Ji Ahn, yerel polisten amcasının \"intihar ettiğini\" bildiren bir telefon alır. Ebeveynlerinin ölümünden beri bakıcısı olan amca Jung Jin Man her zaman sessiz ve gizemlidir ama asla intihara meyilli olmamıştır. Ancak Jung Ji Ahn düşünme fırsatı bulamadan, bir dizi yüksek becerili suikastçının açıklanamayan bir şekilde onu öldürmeye odaklanmasıyla hayatı bir dizi silah sesi, cinayet dronları ve daha fazlasıyla altüst olur. Amcasının evinde sıkışıp kalan Jung Ji Ahn, neler olup bittiğini keşfedecek kadar uzun süre hayatta kalmayı umuyorsa da, amcasının ona biçimlendirici yılları boyunca verdiği tuhaf eğitimlerden bazılarını yeniden gözden geçirmek zorunda kalacaktır.",
+          "playerName1": "Lee Dong Wook\n(Jung Jin Man)",
+          "playerName2": "Kim Hye Joon\n(Jung Ji Ahn)",
+          "playerName3": "Seo Hyun Woo\n(Lee Sung Jo)",
+          "playerImage1": "https://i.mydramalist.com/jQQJvv_5c.jpg",
+          "playerImage2": "https://i.mydramalist.com/dArlgc.jpg",
+          "playerImage3": "https://i.mydramalist.com/rDzXy_5c.jpg",
+          "genreIds": [1, 2, 15],
+          "contentRating": "15+",
+          "episode": "Bölüm: 8",
+          "playerAbout1": "https://mydramalist.com/people/274-lee-dong-wook",
+          "playerAbout2": "https://mydramalist.com/people/11011-kim-hye-joon",
+          "playerAbout3": "https://mydramalist.com/people/6962-seo-hyun-woo"
       }
   ]
 }
