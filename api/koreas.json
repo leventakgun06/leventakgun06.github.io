@@ -15920,6 +15920,44 @@
           "playerAbout1": "https://mydramalist.com/people/274-lee-dong-wook",
           "playerAbout2": "https://mydramalist.com/people/11011-kim-hye-joon",
           "playerAbout3": "https://mydramalist.com/people/6962-seo-hyun-woo"
+      },
+        {
+      "id": 839,
+          "koreasName": "Death's Game",
+          "koreasImage": "https://i.mydramalist.com/QJKVK7_4f.jpg",
+          "rating": 8.9,
+          "description": "2023 yılı yapımı bu dizide: Yedi yıl boyunca istikrarlı bir iş bulamadan mücadele eden Choi Yi Jae, umutsuzluk ve çaresizliğe kapılır. Hayatına son vermenin çözüm olacağına inanan Choi Yi Jae, Cehennem'in girişinde Ölüm olarak bilinen varlıkla karşılaştığında bir sürprizle karşılaşır. Ölüm ona benzersiz bir ceza verir: Choi Yi Jae, 12 farklı bedende ölüme katlanmak zorundadır. Cehennem'deki kaderinden kaçınmak için hayatta kalmanın bir yolunu bulmalıdır.",
+          "playerName1": "Seo In Guk\n(Choi Yi Jae)",
+          "playerName2": "Park So Dam\n(Death)",
+          "playerName3": "Nam Kyung Eup\n(Chairman Nam)",
+          "playerImage1": "https://i.mydramalist.com/j64Ry_5c.jpg",
+          "playerImage2": "https://i.mydramalist.com/qYyNKP_5c.jpg",
+          "playerImage3": "https://i.mydramalist.com/kOjLOc.jpg",
+          "genreIds": [2, 3, 7],
+          "contentRating": "15+",
+          "episode": "Bölüm: 4",
+          "playerAbout1": "https://mydramalist.com/people/2576-seo-in-guk",
+          "playerAbout2": "https://mydramalist.com/people/7706-park-so-dam",
+          "playerAbout3": "https://mydramalist.com/people/4669-nam-kyung-eup"
+    },
+    {
+      "id": 840,
+          "koreasName": "The Impossible Heir",
+          "koreasImage": "https://i.mydramalist.com/eY3dnQ_4f.jpg",
+          "rating": 6.7,
+          "description": "2024 yılı yapımı bu dizide: Koreli bir holding sahibinin gayri meşru oğlu hırslı çocukluk arkadaşıyla ortaklık kurduğunda, ikili toplumsal besin zincirinin tepesindeki yerlerini ele geçirmek için hiçbir şeyden vazgeçmeyecektir. Yoksul, tek ebeveynli bir evde, sadece yakışıklılığı ve çekiciliğiyle doğan Kang In Ha, başarı için açgözlüdür. Ne pahasına olursa olsun bir şeyler başarmaya kararlı olan Kang In Ha, babasının son derece başarılı Kang Oh Grubunun başkanı olduğunu keşfeder ve yoksulluk dolu hayatını geride bırakır. Yeni ailesinin geri kalanı tarafından dışlanan Kang In Ha, entelektüel açıdan yetenekli arkadaşı Han Tae Oh ile ortaklık kurarak, genç yaşta şirketi devralmak ve toplumun tepesindeki yerlerini ele geçirmek için bir plan yapar. Başarıyı erken fark eden ikili, benzer şekilde sorunlu bir geçmişe sahip, eşit derecede hırslı bir kadın planlarını sonsuza dek rayından çıkarmakla tehdit edene kadar istikrarlı bir şekilde yükselişlerine başlar.",
+          "playerName1": "Lee Jae Wook\n(Han Tae Oh)",
+          "playerName2": "Lee Jun Young\n(Kang In Ha)",
+          "playerName3": "Hong Su Zu\n(Na Hye Won)",
+          "playerImage1": "https://i.mydramalist.com/26r4k_5c.jpg",
+          "playerImage2": "https://i.mydramalist.com/v2yzZ_5c.jpg",
+          "playerImage3": "https://i.mydramalist.com/0lygO_5c.jpg",
+          "genreIds": [3, 15, 16],
+          "contentRating": "15+",
+          "episode": "Bölüm: 12",
+          "playerAbout1": "https://mydramalist.com/people/22279-lee-jae-wook",
+          "playerAbout2": "https://mydramalist.com/people/15847-jun",
+          "playerAbout3": "https://mydramalist.com/people/64511-hong-su-zu"
       }
   ]
 }
