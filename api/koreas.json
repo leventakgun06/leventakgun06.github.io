@@ -1821,7 +1821,7 @@
       "contentRating": "15+",
       "episode": "Bölüm: 16",
       "playerAbout1": "https://mydramalist.com/people/609-kim-so-yeon",
-      "playerAbout2": "",
+      "playerAbout2": "https://mydramalist.com/people/542-jung-gyu-woon",
       "playerAbout3": ""
     },
     {
@@ -3246,7 +3246,7 @@
       "contentRating": "15+",
       "episode": "Bölüm: 22",
       "playerAbout1": "",
-      "playerAbout2": "",
+      "playerAbout2": "https://mydramalist.com/people/542-jung-gyu-woon",
       "playerAbout3": "https://mydramalist.com/people/989-jung-ryeo-won"
     },
     {
@@ -4899,7 +4899,7 @@
       "contentRating": "15+",
       "episode": "Bölüm: 20",
       "playerAbout1": "",
-      "playerAbout2": "",
+      "playerAbout2": "https://mydramalist.com/people/851-kwon-sang-woo",
       "playerAbout3": "https://mydramalist.com/people/989-jung-ryeo-won"
     },
     {
@@ -5945,7 +5945,7 @@
       "episode": "Bölüm: 16",
       "playerAbout1": "https://mydramalist.com/people/493-so-ji-sub",
       "playerAbout2": "https://mydramalist.com/people/282-shin-min-ah",
-      "playerAbout3": ""
+      "playerAbout3": "https://mydramalist.com/people/542-jung-gyu-woon"
     },
     {
       "id": 314,
@@ -6247,7 +6247,7 @@
       "genreIds": [4, 5, 3],
       "contentRating": "15+",
       "episode": "Bölüm: 16",
-      "playerAbout1": "",
+      "playerAbout1": "https://mydramalist.com/people/241-rain",
       "playerAbout2": "https://mydramalist.com/people/1722-oh-yeon-seo",
       "playerAbout3": ""
     },
@@ -6476,7 +6476,7 @@
       "contentRating": "15+",
       "episode": "Bölüm: 24",
       "playerAbout1": "",
-      "playerAbout2": "",
+      "playerAbout2": "https://mydramalist.com/people/851-kwon-sang-woo",
       "playerAbout3": ""
     },
     {
@@ -6495,7 +6495,7 @@
       "contentRating": "15+",
       "episode": "Bölüm: 16",
       "playerAbout1": "https://mydramalist.com/people/1142-choi-kang-hee",
-      "playerAbout2": "",
+      "playerAbout2": "https://mydramalist.com/people/851-kwon-sang-woo",
       "playerAbout3": ""
     },
     {
@@ -6876,7 +6876,7 @@
       "episode": "Bölüm: 20",
       "playerAbout1": "https://mydramalist.com/people/671-yeon-jung-hoon",
       "playerAbout2": "https://mydramalist.com/people/978-kim-hee-sun",
-      "playerAbout3": ""
+      "playerAbout3": "https://mydramalist.com/people/851-kwon-sang-woo"
     },
     {
       "id": 363,
@@ -7198,7 +7198,7 @@
       "contentRating": "15+",
       "episode": "Bölüm: 20",
       "playerAbout1": "",
-      "playerAbout2": "",
+      "playerAbout2": "https://mydramalist.com/people/542-jung-gyu-woon",
       "playerAbout3": ""
     },
     {
@@ -7254,7 +7254,7 @@
       "genreIds": [1, 2, 22],
       "contentRating": "15+",
       "episode": "Bölüm: 16",
-      "playerAbout1": "",
+      "playerAbout1": "https://mydramalist.com/people/241-rain",
       "playerAbout2": "https://mydramalist.com/people/12160-lee-sun-bin",
       "playerAbout3": "https://mydramalist.com/people/660-lee-dong-gun"
     },
@@ -7445,7 +7445,7 @@
       "contentRating": "15+",
       "episode": "Bölüm: 20",
       "playerAbout1": "",
-      "playerAbout2": "",
+      "playerAbout2": "https://mydramalist.com/people/851-kwon-sang-woo",
       "playerAbout3": "https://mydramalist.com/people/286-shin-hyun-joon"
     },
     {
@@ -9553,7 +9553,7 @@
       "genreIds": [4, 13, 7],
       "contentRating": "15+",
       "episode": "Bölüm: 32",
-      "playerAbout1": "",
+      "playerAbout1": "https://mydramalist.com/people/241-rain",
       "playerAbout2": "https://mydramalist.com/people/7310-im-ji-yeon",
       "playerAbout3": "https://mydramalist.com/people/7009-kwak-shi-yang"
     },
@@ -10427,7 +10427,7 @@
       "genreIds": [4, 13, 3],
       "contentRating": "15+",
       "episode": "Bölüm: 20",
-      "playerAbout1": "",
+      "playerAbout1": "https://mydramalist.com/people/851-kwon-sang-woo",
       "playerAbout2": "",
       "playerAbout3": "https://mydramalist.com/people/297-jung-woo-sung"
     },
@@ -12498,7 +12498,7 @@
       "genreIds": [4, 10, 7],
       "contentRating": "15+",
       "episode": "Bölüm: 16",
-      "playerAbout1": "",
+      "playerAbout1": "https://mydramalist.com/people/241-rain",
       "playerAbout2": "https://mydramalist.com/people/234-kim-bum",
       "playerAbout3": ""
     },
@@ -15920,8 +15920,8 @@
           "playerAbout1": "https://mydramalist.com/people/274-lee-dong-wook",
           "playerAbout2": "https://mydramalist.com/people/11011-kim-hye-joon",
           "playerAbout3": "https://mydramalist.com/people/6962-seo-hyun-woo"
-      },
-        {
+    },
+    {
       "id": 839,
           "koreasName": "Death's Game",
           "koreasImage": "https://i.mydramalist.com/QJKVK7_4f.jpg",
@@ -15958,6 +15958,44 @@
           "playerAbout1": "https://mydramalist.com/people/22279-lee-jae-wook",
           "playerAbout2": "https://mydramalist.com/people/15847-jun",
           "playerAbout3": "https://mydramalist.com/people/64511-hong-su-zu"
+    },
+    {
+      "id": 841,
+          "koreasName": "Red Swan",
+          "koreasImage": "https://i.mydramalist.com/eYjqDQ_4f.jpg",
+          "rating": 7.8,
+          "description": "2024 yılı yapımı bu dizide: O Wan Su, golf oyuncusu olarak sporunun zirvesine ulaştı. Üst sınıf içinde mükemmel bir hayat hayal eden Wan Su, Hwain Grubunun halefiyle evlenir. Şimdi Wan Su bir vakfın başkanı olarak çalışıyor ve hayır işleriyle dünya çapında ün kazandı. Yeni koruması Seo Do Yun, polis üniversitesinden mezun oldu ve dövüş sanatlarında başarılı oldu. Hwang Grubunun güvenlik ekibine belirli bir sebepten dolayı katıldı. Wan Su, koruması aracılığıyla Hwain Ailesi'nin bir sırrıyla yüzleşir.",
+          "playerName1": "Kim Ha Neul\n(O Wan Su)",
+          "playerName2": "Rain\n(Seo Do Yun)",
+          "playerName3": "Jung Gyu Woon\n(Kim Yong Guk)",
+          "playerImage1": "https://i.mydramalist.com/Qy7kW_5c.jpg",
+          "playerImage2": "https://i.mydramalist.com/Rm65g_5c.jpg",
+          "playerImage3": "https://i.mydramalist.com/Z8gqR8_5c.jpg",
+          "genreIds": [1, 3, 5],
+          "contentRating": "15+",
+          "episode": "Bölüm: 10",
+          "playerAbout1": "https://mydramalist.com/people/403-kim-ha-neul",
+          "playerAbout2": "https://mydramalist.com/people/241-rain",
+          "playerAbout3": "https://mydramalist.com/people/542-jung-gyu-woon"
+    },
+    {
+      "id": 842,
+          "koreasName": "Han River Police",
+          "koreasImage": "https://i.mydramalist.com/E5YR7p_4f.jpg",
+          "rating": 7.2,
+          "description": "2023 yılı yapımı bu dizide: Seul'deki Han Nehri'nde devriye gezerken birlikte mahsur kalan iki polis, terörizmden günlük kazalara ve acil yardım gerektiren diğer olaylara kadar uzanan acil durumlarla karşı karşıya kalır. Bu, klasik polisiye türünün tüm aksiyonunu, mizahını ve sıra dışı suç çözümlerini akla getiren bir öncüldür.",
+          "playerName1": "Kwon Sang Woo\n(Han Du Jin)",
+          "playerName2": "Kim Hee Won\n(Lee Chun Suk)",
+          "playerName3": "Lee Sang Yi\n(Go Ki Seok)",
+          "playerImage1": "https://i.mydramalist.com/Rm22Y_5c.jpg",
+          "playerImage2": "https://i.mydramalist.com/1qZ0Kc.jpg",
+          "playerImage3": "https://i.mydramalist.com/2PnLV_5c.jpg",
+          "genreIds": [1, 2, 15],
+          "contentRating": "15+",
+          "episode": "Bölüm: 6",
+          "playerAbout1": "https://mydramalist.com/people/851-kwon-sang-woo",
+          "playerAbout2": "https://mydramalist.com/people/3622-kim-hee-won",
+          "playerAbout3": "https://mydramalist.com/people/15660-lee-sang-yi"
       }
   ]
 }
