@@ -15997,27 +15997,8 @@
           "playerAbout2": "https://mydramalist.com/people/3622-kim-hee-won",
           "playerAbout3": "https://mydramalist.com/people/15660-lee-sang-yi"
       },
-        {
-      "id": 843,
-          "koreasName": "Han River Police",
-          "koreasImage": "https://i.mydramalist.com/E5YR7p_4f.jpg",
-          "rating": 7.2,
-          "description": "2023 yılı yapımı bu dizide: Seul'deki Han Nehri'nde devriye gezerken birlikte mahsur kalan iki polis, terörizmden günlük kazalara ve acil yardım gerektiren diğer olaylara kadar uzanan acil durumlarla karşı karşıya kalır. Bu, klasik polisiye türünün tüm aksiyonunu, mizahını ve sıra dışı suç çözümlerini akla getiren bir öncüldür.",
-          "playerName1": "Kwon Sang Woo\n(Han Du Jin)",
-          "playerName2": "Kim Hee Won\n(Lee Chun Suk)",
-          "playerName3": "Lee Sang Yi\n(Go Ki Seok)",
-          "playerImage1": "https://i.mydramalist.com/Rm22Y_5c.jpg",
-          "playerImage2": "https://i.mydramalist.com/1qZ0Kc.jpg",
-          "playerImage3": "https://i.mydramalist.com/2PnLV_5c.jpg",
-          "genreIds": [1, 2, 15],
-          "contentRating": "15+",
-          "episode": "Bölüm: 6",
-          "playerAbout1": "https://mydramalist.com/people/851-kwon-sang-woo",
-          "playerAbout2": "https://mydramalist.com/people/3622-kim-hee-won",
-          "playerAbout3": "https://mydramalist.com/people/15660-lee-sang-yi"
-    },
     {
-      "id": 844,
+      "id": 843,
           "koreasName": "The Midnight Romance in Hagwon",
           "koreasImage": "https://i.mydramalist.com/QJXek6_4f.jpg",
           "rating": 7.7,
@@ -16034,6 +16015,25 @@
           "playerAbout1": "https://mydramalist.com/people/989-jung-ryeo-won",
           "playerAbout2": "https://mydramalist.com/people/16210-wi-ha-joon",
           "playerAbout3": "https://mydramalist.com/people/17308-so-joo-yeon"
+      },
+        {
+      "id": 844,
+          "koreasName": "Marry My Husband",
+          "koreasImage": "https://i.mydramalist.com/Bd2Dz7_4f.jpg",
+          "rating": 8.5,
+          "description": "2024 yılı yapımı bu dizide: Kang Ji Won, Park Min Hwan ile evlidir, ancak evlilikleri Min Hwan'ın bencilliği ve talepkar annesi yüzünden sıkıntıdadır. Ji Won ailenin geçimini sağlayan kişidir, Min Hwan ise işsiz ve borçludur. Ji Won ayrıca tüm ev işlerini de kendisi halleder. Bir gün Ji Won, kanser olduğunu ve yaşamak için fazla zamanı kalmadığını söyleyen yıkıcı haberi alır. İşleri daha da kötüleştirmek için, kocasını ve yakın arkadaşı Jung Soo Min'i bir ilişki yaşarken yakalar. Fiziksel bir mücadele başlar ve bunun sonucunda kocasının elinden trajik bir şekilde ölür. Aniden, 10 yıl önce Min Hwan ile çıktığı zamanlarda, geçmişte uyanır. Hayatını değiştirmeye kararlı olan Kang Ji Won, Soo Min'i Min Hwan ile evlendirmeye karar verir. Bu arada, işte, Ji Won ile aynı departmanda şef olarak görev yapan Yoo Ji Hyeok, ona karşı hisler beslemektedir ve bunları yavaş yavaş ortaya çıkarmaya başlar. Ayrıca bir sırrı da vardır.",
+          "playerName1": "Park Min Young\n(Kang Ji Won)",
+          "playerName2": "Na In Woo\n(Yoo Ji Hyuk)",
+          "playerName3": "Lee Yi Kyung\n(Park Min Hwan)",
+          "playerImage1": "https://i.mydramalist.com/0L4Pr_5c.jpg",
+          "playerImage2": "https://i.mydramalist.com/kdwOO_5c.jpg",
+          "playerImage3": "https://i.mydramalist.com/pdkk5y_5c.jpg",
+          "genreIds": [4, 5, 7],
+          "contentRating": "15+",
+          "episode": "Bölüm: 16",
+          "playerAbout1": "https://mydramalist.com/people/430-park-min-young",
+          "playerAbout2": "https://mydramalist.com/people/9481-na-jong-chan",
+          "playerAbout3": "https://mydramalist.com/people/4754-lee-yi-kyung"
       }
   ]
 }
