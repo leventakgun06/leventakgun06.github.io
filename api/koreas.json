@@ -15996,6 +15996,44 @@
           "playerAbout1": "https://mydramalist.com/people/851-kwon-sang-woo",
           "playerAbout2": "https://mydramalist.com/people/3622-kim-hee-won",
           "playerAbout3": "https://mydramalist.com/people/15660-lee-sang-yi"
+      },
+        {
+      "id": 843,
+          "koreasName": "Han River Police",
+          "koreasImage": "https://i.mydramalist.com/E5YR7p_4f.jpg",
+          "rating": 7.2,
+          "description": "2023 yılı yapımı bu dizide: Seul'deki Han Nehri'nde devriye gezerken birlikte mahsur kalan iki polis, terörizmden günlük kazalara ve acil yardım gerektiren diğer olaylara kadar uzanan acil durumlarla karşı karşıya kalır. Bu, klasik polisiye türünün tüm aksiyonunu, mizahını ve sıra dışı suç çözümlerini akla getiren bir öncüldür.",
+          "playerName1": "Kwon Sang Woo\n(Han Du Jin)",
+          "playerName2": "Kim Hee Won\n(Lee Chun Suk)",
+          "playerName3": "Lee Sang Yi\n(Go Ki Seok)",
+          "playerImage1": "https://i.mydramalist.com/Rm22Y_5c.jpg",
+          "playerImage2": "https://i.mydramalist.com/1qZ0Kc.jpg",
+          "playerImage3": "https://i.mydramalist.com/2PnLV_5c.jpg",
+          "genreIds": [1, 2, 15],
+          "contentRating": "15+",
+          "episode": "Bölüm: 6",
+          "playerAbout1": "https://mydramalist.com/people/851-kwon-sang-woo",
+          "playerAbout2": "https://mydramalist.com/people/3622-kim-hee-won",
+          "playerAbout3": "https://mydramalist.com/people/15660-lee-sang-yi"
+    },
+    {
+      "id": 844,
+          "koreasName": "The Midnight Romance in Hagwon",
+          "koreasImage": "https://i.mydramalist.com/QJXek6_4f.jpg",
+          "rating": 7.7,
+          "description": "2024 yılı yapımı bu dizide: Büyük bir şirketten istifa ettikten sonra Lee Jun Ho, bu kez eğitmen olarak eğitim gördüğü akademiye geri döner. İlk aşkı olan akademi öğretmeni Seo Hye Jin'e olan bitmeyen saplantısından motive olur. Seo Hye Jin son on dört yıldır Korece dil eğitmenliği yapmaktadır. \"Daechi Mucizesi\" olarak adlandırılan efsanevi olaydan sonra bir yıldız olmuştur. Hayatı düzene girmeye başladığı anda, on yıl önce prestijli bir üniversiteye girmesine yardım ettiği eski öğrencisi ve sorun çıkaran Lee Jun Ho ortaya çıkar ve kaos yaratır.",
+          "playerName1": "Jung Ryeo Won\n(Seo Hye Jin)",
+          "playerName2": "Wi Ha Joon\n(Lee Jun Ho)",
+          "playerName3": "So Ju Yeon\n(Nam Cheong Mi)",
+          "playerImage1": "https://i.mydramalist.com/j7dw8_5c.jpg",
+          "playerImage2": "https://i.mydramalist.com/xzdP0_5c.jpg",
+          "playerImage3": "https://i.mydramalist.com/r6WLm_5c.jpg",
+          "genreIds": [5, 19, 30],
+          "contentRating": "15+",
+          "episode": "Bölüm: 16",
+          "playerAbout1": "https://mydramalist.com/people/989-jung-ryeo-won",
+          "playerAbout2": "https://mydramalist.com/people/16210-wi-ha-joon",
+          "playerAbout3": "https://mydramalist.com/people/17308-so-joo-yeon"
       }
   ]
 }
