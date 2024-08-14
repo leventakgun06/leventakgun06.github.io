@@ -16034,6 +16034,25 @@
           "playerAbout1": "https://mydramalist.com/people/430-park-min-young",
           "playerAbout2": "https://mydramalist.com/people/9481-na-jong-chan",
           "playerAbout3": "https://mydramalist.com/people/4754-lee-yi-kyung"
+      },
+    {
+      "id": 845,
+          "koreasName": "A Time Called You",
+          "koreasImage": "https://i.mydramalist.com/BdpgYz_4f.jpg",
+          "rating": 8.4,
+          "description": "2023 yılı yapımı bu dizide: Han Jun Hee'nin erkek arkadaşı Koo Yeon Jun bir yıl önce ölmüştür. Hala onun ölümünün üstesinden gelemez ve onu çok özler. Bir gün, bir şekilde zamanda geriye gidip 1998 yılına gider ve kendini lise öğrencisi Kwon Min Joo olarak bulur. Orada lise öğrencisi Nam Si Heon ile tanışır. Nam Si Heon'un merhum erkek arkadaşı Koo Yeon Jun'a ne kadar benzediğini görünce şaşırır. Nam Si Heon dışa dönük ve çekicidir; kızlar ona hayrandır. En yakın arkadaşı Jung In Kyu, Kwon Min Joo'ya aşık olur.",
+          "playerName1": "Ahn Hyo Seop\n(Koo Yeon Jun\nNam Si Heon)",
+          "playerName2": "Jeon Yeo Been\n(Han Jun Hee\nKwon Min Ju)",
+          "playerName3": "Kang Hoon\n(Jung In Kyu)",
+          "playerImage1": "https://i.mydramalist.com/2wk2NP_5c.jpg",
+          "playerImage2": "https://i.mydramalist.com/Z8r6bq_5c.jpg",
+          "playerImage3": "https://i.mydramalist.com/xrXYX_5c.jpg",
+          "genreIds": [2, 5, 15],
+          "contentRating": "15+",
+          "episode": "Bölüm: 12",
+          "playerAbout1": "https://mydramalist.com/people/11001-ahn-hyo-sub",
+          "playerAbout2": "https://mydramalist.com/people/18974-jeon-yeo-bin",
+          "playerAbout3": "https://mydramalist.com/people/18814-kang-hoon"
       }
   ]
 }
