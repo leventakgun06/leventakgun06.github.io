@@ -16053,6 +16053,25 @@
           "playerAbout1": "https://mydramalist.com/people/11001-ahn-hyo-sub",
           "playerAbout2": "https://mydramalist.com/people/18974-jeon-yeo-bin",
           "playerAbout3": "https://mydramalist.com/people/18814-kang-hoon"
+      },
+        {
+      "id": 846,
+          "koreasName": "Uncle Samsik",
+          "koreasImage": "https://i.mydramalist.com/E53720_4f.jpg",
+          "rating": 7.5,
+          "description": "2024 yılı yapımı bu dizide: 1960'larda Güney Kore'de geçiyor. Dizi, iki adamın kardeşliğini ve ülkenin tarihindeki çalkantılı bir dönemde karşılaştıkları engelleri takip ediyor. Savaş sırasında bile günde üç öğün yemek yiyen Amca Samsik olarak bilinen Park Doo Chil ile herkesin iyi yaşadığı bir ülke yaratmak isteyen Kore Askeri Akademisi'nden seçkin bir adam olan Kim San'ın hikayesini anlatıyor.",
+          "playerName1": "Song Kang Ho\n(Park Doo Chil\nUncle Samsik)",
+          "playerName2": "Byun Yo Han\n(Kim San)",
+          "playerName3": "Lee Kyu Hyung\n(Kang Sung Min)",
+          "playerImage1": "https://i.mydramalist.com/RZ60Ec.jpg",
+          "playerImage2": "https://i.mydramalist.com/jPLOB_5c.jpg",
+          "playerImage3": "https://i.mydramalist.com/d0VLe5_5c.jpg",
+          "genreIds": [3, 8, 16],
+          "contentRating": "15+",
+          "episode": "Bölüm: 16",
+          "playerAbout1": "https://mydramalist.com/people/276-song-kang-ho",
+          "playerAbout2": "https://mydramalist.com/people/7710-byun-yo-han",
+          "playerAbout3": "https://mydramalist.com/people/12102-lee-kyu-hyung"
       }
   ]
 }
