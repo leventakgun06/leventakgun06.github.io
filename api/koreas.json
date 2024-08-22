@@ -1213,7 +1213,7 @@
       "contentRating": "15+",
       "episode": "Bölüm: 32",
       "playerAbout1": "https://mydramalist.com/people/487-kim-sun-ah",
-      "playerAbout2": "",
+      "playerAbout2": "https://mydramalist.com/people/4754-lee-yi-kyung",
       "playerAbout3": "https://mydramalist.com/people/533-nam-gyu-ri"
     },
     {
@@ -6097,7 +6097,7 @@
       "episode": "Bölüm: 32",
       "playerAbout1": "",
       "playerAbout2": "",
-      "playerAbout3": ""
+      "playerAbout3": "https://mydramalist.com/people/4754-lee-yi-kyung"
     },
     {
       "id": 322,
@@ -10163,7 +10163,7 @@
       "episode": "Bölüm: 16",
       "playerAbout1": "https://mydramalist.com/people/1552-l",
       "playerAbout2": "https://mydramalist.com/people/14437-nara",
-      "playerAbout3": ""
+      "playerAbout3": "https://mydramalist.com/people/4754-lee-yi-kyung"
     },
     {
       "id": 536,
@@ -12671,7 +12671,7 @@
       "episode": "Bölüm: 20",
       "playerAbout1": "",
       "playerAbout2": "https://mydramalist.com/people/1267-kim-kang-woo",
-      "playerAbout3": ""
+      "playerAbout3": "https://mydramalist.com/people/1666-kim-mi-sook"
     },
     {
       "id": 668,
@@ -15996,7 +15996,7 @@
           "playerAbout1": "https://mydramalist.com/people/851-kwon-sang-woo",
           "playerAbout2": "https://mydramalist.com/people/3622-kim-hee-won",
           "playerAbout3": "https://mydramalist.com/people/15660-lee-sang-yi"
-      },
+    },
     {
       "id": 843,
           "koreasName": "The Midnight Romance in Hagwon",
@@ -16015,7 +16015,7 @@
           "playerAbout1": "https://mydramalist.com/people/989-jung-ryeo-won",
           "playerAbout2": "https://mydramalist.com/people/16210-wi-ha-joon",
           "playerAbout3": "https://mydramalist.com/people/17308-so-joo-yeon"
-      },
+    },
     {
       "id": 844,
           "koreasName": "Marry My Husband",
@@ -16034,16 +16034,16 @@
           "playerAbout1": "https://mydramalist.com/people/430-park-min-young",
           "playerAbout2": "https://mydramalist.com/people/9481-na-jong-chan",
           "playerAbout3": "https://mydramalist.com/people/4754-lee-yi-kyung"
-      },
+    },
     {
       "id": 845,
           "koreasName": "A Time Called You",
           "koreasImage": "https://i.mydramalist.com/BdpgYz_4f.jpg",
           "rating": 8.4,
           "description": "2023 yılı yapımı bu dizide: Han Jun Hee'nin erkek arkadaşı Koo Yeon Jun bir yıl önce ölmüştür. Hala onun ölümünün üstesinden gelemez ve onu çok özler. Bir gün, bir şekilde zamanda geriye gidip 1998 yılına gider ve kendini lise öğrencisi Kwon Min Joo olarak bulur. Orada lise öğrencisi Nam Si Heon ile tanışır. Nam Si Heon'un merhum erkek arkadaşı Koo Yeon Jun'a ne kadar benzediğini görünce şaşırır. Nam Si Heon dışa dönük ve çekicidir; kızlar ona hayrandır. En yakın arkadaşı Jung In Kyu, Kwon Min Joo'ya aşık olur.",
-          "playerName1": "Ahn Hyo Seop\n(Koo Yeon Jun)\n(Nam Si Heon)",
-          "playerName2": "Jeon Yeo Been\n(Han Jun Hee)\n(Kwon Min Ju)",
-          "playerName3": "Kang Hoon\n(Jung In Kyu)\n(Jung In Kyu)",
+          "playerName1": "Ahn Hyo Seop\n(Koo Yeon Jun\nNam Si Heon)",
+          "playerName2": "Jeon Yeo Been\n(Han Jun Hee\nKwon Min Ju)",
+          "playerName3": "Kang Hoon\n(Jung In Kyu)",
           "playerImage1": "https://i.mydramalist.com/2wk2NP_5c.jpg",
           "playerImage2": "https://i.mydramalist.com/Z8r6bq_5c.jpg",
           "playerImage3": "https://i.mydramalist.com/xrXYX_5c.jpg",
@@ -16053,16 +16053,16 @@
           "playerAbout1": "https://mydramalist.com/people/11001-ahn-hyo-sub",
           "playerAbout2": "https://mydramalist.com/people/18974-jeon-yeo-bin",
           "playerAbout3": "https://mydramalist.com/people/18814-kang-hoon"
-      },
-        {
+    },
+    {
       "id": 846,
           "koreasName": "Uncle Samsik",
           "koreasImage": "https://i.mydramalist.com/E53720_4f.jpg",
           "rating": 7.5,
           "description": "2024 yılı yapımı bu dizide: 1960'larda Güney Kore'de geçiyor. Dizi, iki adamın kardeşliğini ve ülkenin tarihindeki çalkantılı bir dönemde karşılaştıkları engelleri takip ediyor. Savaş sırasında bile günde üç öğün yemek yiyen Amca Samsik olarak bilinen Park Doo Chil ile herkesin iyi yaşadığı bir ülke yaratmak isteyen Kore Askeri Akademisi'nden seçkin bir adam olan Kim San'ın hikayesini anlatıyor.",
-          "playerName1": "Song Kang Ho\n(Park Doo Chil)\n(Uncle Samsik)",
-          "playerName2": "Byun Yo Han\n(Kim San)\n(Kim San)",
-          "playerName3": "Lee Kyu Hyung\n(Kang Sung Min)\n(Kang Sung Min)",
+          "playerName1": "Song Kang Ho\n(Park Doo Chil\nUncle Samsik)",
+          "playerName2": "Byun Yo Han\n(Kim San)",
+          "playerName3": "Lee Kyu Hyung\n(Kang Sung Min)",
           "playerImage1": "https://i.mydramalist.com/RZ60Ec.jpg",
           "playerImage2": "https://i.mydramalist.com/jPLOB_5c.jpg",
           "playerImage3": "https://i.mydramalist.com/d0VLe5_5c.jpg",
@@ -16072,6 +16072,44 @@
           "playerAbout1": "https://mydramalist.com/people/276-song-kang-ho",
           "playerAbout2": "https://mydramalist.com/people/7710-byun-yo-han",
           "playerAbout3": "https://mydramalist.com/people/12102-lee-kyu-hyung"
+    },
+    {
+      "id": 847,
+          "koreasName": "The Whirlwind",
+          "koreasImage": "https://i.mydramalist.com/1wlvv5_4f.jpg",
+          "rating": 8.1,
+          "description": "2024 yılı yapımı bu dizide: Park Dong Ho, Güney Kore'nin başbakanıdır. Chaebol adı verilen güçlü aile şirketleriyle işbirliği yapan yozlaşmış başkanı cezalandırmak ve siyaset dünyasını değiştirmek ister. Jung Soo Jin, ekonomi işlerinden sorumlu başbakan yardımcısıdır. Park Dong Ho ile yüzleşir ve şiddetli bir siyasi çekişme başlar.",
+          "playerName1": "Sol Kyung Gu\n(Park Dong Ho)",
+          "playerName2": "Kim Hee Ae\n(Jung Soo Jin)",
+          "playerName3": "Kim Mi Sook\n(Choi Yeon Suk)",
+          "playerImage1": "https://i.mydramalist.com/j8P5vc.jpg",
+          "playerImage2": "https://i.mydramalist.com/pjevQc.jpg",
+          "playerImage3": "https://i.mydramalist.com/YyvZWc.jpg",
+          "genreIds": [2, 3, 15],
+          "contentRating": "15+",
+          "episode": "Bölüm: 12",
+          "playerAbout1": "https://mydramalist.com/people/1266-sol-kyung-gu",
+          "playerAbout2": "https://mydramalist.com/people/1278-kim-hee-ae",
+          "playerAbout3": "https://mydramalist.com/people/1666-kim-mi-sook"
+    },
+    {
+      "id": 848,
+          "koreasName": "The Story of Park's Marriage Contract",
+          "koreasImage": "https://i.mydramalist.com/RBPwLg_4f.jpg",
+          "rating": 8.2,
+          "description": "2023 yılı yapımı bu dizide: 19. yüzyılda, düğün gününün gecesi, Park Yun Woo'nun kocası uzun süredir kalp rahatsızlığı çektiğini açıkladıktan sonra ölür. Yıkılmıştır, ancak kocasının yasını tutamadan önce bir adam onu ​​kaçırır ve bir kuyuya atar. Gözlerini açtığı anda kocasını karşısında görür. Zamanı, mekanı ve ölümü aşarak, şimdi Güney Kore'nin Seul kentindedir ve onu yüzme havuzundan kurtaran adam, 19. yüzyıldaki ölmüş kocasına çok benzeyen Kang Tae Ha'dır. Kang Tae Ha, SH Seoul Corporation'ın halefidir. Kalp rahatsızlığı ve çocukluğunda yaşadığı travma nedeniyle kendini başkalarına açmaktan hoşlanmaz. Duygulardan çok mantığı ön planda tutar ve romantik bir ilişkiye ilgi duymaz, ancak hasta büyükbabası ona ölmeden önce düğününü görmek istediğini söyler. Büyükbabasının dileğini gerçekleştirmek için Kang Tae Ha, Park Yeon Woo'dan kendisiyle sözleşmeli evlilik yapmasını ister.",
+          "playerName1": "Lee Se Young\n(Park Yun Woo)",
+          "playerName2": "Bae In Hyuk\n(Kang Tae Ha)",
+          "playerName3": "Joo Hyun Young\n(Sa Wol)",
+          "playerImage1": "https://i.mydramalist.com/ZYDzk_5c.jpg",
+          "playerImage2": "https://i.mydramalist.com/6wwEK_5c.jpg",
+          "playerImage3": "https://i.mydramalist.com/py7wD_5c.jpg",
+          "genreIds": [5, 8, 15],
+          "contentRating": "15+",
+          "episode": "Bölüm: 12",
+          "playerAbout1": "https://mydramalist.com/people/4047-lee-se-young",
+          "playerAbout2": "https://mydramalist.com/people/27249-bae-in-hyuk",
+          "playerAbout3": "https://mydramalist.com/people/29929-joo-hyun-young"
       }
   ]
 }
