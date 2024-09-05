@@ -145,7 +145,7 @@
       "type": "multiple",
       "difficulty": "easy",
       "category": "Bilim: Bilgisayarlar",
-      "question": "In \"Hexadecimal\", what color would be displayed from the color code? \"#00FF00"\",
+      "question": "In \"Hexadecimal\", what color would be displayed from the color code? \"#00FF00\"?",
       "correct_answer": "Green",
       "incorrect_answers": [
         "Red",
