@@ -227,7 +227,7 @@
       "type": "multiple",
       "difficulty": "hard",
       "category": "Bilim: Bilgisayarlar",
-      "question": "Who invented the "Spanning Tree Protocol"?",
+      "question": "Who invented the \"Spanning Tree Protocol\"?",
       "correct_answer": "Radia Perlman",
       "incorrect_answers": [
         "Paul Vixie",
