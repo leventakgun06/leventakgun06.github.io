@@ -1,0 +1,578 @@
+
+object
+{ 2 }
+response_code
+:
+0
+results
+[20]
+0
+{ 6 }
+type
+:
+"boolean"
+difficulty
+:
+"medium"
+category
+:
+"Science: Computers"
+question
+:
+"Linus Sebastian is the creator of the Linux kernel, which went on to be used in Linux, Android, and Chrome OS."
+correct_answer
+:
+"False"
+incorrect_answers
+[1]
+0
+:
+"True"
+1
+{ 6 }
+type
+:
+"multiple"
+difficulty
+:
+"easy"
+category
+:
+"Science: Computers"
+question
+:
+"What is the most preferred image format used for logos in the Wikimedia database?"
+correct_answer
+:
+".svg"
+incorrect_answers
+[3]
+0
+:
+".png"
+1
+:
+".jpeg"
+2
+:
+".gif"
+2
+{ 6 }
+type
+:
+"multiple"
+difficulty
+:
+"easy"
+category
+:
+"Science: Computers"
+question
+:
+"In "Hexadecimal", what color would be displayed from the color code? "#00FF00"?"
+correct_answer
+:
+"Green"
+incorrect_answers
+[3]
+0
+:
+"Red"
+1
+:
+"Blue"
+2
+:
+"Yellow"
+3
+{ 6 }
+type
+:
+"multiple"
+difficulty
+:
+"medium"
+category
+:
+"Science: Computers"
+question
+:
+"When was the programming language "C#" released?"
+correct_answer
+:
+"2000"
+incorrect_answers
+[3]
+0
+:
+"1998"
+1
+:
+"1999"
+2
+:
+"2001"
+4
+{ 6 }
+type
+:
+"multiple"
+difficulty
+:
+"easy"
+category
+:
+"Science: Computers"
+question
+:
+"How many values can a single byte represent?"
+correct_answer
+:
+"256"
+incorrect_answers
+[3]
+0
+:
+"8"
+1
+:
+"1"
+2
+:
+"1024"
+5
+{ 6 }
+type
+:
+"multiple"
+difficulty
+:
+"medium"
+category
+:
+"Science: Computers"
+question
+:
+"Which coding language was the #1 programming language in terms of usage on GitHub in 2015?"
+correct_answer
+:
+"JavaScript"
+incorrect_answers
+[3]
+0
+:
+"C#"
+1
+:
+"Python"
+2
+:
+"PHP"
+6
+{ 6 }
+type
+:
+"multiple"
+difficulty
+:
+"medium"
+category
+:
+"Science: Computers"
+question
+:
+"In programming, the ternary operator is mostly defined with what symbol(s)?"
+correct_answer
+:
+"?:"
+incorrect_answers
+[3]
+0
+:
+"??"
+1
+:
+"if then"
+2
+:
+"?"
+7
+{ 6 }
+type
+:
+"multiple"
+difficulty
+:
+"easy"
+category
+:
+"Science: Computers"
+question
+:
+"If you were to code software in this language you'd only be able to type 0's and 1's."
+correct_answer
+:
+"Binary"
+incorrect_answers
+[3]
+0
+:
+"JavaScript"
+1
+:
+"C++"
+2
+:
+"Python"
+8
+{ 6 }
+type
+:
+"multiple"
+difficulty
+:
+"medium"
+category
+:
+"Science: Computers"
+question
+:
+"Moore's law originally stated that the number of transistors on a microprocessor chip would double every..."
+correct_answer
+:
+"Year"
+incorrect_answers
+[3]
+0
+:
+"Four Years"
+1
+:
+"Two Years"
+2
+:
+"Eight Years"
+9
+{ 6 }
+type
+:
+"multiple"
+difficulty
+:
+"medium"
+category
+:
+"Science: Computers"
+question
+:
+"In HTML, which non-standard tag used to be be used to make elements scroll across the viewport?"
+correct_answer
+:
+"<marquee><\/marquee>"
+incorrect_answers
+[3]
+0
+:
+"<scroll><\/scroll>"
+1
+:
+"<move><\/move>"
+2
+:
+"<slide><\/slide>"
+10
+{ 6 }
+type
+:
+"multiple"
+difficulty
+:
+"medium"
+category
+:
+"Science: Computers"
+question
+:
+"In programming, what do you call functions with the same name but different implementations?"
+correct_answer
+:
+"Overloading"
+incorrect_answers
+[3]
+0
+:
+"Overriding"
+1
+:
+"Abstracting"
+2
+:
+"Inheriting"
+11
+{ 6 }
+type
+:
+"multiple"
+difficulty
+:
+"medium"
+category
+:
+"Science: Computers"
+question
+:
+"What five letter word is the motto of the IBM Computer company?"
+correct_answer
+:
+"Think"
+incorrect_answers
+[3]
+0
+:
+"Click"
+1
+:
+"Logic"
+2
+:
+"Pixel"
+12
+{ 6 }
+type
+:
+"multiple"
+difficulty
+:
+"medium"
+category
+:
+"Science: Computers"
+question
+:
+"Which of these programming languages is a low-level language?"
+correct_answer
+:
+"Assembly"
+incorrect_answers
+[3]
+0
+:
+"Python"
+1
+:
+"C#"
+2
+:
+"Pascal"
+13
+{ 6 }
+type
+:
+"multiple"
+difficulty
+:
+"easy"
+category
+:
+"Science: Computers"
+question
+:
+"Which computer hardware device provides an interface for all other connected devices to communicate?"
+correct_answer
+:
+"Motherboard"
+incorrect_answers
+[3]
+0
+:
+"Central Processing Unit"
+1
+:
+"Hard Disk Drive"
+2
+:
+"Random Access Memory"
+14
+{ 6 }
+type
+:
+"multiple"
+difficulty
+:
+"medium"
+category
+:
+"Science: Computers"
+question
+:
+"Which of these people was NOT a founder of Apple Inc?"
+correct_answer
+:
+"Jonathan Ive"
+incorrect_answers
+[3]
+0
+:
+"Steve Jobs"
+1
+:
+"Ronald Wayne"
+2
+:
+"Steve Wozniak"
+15
+{ 6 }
+type
+:
+"multiple"
+difficulty
+:
+"medium"
+category
+:
+"Science: Computers"
+question
+:
+"Which internet company began life as an online bookstore called 'Cadabra'?"
+correct_answer
+:
+"Amazon"
+incorrect_answers
+[3]
+0
+:
+"eBay"
+1
+:
+"Overstock"
+2
+:
+"Shopify"
+16
+{ 6 }
+type
+:
+"multiple"
+difficulty
+:
+"medium"
+category
+:
+"Science: Computers"
+question
+:
+"Which of the following languages is used as a scripting language in the Unity 3D game engine?"
+correct_answer
+:
+"C#"
+incorrect_answers
+[3]
+0
+:
+"Java"
+1
+:
+"C++"
+2
+:
+"Objective-C"
+17
+{ 6 }
+type
+:
+"multiple"
+difficulty
+:
+"medium"
+category
+:
+"Science: Computers"
+question
+:
+"What does the acronym CDN stand for in terms of networking?"
+correct_answer
+:
+"Content Delivery Network"
+incorrect_answers
+[3]
+0
+:
+"Content Distribution Network"
+1
+:
+"Computational Data Network"
+2
+:
+"Compressed Data Network"
+18
+{ 6 }
+type
+:
+"multiple"
+difficulty
+:
+"medium"
+category
+:
+"Science: Computers"
+question
+:
+".at is the top-level domain for what country?"
+correct_answer
+:
+"Austria"
+incorrect_answers
+[3]
+0
+:
+"Argentina"
+1
+:
+"Australia"
+2
+:
+"Angola"
+19
+{ 6 }
+type
+:
+"multiple"
+difficulty
+:
+"easy"
+category
+:
+"Science: Computers"
+question
+:
+"In computing, what does MIDI stand for?"
+correct_answer
+:
+"Musical Instrument Digital Interface"
+incorrect_answers
+[3]
+0
+:
+"Musical Interface of Digital Instruments"
+1
+:
+"Modular Interface of Digital Instruments"
+2
+:
+"Musical Instrument Data Interface"
+Collapse All
+[
+    Expand All
+]
+Toggle Dark Mode
+d
+Open Parsed View
+p
+Open Formatted Raw View
+shift
+    +
+    r
+Open Raw View
+r
+Toggle Toolbar
+t
