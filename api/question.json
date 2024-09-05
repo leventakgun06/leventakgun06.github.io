@@ -1,0 +1,239 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Bilim: Bilgisayarlar",
+      "question": ".rs is the top-level domain for what country?",
+      "correct_answer": "Serbia",
+      "incorrect_answers": [
+        "Romania",
+        "Russia",
+        "Rwanda"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Bilim: Bilgisayarlar",
+      "question": "Unix Time is defined as the number of seconds that have elapsed since when?",
+      "correct_answer": "Midnight, January 1, 1970",
+      "incorrect_answers": [
+        "Midnight, July 4, 1976",
+        "Midnight on the creator of Unix's birthday",
+        "Midnight, July 4, 1980"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Bilim: Bilgisayarlar",
+      "question": "Which of these people was NOT a founder of Apple Inc?",
+      "correct_answer": "Jonathan Ive",
+      "incorrect_answers": [
+        "Steve Jobs",
+        "Ronald Wayne",
+        "Steve Wozniak"
+      ]
+    },
+    {
+      "type": "boolean",
+      "difficulty": "medium",
+      "category": "Bilim: Bilgisayarlar",
+      "question": "The open source program Redis is a relational database server.",
+      "correct_answer": "False",
+      "incorrect_answers": [
+        "True"
+      ]
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "category": "Bilim: Bilgisayarlar",
+      "question": "Linux was first created as an alternative to Windows XP.",
+      "correct_answer": "False",
+      "incorrect_answers": [
+        "True"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Bilim: Bilgisayarlar",
+      "question": "The Harvard architecture for micro-controllers added which additional bus?",
+      "correct_answer": "Instruction",
+      "incorrect_answers": [
+        "Address",
+        "Data",
+        "Control"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Bilim: Bilgisayarlar",
+      "question": "All of the following programs are classified as raster graphics editors EXCEPT:",
+      "correct_answer": "Inkscape",
+      "incorrect_answers": [
+        "Paint.NET",
+        "GIMP",
+        "Adobe Photoshop"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Bilim: Bilgisayarlar",
+      "question": "How many bytes are in a single Kibibyte?",
+      "correct_answer": "1024",
+      "incorrect_answers": [
+        "2400",
+        "1000",
+        "1240"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Bilim: Bilgisayarlar",
+      "question": "What does the acronym CDN stand for in terms of networking?",
+      "correct_answer": "Content Delivery Network",
+      "incorrect_answers": [
+        "Content Distribution Network",
+        "Computational Data Network",
+        "Compressed Data Network"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Bilim: Bilgisayarlar",
+      "question": "Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?",
+      "correct_answer": "Heartbleed",
+      "incorrect_answers": [
+        "Shellshock",
+        "Corrupted Blood",
+        "Shellscript"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Bilim: Bilgisayarlar",
+      "question": "In the programming language Java, which of these keywords would you put on a variable to make sure it doesn't get modified?",
+      "correct_answer": "Final",
+      "incorrect_answers": [
+        "Static",
+        "Private",
+        "Public"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Bilim: Bilgisayarlar",
+      "question": "What does LTS stand for in the software market?",
+      "correct_answer": "Long Term Support",
+      "incorrect_answers": [
+        "Long Taco Service",
+        "Ludicrous Transfer Speed",
+        "Ludicrous Turbo Speed"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Bilim: Bilgisayarlar",
+      "question": "In "Hexadecimal", what color would be displayed from the color code? "#00FF00"?",
+      "correct_answer": "Green",
+      "incorrect_answers": [
+        "Red",
+        "Blue",
+        "Yellow"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Bilim: Bilgisayarlar",
+      "question": "Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?",
+      "correct_answer": "Apple",
+      "incorrect_answers": [
+        "Microsoft",
+        "Atari",
+        "Commodore"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Bilim: Bilgisayarlar",
+      "question": "The numbering system with a radix of 16 is more commonly referred to as ",
+      "correct_answer": "Hexidecimal",
+      "incorrect_answers": [
+        "Binary",
+        "Duodecimal",
+        "Octal"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Bilim: Bilgisayarlar",
+      "question": "Which one of these is not an official development name for a Ubuntu release?",
+      "correct_answer": "Mystic Mansion",
+      "incorrect_answers": [
+        "Trusty Tahr",
+        "Utopic Unicorn",
+        "Wily Werewolf"
+      ]
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "category": "Bilim: Bilgisayarlar",
+      "question": "Pointers were not used in the original C programming language; they were added later on in C++.",
+      "correct_answer": "False",
+      "incorrect_answers": [
+        "True"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Bilim: Bilgisayarlar",
+      "question": "What was the first commerically available computer processor?",
+      "correct_answer": "Intel 4004",
+      "incorrect_answers": [
+        "Intel 486SX",
+        "TMS 1000",
+        "AMD AM386"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Bilim: Bilgisayarlar",
+      "question": "In computing terms, typically what does CLI stand for?",
+      "correct_answer": "Command Line Interface",
+      "incorrect_answers": [
+        "Common Language Input",
+        "Control Line Interface",
+        "Common Language Interface"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Bilim: Bilgisayarlar",
+      "question": "Who invented the "Spanning Tree Protocol"?",
+      "correct_answer": "Radia Perlman",
+      "incorrect_answers": [
+        "Paul Vixie",
+        "Vint Cerf",
+        "Michael Roberts"
+      ]
+    }
+  ]
+}
