@@ -5,234 +5,120 @@
       "type": "multiple",
       "difficulty": "medium",
       "category": "Bilim: Bilgisayarlar",
-      "question": ".rs is the top-level domain for what country?",
-      "correct_answer": "Serbia",
+      "question": "Latince «cultura» fiilinden gelen “kültür” kelimesinin ilk anlamı ne olabilir?",
+      "correct_answer": "Tarımsal olarak ekip biçmek",
       "incorrect_answers": [
-        "Romania",
-        "Russia",
-        "Rwanda"
+        "İbadet etmek",
+        "Göç etmek",
+        "Eğitim ile insan yetiştirmek"
       ]
     },
     {
       "type": "multiple",
       "difficulty": "medium",
       "category": "Bilim: Bilgisayarlar",
-      "question": "Unix Time is defined as the number of seconds that have elapsed since when?",
-      "correct_answer": "Midnight, January 1, 1970",
+      "question": "Peki hangileri Türkiye’nin somut olmayan kültürel miras envanteri arasında yer alır?",
+      "correct_answer": "Hepsi",
       "incorrect_answers": [
-        "Midnight, July 4, 1976",
-        "Midnight on the creator of Unix's birthday",
-        "Midnight, July 4, 1980"
+        "Meddahlık geleneği",
+        "Zeybeklik geleneği",
+        "Türk kahvesi"
       ]
     },
     {
       "type": "multiple",
       "difficulty": "medium",
       "category": "Bilim: Bilgisayarlar",
-      "question": "Which of these people was NOT a founder of Apple Inc?",
-      "correct_answer": "Jonathan Ive",
+      "question": "UNESCO Dünya Miras Listesi’nde Türkiye’den kaç varlık vardır?",
+      "correct_answer": "17",
       "incorrect_answers": [
-        "Steve Jobs",
-        "Ronald Wayne",
-        "Steve Wozniak"
+        "5",
+        "15",
+        "10"
       ]
     },
     {
       "type": "boolean",
       "difficulty": "medium",
       "category": "Bilim: Bilgisayarlar",
-      "question": "The open source program Redis is a relational database server.",
-      "correct_answer": "False",
+      "question": "Dünyanın en çok ziyaret edilen müzesi hangisidir?",
+      "correct_answer": "Çin ulusal müzesi",
       "incorrect_answers": [
-        "True"
+        "Louvre müzesi",
+        "British müzesi",
+        "Vatikan müzeleri"
       ]
     },
     {
       "type": "boolean",
       "difficulty": "easy",
       "category": "Bilim: Bilgisayarlar",
-      "question": "Linux was first created as an alternative to Windows XP.",
-      "correct_answer": "False",
+      "question": "Mimar Sinan’ın, Türkiye dahil kaç ülkede eseri vardır?",
+      "correct_answer": "10",
       "incorrect_answers": [
-        "True"
+        "4",
+        "5",
+        "12"
       ]
     },
     {
       "type": "multiple",
       "difficulty": "hard",
       "category": "Bilim: Bilgisayarlar",
-      "question": "The Harvard architecture for micro-controllers added which additional bus?",
-      "correct_answer": "Instruction",
+      "question": "Yaklaşık 60 yıl önce inşaa edilen, günümüzde de var olan bina aşağıdakilerden hangisidir?",
+      "correct_answer": "Ankara emek hanı",
       "incorrect_answers": [
-        "Address",
-        "Data",
-        "Control"
+        "Taksim meydanı Atatürk kültür merkezi",
+        "İzmir cumhuriyet bulvarı",
+        "Karaköy paket postanesi"
       ]
     },
     {
       "type": "multiple",
       "difficulty": "medium",
       "category": "Bilim: Bilgisayarlar",
-      "question": "All of the following programs are classified as raster graphics editors EXCEPT:",
-      "correct_answer": "Inkscape",
+      "question": "Anadolu süsleme motifleri arasında yer alan boğa boynuzu neyi sembolize eder?",
+      "correct_answer": "Güç",
       "incorrect_answers": [
-        "Paint.NET",
-        "GIMP",
-        "Adobe Photoshop"
+        "Bereket",
+        "Üretkenlik",
+        "Hepsi"
       ]
     },
     {
       "type": "multiple",
       "difficulty": "medium",
       "category": "Bilim: Bilgisayarlar",
-      "question": "How many bytes are in a single Kibibyte?",
-      "correct_answer": "1024",
+      "question": "Çevre ile devam edelim. Akdeniz Bölgesinden Himalaya’lara kadar olan geniş bir coğrafyada yetişen, yaz ve kış aylarında yaprağını dökmeyen ağaç hangisidir?",
+      "correct_answer": "Servi",
       "incorrect_answers": [
-        "2400",
-        "1000",
-        "1240"
+        "Çam",
+        "Ardıç",
+        "Karaçam"
       ]
     },
     {
       "type": "multiple",
       "difficulty": "medium",
       "category": "Bilim: Bilgisayarlar",
-      "question": "What does the acronym CDN stand for in terms of networking?",
-      "correct_answer": "Content Delivery Network",
+      "question": "Dikilen fidanların 5 metreye ulaşması, orman dokusu oluşturması ve canlılara yuva olması için ortalama kaç yıl geçmesi gerekir?",
+      "correct_answer": "20 yıl",
       "incorrect_answers": [
-        "Content Distribution Network",
-        "Computational Data Network",
-        "Compressed Data Network"
+        "5 yıl",
+        "4 ay",
+        "12 yıl"
       ]
     },
     {
       "type": "multiple",
       "difficulty": "hard",
       "category": "Bilim: Bilgisayarlar",
-      "question": "Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?",
-      "correct_answer": "Heartbleed",
+      "question": "Dünya üzerinde bulunan suyun yüzde kaçı tatlı sudur?",
+      "correct_answer": "%3",
       "incorrect_answers": [
-        "Shellshock",
-        "Corrupted Blood",
-        "Shellscript"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "Bilim: Bilgisayarlar",
-      "question": "In the programming language Java, which of these keywords would you put on a variable to make sure it doesn't get modified?",
-      "correct_answer": "Final",
-      "incorrect_answers": [
-        "Static",
-        "Private",
-        "Public"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "Bilim: Bilgisayarlar",
-      "question": "What does LTS stand for in the software market?",
-      "correct_answer": "Long Term Support",
-      "incorrect_answers": [
-        "Long Taco Service",
-        "Ludicrous Transfer Speed",
-        "Ludicrous Turbo Speed"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "Bilim: Bilgisayarlar",
-      "question": "In \"Hexadecimal\", what color would be displayed from the color code? \"#00FF00\"?",
-      "correct_answer": "Green",
-      "incorrect_answers": [
-        "Red",
-        "Blue",
-        "Yellow"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "Bilim: Bilgisayarlar",
-      "question": "Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?",
-      "correct_answer": "Apple",
-      "incorrect_answers": [
-        "Microsoft",
-        "Atari",
-        "Commodore"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "Bilim: Bilgisayarlar",
-      "question": "The numbering system with a radix of 16 is more commonly referred to as ",
-      "correct_answer": "Hexidecimal",
-      "incorrect_answers": [
-        "Binary",
-        "Duodecimal",
-        "Octal"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "medium",
-      "category": "Bilim: Bilgisayarlar",
-      "question": "Which one of these is not an official development name for a Ubuntu release?",
-      "correct_answer": "Mystic Mansion",
-      "incorrect_answers": [
-        "Trusty Tahr",
-        "Utopic Unicorn",
-        "Wily Werewolf"
-      ]
-    },
-    {
-      "type": "boolean",
-      "difficulty": "easy",
-      "category": "Bilim: Bilgisayarlar",
-      "question": "Pointers were not used in the original C programming language; they were added later on in C++.",
-      "correct_answer": "False",
-      "incorrect_answers": [
-        "True"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "medium",
-      "category": "Bilim: Bilgisayarlar",
-      "question": "What was the first commerically available computer processor?",
-      "correct_answer": "Intel 4004",
-      "incorrect_answers": [
-        "Intel 486SX",
-        "TMS 1000",
-        "AMD AM386"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "medium",
-      "category": "Bilim: Bilgisayarlar",
-      "question": "In computing terms, typically what does CLI stand for?",
-      "correct_answer": "Command Line Interface",
-      "incorrect_answers": [
-        "Common Language Input",
-        "Control Line Interface",
-        "Common Language Interface"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "hard",
-      "category": "Bilim: Bilgisayarlar",
-      "question": "Who invented the \"Spanning Tree Protocol\"?",
-      "correct_answer": "Radia Perlman",
-      "incorrect_answers": [
-        "Paul Vixie",
-        "Vint Cerf",
-        "Michael Roberts"
+        "%50",
+        "%13",
+        "%1"
       ]
     }
   ]
