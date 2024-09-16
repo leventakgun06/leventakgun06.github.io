@@ -16205,6 +16205,25 @@
                     "playerAbout1": "https://mydramalist.com/people/668-jang-na-ra",
                     "playerAbout2": "https://mydramalist.com/people/1434-nam-ji-hyun",
                     "playerAbout3": "https://mydramalist.com/people/15803-kim-joon-han"
-                } 
+                },
+                {
+                "id": 854,
+                      "koreasName": "Queen Woo",
+                      "koreasImage": "https://i.mydramalist.com/rNrNzp_4f.jpg",
+                      "rating": 7.8,
+                      "description": "2024 yılı yapımı bu dizide: Woo Hui, Goguryeo kraliçesidir. Goguryeo kralı olan kocası aniden öldüğünde bir kriz çıkar. Woo Hui, daha fazla güç elde etmek isteyen prenslerin ve 5 kabilenin hedefi haline gelir. Ailesini ve kabilesini korumak için levirat evliliğini kullanır. Ölen kocasının küçük kardeşlerinden biriyle evlenmek ve onları tahta çıkarmak için mücadele eder. Woo Hui her şeyi 24 saat içinde başarmak zorundadır.",
+                      "playerName1": "Jeon Jong Seo\n(Woo Hui)",
+                      "playerName2": "Kim Mu Yeol\n(Eul Pa So)",
+                      "playerName3": "Ji Chang Wook\n(Go Nam Mu)",
+                      "playerImage1": "https://i.mydramalist.com/rNEPry_5c.jpg",
+                      "playerImage2": "https://i.mydramalist.com/pzODD_5c.jpg",
+                      "playerImage3": "https://i.mydramalist.com/ZyyEJ_5c.jpg",
+                      "genreIds": [1, 3, 8],
+                      "contentRating": "15+",
+                      "episode": "Bölüm: 8",
+                      "playerAbout1": "https://mydramalist.com/people/15813-jun-song-seo",
+                      "playerAbout2": "https://mydramalist.com/people/2671-kim-mu-yeol",
+                      "playerAbout3": "https://mydramalist.com/people/806-ji-chang-wook"
+                  } 
   ]
 }
