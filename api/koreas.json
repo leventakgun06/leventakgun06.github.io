@@ -16224,6 +16224,44 @@
                       "playerAbout1": "https://mydramalist.com/people/15813-jun-song-seo",
                       "playerAbout2": "https://mydramalist.com/people/2671-kim-mu-yeol",
                       "playerAbout3": "https://mydramalist.com/people/806-ji-chang-wook"
-                  } 
+                  },
+                      {
+                    "id": 855,
+                        "koreasName": "Your Honor",
+                        "koreasImage": "https://i.mydramalist.com/E5QXJb_4f.jpg",
+                        "rating": 7.8,
+                        "description": "2024 yılı yapımı bu dizide: Bir yargıç ve bir çete lideri, kendi oğulları için sınırları aşar. Song Pan Ho, iyi bir üne sahip dürüst bir yargıçtır. Oğlu Song Ho Young'u da benzer bir şekilde yetiştirmiştir. Suç patronu Kim Kang Heon'un soğukkanlı bir tavrı vardır. Sakinliğini yalnızca babası gibi zalim ve vahşi olan oğlu Kim Sang Hyuk'a kaptırır. Bir olay hayatlarını birbirine karıştırır ve iki baba çocukları için canavara dönüşür.",
+                        "playerName1": "Son Hyun Joo\n(Song Pan Ho)",
+                        "playerName2": "Kim Myung Min\n(Kim Kang Heon)",
+                        "playerName3": "Kim Do Hoon\n(Song Ho Yeong)",
+                        "playerImage1": "https://i.mydramalist.com/xwPKqc.jpg",
+                        "playerImage2": "https://i.mydramalist.com/Wz3ml_5c.jpg",
+                        "playerImage3": "https://i.mydramalist.com/jR5yw_5c.jpg",
+                        "genreIds": [12, 13, 15],
+                        "contentRating": "15+",
+                        "episode": "Bölüm: 10",
+                        "playerAbout1": "https://mydramalist.com/people/3391-son-hyun-joo",
+                        "playerAbout2": "https://mydramalist.com/people/556-kim-myung-min",
+                        "playerAbout3": "https://mydramalist.com/people/19380-kim-do-hoon"
+                    },
+                    {
+                      "id": 856,
+                          "koreasName": "Tarot",
+                          "koreasImage": "https://i.mydramalist.com/x4x7lw_4f.jpg",
+                          "rating": 7.1,
+                          "description": "2024 yılı yapımı bu dizide: \"Tarot\", herkesin günlük hayatının bir parçası olabilecek gizemli olayları araştıran yedi evren korku bölümünden oluşan bir dizi olarak ortaya çıkıyor ve hepsi tarot kartları teması etrafında dönüyor. Hikaye, ana karakterlerin her birinin farklı tarot kartları almasıyla başlıyor ve o anda kaderlerinin çarpık tarot kartları tarafından lanetlendiğini görüyorlar.",
+                          "playerName1": "Cho Yeo Jung\n(Ji U)",
+                          "playerName2": "Kim Sung Tae\n(Min Chan)",
+                          "playerName3": "Ham Eun Jung\n(Eun Mi)",
+                          "playerImage1": "https://i.mydramalist.com/WB68mc.jpg",
+                          "playerImage2": "https://i.mydramalist.com/rN0Nqg_5c.jpg",
+                          "playerImage3": "https://i.mydramalist.com/jQV7pw_5c.jpg",
+                          "genreIds": [2, 15, 21],
+                          "contentRating": "15+",
+                          "episode": "Bölüm: 7",
+                          "playerAbout1": "https://mydramalist.com/people/1325-jo-yeo-jung",
+                          "playerAbout2": "https://mydramalist.com/people/45129-kim-sung-tae",
+                          "playerAbout3": "https://mydramalist.com/people/254-ham-eun-jung"
+                      } 
   ]
 }
