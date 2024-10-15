@@ -16262,6 +16262,44 @@
                           "playerAbout1": "https://mydramalist.com/people/1325-jo-yeo-jung",
                           "playerAbout2": "https://mydramalist.com/people/45129-kim-sung-tae",
                           "playerAbout3": "https://mydramalist.com/people/254-ham-eun-jung"
-                      } 
+                      },
+    {
+      "id": 857,
+          "koreasName": "Love Next Door",
+          "koreasImage": "https://i.mydramalist.com/x4ngkw_4f.jpg",
+          "rating": 8.4,
+          "description": "2024 yılı yapımı bu dizide: Choi Seung Hyo, Kore'nin en dikkat çekici genç mimarıdır ve \"Atelier In\" mimarlık firmasını yönetmektedir. Sadece bir mimar olarak neredeyse mükemmel olmakla kalmaz, aynı zamanda çok çekicidir ve harika bir kişiliğe sahiptir. Yine de, Choi Seung Hyo hayatından silmek istediği anlar yaşamıştır. Bu anlar genellikle Bae Seok Ryu'yu içerir. 4 yaşındayken anneleri arkadaş olmuştur. Anneleri sayesinde Choi Seung Hyo ve Bae Seok Ryu birlikte çok zaman geçirmiş, birlikte bir kadın hamamında yıkanmışlardır. Şimdi, Choi Seung Hyo, Bae Seok Ryu ile yetişkin olarak tanışır. Bae Seok Ryu'nun hayatı büyürken yolunda gitmiştir. Okul günlerinde, okulunda akademik olarak birinci sırayı hiç kaçırmamıştır. Yaptığı şeylerde her zaman tutkulu ve enerjikti. Üniversiteden mezun olduktan sonra büyük bir şirket tarafından işe alınmıştır. Proje yöneticisi olarak çok çalışmış, ancak bir nedenden dolayı işinden ayrılmıştır. O zamandan beri işsizdir. Choi Seung Hyo ile tanışır.",
+          "playerName1": "Jung Hae In\n(Choi Seung Hyo)",
+          "playerName2": "Jung So Min\n(Bae Seok Ryu)",
+          "playerName3": "Kim Ji Eun\n(Jung Mo Eum)",
+          "playerImage1": "https://i.mydramalist.com/Zy03k_5c.jpg",
+          "playerImage2": "https://i.mydramalist.com/j58Kb_5c.jpg",
+          "playerImage3": "https://i.mydramalist.com/RBk6gg_5c.jpg",
+          "genreIds": [4, 5, 20],
+          "contentRating": "15+",
+          "episode": "Bölüm: 16",
+          "playerAbout1": "https://mydramalist.com/people/6834-jung-hae-in",
+          "playerAbout2": "https://mydramalist.com/people/346-jung-so-min",
+          "playerAbout3": "https://mydramalist.com/people/17972-kim-ji-eun"
+    },
+    {
+      "id": 858,
+          "koreasName": "Black Out",
+          "koreasImage": "https://i.mydramalist.com/2wkJqw_4f.jpg",
+          "rating": 8.5,
+          "description": "2024 yılı yapımı bu dizide: İki 19 yaşındaki kız vahşice öldürülür. Cesetler terk edilmiştir ve kan içinde dağılmış bir şekilde depoda hiçbir yerde bulunamamıştır. Tek şüpheli arkadaşlarıydı. Olay gecesi sarhoştu. Tek bir anı bile hatırlamıyordu. Cinayet işlediğine dair hiçbir anısı yoktu. Cinayet işlemediğine dair de hiçbir anısı yoktur. Çocuk, 11 yıl sonra hapisten çıktığında genç bir yetişkin olmuştur. Sakin bir hayat sürmek istiyordu... Ancak başka bir cinayet köyü altüst eder. Beyaz kemikli bir leş bulunmuştur. Gerçek şeytan, görünüşte huzurlu olan köyün bir yerinde saklanıyordur. Gerçek şeytan kimdir?",
+          "playerName1": "Byun Yo Han\n(Go Jeong U)",
+          "playerName2": "Go Jun\n(No Sang Cheol)",
+          "playerName3": "Go Bo Gyeol\n(Choi Na Gyeom)",
+          "playerImage1": "https://i.mydramalist.com/jPLOB_5c.jpg",
+          "playerImage2": "https://i.mydramalist.com/wQqBp_5c.jpg",
+          "playerImage3": "https://i.mydramalist.com/0wxN5r_5c.jpg",
+          "genreIds": [2, 3, 15],
+          "contentRating": "15+",
+          "episode": "Bölüm: 14",
+          "playerAbout1": "https://mydramalist.com/people/7710-byun-yo-han",
+          "playerAbout2": "https://mydramalist.com/people/12122-go-joon",
+          "playerAbout3": "https://mydramalist.com/people/8430-go-bo-gyeol"
+      } 
   ]
 }
