@@ -3001,6 +3001,25 @@
           "playerAbout1": "https://mydramalist.com/people/1742-park-sung-woong",
           "playerAbout2": "https://mydramalist.com/people/7066-park-sun-ho",
           "playerAbout3": "https://mydramalist.com/people/5635-kim-hee-jung"
+      },
+      {
+      "id": 159,
+          "koreasName": "The Gangster, the Cop and the Devil",
+          "koreasImage": "https://i.mydramalist.com/jlKjJf.jpg",
+          "rating": 8.2,
+          "description": "2019 yılı yapımı bu filmde: Jang Dong Soo, Cheonan'da bir çete lideridir. Bir seri katil olan Kang Gyung Ho'nun hedefi olur, ancak sonunda saldırıdan sağ kurtulur. Bu seri katilin saldırısından sağ kurtulan tek kişidir. Dedektif Jung Tae Seok organize suçtan nefret eder, ancak seri katili yakalamak için Jang Dong Soo ile çalışmak zorunda kalır.",
+          "playerName1": "Ma Dong Seok\n(Jang Dong Soo)",
+          "playerName2": "Kim Mu Yeol\n(Jung Tae Seok)",
+          "playerName3": "Kim Sung Kyu\n(Kang Gyung Ho)",
+          "playerImage1": "https://i.mydramalist.com/pekDn_5c.jpg",
+          "playerImage2": "https://i.mydramalist.com/pzODD_5c.jpg",
+          "playerImage3": "https://i.mydramalist.com/EL62p_5c.jpg",
+          "genreIds": [1, 2, 12],
+          "contentRating": "18+",
+          "episode": "Süre: 1s 50d",
+          "playerAbout1": "https://mydramalist.com/people/1702-ma-dong-seok",
+          "playerAbout2": "https://mydramalist.com/people/2671-kim-mu-yeol",
+          "playerAbout3": "https://mydramalist.com/people/19984-kim-sung-gyu"
       }
   ]
 }
