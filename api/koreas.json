@@ -16300,6 +16300,44 @@
           "playerAbout1": "https://mydramalist.com/people/7710-byun-yo-han",
           "playerAbout2": "https://mydramalist.com/people/12122-go-joon",
           "playerAbout3": "https://mydramalist.com/people/8430-go-bo-gyeol"
-      } 
+      },
+        {
+      "id": 859,
+          "koreasName": "The Judge from Hell",
+          "koreasImage": "https://i.mydramalist.com/jQ37oy_4f.jpg",
+          "rating": 8.7,
+          "description": "2024 yılı yapımı bu dizide: Kang Bit Na güzel görünümlü seçkin bir yargıçtır, ancak o bir iblistir. Bir iblis olarak görevi, diğer insanları ölümlerine götüren ve yaptıkları üzerinde düşünmeyen kötü insanları öldürmektir. Daha sonra bu insanları Cehenneme gönderir. Bir gün, Kang Bit Na Han Da On ile tanışır. Han Da On arkadaş canlısı ve nazik bir kişiliğe sahiptir. Bir dedektif olarak zihni keskindir ve keskin bir gözlem duygusuna sahiptir. Ancak içinde kimsenin bilmediği bir acı taşır. Kang Bit Na ve Han Da On birbirleriyle tanıştıktan sonra, hayatları büyük ölçüde değişir.",
+          "playerName1": "Park Shin Hye\n(Kang Bit Na)",
+          "playerName2": "Kim Jae Young\n(Han Da On)",
+          "playerName3": "Kim In Kwon\n(Koo Man Do)",
+          "playerImage1": "https://i.mydramalist.com/Q3Nz7_5c.jpg",
+          "playerImage2": "https://i.mydramalist.com/kwWvv_5c.jpg",
+          "playerImage3": "https://i.mydramalist.com/Z0xkkc.jpg",
+          "genreIds": [2, 5, 15],
+          "contentRating": "15+",
+          "episode": "Bölüm: 14",
+          "playerAbout1": "https://mydramalist.com/people/210-park-shin-hye",
+          "playerAbout2": "https://mydramalist.com/people/8232-kim-jae-young",
+          "playerAbout3": "https://mydramalist.com/people/1628-kim-in-kwon"
+    },
+    {
+      "id": 860,
+          "koreasName": "No Way Out: The Roulette",
+          "koreasImage": "https://i.mydramalist.com/Z8dVqL_4f.jpg",
+          "rating": 7.7,
+          "description": "2024 yılı yapımı bu dizide: Eşi benzeri görülmemiş iğrenç bir suçlunun hapisten çıkması üzerine, cinayeti için 20 milyar wonluk bir ödeme ile kamu ödülü teklif edilir. Baek Joong Sik, bu katili vatandaşlardan korumak zorunda olan dedektiftir. Kim Kook Ho, on üç yıl hapis yattıktan sonra hapisten çıkan iğrenç suçlu ve katildir. Avukat Lee Sang Bong'u yasal temsilcisi olarak tutar. Bu arada, Yoon Chang Jae, kayıp parasını kurtarmaya çalışan bir kasaptır.",
+          "playerName1": "Jo Jin Woong\n(Baek Jung Sik)",
+          "playerName2": "Yoo Jae Myung\n(Kim Guk Ho)",
+          "playerName3": "Kim Mu Yeol\n(Lee Sang Bong)",
+          "playerImage1": "https://i.mydramalist.com/kOYmOc.jpg",
+          "playerImage2": "https://i.mydramalist.com/Wl36W_5c.jpg",
+          "playerImage3": "https://i.mydramalist.com/pzODD_5c.jpg",
+          "genreIds": [1, 2, 15],
+          "contentRating": "15+",
+          "episode": "Bölüm: 8",
+          "playerAbout1": "https://mydramalist.com/people/1493-jo-jin-woong",
+          "playerAbout2": "https://mydramalist.com/people/6288-yoo-jae-myung",
+          "playerAbout3": "https://mydramalist.com/people/2671-kim-mu-yeol"
+      }
   ]
 }
