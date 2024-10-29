@@ -16338,6 +16338,44 @@
           "playerAbout1": "https://mydramalist.com/people/1493-jo-jin-woong",
           "playerAbout2": "https://mydramalist.com/people/6288-yoo-jae-myung",
           "playerAbout3": "https://mydramalist.com/people/2671-kim-mu-yeol"
+      },
+        {
+      "id": 861,
+          "koreasName": "Knight Flower",
+          "koreasImage": "https://i.mydramalist.com/60pKAO_4f.jpg",
+          "rating": 8.4,
+          "description": "2024 yılı yapımı bu dizide: Cho Yeo Hwa 15 yıldır duldur. Kayınvalideleri krallığın en prestijli asil ailesidir. Gün boyunca, tamamen ölen kocasının anısına adanmış bir dulun hayatını yaşar ve nadiren evinin kapısından dışarı çıkar. Geceleri, Cho Yeo Hwa, çaresizleri kurtarmak için gizlice çevredeki duvarın üzerinden atlayan Hero maskesini takar. Bu süreçte, Başkent Muhafızları'ndaki yakışıklı kıdemli bir subay olan Park Su Ho ile yolları kesişir ve Hero ve Cho Yeo Hwa'nın göründükleri kişi veya şey olmadıklarını hemen fark eder.",
+          "playerName1": "Lee Ha Nee\n(Cho Yeo Hwa)",
+          "playerName2": "Lee Jong Won\n(Park Su Ho)",
+          "playerName3": "Lee Ki Woo\n(Park Yoon Hak)",
+          "playerImage1": "https://i.mydramalist.com/4BEOr_5c.jpg",
+          "playerImage2": "https://i.mydramalist.com/XdzzKw_5c.jpg",
+          "playerImage3": "https://i.mydramalist.com/2z3qR_5c.jpg",
+          "genreIds": [2, 15, 4],
+          "contentRating": "15+",
+          "episode": "Bölüm: 12",
+          "playerAbout1": "https://mydramalist.com/people/816-lee-ha-nui",
+          "playerAbout2": "https://mydramalist.com/people/19955-lee-jong-won",
+          "playerAbout3": "https://mydramalist.com/people/621-lee-ki-woo"
+    },
+    {
+      "id": 862,
+          "koreasName": "Cinderella at 2 AM",
+          "koreasImage": "https://i.mydramalist.com/vX3o1W_4f.jpg",
+          "rating": 7.7,
+          "description": "2024 yılı yapımı bu dizide: Ha Yun Seo bekardır ve büyük bir şirkette ekip lideri olarak çalışmaktadır. Çekicidir, hoş bir kişiliğe sahiptir ve şirketinde saygı görür. Küçükken, aile içi şiddet nedeniyle küçük kardeşini alıp ailesini terk etmiştir. Şimdi kendine güvenen ve pragmatik bir insan olarak olgunlaşmıştır. Erkek arkadaşı, kendisinden küçük olan Seo Ju Won'dur. Yun Seo ile aynı şirkette personel olarak çalışmaktadır. Ha Yun Seo, erkek arkadaşının şirketini işleten chaebol ailesinin oğlu olduğunu öğrenince şaşırır. Seo Ju Won'un annesi daha sonra Ha Yun Seo'ya oğlundan ayrılmasını söyler ve bunun için ona para teklif eder. Ha Yun Seo, dünyasında peri masallarının var olmadığına inanır ve annesinden parayı alıp Seo Ju Won'la ayrılmaya karar verir. Ancak Seo Ju Won aşka inanır ve kalbini sadakatle takip eder. Ha Yun Seo'nun fikrini değiştirmek için elinden geleni yapar.",
+          "playerName1": "Shin Hyun Been\n(Ha Yun Seo)",
+          "playerName2": "Moon Sang Min\n(Seo Ju Won)",
+          "playerName3": "Yoon Park\n(Seo Si Won)",
+          "playerImage1": "https://i.mydramalist.com/1n4K3_5c.jpg",
+          "playerImage2": "https://i.mydramalist.com/qYwngB_5c.jpg",
+          "playerImage3": "https://i.mydramalist.com/d0vdyg_5c.jpg",
+          "genreIds": [3, 4, 5],
+          "contentRating": "15+",
+          "episode": "Bölüm: 10",
+          "playerAbout1": "https://mydramalist.com/people/1510-shin-hyun-bin",
+          "playerAbout2": "https://mydramalist.com/people/36335-mun-sang-min",
+          "playerAbout3": "https://mydramalist.com/people/5824-yoon-park"
       }
   ]
 }
