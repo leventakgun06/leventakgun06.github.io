@@ -16376,6 +16376,44 @@
           "playerAbout1": "https://mydramalist.com/people/1510-shin-hyun-bin",
           "playerAbout2": "https://mydramalist.com/people/36335-mun-sang-min",
           "playerAbout3": "https://mydramalist.com/people/5824-yoon-park"
-      }
+      },
+        {
+      "id": 863,
+          "koreasName": "Romance in the House",
+          "koreasImage": "https://i.mydramalist.com/jQg7JO_4f.jpg",
+          "rating": 7.7,
+          "description": "2024 yılı yapımı bu dizide: Byeon Mu Jin, Geum Ae Yeon ile evliydi. Evlilikleri sırasında Byeon Mi Rae adında bir kızları ve Byeon Hyeon Jae adında bir oğulları var. Byeon Mu Jin evliyken çeşitli iş girişimlerinde bulunur ancak hepsi başarısız olur. Ailesi artık onu kaldıramaz ve onu kendilerinden uzaklaştırırlar. Boşanmadan sonra Geum Ae Yeon, iki çocuğunu tek başına büyütmede zorluklar yaşar. Şimdi, 11 yıl sonra, büyük bir markette yarı zamanlı çalışır. Kızı ve oğlu büyümüşlerdir. Kızı Byeon Mi Rae, annesinin güvenebileceği biri olmak ister. Büyük bir markette MD olarak çalışır. Aynı zamanda ailenin geçimini sağlayan kişidir. Oğlu Byeon Hyeonn Jae'nin benzersiz bir çekiciliği vardır ancak aynı zamanda ailenin baş belasıdır. Bir gün, Byeon Mu Jin ailesinin karşısına yaşadıkları binanın sahibi olarak çıkar. Byeon Mu Jin, sevdiği eski karısı Geum Ae Yeon ile yeniden bir araya gelmeyi umar ve hatta onu baştan çıkarmaya çalışır, ancak kızı Byeon Mi Rae, babasının fikrine şiddetle karşı çıkar. Kız kardeşinin aksine, Byeon Hyeon Jae babasının uzlaşma girişimini destekler. Bu arada, Byeon Mi Rae, Nam Tae Pyung ile ilişkiye girer. Bir zamanlar ulusal tekvando takımının bir üyesidir ve şimdi Byeon Mi Rae ile aynı markette güvenlik görevlisi olarak çalışır. Gerçek kimliğini ve babasının marketin sahibi olduğu gerçeğini gizler.",
+          "playerName1": "Ji Jin Hee\n(Byeon Mu Jin)",
+          "playerName2": "Kim Jee Soo\n(Geum Ae Yeon)",
+          "playerName3": "Son Na Eun\n(Byeon Mi Rae)",
+          "playerImage1": "https://i.mydramalist.com/43jwQc.jpg",
+          "playerImage2": "https://i.mydramalist.com/rDEZj_5c.jpg",
+          "playerImage3": "https://i.mydramalist.com/eZenK_5c.jpg",
+          "genreIds": [3, 5, 20],
+          "contentRating": "15+",
+          "episode": "Bölüm: 12",
+          "playerAbout1": "https://mydramalist.com/people/404-ji-jin-hee",
+          "playerAbout2": "https://mydramalist.com/people/1212-kim-jee-soo",
+          "playerAbout3": "https://mydramalist.com/people/4418-son-na-eun"
+      },
+      {
+        "id": 864,
+            "koreasName": "The Auditors",
+            "koreasImage": "https://i.mydramalist.com/jQxqQz_4f.jpg",
+            "rating": 8.2,
+            "description": "2024 yılı yapımı bu dizide: Sin Cha Il, yolsuzluğun kol gezdiği JU Construction'da denetim ekibinin lideri olarak işe başlar. Sin Cha Il başkalarına güvenmez. Soğukkanlı bir tavrı vardır ve işini keskin bir yargı, kararlı eylemlerle yürütür. Denetim ekibinde çaylak çalışan Koo Han Su'da vardır. Başlangıçta şirketinin Florida şubesine transfer olmak için bir basamak olarak denetim ekibine başvurmuştur ancak planı Sin Cha Il yüzünden kolay olmamıştır. Patronunun aksine Koo Han Su iyi ve sıcakkanlı bir kişidir. Sin Cha Il ile çalışan Koo Han Su, denetim ekibinde bir üye olarak büyür. Bu arada, Hwang Dae Ung JU Construction'ın başkan yardımcısıdır ve şirketin kurucusunun üçüncü oğludur. Amacı, pozisyon için iki ağabeyini yenerek şirketin başkanı olmaktır. Yun Seo Jin de JU Construction'daki denetim ekibinde çaylak bir çalışandır. Başarıyı hedefleyen bir bireycidir. Koo Han Su'nun tamamen zıttı bir kişiliğe sahiptir. Ayrıca Başkan Yardımcısı Hwang Dae Ung'u da çocukluğundan beri tanır, ancak iş yerinde birbirlerini tanımıyormuş gibi davranırlar.",
+            "playerName1": "Shin Ha Kyun\n(Sin Cha Il)",
+            "playerName2": "Lee Jung Ha\n(Koo Han Su)",
+            "playerName3": "Jin Goo\n(Hwang Dae Ung)",
+            "playerImage1": "https://i.mydramalist.com/EN4dp_5c.jpg",
+            "playerImage2": "https://i.mydramalist.com/pqQwQ_5c.jpg",
+            "playerImage3": "https://i.mydramalist.com/64JeXc.jpg",
+            "genreIds": [1, 2, 15],
+            "contentRating": "15+",
+            "episode": "Bölüm: 12",
+            "playerAbout1": "https://mydramalist.com/people/287-shin-ha-kyun",
+            "playerAbout2": "https://mydramalist.com/people/16597-lee-jung-ha",
+            "playerAbout3": "https://mydramalist.com/people/1334-jin-goo"
+        }
   ]
 }
