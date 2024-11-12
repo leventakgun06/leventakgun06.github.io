@@ -16471,6 +16471,25 @@
             "playerAbout1": "https://mydramalist.com/people/656-lee-min-ki",
             "playerAbout2": "https://mydramalist.com/people/19642-kwak-sun-young",
             "playerAbout3": "https://mydramalist.com/people/10626-heo-sung-tae"
-        }
+        },
+        {
+      "id": 868,
+          "koreasName": "Bitter Sweet Hell",
+          "koreasImage": "https://i.mydramalist.com/kAWxqr_4f.jpg",
+          "rating": 7.7,
+          "description": "2024 yılı yapımı bu dizide: Başarılı bir cerrahla evli ünlü bir psikiyatrist olan Noh Yeong Won mükemmel bir hayat yaşar. Ancak daha sonra, kocası Choi Jae Jin'in Lee Se Na ile ilişkisi olduğunu öğrendiğinde mükemmel dünyası yıkılır. Lee Se Na'nın ani gelişi bir dizi trajik olayı tetikleyen gizemli bir kadındır. Cevaplar için çaresiz olan No Yeong Won, ailelerini tamamen mahvolmaktan kurtarmak için kayınvalidesi Hong Sa Gang ile iş birliği yapar.",
+          "playerName1": "Kim Hee Sun\n(No Yeong Won)",
+          "playerName2": "Lee Hye Young\n(Hong Sa Gang)",
+          "playerName3": "Kim Nam Hee\n(Choi Jae Jin)",
+          "playerImage1": "https://i.mydramalist.com/vpjJg_5c.jpg",
+          "playerImage2": "https://i.mydramalist.com/4x2rK_5c.jpg",
+          "playerImage3": "https://i.mydramalist.com/j8vJ8c.jpg",
+          "genreIds": [2, 4, 15],
+          "contentRating": "15+",
+          "episode": "Bölüm: 12",
+          "playerAbout1": "https://mydramalist.com/people/978-kim-hee-sun",
+          "playerAbout2": "https://mydramalist.com/people/1550-lee-hye-young",
+          "playerAbout3": "https://mydramalist.com/people/19916-kim-nam-hee"
+      }
   ]
 }
