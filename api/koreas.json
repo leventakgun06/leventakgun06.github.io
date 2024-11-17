@@ -4330,7 +4330,7 @@
       "episode": "Bölüm: 16",
       "playerAbout1": "https://mydramalist.com/people/207-lee-joon-gi",
       "playerAbout2": "",
-      "playerAbout3": ""
+      "playerAbout3": "https://mydramalist.com/people/1550-lee-hye-young"
     },
     {
       "id": 229,
@@ -5715,7 +5715,7 @@
       "genreIds": [19, 3, 20],
       "contentRating": "15+",
       "episode": "Bölüm: 16",
-      "playerAbout1": "",
+      "playerAbout1": "https://mydramalist.com/people/4174-han-ye-ri",
       "playerAbout2": "https://mydramalist.com/people/343-kim-ji-suk",
       "playerAbout3": ""
     },
@@ -7692,7 +7692,7 @@
       "contentRating": "15+",
       "episode": "Bölüm: 32",
       "playerAbout1": "",
-      "playerAbout2": "",
+      "playerAbout2": "https://mydramalist.com/people/4174-han-ye-ri",
       "playerAbout3": ""
     },
     {
@@ -8605,7 +8605,7 @@
       "episode": "Bölüm: 48",
       "playerAbout1": "https://mydramalist.com/people/1974-jo-jung-suk",
       "playerAbout2": "",
-      "playerAbout3": ""
+      "playerAbout3": "https://mydramalist.com/people/4174-han-ye-ri"
     },
     {
       "id": 454,
@@ -11568,7 +11568,7 @@
       "contentRating": "15+",
       "episode": "Bölüm: 12",
       "playerAbout1": "https://mydramalist.com/people/6288-yoo-jae-myung",
-      "playerAbout2": "",
+      "playerAbout2": "https://mydramalist.com/people/4174-han-ye-ri",
       "playerAbout3": ""
     },
     {
@@ -12632,7 +12632,7 @@
       "contentRating": "15+",
       "episode": "Bölüm: 14",
       "playerAbout1": "https://mydramalist.com/people/403-kim-ha-neul",
-      "playerAbout2": "",
+      "playerAbout2": "https://mydramalist.com/people/1550-lee-hye-young",
       "playerAbout3": ""
     },
     {
@@ -16471,8 +16471,8 @@
             "playerAbout1": "https://mydramalist.com/people/656-lee-min-ki",
             "playerAbout2": "https://mydramalist.com/people/19642-kwak-sun-young",
             "playerAbout3": "https://mydramalist.com/people/10626-heo-sung-tae"
-        },
-        {
+    },
+    {
       "id": 868,
           "koreasName": "Bitter Sweet Hell",
           "koreasImage": "https://i.mydramalist.com/kAWxqr_4f.jpg",
@@ -16490,6 +16490,44 @@
           "playerAbout1": "https://mydramalist.com/people/978-kim-hee-sun",
           "playerAbout2": "https://mydramalist.com/people/1550-lee-hye-young",
           "playerAbout3": "https://mydramalist.com/people/19916-kim-nam-hee"
-      }
+    },
+    {
+      "id": 869,
+          "koreasName": "Doubt",
+          "koreasImage": "https://i.mydramalist.com/RBgjnE_4f.jpg",
+          "rating": 8.0,
+          "description": "2024 yılı yapımı bu dizide: Jang Tae Su, Kore'de efsanevi bir suç profili uzmanıdır. Alanında ilklerden biriydi ve ülkedeki suç davranışı analistleri için yolu açmıştır. Polis teşkilatı içinde mutlak saygı ve güven kazanmıştır. Evde, bekar bir ebeveyndir ve kızını tek başına büyütür. Jang Tae Su bir cinayet davası üzerinde çalışır ve kızının davaya dahil olduğunu fark eder. Bu keşif, mesleki inançlarını ve kızıyla olan ilişkisini sarsar. Kızını korumak için Jang Tae Su gerçeği ortaya çıkarmak için mücadele eder.",
+          "playerName1": "Han Seok Kyu\n(Jang Tae Su)",
+          "playerName2": "Chae Won Bin\n(Jang Ha Bin)",
+          "playerName3": "Han Ye Ri\n(Lee Eo Jin)",
+          "playerImage1": "https://i.mydramalist.com/B0e75c.jpg",
+          "playerImage2": "https://i.mydramalist.com/pd70wB_5c.jpg",
+          "playerImage3": "https://i.mydramalist.com/0P7QO_5c.jpg",
+          "genreIds": [1, 2, 15],
+          "contentRating": "15+",
+          "episode": "Bölüm: 10",
+          "playerAbout1": "https://mydramalist.com/people/968-han-seok-kyu",
+          "playerAbout2": "https://mydramalist.com/people/35431-chae-won-bin",
+          "playerAbout3": "https://mydramalist.com/people/4174-han-ye-ri"
+      },
+      {
+        "id": 870,
+            "koreasName": "Culinary Class Wars",
+            "koreasImage": "https://i.mydramalist.com/d0QPN0_4f.jpg",
+            "rating": 8.7,
+            "description": "2024 yılı yapımı bu dizide: 100 yarışmacının katıldığı, \"Siyah Kaşığın\" mazlum aşçılarının yirmi \"Beyaz Kaşık\" yıldız şefine meydan okuduğu ve Kore'nin en iyisi olmak için kıyasıya rekabet ettiği bir mutfak sınıf savaşı.",
+            "playerName1": "Baek Jong Won\n(Judge)",
+            "playerName2": "Anh Sung Jae\n(Judge)",
+            "playerName3": "Choi Hyun Seok\n(White)",
+            "playerImage1": "https://i.mydramalist.com/Bdrw7V_5c.jpg",
+            "playerImage2": "https://i.mydramalist.com/ABk4O3_5c.jpg",
+            "playerImage3": "https://i.mydramalist.com/d0R0re_5c.jpg",
+            "genreIds": [3, 19, 24],
+            "contentRating": "15+",
+            "episode": "Bölüm: 12",
+            "playerAbout1": "https://mydramalist.com/people/22987-baek-jong-won",
+            "playerAbout2": "https://mydramalist.com/people/144783-ah-seong-jae",
+            "playerAbout3": "https://mydramalist.com/people/19088-choi-hyun-seok"
+        }
   ]
 }
