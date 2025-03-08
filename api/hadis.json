@@ -1,6 +1,10 @@
-  {
-  "hadis": [
-    {
+{
+	"hadis": [
+     {
+     "hadisNo": 1,
+     "besmele": "الرَّحْمٰنِ الرَّحِيمِ",
+     "data": [
+           {
       "id": 1,
       "name": "Kabe'nin Anahtarı:",
       "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
@@ -14,5 +18,8 @@
       "descp": "Hayber savaşının vukû bulduğu gün Peygamber'in ashâbından birkaç kişi gelerek 'Filân şehit, filân şehittir!..' dediler. Nihayet bir kişinin yanına vararak 'Bu da şehittir!' dediler. Bunun üzerine Peygamber: \"Hayır! Ben onu çaldığı bir hırka yahut yağmurluktan dolayı cehennemde gördüm.\" buyurdu.",
       "image": "https://leventakgun06.github.io/assets/ic_rail.png"
     }
-  ]
-  }
+     ]
+     }
+
+	]
+}
