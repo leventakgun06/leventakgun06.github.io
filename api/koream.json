@@ -3039,6 +3039,44 @@
           "playerAbout1": "https://mydramalist.com/people/1702-ma-dong-seok",
           "playerAbout2": "https://mydramalist.com/people/843-lee-joon-hyuk",
           "playerAbout3": "https://mydramalist.com/people/1045-aoki-munetaka"
+      },
+    {
+      "id": 161,
+          "koreasName": "The Accidental Detective 2: In Action",
+          "koreasImage": "https://i.mydramalist.com/4wYPkf.jpg",
+          "rating": 8.1,
+          "description": "2018 yılı yapımı bu filmde: Çizgi roman dükkanı sahibi Kang Dae Man ve efsanevi cinayet dedektifi Noh Tae Soo, özel bir dedektiflik bürosu kurmak için işlerini bırakırlar. Başlangıçta önemsiz vakalarla uğraşan ikili, bir kadının nişanlısının ölümünün ardındaki gerçeği ortaya çıkarmaları için onlara 50.000 dolar teklif etmesiyle yeteneklerini kanıtlama şansı yakalar. Mensa dehası ve çevrimiçi araştırmacı Yeochi ile iş birliği yaparak tam kapsamlı bir soruşturma başlatırlar. Basit bir vaka gibi görünen şey, kısa sürede rahatsız edici yeni bir kanıtla karanlık bir hal alır.",
+          "playerName1": "Kwon Sang Woo\n(Kang Dae Man)",
+          "playerName2": "Sung Dong Il\n(Noh Tae Soo)",
+          "playerName3": "Lee Kwang Soo\n(Yeochi)",
+          "playerImage1": "https://i.mydramalist.com/Rm22Y_5c.jpg",
+          "playerImage2": "https://i.mydramalist.com/XOo6p_5c.jpg",
+          "playerImage3": "https://i.mydramalist.com/w6PLY_5c.jpg",
+          "genreIds": [2, 15, 4],
+          "contentRating": "15+",
+          "episode": "Süre: 1s 56dk",
+          "playerAbout1": "https://mydramalist.com/people/851-kwon-sang-woo",
+          "playerAbout2": "https://mydramalist.com/people/1113-sung-dong-il",
+          "playerAbout3": "https://mydramalist.com/people/1817-lee-kwang-soo"
+      },
+      {
+      "id": 162,
+          "koreasName": "Revelations",
+          "koreasImage": "https://i.mydramalist.com/Px85gR_4f.jpg",
+          "rating": 7.2,
+          "description": "2025 yılı yapımı bu filmde: Rahip Seong Min Chan, elektronik ayak bileği izleme cihazı takan eski hükümlü Kwon Yang Rae kilisesine girdiğinde sarsılır. Başlarda yardım etmek isteyen Seong Min Chan'ın inancı, Kwon Yang Rae'nin suç geçmişini keşfettiğinde sarsılır. İlahi bir vahiy, Seong Min Chan'ı Kwon Yang Rae'nin oğlunu kaçırdığına inandırır ve adaleti kendi eline almaya yöneltir. Kız kardeşinin cinayetiyle rahatsız olan Dedektif Lee Yeon Hui, davayı araştırır ve Seong Min Chan'ın dengesiz davranışlarından şüphelenmeye başlar. İnanç ve intikam çarpıştıkça, günahkar ile kurtarıcı arasındaki çizgiler bulanıklaşır.",
+          "playerName1": "Ryu Jun Yeol\n(Seong Min Chan)",
+          "playerName2": "Shin Yeon Been\n(Lee Yeon Hui)",
+          "playerName3": "Shin Min Jae\n(Kwon Yang Rae)",
+          "playerImage1": "https://i.mydramalist.com/dBNgb_5c.jpg",
+          "playerImage2": "https://i.mydramalist.com/1n4K3_5c.jpg",
+          "playerImage3": "https://i.mydramalist.com/Xzw7p_5c.jpg",
+          "genreIds": [2, 15, 21],
+          "contentRating": "15+",
+          "episode": "Süre: 2s 2dk",
+          "playerAbout1": "https://mydramalist.com/people/9534-ryu-joon-yeol",
+          "playerAbout2": "https://mydramalist.com/people/1510-shin-hyun-bin",
+          "playerAbout3": "https://mydramalist.com/people/19118-shin-min-jae"
       }
   ]
 }
