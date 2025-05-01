@@ -16528,6 +16528,25 @@
             "playerAbout1": "https://mydramalist.com/people/22987-baek-jong-won",
             "playerAbout2": "https://mydramalist.com/people/144783-ah-seong-jae",
             "playerAbout3": "https://mydramalist.com/people/19088-choi-hyun-seok"
-        }
+        },
+        {
+      "id": 871,
+          "koreasName": "The Tale of Lady Ok",
+          "koreasImage": "https://i.mydramalist.com/YYqkOd_4f.jpg",
+          "rating": 8.6,
+          "description": "2024 yılı yapımı bu dizide: Joseon döneminde geçen hikayede Ok Tae Yeong bir hukuk uzmanıdır. Zeki, mükemmel bir iş ahlakına sahip ve atletiktir. Zor durumlarda bile insanlara yardım etmekten çekinmez. Bu yüzden etrafındaki insanlar tarafından sevilir, ancak bir sırrı vardır. Sırrı, isminin, kocasının ve statüsünün sahte olmasıdır. Cheon Seung Wi ile tanışır. Hikaye anlatıcısıdır ve ülkenin her yerini dolaşarak insanlara romanlar okur. Ok Tae Yeong ile tanışır ve ona ilk görüşte aşık olur. Onun yanında kalır ve ne olursa olsun ona yardım eder.",
+          "playerName1": "Im Ji Yeon\n(Ok Tae Yeong)",
+          "playerName2": "Choo Young Woo\n(Cheon Seung Hwi)",
+          "playerName3": "Yeon Woo\n(Cha Mi Ryeong)",
+          "playerImage1": "https://i.mydramalist.com/5vL620_5c.jpg",
+          "playerImage2": "https://i.mydramalist.com/l0Qm8J_5c.jpg",
+          "playerImage3": "https://i.mydramalist.com/vgjp8_5c.jpg",
+          "genreIds": [2, 8, 5],
+          "contentRating": "15+",
+          "episode": "Bölüm: 16",
+          "playerAbout1": "https://mydramalist.com/people/7310-im-ji-yeon",
+          "playerAbout2": "https://mydramalist.com/people/59471-chu-young-woo",
+          "playerAbout3": "https://mydramalist.com/people/22782-yeonwoo"
+      }
   ]
 }
