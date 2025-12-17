@@ -45,7 +45,7 @@
       ]
     },
     {
-      "ayetNo": 2,
+      "surahNo": 2,
       "arabicName": "البقرة",
       "surahName": "Bakara",
       "ayahNoSortNo": "286 Ayet - 2. Sıra",
@@ -1484,7 +1484,7 @@
       ]
     },
     {
-      "ayetNo": 3,
+      "surahNo": 3,
       "arabicName": "آل عمران",
       "surahName": "Al-i İmran",
       "ayahNoSortNo": "200 Ayet - 3. Sıra",
@@ -2493,7 +2493,7 @@
       ]
     },
     {
-      "ayetNo": 4,
+      "surahNo": 4,
       "arabicName": "النساء",
       "surahName": "Nisa",
       "ayahNoSortNo": "176 Ayet - 4. Sıra",
@@ -3382,7 +3382,7 @@
       ]
     },
     {
-      "ayetNo": 5,
+      "surahNo": 5,
       "arabicName": "المائدة",
       "surahName": "Maide",
       "ayahNoSortNo": "120 Ayet - 5. Sıra",
@@ -3991,7 +3991,7 @@
       ]
     },
     {
-      "ayetNo": 6,
+      "surahNo": 6,
       "arabicName": "الأنعام",
       "surahName": "En'am",
       "ayahNoSortNo": "165 Ayet - 6.Sıra",
@@ -4825,7 +4825,7 @@
       ]
     },
     {
-      "ayetNo": 7,
+      "surahNo": 7,
       "arabicName": "الأعراف",
       "surahName": "A'raf",
       "ayahNoSortNo": "206 Ayet - 7.Sıra",
@@ -5864,7 +5864,7 @@
       ]
     },
     {
-      "ayetNo": 8,
+      "surahNo": 8,
       "arabicName": "الأنفال",
       "surahName": "Enfal",
       "ayahNoSortNo": "75 Ayet - 8. Sıra",
@@ -6248,7 +6248,7 @@
       ]
     },
     {
-      "ayetNo": 9,
+      "surahNo": 9,
       "arabicName": "التوبة",
       "surahName": "Tevbe",
       "ayahNoSortNo": "129 Ayet - 9. Sıra",
@@ -6902,7 +6902,7 @@
       ]
     },
     {
-      "ayetNo": 10,
+      "surahNo": 10,
       "arabicName": "يونس",
       "surahName": "Yunus",
       "ayahNoSortNo": "109 Ayet - 10. Sıra",
@@ -7456,7 +7456,7 @@
       ]
     },
     {
-      "ayetNo": 11,
+      "surahNo": 11,
       "arabicName": "هود",
       "surahName": "Hud",
       "ayahNoSortNo": "123 Ayet - 11. Sıra",
@@ -8080,7 +8080,7 @@
       ]
     },
     {
-      "ayetNo": 12,
+      "surahNo": 12,
       "arabicName": "يوسف",
       "surahName": "Yusuf",
       "ayahNoSortNo": "111 Ayet - 12. Sıra",
@@ -8644,7 +8644,7 @@
       ]
     },
     {
-      "ayetNo": 13,
+      "surahNo": 13,
       "arabicName": "الرعد",
       "surahName": "Ra'd",
       "ayahNoSortNo": "43 Ayet - 13. Sıra",
@@ -8868,7 +8868,7 @@
       ]
     },
     {
-      "ayetNo": 14,
+      "surahNo": 14,
       "arabicName": "ابراهيم",
       "surahName": "İbrahim",
       "ayahNoSortNo": "52 Ayet - 14. Sıra",
@@ -9137,7 +9137,7 @@
       ]
     },
     {
-      "ayetNo": 15,
+      "surahNo": 15,
       "arabicName": "الحجر",
       "surahName": "Hicr",
       "ayahNoSortNo": "99 Ayet - 15. Sıra",
@@ -9641,7 +9641,7 @@
       ]
     },
     {
-      "ayetNo": 16,
+      "surahNo": 16,
       "arabicName": "النحل",
       "surahName": "Nahl",
       "ayahNoSortNo": "128 Ayet - 16. Sıra",
@@ -10290,7 +10290,7 @@
       ]
     },
     {
-      "ayetNo": 17,
+      "surahNo": 17,
       "arabicName": "الإسراء",
       "surahName": "İsra",
       "ayahNoSortNo": "111 Ayet - 17. Sıra",
@@ -10854,7 +10854,7 @@
       ]
     },
     {
-      "ayetNo": 18,
+      "surahNo": 18,
       "arabicName": "الكهف",
       "surahName": "Kehf",
       "ayahNoSortNo": "110 Ayet - 18. Sıra",
@@ -11413,7 +11413,7 @@
       ]
     },
     {
-      "ayetNo": 19,
+      "surahNo": 19,
       "arabicName": "مريم",
       "surahName": "Meryem",
       "ayahNoSortNo": "98 Ayet - 19. Sıra",
@@ -11912,7 +11912,7 @@
       ]
     },
     {
-      "ayetNo": 20,
+      "surahNo": 20,
       "arabicName": "طه",
       "surahName": "Ta-Ha",
       "ayahNoSortNo": "135 Ayet - 20. Sıra",
@@ -12596,7 +12596,7 @@
       ]
     },
     {
-      "ayetNo": 21,
+      "surahNo": 21,
       "arabicName": "الأنبياء",
       "surahName": "Enbiya",
       "ayahNoSortNo": "112 Ayet - 21. Sıra",
@@ -13165,7 +13165,7 @@
       ]
     },
     {
-      "ayetNo": 22,
+      "surahNo": 22,
       "arabicName": "الحج",
       "surahName": "Hac",
       "ayahNoSortNo": "78 Ayet - 22. Sıra",
@@ -13564,7 +13564,7 @@
       ]
     },
     {
-      "ayetNo": 23,
+      "surahNo": 23,
       "arabicName": "المؤمنون",
       "surahName": "Mü'minun",
       "ayahNoSortNo": "118 Ayet - 23. Sıra",
@@ -14163,7 +14163,7 @@
       ]
     },
     {
-      "ayetNo": 24,
+      "surahNo": 24,
       "arabicName": "النور",
       "surahName": "Nur",
       "ayahNoSortNo": "64 Ayet - 24.Sıra",
@@ -14492,7 +14492,7 @@
       ]
     },
     {
-      "ayetNo": 25,
+      "surahNo": 25,
       "arabicName": "الفرقان",
       "surahName": "Furkan",
       "ayahNoSortNo": "77 Ayet - 25. Sıra",
@@ -14886,7 +14886,7 @@
       ]
     },
     {
-      "ayetNo": 26,
+      "surahNo": 26,
       "arabicName": "الشعراء",
       "surahName": "Şu'ara",
       "ayahNoSortNo": "227 Ayet - 26. Sıra",
@@ -16030,7 +16030,7 @@
       ]
     },
     {
-      "ayetNo": 27,
+      "surahNo": 27,
       "arabicName": "النمل",
       "surahName": "Neml",
       "ayahNoSortNo": "93 Ayet - 27. Sıra",
@@ -16504,7 +16504,7 @@
       ]
     },
     {
-      "ayetNo": 28,
+      "surahNo": 28,
       "arabicName": "القصص",
       "surahName": "Kasas",
       "ayahNoSortNo": "88 Ayet - 28. Sıra",
@@ -16953,7 +16953,7 @@
       ]
     },
     {
-      "ayetNo": 29,
+      "surahNo": 29,
       "arabicName": "العنكبوت",
       "surahName": "Ankebut",
       "ayahNoSortNo": "69 Ayet - 29. Sıra",
@@ -17307,7 +17307,7 @@
       ]
     },
     {
-      "ayetNo": 30,
+      "surahNo": 30,
       "arabicName": "الروم",
       "surahName": "Rum",
       "ayahNoSortNo": "60 Ayet - 30. Sıra",
@@ -17616,7 +17616,7 @@
       ]
     },
     {
-      "ayetNo": 31,
+      "surahNo": 31,
       "arabicName": "لقمان",
       "surahName": "Lokman",
       "ayahNoSortNo": "34 Ayet - 31. Sıra",
@@ -17795,7 +17795,7 @@
       ]
     },
     {
-      "ayetNo": 32,
+      "surahNo": 32,
       "arabicName": "السجدة",
       "surahName": "Secde",
       "ayahNoSortNo": "30 Ayet - 32. Sıra",
@@ -17954,7 +17954,7 @@
       ]
     },
     {
-      "ayetNo": 33,
+      "surahNo": 33,
       "arabicName": "الأحزاب",
       "surahName": "Ahzab",
       "ayahNoSortNo": "73 Ayet - 33. Sıra",
@@ -18328,7 +18328,7 @@
       ]
     },
     {
-      "ayetNo": 34,
+      "surahNo": 34,
       "arabicName": "سبإ",
       "surahName": "Sebe'",
       "ayahNoSortNo": "54 Ayet - 34. Sıra",
@@ -18607,7 +18607,7 @@
       ]
     },
     {
-      "ayetNo": 35,
+      "surahNo": 35,
       "arabicName": "فاطر",
       "surahName": "Fatır",
       "ayahNoSortNo": "45 Ayet - 35. Sıra",
@@ -18841,7 +18841,7 @@
       ]
     },
     {
-      "ayetNo": 36,
+      "surahNo": 36,
       "arabicName": "يس",
       "surahName": "Yasin",
       "ayahNoSortNo": "83 Ayet - 36. Sıra",
@@ -19265,7 +19265,7 @@
       ]
     },
     {
-      "ayetNo": 37,
+      "surahNo": 37,
       "arabicName": "الصافات",
       "surahName": "Saffat",
       "ayahNoSortNo": "182 Ayet - 37. Sıra",
@@ -20184,7 +20184,7 @@
       ]
     },
     {
-      "ayetNo": 38,
+      "surahNo": 38,
       "arabicName": "ص",
       "surahName": "Sad",
       "ayahNoSortNo": "88 Ayet - 38. Sıra",
@@ -20633,7 +20633,7 @@
       ]
     },
     {
-      "ayetNo": 39,
+      "surahNo": 39,
       "arabicName": "الزمر",
       "surahName": "Zümer",
       "ayahNoSortNo": "75 Ayet - 39. Sıra",
@@ -21017,7 +21017,7 @@
       ]
     },
     {
-      "ayetNo": 40,
+      "surahNo": 40,
       "arabicName": "غافر",
       "surahName": "Mü'min",
       "ayahNoSortNo": "85 Ayet - 40. Sıra",
@@ -21451,7 +21451,7 @@
       ]
     },
     {
-      "ayetNo": 41,
+      "surahNo": 41,
       "arabicName": "فصلت",
       "surahName": "Fussilet",
       "ayahNoSortNo": "54 Ayet - 41. Sıra",
@@ -21730,7 +21730,7 @@
       ]
     },
     {
-      "ayetNo": 42,
+      "surahNo": 42,
       "arabicName": "الشورى",
       "surahName": "Şura",
       "ayahNoSortNo": "53 Ayet - 42. Sıra",
@@ -22004,7 +22004,7 @@
       ]
     },
     {
-      "ayetNo": 43,
+      "surahNo": 43,
       "arabicName": "الزخرف",
       "surahName": "Zuhruf",
       "ayahNoSortNo": "89 Ayet - 43. Sıra",
@@ -22458,7 +22458,7 @@
       ]
     },
     {
-      "ayetNo": 44,
+      "surahNo": 44,
       "arabicName": "الدخان",
       "surahName": "Duhan",
       "ayahNoSortNo": "59 Ayet - 44. Sıra",
@@ -22762,7 +22762,7 @@
       ]
     },
     {
-      "ayetNo": 45,
+      "surahNo": 45,
       "arabicName": "الجاثية",
       "surahName": "Casiye",
       "ayahNoSortNo": "37 Ayet - 45. Sıra",
@@ -22956,7 +22956,7 @@
       ]
     },
     {
-      "ayetNo": 46,
+      "surahNo": 46,
       "arabicName": "الأحقاف",
       "surahName": "Ahkaf",
       "ayahNoSortNo": "35 Ayet - 46. Sıra",
@@ -23140,7 +23140,7 @@
       ]
     },
     {
-      "ayetNo": 47,
+      "surahNo": 47,
       "arabicName": "محمد",
       "surahName": "Muhammed",
       "ayahNoSortNo": "38 Ayet - 47. Sıra",
@@ -23339,7 +23339,7 @@
       ]
     },
     {
-      "ayetNo": 48,
+      "surahNo": 48,
       "arabicName": "الفتح",
       "surahName": "Fetih",
       "ayahNoSortNo": "29 Ayet - 48. Sıra",
@@ -23493,7 +23493,7 @@
       ]
     },
     {
-      "ayetNo": 49,
+      "surahNo": 49,
       "arabicName": "الحجرات",
       "surahName": "Hucurat",
       "ayahNoSortNo": "18 Ayet - 49. Sıra",
@@ -23592,7 +23592,7 @@
       ]
     },
     {
-      "ayetNo": 50,
+      "surahNo": 50,
       "arabicName": "ق",
       "surahName": "Kaf",
       "ayahNoSortNo": "45 Ayet - 50. Sıra",
@@ -23826,7 +23826,7 @@
       ]
     },
     {
-      "ayetNo": 51,
+      "surahNo": 51,
       "arabicName": "الذاريات",
       "surahName": "Zariyat",
       "ayahNoSortNo": "60 Ayet - 51. Sıra",
@@ -24135,7 +24135,7 @@
       ]
     },
     {
-      "ayetNo": 52,
+      "surahNo": 52,
       "arabicName": "الطور",
       "surahName": "Tur",
       "ayahNoSortNo": "49 Ayet - 52. Sıra",
@@ -24389,7 +24389,7 @@
       ]
     },
     {
-      "ayetNo": 53,
+      "surahNo": 53,
       "arabicName": "النجم",
       "surahName": "Necm",
       "ayahNoSortNo": "62 Ayet - 53. Sıra",
@@ -24708,7 +24708,7 @@
       ]
     },
     {
-      "ayetNo": 54,
+      "surahNo": 54,
       "arabicName": "القمر",
       "surahName": "Kamer",
       "ayahNoSortNo": "55 Ayet - 54. Sıra",
@@ -24992,7 +24992,7 @@
       ]
     },
     {
-      "ayetNo": 55,
+      "surahNo": 55,
       "arabicName": "الرحمن",
       "surahName": "Rahman",
       "ayahNoSortNo": "78 Ayet - 55. Sıra",
@@ -25391,7 +25391,7 @@
       ]
     },
     {
-      "ayetNo": 56,
+      "surahNo": 56,
       "arabicName": "الواقعة",
       "surahName": "Vakıa",
       "ayahNoSortNo": "96 Ayet - 56. Sıra",
@@ -25880,7 +25880,7 @@
       ]
     },
     {
-      "ayetNo": 57,
+      "surahNo": 57,
       "arabicName": "الحديد",
       "surahName": "Hadid",
       "ayahNoSortNo": "29 Ayet - 57. Sıra",
@@ -26034,7 +26034,7 @@
       ]
     },
     {
-      "ayetNo": 58,
+      "surahNo": 58,
       "arabicName": "المجادلة",
       "surahName": "Mücadele",
       "ayahNoSortNo": "22 Ayet - 58. Sıra",
@@ -26153,7 +26153,7 @@
       ]
     },
     {
-      "ayetNo": 59,
+      "surahNo": 59,
       "arabicName": "الحشر",
       "surahName": "Haşr",
       "ayahNoSortNo": "24 Ayet - 59. Sıra",
@@ -26282,7 +26282,7 @@
       ]
     },
     {
-      "ayetNo": 60,
+      "surahNo": 60,
       "arabicName": "الممتحنة",
       "surahName": "Mümtehine",
       "ayahNoSortNo": "13 Ayet - 60. Sıra",
@@ -26356,7 +26356,7 @@
       ]
     },
     {
-      "ayetNo": 61,
+      "surahNo": 61,
       "arabicName": "الصف",
       "surahName": "Saff",
       "ayahNoSortNo": "14 Ayet - 61. Sıra",
@@ -26435,7 +26435,7 @@
       ]
     },
     {
-      "ayetNo": 62,
+      "surahNo": 62,
       "arabicName": "الجمعة",
       "surahName": "Cuma",
       "ayahNoSortNo": "11 Ayet - 62. Sıra",
@@ -26499,7 +26499,7 @@
       ]
     },
     {
-      "ayetNo": 63,
+      "surahNo": 63,
       "arabicName": "المنافقون",
       "surahName": "Münafikun",
       "ayahNoSortNo": "11 Ayet - 63. Sıra",
@@ -26563,7 +26563,7 @@
       ]
     },
     {
-      "ayetNo": 64,
+      "surahNo": 64,
       "arabicName": "التغابن",
       "surahName": "Tegabun",
       "ayahNoSortNo": "18 Ayet - 64. Sıra",
@@ -26662,7 +26662,7 @@
       ]
     },
     {
-      "ayetNo": 65,
+      "surahNo": 65,
       "arabicName": "الطلاق",
       "surahName": "Talak",
       "ayahNoSortNo": "12 Ayet - 65. Sıra",
@@ -26731,7 +26731,7 @@
       ]
     },
     {
-      "ayetNo": 66,
+      "surahNo": 66,
       "arabicName": "التحريم",
       "surahName": "Tahrim",
       "ayahNoSortNo": "12 Ayet - 66. Sıra",
@@ -26800,7 +26800,7 @@
       ]
     },
     {
-      "ayetNo": 67,
+      "surahNo": 67,
       "arabicName": "الملك",
       "surahName": "Mülk",
       "ayahNoSortNo": "30 Ayet - 67. Sıra",
@@ -26959,7 +26959,7 @@
       ]
     },
     {
-      "ayetNo": 68,
+      "surahNo": 68,
       "arabicName": "القلم",
       "surahName": "Kalem",
       "ayahNoSortNo": "52 Ayet - 68. Sıra",
@@ -27228,7 +27228,7 @@
       ]
     },
     {
-      "ayetNo": 69,
+      "surahNo": 69,
       "arabicName": "الحاقة",
       "surahName": "Hakka",
       "ayahNoSortNo": "52 Ayet - 69. Sıra",
@@ -27497,7 +27497,7 @@
       ]
     },
     {
-      "ayetNo": 70,
+      "surahNo": 70,
       "arabicName": "المعارج",
       "surahName": "Me'aric",
       "ayahNoSortNo": "44 Ayet - 70. Sıra",
@@ -27726,7 +27726,7 @@
       ]
     },
     {
-      "ayetNo": 71,
+      "surahNo": 71,
       "arabicName": "نوح",
       "surahName": "Nuh",
       "ayahNoSortNo": "28 Ayet - 71. Sıra",
@@ -27875,7 +27875,7 @@
       ]
     },
     {
-      "ayetNo": 72,
+      "surahNo": 72,
       "arabicName": "الجن",
       "surahName": "Cin",
       "ayahNoSortNo": "28 Ayet - 72. Sıra",
@@ -28024,7 +28024,7 @@
       ]
     },
     {
-      "ayetNo": 73,
+      "surahNo": 73,
       "arabicName": "المزمل",
       "surahName": "Müzzemmil",
       "ayahNoSortNo": "20 Ayet - 73. Sıra",
@@ -28133,7 +28133,7 @@
       ]
     },
     {
-      "ayetNo": 74,
+      "surahNo": 74,
       "arabicName": "المدثر",
       "surahName": "Müddessir",
       "ayahNoSortNo": "56 Ayet - 74. Sıra",
@@ -28422,7 +28422,7 @@
       ]
     },
     {
-      "ayetNo": 75,
+      "surahNo": 75,
       "arabicName": "القيامة",
       "surahName": "Kıyamet",
       "ayahNoSortNo": "40 Ayet - 75. Sıra",
@@ -28631,7 +28631,7 @@
       ]
     },
     {
-      "ayetNo": 76,
+      "surahNo": 76,
       "arabicName": "الانسان",
       "surahName": "Dehr(İnsan)",
       "ayahNoSortNo": "31 Ayet - 76. Sıra",
@@ -28795,7 +28795,7 @@
       ]
     },
     {
-      "ayetNo": 77,
+      "surahNo": 77,
       "arabicName": "المرسلات",
       "surahName": "Mürselat",
       "ayahNoSortNo": "50 Ayet - 77. Sıra",
@@ -29054,7 +29054,7 @@
       ]
     },
     {
-      "ayetNo": 78,
+      "surahNo": 78,
       "arabicName": "النبإ",
       "surahName": "Nebe",
       "ayahNoSortNo": "40 Ayet - 78. Sıra",
@@ -29263,7 +29263,7 @@
       ]
     },
     {
-      "ayetNo": 79,
+      "surahNo": 79,
       "arabicName": "النازعات",
       "surahName": "Naziat",
       "ayahNoSortNo": "46 Ayet - 79. Sıra",
@@ -29502,7 +29502,7 @@
       ]
     },
     {
-      "ayetNo": 80,
+      "surahNo": 80,
       "arabicName": "عبس",
       "surahName": "Abese",
       "ayahNoSortNo": "42 Ayet - 80. Sıra",
@@ -29721,7 +29721,7 @@
       ]
     },
     {
-      "ayetNo": 81,
+      "surahNo": 81,
       "arabicName": "التكوير",
       "surahName": "Tekvir",
       "ayahNoSortNo": "29 Ayet - 81. Sıra",
@@ -29875,7 +29875,7 @@
       ]
     },
     {
-      "ayetNo": 82,
+      "surahNo": 82,
       "arabicName": "الإنفطار",
       "surahName": "İnfitar",
       "ayahNoSortNo": "19 Ayet - 82. Sıra",
@@ -29979,7 +29979,7 @@
       ]
     },
     {
-      "ayetNo": 83,
+      "surahNo": 83,
       "arabicName": "المطففين",
       "surahName": "Mutaffifîn",
       "ayahNoSortNo": "36 Ayet - 83. Sıra",
@@ -30168,7 +30168,7 @@
       ]
     },
     {
-      "ayetNo": 84,
+      "surahNo": 84,
       "arabicName": "الإنشقاق",
       "surahName": "İnşikâk",
       "ayahNoSortNo": "25 Ayet - 84. Sıra",
@@ -30302,7 +30302,7 @@
       ]
     },
     {
-      "ayetNo": 85,
+      "surahNo": 85,
       "arabicName": "البروج",
       "surahName": "Büruc",
       "ayahNoSortNo": "22 Ayet - 85. Sıra",
@@ -30421,7 +30421,7 @@
       ]
     },
     {
-      "ayetNo": 86,
+      "surahNo": 86,
       "arabicName": "الطارق",
       "surahName": "Tarık",
       "ayahNoSortNo": "17 Ayet - 86. Sıra",
@@ -30515,7 +30515,7 @@
       ]
     },
     {
-      "ayetNo": 87,
+      "surahNo": 87,
       "arabicName": "الأعلى",
       "surahName": "A'la",
       "ayahNoSortNo": "19 Ayet - 87. Sıra",
@@ -30619,7 +30619,7 @@
       ]
     },
     {
-      "ayetNo": 88,
+      "surahNo": 88,
       "arabicName": "الغاشية",
       "surahName": "Gaşiye",
       "ayahNoSortNo": "26 Ayet - 88. Sıra",
@@ -30758,7 +30758,7 @@
       ]
     },
     {
-      "ayetNo": 89,
+      "surahNo": 89,
       "arabicName": "الفجر",
       "surahName": "Fecr",
       "ayahNoSortNo": "30 Ayet - 89. Sıra",
@@ -30917,7 +30917,7 @@
       ]
     },
     {
-      "ayetNo": 90,
+      "surahNo": 90,
       "arabicName": "البلد",
       "surahName": "Beled",
       "ayahNoSortNo": "20 Ayet - 90. Sıra",
@@ -31026,7 +31026,7 @@
       ]
     },
     {
-      "ayetNo": 91,
+      "surahNo": 91,
       "arabicName": "الشمس",
       "surahName": "Şems",
       "ayahNoSortNo": "15 Ayet - 91. Sıra",
@@ -31110,7 +31110,7 @@
       ]
     },
     {
-      "ayetNo": 92,
+      "surahNo": 92,
       "arabicName": "الليل",
       "surahName": "Leyl",
       "ayahNoSortNo": "21 Ayet - 92. Sıra",
@@ -31224,7 +31224,7 @@
       ]
     },
     {
-      "ayetNo": 93,
+      "surahNo": 93,
       "arabicName": "الضحى",
       "surahName": "Duha",
       "ayahNoSortNo": "11 Ayet - 93. Sıra",
@@ -31288,7 +31288,7 @@
       ]
     },
     {
-      "ayetNo": 94,
+      "surahNo": 94,
       "arabicName": "الشرح",
       "surahName": "İnşirah",
       "ayahNoSortNo": "8 Ayet - 94. Sıra",
@@ -31337,7 +31337,7 @@
       ]
     },
     {
-      "ayetNo": 95,
+      "surahNo": 95,
       "arabicName": "التين",
       "surahName": "Tin",
       "ayahNoSortNo": "8 Ayet - 95. Sıra",
@@ -31386,7 +31386,7 @@
       ]
     },
     {
-      "ayetNo": 96,
+      "surahNo": 96,
       "arabicName": "العلق",
       "surahName": "Alak",
       "ayahNoSortNo": "19 Ayet - 96. Sıra",
@@ -31395,12 +31395,12 @@
         {
           "ayetNo": 1,
           "ayet": "ٱقۡرَأۡ بِٱسۡمِ رَبِّكَ ٱلَّذِي خَلَقَ",
-          "translation": "Yaratan Rabbinin adıyla oku"
+          "translation": "Oku! (İKRA) yaratan (HALK) Rabbinin adıyla."
         },
         {
           "ayetNo": 2,
           "ayet": "خَلَقَ ٱلۡإِنسَٰنَ مِنۡ عَلَقٍ",
-          "translation": "O, insanı pıhtılaşmış kandan (alak'tan) yarattı"
+          "translation": "İnsanı sevgiden; ilgi ve alâkadan (ALAK) yarattı."
         },
         {
           "ayetNo": 3,
@@ -31490,7 +31490,7 @@
       ]
     },
     {
-      "ayetNo": 97,
+      "surahNo": 97,
       "arabicName": "القدر",
       "surahName": "Kadr",
       "ayahNoSortNo": "5 Ayet - 97. Sıra",
@@ -31524,7 +31524,7 @@
       ]
     },
     {
-      "ayetNo": 98,
+      "surahNo": 98,
       "arabicName": "البينة",
       "surahName": "Beyyine",
       "ayahNoSortNo": "8 Ayet - 98. Sıra",
@@ -31573,7 +31573,7 @@
       ]
     },
     {
-      "ayetNo": 99,
+      "surahNo": 99,
       "arabicName": "الزلزلة",
       "surahName": "Zilzal",
       "ayahNoSortNo": "8 Ayet - 99. Sıra",
@@ -31622,7 +31622,7 @@
       ]
     },
     {
-      "ayetNo": 100,
+      "surahNo": 100,
       "arabicName": "العاديات",
       "surahName": "Adiyat",
       "ayahNoSortNo": "11 Ayet - 100. Sıra",
@@ -31686,7 +31686,7 @@
       ]
     },
     {
-      "ayetNo": 101,
+      "surahNo": 101,
       "arabicName": "القارعة",
       "surahName": "Kari'a",
       "ayahNoSortNo": "11 Ayet - 101. Sıra",
@@ -31750,7 +31750,7 @@
       ]
     },
     {
-      "ayetNo": 102,
+      "surahNo": 102,
       "arabicName": "التكاثر",
       "surahName": "Tekasür",
       "ayahNoSortNo": "8 Ayet - 102. Sıra",
@@ -31799,7 +31799,7 @@
       ]
     },
     {
-      "ayetNo": 103,
+      "surahNo": 103,
       "arabicName": "العصر",
       "surahName": "Asr",
       "ayahNoSortNo": "3 Ayet - 103. Sıra",
@@ -31823,7 +31823,7 @@
       ]
     },
     {
-      "ayetNo": 104,
+      "surahNo": 104,
       "arabicName": "الهمزة",
       "surahName": "Hümeze",
       "ayahNoSortNo": "9 Ayet - 104. Sıra",
@@ -31877,7 +31877,7 @@
       ]
     },
     {
-      "ayetNo": 105,
+      "surahNo": 105,
       "arabicName": "الفيل",
       "surahName": "Fil",
       "ayahNoSortNo": "5 Ayet - 105. Sıra",
@@ -31911,7 +31911,7 @@
       ]
     },
     {
-      "ayetNo": 106,
+      "surahNo": 106,
       "arabicName": "قريش",
       "surahName": "Kureyş",
       "ayahNoSortNo": "4 Ayet - 106. Sıra",
@@ -31940,7 +31940,7 @@
       ]
     },
     {
-      "ayetNo": 107,
+      "surahNo": 107,
       "arabicName": "الماعون",
       "surahName": "Ma'un",
       "ayahNoSortNo": "7 Ayet - 107. Sıra",
@@ -31984,7 +31984,7 @@
       ]
     },
     {
-      "ayetNo": 108,
+      "surahNo": 108,
       "arabicName": "الكوثر",
       "surahName": "Kevser",
       "ayahNoSortNo": "3 Ayet - 108. Sıra",
@@ -32008,7 +32008,7 @@
       ]
     },
     {
-      "ayetNo": 109,
+      "surahNo": 109,
       "arabicName": "الكافرون",
       "surahName": "Kafirun",
       "ayahNoSortNo": "6 Ayet - 109. Sıra",
@@ -32047,7 +32047,7 @@
       ]
     },
     {
-      "ayetNo": 110,
+      "surahNo": 110,
       "arabicName": "النصر",
       "surahName": "Nasr",
       "ayahNoSortNo": "3 Ayet - 110. Sıra",
@@ -32071,7 +32071,7 @@
       ]
     },
     {
-      "ayetNo": 111,
+      "surahNo": 111,
       "arabicName": "المسد",
       "surahName": "Tebbet",
       "ayahNoSortNo": "5 Ayet - 111. Sıra",
@@ -32105,7 +32105,7 @@
       ]
     },
     {
-      "ayetNo": 112,
+      "surahNo": 112,
       "arabicName": "الإخلاص",
       "surahName": "Tevhid(İhlas)",
       "ayahNoSortNo": "4 Ayet - 112. Sıra",
@@ -32134,7 +32134,7 @@
       ]
     },
     {
-      "ayetNo": 113,
+      "surahNo": 113,
       "arabicName": "الفلق",
       "surahName": "Felak",
       "ayahNoSortNo": "5 Ayet - 113. Sıra",
@@ -32168,7 +32168,7 @@
       ]
     },
     {
-      "ayetNo": 114,
+      "surahNo": 114,
       "arabicName": "الناس",
       "surahName": "Nasr",
       "ayahNoSortNo": "6 Ayet - 114. Sıra",
