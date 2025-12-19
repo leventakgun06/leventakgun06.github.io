@@ -19931,7 +19931,29 @@
           "playerAbout1": "https://mydramalist.com/people/285-jun-ji-hyun",
           "playerAbout2": "https://mydramalist.com/people/495-kang-dong-won",
           "playerAbout3": "https://mydramalist.com/people/39249-john-cho"
-}
+},
+        {
+      "id": 907,
+      "koreasName": "Heroes Next Door",
+      "koreasImage": "https://i.mydramalist.com/KpOvwj_4f.jpg",
+      "rating": 8.1,
+      "description": "2025 yılı yapımı bu dizide: Bu, ülkeyi korumak veya dünya barışını sağlamak için değil, ailelerini ve mahallelerini korumak için bir araya gelen bir yedek özel kuvvetler birliğinin heyecan verici ve komik hikayesini anlatıyor. Sigorta müfettişi olan Choi Gang, JDD özel operasyon biriminin bir üyesiydi. Etkileyici bir fiziğe, keskin bir kavrayışa ve olağanüstü bir empati yeteneğine sahip. Hırdavat ve kırtasiye dükkanı sahibi Kwak Byeong Nam, eğitim sırasında dizinden sakatlandıktan sonra bakım taburuna transfer edilen eski bir HID terörle mücadele birimi üyesidir. 13 yıldır Sangri-dong gençlik derneği başkanıdır ve mahalledeki geri dönüşüm toplama işlerinden sorumludur.",
+      "playerName1": "Yoon Kye Sang\n(Choi Gang)",
+      "playerName2": "Jin Seon Kyu\n(Kwak Byeong Nam)",
+      "playerName3": "Kim Ji Hyun\n(Jung Nam Yeon)",
+      "playerImage1": "https://i.mydramalist.com/VXVyDJ_5c.jpg",
+      "playerImage2": "https://i.mydramalist.com/Dkrver_5c.jpg",
+      "playerImage3": "https://i.mydramalist.com/QoynQ_5c.jpg",
+      "genreIds": [1, 15, 4],
+      "genre1": "Aksiyon",
+      "genre2": "Gizem",
+      "genre3": "Komedi",
+      "contentRating": "15+",
+      "episode": "Bölüm: 10",
+      "playerAbout1": "https://mydramalist.com/people/829-yoon-kye-sang",
+      "playerAbout2": "https://mydramalist.com/people/5628-jin-sun-gyu",
+      "playerAbout3": "https://mydramalist.com/people/21647-kim-ji-hyun"
+    }
   ]
 }
 
