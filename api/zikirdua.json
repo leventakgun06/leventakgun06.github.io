@@ -1,0 +1,962 @@
+{
+  "dua": [
+    {
+      "id": 1,
+      "name": "Hastalara şifa veren dua.",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "Ezhibil-be'se rabben'nasi eşfi ve enteş'şafi la şifae illa şifauke şifaen la yugadiru sekame.",
+      "meal": "Bu hastalığı gider ey insanların Rabbi! Şifâ ver, çünkü şifâ verici sensin. Senin vereceğin şifâdan başka şifâ yoktur. Öyle şifâ ver ki hiç bir hastalık bırakmasın.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    },
+    {
+      "id": 2,
+      "name": "Ezan duası.",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "Allâhumme Rabbe hâzihi davetit tâmmeh, ve salâtil kâimeh, âti Muhammedenil vesîlete vel fadîlete, veb'ashü makâmem mahmûdenil lezî va'adteh.",
+      "meal": "Allah'ım! Ey bu tam davetin ve kılınacak namazın Rabb'i, Muhammed'e vesileyi, fazileti ve yüksek dereceyi ver, O'nu kendisine vaadettiğin Makam-ı Mahmud'a ulaştır.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    },
+    {
+      "id": 3,
+      "name": "Hastanın iyileşmesi için dua.",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "Allahümme innî es'elüke ve eteveccehü ileyke bi-Nebiyyike Muhammed’in Nebiyyirrahme, yâ Muhammed innî eteveccehü bike ilâ Rabbi fî hâcetî-hâzihî, li taktıye-li, Allahümme şeffi'hü fiyye",
+      "meal": "Ya Rabbi! İnsanlara rahmet olarak gönderdiğin sevgili Peygamberin ile sana teveccüh ediyorum. Senden istiyorum! Ya Muhammed aleyhisselâm! Dileğimin hasıl olması için Rabbime senin ile teveccüh ediyorum. Allahım! Onu bana şefaatçi eyle!",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    },
+    {
+      "id": 4,
+      "name": "Yemek duası.",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "Elhamdu lillâhi hamden kesîran mubâreken fîhi, ğayra mekfiyyin, ve lâ muveddein ve lâ musteğnen anhu Rabbenâ.",
+      "meal": "Bize yedirip içiren ve bizi Müslümanlardan kılan Allah’a hamdolsun",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    },
+    {
+      "id": 5,
+      "name": "Sağlık afiyet için dua.",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "Allahümme innî es'elüke-ssıhhate vel-âfiyete vel-emânete ve hüsnel-hulkı verrıdâe bilkaderi birahmetike yâ Erhamerrâhimîn",
+      "meal": "Ya Rabbi, senden, sıhhat ve afiyet ve emanete hıyanet etmemek ve güzel ahlak ve kaderden razı olmak istiyorum. Ey merhamet sahiplerinin en merhametlisi! Merhametin hakkı için, bunları bana ver!",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    },
+    {
+      "id": 6,
+      "name": "Günahların affı için dua.",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "Sübhânallahi ve bi-hamdihi sübhânallahil-azîm.",
+      "meal": "Kemâl sıfatlarla muttasıf ve noksan sıfatlardan beri olan Allah’ı hamd ile tesbih ederim.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    },
+    {
+      "id": 7,
+      "name": "Kalpte imanın olması için dua.",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "Allahümme, yâ mukallibelkulûb, sebbit kalbî, alâ dînik",
+      "meal": "Ey büyük Allahım! Kalbleri iyiden kötüye, kötüden iyiye çeviren, ancak sensin. Kalbimi, dininde sâbit kıl, yani dininden döndürme, ayırma!",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    },
+    {
+      "id": 8,
+      "name": "Zararlardan korunmak için dua.",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "E’ûzü bikelimâtillâhit-tâmmâti min şerri külli şeytânin ve hâmmatin. Ve min şerri külli effâkin kâzibetin. Ve min şerri külli gammâzin hâinetin. Ve min şerri külli aynin lâmmetin. Ve min şerri külli bid’atin dâlletin.",
+      "meal": "Yüce Allah'ın koruyuculuğu katidir. Onun korunmasının dışına çıkan yanmıştır Her an Onun koruyuculuğuna muhtacız. Bütün kainat kutret elindedir.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    },
+    {
+      "id": 9,
+      "name": "Çarşıya çıkarken okunacak dua.",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "Lâ ilâhe illallahü vahde hü lâ şerîke leh, le hül mülkü ve le hül hamdü, yuhyî ve yümît, ve hüve hayyün lâ yemût, bi yedi-hil-hayr, ve hüve alâ külli şey’in kadîr.",
+      "meal": "Allah’dan başka ilâh yoktur, O birdir ve dengi, ortağı yoktur. Mülk O’nundur ve hamd O’nadır. Diriltir ve öldürür. Kendisi ölümsüz hayat sahibidir. Hayır O’nun elindedir ve O herşeye muktedirdir",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    },
+    {
+      "id": 10,
+      "name": "Fitneden korunmak için dua.",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "Allahümme innî es'elü-ke fiilel hayrât ve terkelmünkerât ve hubbel-mesâkin ve izâ eredte fitneten fî kavmî fe-teveffenî gayre meftûn",
+      "meal": "Ya Rabbi! Bana hayırlı işler yapmak, çirkin şeyleri terk etmek ve fakirleri sevmek nasip eyle! Kavmim arasında fitne çıkarmak istediğin zaman, fitneye karışmadan canımı al!",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    },
+    {
+      "id": 11,
+      "name": "Seyyidül istiğfar duası.",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "Allahümme ente Rabbî lâ ilahe illâ ente halaktenî ve ene abdüke ve ene alâ ahdike ve vâ’dike mes’tetâtü eûzü bike min şerri mâ sanâtü ebû’ü leke bi-nîmetike aleyye ve ebû’ü bizenbî fağfirlî feinnehû lâ yağfıruz-zünûbe illâ ente.",
+      "meal": "Allah’ım! Sen benim Rabbimsin. Sen’den başka ibâdete lâyık ilâh yoktur. Beni Sen yarattın. Ben Sen’in kulunum. Ezelde Sana verdiğim sözümde ve vaadimde hâlâ gücüm yettiğince durmaktayım. İşlediğim kusurların şerrinden Sana sığınırım. Bana lutfettiğin nîmetleri yüce huzûrunda minnetle anar, günâhımı îtirâf ederim. Beni affet, şüphe yok ki günahları Sen’den başka affedecek yoktur.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    },
+    {
+      "id": 12,
+      "name": "Borçtan kurtulma duası.",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "Elem neşrah leke sadrek Ve vada'na'anke vizreke Elleziy enkada zahreke Ve refa'na leke zikreke Feinne me'al'usri yüsren İnne me'al'usri yüsren Feiza ferağte fensab Ve ila rabbike ferğab.",
+      "meal": "Rahmân ve Rahîm olan Allah'ın ismiyle. Senin için bağrını açmadık mı? İndirmedik mi senden o yükünü? O sırtında gıcırdamakta olan (ve bu şekilde sana eziyet veren) yükünü? Senin şanını yüceltmedik mi? Demek ki, zorlukla beraber bir kolaylık var. Evet o zorlukla beraber bir kolaylık var! O halde boş kaldığında yine kalk yorul! ve ancak Rabbinden ümit et, hep O'na doğrul!",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    },
+    {
+      "id": 13,
+      "name": "Sıkıntıdan kurtulmak için dua.",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "La ilahe illallahül halimül kerimü sübhanellahi ve tebarekellahü rabbül'arşil-azim vel hamdülillahi rabbil alemin.",
+      "meal": "Halîm ve Kerîm olan Allah’tan başka ilâh yoktur. Yüce Arş’ın Rabbi olan Allah’ı her türlü noksan sıfatlardan tenzîh ederim, O ne yüce bir varlıktır. Hamd, Âlemlerin Rabbi olan Allah’a mahsustur.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    },
+    {
+      "id": 14,
+      "name": "Üzüntülü anlarda okunacak dua.",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "La ilahe illallahül'azim-ül-halim la ilaheillahü Rabbül'Arş-il'azim la ilaheillahü Rabbüs-semavati ve Rabbül-Erdı Rabbül'Arş-il-kerim",
+      "meal": "Azamet ve vakar sahibi Allah'tan başka, ibâdete lâyık hiçbir ilâh yoktur. Arş-ı Âzam sahibi Allah'tan başka ibâdete lâyık hiçbir ilâh yoktur. Göklerin ve yerin sahibi ve Arş-ı kerim'in mâliki Allah'tan başka ibâdete lâyık hiçbir ilâh yoktur.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    },
+    {
+      "id": 15,
+      "name": "Uykudan kalkarken okunacak dua.",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "El-hamdu lillahillezi ehyana ba'de ma ematena ve ileyhi'n-nüşur.",
+      "meal": "Öldürdükten sonra bizi dirilten Allah'a hamd olsun. Dönüş ancak O'nadır.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    },
+    {
+      "id": 16,
+      "name": "En çaresiz anda okunacak dua.",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "La ilahe illallahül’azim-ül-halim la ilahe illallahü Rabbül-Arş-il’azim la ilahe illallahü Rabbüs-semavati ve Rabbül-Erdı Rabbül’Arş-il-kerim.",
+      "meal": "Allah'ım beni bütün sıkıntılarımdan, sorunlarımdan kurtar. Şüphesiz ki sen her şeye kuvveti yetensin. Beni de en hayırlı olanlara vesile olacak biçimde arındır.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    },
+    {
+      "id": 17,
+      "name": "Rabbi Yesir duası.",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "Rabbi Yessir ve la tüasir sehlil Aleyna bi fadlike ye müyessir Rabbi zidne ilmen ve fehmen nafian ve temmim bil hayri",
+      "meal": "Allah'ım senin sonsuz merhametin ve yardımın olmadan ben bu işi yapamam. Allah'ım bütün hayırlı işlerimi zorlaştırma, kolaylaştır, ilmimi artırarak yaptığım işleri bana ve çevreme faydalı kıl, ve işlerimi en hayırlı şekilde sonuçlandır.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    }
+  ],
+  "hadis": [
+    {
+      "id": 18,
+      "name": "Kabe'nin Anahtarı:",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "Kâbe'nin hizmetinde olan sahâbî.\n Osman bin Talhâ, Mekke'de Kâbe Kayyımlığı ile vazîfeliydi. Sülâlesi câhiliye devrinde Kâbe'nin hicâbet vazîfesini yapardı, ya'nî kapı anahtarını taşırdı. Peygamber efendimiz, hicretten önce Osman'ı da bizzat îmâna da'vet etti. Osman: Yâ Muhammed! Sen kavminin dînine aykırı davranmış ve ortaya yeni bir dîn çıkarmış bulunuyorsun. Doğrusu, benim sana tâbi olacağımı ümit etmen şaşılacak şeydir, diyerek îmâna gelmedi.\n Bir defasında Resûlullah efendimiz, îmân edenlerle birlikte Kâbe'ye girmek istemişlerdi. Osman Kâbe'ye de sokmak istemediği gibi sert de davrandı.\n Kime isterseniz verirsiniz.\n Fakat Resûlullah efendimiz onun bu hareketini sükûnetle karşılayıp, şöyle buyurdu:\n Ey Osman! Ümit ederim ki, bir gün sen beni, bu anahtarı nereye isterseniz koyarsınız, kime isterseniz verirsiniz diyeceğin bir mevkide de göreceksin!\n O zaman Kureyş mahvolmuş, kıymetten düşmüş olur.\n Hayır! Asıl o zaman, Kureyş yaşayacak ve kıymetlenecektir.\n Osman bin Talhâ, Uhud harbine müşriklerin safında katıldı. Babası kardeşleri ve akrabası öldürülünce, Kâbe'nin hicâbet vazîfesi tek başına üzerinde kaldı.\n Mekke'nin fethinden altı ay önce Amr bin Âs ve Hâlid bin Velid ile birlikte Medine-i münevvereye gelerek, Müslüman oldu. Fetihten önce îmâna gelen Muhâcirlerin derecelerine kavuştu.\n Emâneti ehline veriniz.\n Mekke'nin fethine katılıp, Resûlullahın yanında bulundu. Kâbe'nin anahtarını Resûlullaha arzetti, beraber girdiler. Burada Resûlullah efendimiz iki rek'at namaz kıldı. Beyt-i şerîften çıkarken, Resûlullah efendimiz, Nisâ sûresinin, (Allahü teâlâ size emânetleri ehline vermenizi emreder) meâlindeki 58. âyet-i kerîmesini okuyup, anahtarı Osman bin Talha'ya ve amcasının oğlu Şeybe'ye verdi. Ona buyurdu ki:\n Ey Ebû Talhâ evlâdı! Ceddinizden kalma olan emâneti sizde payidar ve bâki olmak üzere alınız. Bunu zâlim olmaksızın hiçbir kimse sizden alamaz.\n Sonra, 'Sana vaktiyle söylemiş olduğum şey gerçekleşmedi mi?' buyurarak Hicretten önceki sözlerini de hatırlattı. O da dedi ki:\n Evet, şehâdet ederim ki, sen hiç şüphesiz Resûlullahsın.\n Resûlullah efendimiz o gün şöyle bir hutbe okudu:\n Va'di, sözü hak olan, kuluna yardım eden, kendinden başka kulluğa müstahak bir ilâh bulunmayan Allahü teâlâya hamdolsun. Dikkat ediniz! Câhiliye devrinde değer verdiğiniz her türlü âdet ve kan dâvâsı ayağımın altındadır. Bunlardan Kâbe'ye hizmet etmek ve hacılara su dağıtmak müstesnâdır.\n O günden itibaren hicâbet vazîfesi, Osmanlı devletinin sonuna kadar, Osman bin Talhâ'nın sülâlesinde kalmıştır.\n Mekke'nin fethinden sonra Resûlullah efendimiz ile Huneyn gazâsına katıldı. Resûlullahın vefâtından sonra Mekke-i mükerremeye döndü. Kâbe-i muazzamadaki hicâbet vazîfesine devam etti. Dört Halîfe devrinde gazâlara katıldı. Hazret-i Muâviye'nin hilâfeti devrinde 662 senesinde Mekke-i mükerremede vefât etti.",
+      "meal": "Kâbe'nin hizmetinde olan sahâbî. Osman bin Talhâ, Mekke'de Kâbe Kayyımlığı ile vazîfeliydi. Sülâlesi câhiliye devrinde Kâbe'nin hicâbet vazîfesini yapardı, ya'nî kapı anahtarını taşırdı. Peygamber efendimiz, hicretten önce Osman'ı da bizzat îmâna da'vet etti. Osman: Yâ Muhammed! Sen kavminin dînine aykırı davranmış ve ortaya yeni bir dîn çıkarmış bulunuyorsun. Doğrusu, benim sana tâbi olacağımı ümit etmen şaşılacak şeydir, diyerek îmâna gelmedi. Bir defasında Resûlullah efendimiz, îmân edenlerle birlikte Kâbe'ye girmek istemişlerdi. Osman Kâbe'ye de sokmak istemediği gibi sert de davrandı. Kime isterseniz verirsiniz. Fakat Resûlullah efendimiz onun bu hareketini sükûnetle karşılayıp, şöyle buyurdu: Ey Osman! Ümit ederim ki, bir gün sen beni, bu anahtarı nereye isterseniz koyarsınız, kime isterseniz verirsiniz diyeceğin bir mevkide de göreceksin! O zaman Kureyş mahvolmuş, kıymetten düşmüş olur. Hayır! Asıl o zaman, Kureyş yaşayacak ve kıymetlenecektir. Osman bin Talhâ, Uhud harbine müşriklerin safında katıldı. Babası kardeşleri ve akrabası öldürülünce, Kâbe'nin hicâbet vazîfesi tek başına üzerinde kaldı. Mekke'nin fethinden altı ay önce Amr bin Âs ve Hâlid bin Velid ile birlikte Medine-i münevvereye gelerek, Müslüman oldu. Fetihten önce îmâna gelen Muhâcirlerin derecelerine kavuştu. Emâneti ehline veriniz. Mekke'nin fethine katılıp, Resûlullahın yanında bulundu. Kâbe'nin anahtarını Resûlullaha arzetti, beraber girdiler. Burada Resûlullah efendimiz iki rek'at namaz kıldı. Beyt-i şerîften çıkarken, Resûlullah efendimiz, Nisâ sûresinin, (Allahü teâlâ size emânetleri ehline vermenizi emreder) meâlindeki 58. âyet-i kerîmesini okuyup, anahtarı Osman bin Talha'ya ve amcasının oğlu Şeybe'ye verdi. Ona buyurdu ki: Ey Ebû Talhâ evlâdı! Ceddinizden kalma olan emâneti sizde payidar ve bâki olmak üzere alınız. Bunu zâlim olmaksızın hiçbir kimse sizden alamaz. Sonra, 'Sana vaktiyle söylemiş olduğum şey gerçekleşmedi mi?' buyurarak Hicretten önceki sözlerini de hatırlattı. O da dedi ki: Evet, şehâdet ederim ki, sen hiç şüphesiz Resûlullahsın. Resûlullah efendimiz o gün şöyle bir hutbe okudu: Va'di, sözü hak olan, kuluna yardım eden, kendinden başka kulluğa müstahak bir ilâh bulunmayan Allahü teâlâya hamdolsun. Dikkat ediniz! Câhiliye devrinde değer verdiğiniz her türlü âdet ve kan dâvâsı ayağımın altındadır. Bunlardan Kâbe'ye hizmet etmek ve hacılara su dağıtmak müstesnâdır. O günden itibaren hicâbet vazîfesi, Osmanlı devletinin sonuna kadar, Osman bin Talhâ'nın sülâlesinde kalmıştır. Mekke'nin fethinden sonra Resûlullah efendimiz ile Huneyn gazâsına katıldı. Resûlullahın vefâtından sonra Mekke-i mükerremeye döndü. Kâbe-i muazzamadaki hicâbet vazîfesine devam etti. Dört Halîfe devrinde gazâlara katıldı. Hazret-i Muâviye'nin hilâfeti devrinde 662 senesinde Mekke-i mükerremede vefât etti.",
+      "image": "https://leventakgun06.github.io/assets/ic_kabe.png"
+    },
+    {
+      "id": 19,
+      "name": "Devlet malından çalmak:",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "Hayber savaşının vukû bulduğu gün Peygamber'in ashâbından birkaç kişi gelerek 'Filân şehit, filân şehittir!..' dediler. Nihayet bir kişinin yanına vararak 'Bu da şehittir!' dediler. Bunun üzerine Peygamber: \"Hayır! Ben onu çaldığı bir hırka yahut yağmurluktan dolayı cehennemde gördüm.\" buyurdu.",
+      "meal": "",
+      "image": "https://leventakgun06.github.io/assets/ic_rail.png"
+    }
+  ],
+  "esmaul": [
+    {
+      "id": 20,
+      "name": "Allah:",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "Eşi benzeri bulunmayan.",
+      "meal": "",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    },
+    {
+      "id": 21,
+      "name": "Er-Rahmân:",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "Yaratılmışlara merhamet eden",
+      "meal": "",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    },
+    {
+      "id": 22,
+      "name": "Er-Rahim:",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "Ahirette, müminlere sonsuz ihsanda, lütufta ve ikramda bulunan.",
+      "meal": "",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    },
+    {
+      "id": 23,
+      "name": "El-Melik:",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "Kainatın sahibi, mülk ve saltanatı sürekli olan.",
+      "meal": "",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    },
+    {
+      "id": 24,
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "name": "El-Kuddûs:",
+      "prayer": "Her türlü eksiklikten uzak olan.",
+      "meal": "",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    },
+    {
+      "id": 25,
+      "name": "Es-Selâm:",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "Her tehlikeden selamete çıkaran.",
+      "meal": "",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    },
+    {
+      "id": 26,
+      "name": "El-Mü'min:",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "Güven veren, koruyan.",
+      "meal": "",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    },
+    {
+      "id": 27,
+      "name": "El-Müheymin:",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "Her şeyi gören gözeten.",
+      "meal": "",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    },
+    {
+      "id": 28,
+      "name": "El-Azîz:",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "İzzet sahibi, her şeyin galibi.",
+      "meal": "",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    },
+    {
+      "id": 29,
+      "name": "El-Cebbâr:",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "Kudret ve azamet sahibi.",
+      "meal": "",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    },
+    {
+      "id": 30,
+      "name": "El-Mütekebbir:",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "Büyüklükte eşi ve benzeri olmayan.",
+      "meal": "",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    },
+    {
+      "id": 31,
+      "name": "El-Hâlık:",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "Yaratan",
+      "meal": "",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    },
+    {
+      "id": 32,
+      "name": "El-Bâri:",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "Her şeyi uyumlu ve kusursuz yaratan.",
+      "meal": "",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    },
+    {
+      "id": 33,
+      "name": "El-Musavvir:",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "Varlıklara şekillerini veren.",
+      "meal": "",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    },
+    {
+      "id": 34,
+      "name": "El-Gaffâr:",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "Çok mağfiret eden.",
+      "meal": "",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    },
+    {
+      "id": 35,
+      "name": "El-Kahhâr:",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "Her şeye hakim ve galip olan.",
+      "meal": "",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    },
+    {
+      "id": 36,
+      "name": "El-Vehhâb:",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "Karşılıksız hibeler veren.",
+      "meal": "",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    },
+    {
+      "id": 37,
+      "name": "Er-Rezzâk:",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "Rızkını veren.",
+      "meal": "",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    },
+    {
+      "id": 38,
+      "name": "El-Fettâh:",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "Darlıktan kurtaran.",
+      "meal": "",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    },
+    {
+      "id": 39,
+      "name": "El-Alîm:",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "Her şeyi en küçük detaylarını bilen.",
+      "meal": "",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    },
+    {
+      "id": 40,
+      "name": "El-Kâbıd:",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "Dilediğine darlık veren.",
+      "meal": "",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    },
+    {
+      "id": 41,
+      "name": "El-Bâsıt:",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "Dilediğine bolluk veren.",
+      "meal": "",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    },
+    {
+      "id": 42,
+      "name": "El-Hâfıd:",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "Dereceleri alçaltan",
+      "meal": "",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    },
+    {
+      "id": 43,
+      "name": "Er-Râfi:",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "Şeref vererek yükselten.",
+      "meal": "",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    },
+    {
+      "id": 44,
+      "name": "El-Mu'ız:",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "Dilediğini aziz eden.",
+      "meal": "",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    },
+    {
+      "id": 45,
+      "name": "El-Müzil:",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "Dilediğini zillete düşüren.",
+      "meal": "",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    },
+    {
+      "id": 46,
+      "name": "Es-Semi:",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "Her şeyi işiten.",
+      "meal": "",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    },
+    {
+      "id": 47,
+      "name": "El-Basîr:",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "Her şeyi en iyi gören.",
+      "meal": "",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    },
+    {
+      "id": 48,
+      "name": "El-Hakem:",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "Mutlak hakim olan. Hikmetle hükmeden.",
+      "meal": "",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    },
+    {
+      "id": 49,
+      "name": "El-Adl:",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "Mutlak adil olan.",
+      "meal": "",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    },
+    {
+      "id": 50,
+      "name": "El-Latîf:",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "Bütün incelikleri bilen.",
+      "meal": "",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    },
+    {
+      "id": 51,
+      "name": "El-Habîr:",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "Her şeyden haberdar.",
+      "meal": "",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    },
+    {
+      "id": 52,
+      "name": "El-Halîm:",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "Cezada, acele etmeyen.",
+      "meal": "",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    },
+    {
+      "id": 53,
+      "name": "El-Azîm:",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "Pek yüce.",
+      "meal": "",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    },
+    {
+      "id": 54,
+      "name": "El-Gafûr:",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "Mağfireti bol.",
+      "meal": "",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    },
+    {
+      "id": 55,
+      "name": "Eş-Şekûr:",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "Çok sevap veren.",
+      "meal": "",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    },
+    {
+      "id": 56,
+      "name": "El-Aliyy:",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "Yüceler yücesi.",
+      "meal": "",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    },
+    {
+      "id": 57,
+      "name": "El-Kebîr:",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "Çok büyük olan.",
+      "meal": "",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    },
+    {
+      "id": 58,
+      "name": "El-Hafîz:",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "Her şeyi koruyan.",
+      "meal": "",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    },
+    {
+      "id": 59,
+      "name": "El-Mukît:",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "Her yaratılmışın rızkını veren.",
+      "meal": "",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    },
+    {
+      "id": 60,
+      "name": "El-Hasîb:",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "Kulların hesabını gören.",
+      "meal": "",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    },
+    {
+      "id": 61,
+      "name": "El-Celîl:",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "Azamet sahibi olan.",
+      "meal": "",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    },
+    {
+      "id": 62,
+      "name": "El-Kerîm:",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "Çok ikram eden.",
+      "meal": "",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    },
+    {
+      "id": 63,
+      "name": "Er-Rakîb:",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "Her an gören gözeten.",
+      "meal": "",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    },
+    {
+      "id": 64,
+      "name": "El-Mucîb:",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "Duaları kabul eden.",
+      "meal": "",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    },
+    {
+      "id": 65,
+      "name": "El-Vâsi:",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "İlmi ile her şeyi kuşatan.",
+      "meal": "",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    },
+    {
+      "id": 66,
+      "name": "El-Hakîm:",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "Her işi hikmetli.",
+      "meal": "",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    },
+    {
+      "id": 67,
+      "name": "El-Vedûd:",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "Kullarını seven, sevilmeye en layık olan.",
+      "meal": "",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    },
+    {
+      "id": 68,
+      "name": "El-Mecîd:",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "Övgüye layık bulunan.",
+      "meal": "",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    },
+    {
+      "id": 69,
+      "name": "El-Bâis:",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "Ölüleri dirilten.",
+      "meal": "",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    },
+    {
+      "id": 70,
+      "name": "Eş-Şehîd:",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "Her yerde her zaman hazır olan.",
+      "meal": "",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    },
+    {
+      "id": 71,
+      "name": "El-Hakk:",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "Var olan, hakkı gösteren.",
+      "meal": "",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    },
+    {
+      "id": 72,
+      "name": "El-Vekîl:",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "Kendisine tevekkül edenlerin her işini yoluna koyan.",
+      "meal": "",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    },
+    {
+      "id": 73,
+      "name": "El-Kaviyy:",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "Kudreti en üstün.",
+      "meal": "",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    },
+    {
+      "id": 74,
+      "name": "El-Metîn:",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "Çok güçlü.",
+      "meal": "",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    },
+    {
+      "id": 75,
+      "name": "El-Veliyy:",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "İnananların dostu.",
+      "meal": "",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    },
+    {
+      "id": 76,
+      "name": "El-Hamîd:",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "Hamd ve senaya layık olan.",
+      "meal": "",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    },
+    {
+      "id": 77,
+      "name": "El-Muhsî:",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "Tüm varlıkların sayısını bilen.",
+      "meal": "",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    },
+    {
+      "id": 78,
+      "name": "El-Mübdi:",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "Örneksiz yaratan.",
+      "meal": "",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    },
+    {
+      "id": 79,
+      "name": "El-Muîd:",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "Yeniden diriten.",
+      "meal": "",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    },
+    {
+      "id": 80,
+      "name": "El-Muhyî:",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "Can veren.",
+      "meal": "",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    },
+    {
+      "id": 81,
+      "name": "El-Mümît:",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "Ölümü yaratan.",
+      "meal": "",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    },
+    {
+      "id": 82,
+      "name": "El-Hayy:",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "Sonsuz hayat sahibi.",
+      "meal": "",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    },
+    {
+      "id": 83,
+      "name": "El-Kayyûm:",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "Varlıkları diri tutan.",
+      "meal": "",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    },
+    {
+      "id": 84,
+      "name": "El-Vâcid:",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "İstediğini bulan.",
+      "meal": "",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    },
+    {
+      "id": 85,
+      "name": "El-Macîd:",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "Kadri ve şanı büyük.",
+      "meal": "",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    },
+    {
+      "id": 86,
+      "name": "El-Vâhid:",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "Fiillerinde, sıfatlarında ve zatında eşi benzeri olmayan.",
+      "meal": "",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    },
+    {
+      "id": 87,
+      "name": "Es-Samed:",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "Herkesin muhtaç olduğu.",
+      "meal": "",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    },
+    {
+      "id": 88,
+      "name": "El-Kâdir:",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "Dilediğini yapan.",
+      "meal": "",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    },
+    {
+      "id": 89,
+      "name": "El-Muktedir:",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "Dilediği gibi tasarruf eden.",
+      "meal": "",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    },
+    {
+      "id": 90,
+      "name": "El-Mukaddim:",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "Dilediğini yükselten.",
+      "meal": "",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    },
+    {
+      "id": 91,
+      "name": "El-Muahhir:",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "Dilediğini alçaltan.",
+      "meal": "",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    },
+    {
+      "id": 92,
+      "name": "El-Evvel:",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "Ezeli olan.",
+      "meal": "",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    },
+    {
+      "id": 93,
+      "name": "El-Âhir:",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "Ebedi olan.",
+      "meal": "",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    },
+    {
+      "id": 94,
+      "name": "El-Zâhir:",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "Varlığı açık olan.",
+      "meal": "",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    },
+    {
+      "id": 95,
+      "name": "El-Bâtın:",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "Yüceliği gizli olan.",
+      "meal": "",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    },
+    {
+      "id": 96,
+      "name": "El-Vâlî:",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "Kainatı idare eden.",
+      "meal": "",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    },
+    {
+      "id": 97,
+      "name": "El-Müteâlî:",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "Yüce olan.",
+      "meal": "",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    },
+    {
+      "id": 98,
+      "name": "El-Berr:",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "İyilik ve ihsanı bol.",
+      "meal": "",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    },
+    {
+      "id": 99,
+      "name": "Et-Tevvâb:",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "Günahları bağışlayan.",
+      "meal": "",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    },
+    {
+      "id": 100,
+      "name": "El-Müntekim:",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "İntikam alan.",
+      "meal": "",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    },
+    {
+      "id": 101,
+      "name": "El-Afüvv:",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "Affı çok olan.",
+      "meal": "",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    },
+    {
+      "id": 102,
+      "name": "Er-Raûf:",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "Çok merhametli.",
+      "meal": "",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    },
+    {
+      "id": 103,
+      "name": "Mâlik-ül Mülk:",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "Her varlığın sahibi.",
+      "meal": "",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    },
+    {
+      "id": 104,
+      "name": "Zül-Celâli Vel İkrâm:",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "Celal, azamet sahibi.",
+      "meal": "",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    },
+    {
+      "id": 105,
+      "name": "El-Muksit:",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "Her işi birbirine denk yapan.",
+      "meal": "",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    },
+    {
+      "id": 106,
+      "name": "El-Câmi:",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "Mahşerde bir araya toplayan.",
+      "meal": "",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    },
+    {
+      "id": 107,
+      "name": "El-Ganiyy:",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "İhtiyacı olmayan.",
+      "meal": "",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    },
+    {
+      "id": 108,
+      "name": "El-Mugnî:",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "Müstağni kılan.",
+      "meal": "",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    },
+    {
+      "id": 109,
+      "name": "El-Mâni:",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "Dilemediği şeyi engelleyen.",
+      "meal": "",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    },
+    {
+      "id": 110,
+      "name": "Ed-Dârr:",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "Zarar verenleri yaratan.",
+      "meal": "",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    },
+    {
+      "id": 111,
+      "name": "En-Nâfi:",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "Fayda verenleri yaratan.",
+      "meal": "",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    },
+    {
+      "id": 112,
+      "name": "En-Nûr:",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "Alemleri nurlandıran.",
+      "meal": "",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    },
+    {
+      "id": 113,
+      "name": "El-Hâdî:",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "Hidayet veren.",
+      "meal": "",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    },
+    {
+      "id": 114,
+      "name": "El-Bedî:",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "Eşsiz yaratan.",
+      "meal": "",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    },
+    {
+      "id": 115,
+      "name": "El-Bâkî:",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "Ebedi olan.",
+      "meal": "",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    },
+    {
+      "id": 116,
+      "name": "El-Vâris:",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "Her şeyin asıl sahibi olan.",
+      "meal": "",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    },
+    {
+      "id": 117,
+      "name": "Er-Reşîd:",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "Doğru yolu gösteren.",
+      "meal": "",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    },
+    {
+      "id": 118,
+      "name": "Es-Sabûr:",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "Cezada acele etmeyen.",
+      "meal": "",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    }
+  ],
+  "ayetel": [
+    {
+      "id": 119,
+      "name": "Ayetel Kürsi",
+      "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "prayer": "Allâhü lâ ilâhe illâ hüve’l-hayyü’l-kayyûm, lâ te’huzühû sinetün ve lâ nevm, lehû mâ fi’ssemâvâti ve mâ fi’l-ard, men-ze’l-lezî yeşfe’u ‘indehû illâ bi-iznih, ya’lemü mâ beyne eydîhim ve mâ halfehüm, ve lâ yuhîtûne bi-şey’in min‘ılmihî illâ bimâ şâe, vesi’a kürsiyyühü’s-semâvâti ve’l-ard ve lâ yeûdühû hifzuhumâ ve hüve’laliyyü’l-azîm.",
+      "meal": "*Allah ki, O’ndan başka ilah yoktur. O hayydır, kayyûmdur. Kendisine ne uyku gelir ne de uyuklama. Göklerde ve yerdekilerin hepsi O’nundur. O’nun izni olmadan katında kim şefaat edebilir? O, kullarının yaptıklarını ve yapacaklarını bilir. \"Hiçbir şey O’na gizli kalmaz.\" O’nun bildirdiklerinin dışında insanlar, O’nun ilminden hiçbir şeyi tam olarak bilemezler. O’nun kürsüsü gökleri ve yeri içine alır, onları koruyup gözetmek kendisine zor gelmez. O, yücedir, büyüktür.\n*\"Yatağınıza yattığınız zaman, Ayetel Kürsi’yi okuyunuz. Çünkü orada bulunduğunuz müddetçe koruyucunuz bizzat Yüce Allah kendisi olur ve sabaha kadar o yatağın etrafına kesinlikle şeytan yaklaşamaz.\" buyurmuştur.\n*Yüce Peygamberimiz: Bakara Sûresinde bir âyet var ki, O Kur’ân âyetlerinin seyyididir. Bu Ayetel Kürsidir. Ayetel Kürsî içinde şeytan bulunan bir evde okunsa; şeytan, o evden feryad ederek kaçar ve sur’atle oradan uzaklaşır. O faziletli âyet, Ayetel Kürsidir buyurmuştur.\n*Herhangi bir ev ki, içinde Ayetel Kürsi ve Fatiha Sûresi okunsa, o gün içinde o evde bulunanlara hiçbir zarar ve musibet gelmez. İns ve cin şerrinde emniyette bulunur. Nazar değme olayı da asla olmaz. Kendi evinde veya bulunduğun herhangi bir evde veya herhangi bir yerde korkusuzca emniyet ve huzur içinde bulunmak istiyorsan, bu sûreleri oku. Ayetel Kürsiyi hiçbir zaman dilinden bırakma. Kendin okuduğun gibi çoluk çocuğuna da öğret. Onlar da okusun. Sen de oku. Dünya bu, derdi de var, kederi de var. Dünyanın derdinden, kederinden Ayetel Kürsiyi okuyarak Allah’ın yüce kudretine sığınmış olur. O yüce kudret sahibi Rabbimizden yardım dilemiş oluruz. O da bize hemen yardımını lütfeder. İnsan şeytanlarının şerrinden, cin şeytanlarının şerrinden ve kötü ruhlu, hain gözlü adi kimselerin şerrinden emin olmuş olursun. Ayetel Kürsiyle birlikte \"İhlas, Felak, Nâs ve Fatiha\" sûrelerini de oku. Ayetel Kürsi İsm-i Â’zamdır. Bir dileği olan önce Ayetel Kürsi’yi okumalı ve sonunda da her ne gibi ihtiyacı haceti, dileği varsa onları Cenâb-ı Haktan dilemelidir. Yani, bir kimse bütün duâlarının kabul olmasını istiyorsa bol bol Ayetel Kürsi okumalıdır. Bir şeyden, bir hadiseden korkan kimse, 3-5-7 kere Ayetel Kürsi okuyarak o korktuğu şeyin şerrinden Allah’a sığınmalıdır. \"Ya Rabbi, okuduğum Ayetel Kürsi hürmetine bu şeyin şerrinden sana sığınırım\" diye yalvaran kulunu Cenâb-ı Hak mahrum bırakmaz.\n*Yine Hadis-i Şerifde buyrulmuştur ki: Her kim, yatağına yattığında \"Ayetel Kürsi’yi okursa, Cenâb-ı Hak, o kulunu sabaha kadar koruyacak iki melek görevlendirir.\" Cenâb-ı Allah’ın kullarına olan merhametini düşün!… Sen, yatağında huzur içinde uyuyasın diye. Senin için iki meleğini görevlendirmiş ve seni koruyorlar. \"Aman Allâh’ım sen ne büyüksün ne çok merhametlisin!…\"\n*Her kim, evinden çıkarken \"Ayetel Kürsi’yi okursa, Allah Teâlâ, o kimse için yetmiş melek görevlendirir. Bu melekler, Ayetel Kürsî okuyan bu kimseye dua ederler, himaye ederler.\" Bu durum evine selâmetle dönünceye kadar devam eder.\n*Evine dönerken de Ayetel Kürsi’yi okuyan kimse, fakirlik çekmez, yoksulluk derdi görmez. Evinden çıkarken ve evine girerken okuduğu iki Ayetel Kürsî hürmetine sabahtan akşama kadar işleri hayırla selâmette olur.\n*Her kim, dara düşdüğünde, sıkıntı ve bunalıma girdiğinde Ayetel Kürsi’yi okursa, Cenâb-ı Hak, bu kulunun imdadına yetişir.",
+      "image": "https://leventakgun06.github.io/assets/ic_besmelem.png"
+    }
+  ]
+}
