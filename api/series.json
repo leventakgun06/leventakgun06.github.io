@@ -19953,6 +19953,28 @@
       "playerAbout1": "https://mydramalist.com/people/829-yoon-kye-sang",
       "playerAbout2": "https://mydramalist.com/people/5628-jin-sun-gyu",
       "playerAbout3": "https://mydramalist.com/people/21647-kim-ji-hyun"
+    },
+        {
+      "id": 908,
+      "koreasName": "Namib",
+      "koreasImage": "https://i.mydramalist.com/mOXX22_4f.jpg",
+      "rating": 7.9,
+      "description": "2024 yılı yapımı bu dizide: Kang Su Hyeon, kendine özgü felsefesi ve sezgisiyle idol yetiştiren yıldız bir yapımcıdır. Bilinmeyen bir nedenle Pandora Entertainment'tan kovulur. Evde, Kang Su Hyeon ailesinin geçimini sağlayan kişidir. Kocası Sim Jun Seok, tam zamanlı ev hanımıdır ve oğulları Sim Jin U'ya bakmaktadır. Ev hanımı olmadan önce müzik yapımcısı olarak çalışan Sim Jun Seok, oğlunun çocukluk döneminde geçirdiği bir trafik kazasında işitme duyusunu kaybetmesinin ardından, oğluna ve evine tam zamanlı olarak bakmak için işini bırakmıştır. Yeniden ayağa kalkmak için Kang Su Hyeon, bir yıldız yaratmak üzere yeni bir projeye başlar. Stajyeri olarak Yoo Jin U'yu seçer. Yoo Jin U, son 10 yıldır idol olmak için eğitim almaktadır ve ailesinin borçları ve geçmiş kariyeri gibi çeşitli yükleri de beraberinde taşımaktadır. Yoo Jin U hayalinden vazgeçmek üzereyken, Kang Su Hyeon onu stajyeri olarak seçmiştir. Yoo Jin U şimdi eğitimine ciddi bir şekilde yeniden başlar. Sim Jun Seok'un müzik yapımcılığına geri dönme isteği giderek artarken, Kang Su Hyeon ona Yoo Jin U'nun yapımcısı olarak çalışmasını söyler.",
+      "playerName1": "Go Hyun Jung\n(Kang Su Hyeon)",
+      "playerName2": "Ryeo Un\n(Yoo Jin U)",
+      "playerName3": "Yoon Sang Hyun\n(Sim Jun Seok)",
+      "playerImage1": "https://i.mydramalist.com/5vXjVY_5c.jpg",
+      "playerImage2": "https://i.mydramalist.com/zB2n3J_5c.jpg",
+      "playerImage3": "https://i.mydramalist.com/qY2X02_5c.jpg",
+      "genreIds": [5, 3, 19],
+      "genre1": "Romantik",
+      "genre2": "Yaşam",
+      "genre3": "Dram",
+      "contentRating": "15+",
+      "episode": "Bölüm: 12",
+      "playerAbout1": "https://mydramalist.com/people/489-go-hyun-jung",
+      "playerAbout2": "https://mydramalist.com/people/23633-ryeo-woon",
+      "playerAbout3": "https://mydramalist.com/people/188-yoon-sang-hyun"
     }
   ]
 }
