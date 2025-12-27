@@ -3607,6 +3607,28 @@
       "playerAbout1": "https://mydramalist.com/people/1891-im-shi-wan",
       "playerAbout2": "https://mydramalist.com/people/15836-park-kyu-young",
       "playerAbout3": "https://mydramalist.com/people/6557-jo-woo-jin"
+    },
+        {
+      "id": 165,
+      "koreasName": "Pilot",
+      "koreasImage": "https://i.mydramalist.com/Xdb3Bx_4f.jpg",
+      "rating": 7.8,
+      "description": "2024 yılı yapımı bu filmde: Jeong U, başarılı ve popüler bir pilotken bir sabah işsiz kalır. Ancak, yanlışlıkla yeni bir kimlik edinmesinin ardından yeni bir iş bulmayı başarır.",
+      "playerName1": "Jo Jung Suk\n(Han Jeong U)",
+      "playerName2": "Lee Joo Myung\n(Yun Seul Gi)",
+      "playerName3": "Han Sun Hwa\n(Han Jeong Mi)",
+      "playerImage1": "https://i.mydramalist.com/j8VlOc.jpg",
+      "playerImage2": "https://i.mydramalist.com/qe2O5_5c.jpg",
+      "playerImage3": "https://i.mydramalist.com/DkrJYn_5c.jpg",
+      "genreIds": [3, 4, 5],
+      "genre1": "Dram",
+      "genre2": "Komedi",
+      "genre3": "Dram",
+      "contentRating": "15+",
+      "episode": "Süre: 1s 51d",
+      "playerAbout1": "https://mydramalist.com/people/1974-jo-jung-suk",
+      "playerAbout2": "https://mydramalist.com/people/23873-lee-joo-myung",
+      "playerAbout3": "https://mydramalist.com/people/4870-han-sun-hwa"
     }
   ]
 }
