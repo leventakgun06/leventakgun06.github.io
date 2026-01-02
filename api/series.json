@@ -20019,6 +20019,28 @@
       "playerAbout1": "https://mydramalist.com/people/1435-lee-bo-young",
       "playerAbout2": "https://mydramalist.com/people/656-lee-min-ki",
       "playerAbout3": "https://mydramalist.com/people/9081-kang-ki-young"
+    },
+        {
+      "id": 911,
+      "koreasName": "The Price of Confession",
+      "koreasImage": "https://i.mydramalist.com/nOlOjE_4f.jpg",
+      "rating": 8.7,
+      "description": "2025 yılı yapımı bu dizide: An Yun Su, resim öğretmeni olarak çalışan, huzurlu ve sıradan bir hayat sürerken, hayatı aniden değişir. Kocası öldürülür ve cinayetle suçlanır. Cinayet suçlamasından aklanmak için mücadele eder. Hapishanede, Mo Eun adında gizemli bir kadınla karşılaşır. Mo Eun, diğer mahkumlar tarafından \"Cadı\" olarak adlandırılır çünkü başkalarının içini görebilir ve ne düşündüklerini ve hissettiklerini kolayca anlayabilir. An Yun Su ve Mo Eun'un ikisinin de sırları vardır ve tehlikeli bir anlaşma yaparlar. Bu arada, Baek Dong Hun, meslektaşları tarafından saygı duyulan dürüst bir savcıdır. Her koşulda soğukkanlılığını korur ve sağlam inançlara sahiptir. An Yun Su ve Mo Eun'un sırlarını araştırırken, inançlarını ve onurunu riske atar.",
+      "playerName1": "Jeon Do Yeon\n(An Yun Su)",
+      "playerName2": "Kim Go Eun\n(Mo Eun)",
+      "playerName3": "Park Hae Soo\n(Baek Dong Hun)",
+      "playerImage1": "https://i.mydramalist.com/2DKBdc.jpg",
+      "playerImage2": "https://i.mydramalist.com/O8JWKL_5c.jpg",
+      "playerImage3": "https://i.mydramalist.com/4WAbd_5c.jpg",
+      "genreIds": [2, 15, 12],
+      "genre1": "Gerilim",
+      "genre2": "Gizem",
+      "genre3": "Suç",
+      "contentRating": "18+",
+      "episode": "Bölüm: 12",
+      "playerAbout1": "https://mydramalist.com/people/994-jun-do-yeon",
+      "playerAbout2": "https://mydramalist.com/people/2599-kim-go-eun",
+      "playerAbout3": "https://mydramalist.com/people/2810-park-hae-soo"
     }
   ]
 }
