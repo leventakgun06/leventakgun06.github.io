@@ -20041,6 +20041,28 @@
       "playerAbout1": "https://mydramalist.com/people/994-jun-do-yeon",
       "playerAbout2": "https://mydramalist.com/people/2599-kim-go-eun",
       "playerAbout3": "https://mydramalist.com/people/2810-park-hae-soo"
+    },
+        {
+      "id": 912,
+      "koreasName": "Nice to Not Meet You",
+      "koreasImage": "https://i.mydramalist.com/NdO20R_4f.jpg",
+      "rating": 7.4,
+      "description": "2025 yılı yapımı bu dizide: Im Hyeon Jun, kalıplaşmış bir oyuncu olarak sıkışıp kalmış ve imajını değiştirmek için çaresizce çabalar. Yıllardır aynı dürüst dedektif rolünü oynamaktan bazı alışkanlıklar edinmiş durumdadır. Popüler dizisinin beşinci sezonunun çekimlerine başlamak üzereyken, romantik bir komedi veya melodramda oynamayı hayal eder. Ancak, haberciliğiyle prestijli bir ödül kazanmış siyasi gazeteci Wi Jeong Sin ile tanıştığında işler değişmeye başlar. Başarısına ve yıllarca süren deneyimine rağmen, bir yolsuzluk davasını takip ederken eğlence departmanına indirilir. Eğlence haberlerini takip etmek zorunda kalan Jeong Sin, Hyeon Jun ile karşılaşır. Dizisini izledikten sonra hayranı olur, ancak oyuncunun rolünden ne kadar farklı olduğunu görünce hayal kırıklığına uğrar.",
+      "playerName1": "Lee Jung Jae\n(Im Hyeon Jun)",
+      "playerName2": "Im Ji Yeon\n(Wi Jeong Sin)",
+      "playerName3": "Kim Ji Hoon\n(Ju Jae Hyeong)",
+      "playerImage1": "https://i.mydramalist.com/zBDqeP_5c.jpg",
+      "playerImage2": "https://i.mydramalist.com/5vL620_5c.jpg",
+      "playerImage3": "https://i.mydramalist.com/rXKp7_5c.jpg",
+      "genreIds": [3, 4, 5],
+      "genre1": "Komedi",
+      "genre2": "Dram",
+      "genre3": "Romantik",
+      "contentRating": "15+",
+      "episode": "Bölüm: 16",
+      "playerAbout1": "https://mydramalist.com/people/1232-lee-jung-jae",
+      "playerAbout2": "https://mydramalist.com/people/7310-im-ji-yeon",
+      "playerAbout3": "https://mydramalist.com/people/1270-kim-ji-hoon"
     }
   ]
 }
