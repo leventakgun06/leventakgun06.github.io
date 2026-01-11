@@ -20070,9 +20070,9 @@
   "koreasImage": "https://i.mydramalist.com/O8jy5b_4f.jpg",
   "rating": 7.2,
   "description": "2025 yılı yapımı bu dizide: Sahte banknotlar, yani son derece yüksek kalitede paralar yüzünden kötü adamlar arasında kanlı bir çatışma yaşanır. Kod adı (J) olan bu kişi, son derece zeki ve gizli bir suç planlayıcısıdır. Suçlarında %100 başarı oranına sahiptir. J, işlediği her suçu gururla bir başyapıt olarak nitelendirir. Jang Jung Hyeok, paraya takıntılı, yozlaşmış bir dedektiftir. Dedektiflik statüsünü kullanarak insanlardan rüşvet alır ve hırsızlardan para çalar. Cha Gi Tae, bir zamanlar Ulusal İstihbarat Servisi'nde (NIS) mali suçlar ekibinin başındaydı, ancak artık bu görevi yürütmüyor. 5 yıl önce J'nin planladığı suç nedeniyle Cha Gi Tae'nin hayatı altüst olmuştur. Cha Gi Tae şimdi J olarak bilinen adamın peşine düşmüştür. 5 yıl önce J'nin planladığı suç nedeniyle Han Su Hyeon'un hayatı tamamen mahvolmuştur. Bundan sonra, keşiş Yang'dan sahte banknot yapma tekniğini öğrenmiştir. O artık en iyi sahte para ustası. J.'den intikam alabileceği anı bekliyor. O an geldi çattı.",
-  "playerName1": "Yoo Ji Tae (J)",
-  "playerName2": "Lee Bum Soo (Cha Gi Tae)",
-  "playerName3": "Lee Min Jung (Han Su Hyeon)",
+  "playerName1": "Yoo Ji Tae\n(J)",
+  "playerName2": "Lee Bum Soo\n(Cha Gi Tae)",
+  "playerName3": "Lee Min Jung\n(Han Su Hyeon)",
   "playerImage1": "https://i.mydramalist.com/eeyxe_5c.jpg",
   "playerImage2": "https://i.mydramalist.com/j5rgb_5c.jpg",
   "playerImage3": "https://i.mydramalist.com/vXWmjB_5c.jpg",
@@ -20085,6 +20085,28 @@
   "playerAbout1": "https://mydramalist.com/people/279-yoo-ji-tae",
   "playerAbout2": "https://mydramalist.com/people/319-lee-bum-soo",
   "playerAbout3": "https://mydramalist.com/people/337-lee-min-jung"
+},
+        {
+         "id": 914,
+          "koreasName": "Cashero",
+          "koreasImage": "https://i.mydramalist.com/b3y6YV_4f.jpg",
+          "rating": 8.0,
+          "description": "2025 yılı yapımı bu dizide: İnsanüstü güce sahip bir kamu görevlisi olan Kang Sang Ung, sahip olduğu para miktarına bağlı olarak güç kazanır. Yeteneklerini kullanmak için yeterli parayı korumakta zorlanmaktadır. Kız arkadaşı Kim Min Suk, pratik ve verimli biridir ancak gücünün verimsizliğine rağmen onu destekler. Bu arada, doğaüstü bir örgütün lideri olan avukat Byeon Ho In ve kaloriyle çalışan telekinetik Bang Eun Mi de yeteneklere sahiptir. Birlikte, dünyayı istikrarsızlaştırmaya çalışan kötü adamlardan normal hayatlarını korumayı amaçlarlar.",
+          "playerName1": "Lee Jun Ho\n(Kang Sang Ung)",
+          "playerName2": "Kim Hye Joon\n(Kim Min Suk)",
+          "playerName3": "Kim Byung Chul\n(Byeon Ho In)",
+          "playerImage1": "https://i.mydramalist.com/jQjpmd_5c.jpg",
+          "playerImage2": "https://i.mydramalist.com/5vX2xA_5c.jpg",
+          "playerImage3": "https://i.mydramalist.com/v3O68_5c.jpg",
+          "genreIds": [1, 4, 7],
+          "genre1": "Aksiyon",
+          "genre2": "Komedi",
+          "genre3": "Fantastik",
+          "contentRating": "15+",
+          "episode": "Bölüm: 8",
+          "playerAbout1": "https://mydramalist.com/people/5043-lee-jun-ho",
+          "playerAbout2": "https://mydramalist.com/people/11011-kim-hye-joon",
+          "playerAbout3": "https://mydramalist.com/people/4439-kim-byung-chul"
 }
   ]
 }
