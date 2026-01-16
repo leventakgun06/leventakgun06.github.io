@@ -20107,7 +20107,29 @@
           "playerAbout1": "https://mydramalist.com/people/5043-lee-jun-ho",
           "playerAbout2": "https://mydramalist.com/people/11011-kim-hye-joon",
           "playerAbout3": "https://mydramalist.com/people/4439-kim-byung-chul"
-}
+},
+    {
+      "id": 915,
+      "koreasName": "Pro Bono",
+      "koreasImage": "https://i.mydramalist.com/PxAXXy_4f.jpg",
+      "rating": 8.4,
+      "description": "2025 yılı yapımı bu dizide: Hırs ve maddiyatçılığın kör ettiği Kang David, eski bir yargıçken kendini kamu yararına adamış bir avukattır. Kusursuz iş ahlakı ve temiz imajıyla sosyal medyada yüz binlerce takipçisi olan Kang David, hukuk alanında bir etkileyicidir. Tam da parlak bir başarı yoluna girmek üzereyken beklenmedik bir olaya karışır, yargıçlık görevinden istifa eder ve güneşsiz bir koridorda kamu yararına çalışan bir avukat olarak yeni bir sayfa açar. Park Gi Ppeum ise, Kang David'in tam tersi olan, bir şeye ilgi duyduğunda kendini tamamen ona adayan bir kamu yararına çalışan avukattır; çeşitli hobilerine olan tutkusu sonunda onu bir \"Hukuk meraklısı\" haline getirir. Avukat olarak misyonunu yerine getirmekte teselli bulur: insan haklarını savunmak, sosyal adaleti gerçekleştirmek ve hukukun güzelliğine güvenen iyi vatandaşlara yardım etmek. Kang David ve Park Ki Bbeum, kar amacı gütmeyen \"Pro Bono\" kuruluşunun kamu yararına çalışan avukatlar ekibinde tanışırlar. Holdingleri savunarak kazandıkları parayı kullanarak, başka çaresi olmayan mağdurlara hukuki yardım sağlıyorlar ve gerçek adaletin gerçekleşmesi için çabalıyorlar.",
+      "playerName1": "Jung Kyung Ho\n(Kang David)",
+      "playerName2": "So Ju Yeon\n(Park Gi Ppeum)",
+      "playerName3": "Yoon Na Moo\n(Jang Yeong Sil)",
+      "playerImage1": "https://i.mydramalist.com/yWBx7n_5c.jpg",
+      "playerImage2": "https://i.mydramalist.com/r6WLm_5c.jpg",
+      "playerImage3": "https://i.mydramalist.com/RX5n6_5c.jpg",
+      "genreIds": [4, 13, 3],
+      "genre1": "Komedi",
+      "genre2": "Hukuk",
+      "genre3": "Dram",
+      "contentRating": "15+",
+      "episode": "Bölüm: 12",
+      "playerAbout1": "https://mydramalist.com/people/698-jung-kyung-ho",
+      "playerAbout2": "https://mydramalist.com/people/17308-so-joo-yeon",
+      "playerAbout3": "https://mydramalist.com/people/15257-yoon-na-moo"
+    }
   ]
 }
 
