@@ -20129,6 +20129,28 @@
       "playerAbout1": "https://mydramalist.com/people/698-jung-kyung-ho",
       "playerAbout2": "https://mydramalist.com/people/17308-so-joo-yeon",
       "playerAbout3": "https://mydramalist.com/people/15257-yoon-na-moo"
+    },
+        {
+      "id": 916,
+      "koreasName": "When the Phone Rings",
+      "koreasImage": "https://i.mydramalist.com/LwqnQg_4f.jpg",
+      "rating": 8.0,
+      "description": "2024 yılı yapımı bu dizide: Kore'nin en genç cumhurbaşkanlığı sözcüsü Baek Sa Eon, saygın bir siyasi aileden gelmektedir. Geçmişinde savaş muhabiri, rehine müzakerecisi ve haber sunucusu gibi görevler üstlenmiştir. Üç yıl önce, dilsiz bir işaret dili tercümanı ve bir gazete sahibinin üvey kızı olan Hong Hui Ju ile evlenmiştir. Çıkara dayalı evlilikleri mesafeli ve soğuktur. Ancak Hong Hui Ju kaçırılınca hayatları ve ilişkileri değişir.",
+      "playerName1": "Yoo Yeon Seok\n(Baek Sa Eon)",
+      "playerName2": "Chae Soo Bin\n(Hong Hui Ju)",
+      "playerName3": "Heo Nam Jun\n(Ji Sang U)",
+      "playerImage1": "https://i.mydramalist.com/p31Py_5c.jpg",
+      "playerImage2": "https://i.mydramalist.com/JBXVnw_5c.jpg",
+      "playerImage3": "https://i.mydramalist.com/3o7wNe_5c.jpg",
+      "genreIds": [2, 15, 5],
+      "genre1": "Gerilim",
+      "genre2": "Gizem",
+      "genre3": "Romantik",
+      "contentRating": "15+",
+      "episode": "Bölüm: 12",
+      "playerAbout1": "https://mydramalist.com/people/1908-yoo-yeon-seok",
+      "playerAbout2": "https://mydramalist.com/people/9225-chae-soo-bin",
+      "playerAbout3": "https://mydramalist.com/people/88301-heo-nam-jun"
     }
   ]
 }
