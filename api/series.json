@@ -20151,6 +20151,28 @@
       "playerAbout1": "https://mydramalist.com/people/1908-yoo-yeon-seok",
       "playerAbout2": "https://mydramalist.com/people/9225-chae-soo-bin",
       "playerAbout3": "https://mydramalist.com/people/88301-heo-nam-jun"
+    },
+        {
+      "id": 917,
+      "koreasName": "Mede in Korea",
+      "koreasImage": "https://i.mydramalist.com/l0YAgQ_4f.jpg",
+      "rating": 7.2,
+      "description": "2025 yılı yapımı bu dizide: 1970'lerde geçen hikayede, Baek Gi Tae zenginlik ve güç arzulayan hırslı bir adamdır. Jang Gun Yeong ise vahşi içgüdüleri ve korkutucu azmiyle tanınan bir savcıdır. Büyük bir olayla karşı karşıya kalan Jang Gun Yeong, Baek Gi Tae'yi durdurmak için her şeyini ortaya koyar. Çevrelerindeki kişiler arasında lobici Choi Yu Ji, müfettiş O Ye Jin, Bae Geum Ji ve baş sekreter Cheon Seok Jeong yer almaktadır.",
+      "playerName1": "Hyun Bin\n(Baek Gi Tae)",
+      "playerName2": "Jung Woo Sung\n(Jang Gun Yeong)",
+      "playerName3": "Seo Eun Soo\n(O Ye Jin)",
+      "playerImage1": "https://i.mydramalist.com/qAkLdc.jpg",
+      "playerImage2": "https://i.mydramalist.com/4e3101_5c.jpg",
+      "playerImage3": "https://i.mydramalist.com/LwyOnD_5c.jpg",
+      "genreIds": [1, 2, 15],
+      "genre1": "Aksiyon",
+      "genre2": "Gerilim",
+      "genre3": "Gizem",
+      "contentRating": "15+",
+      "episode": "Bölüm: 6",
+      "playerAbout1": "https://mydramalist.com/people/183-hyun-bin",
+      "playerAbout2": "https://mydramalist.com/people/297-jung-woo-sung",
+      "playerAbout3": "https://mydramalist.com/people/12392-seo-eun-soo"
     }
   ]
 }
