@@ -21093,29 +21093,6 @@
     },
     {
       "id": 918,
-      "koreasName": "Love Your Enemy",
-      "koreasImage": "https://i.mydramalist.com/73ZR3B_4f.jpg",
-      "type": "k-drama",
-      "rating": 8.1,
-      "description": "2024 yılı yapımı bu dizide: Aynı gün doğmuş ve aynı adı taşıyan Seok Ji Won ve Yoon Ji Won, yıllardır rakiptirler. 18 yıl sonra, artık Seokban İnşaat'ın genel müdürü ve Dokmok Lisesi'nin başkanı olan Seok Ji Won eve döndüğünde yeniden bir araya gelirler. Bir zamanlar \"Dokmok Lisesi'nin Çılgın Köpeği\" olarak bilinen Yoon Ji Won ise okulda beden eğitimi öğretmenidir. İkisi de değişmiştir, ancak geçmişleri ve bugünleriyle yüzleşirken eski rekabetleri yeniden alevlenir.",
-      "playerName1": "Ju Ji Hoon\n(Seok Ji Won)",
-      "playerName2": "Jung Yu Mi\n(Yun Ji Won)",
-      "playerName3": "Kim Ye Won\n(Cha Ji Hye)",
-      "playerImage1": "https://i.mydramalist.com/qJVnB_5c.jpg",
-      "playerImage2": "https://i.mydramalist.com/pRQxE_5c.jpg",
-      "playerImage3": "https://i.mydramalist.com/1wLQBy_5c.jpg",
-      "genreIds": [4, 5, 3],
-      "genre1": "Komedi",
-      "genre2": "Romantik",
-      "genre3": "Dram",
-      "contentRating": "15+",
-      "episode": "Bölüm: 12",
-      "playerAbout1": "https://mydramalist.com/people/251-joo-ji-hoon",
-      "playerAbout2": "https://mydramalist.com/people/1273-jung-yoo-mi",
-      "playerAbout3": "https://mydramalist.com/people/1572-kim-ye-won"
-    },
-    {
-      "id": 919,
       "koreasName": "Idol I",
       "koreasImage": "https://i.mydramalist.com/nOl3eB_4f.jpg",
       "type": "k-drama",
@@ -21138,7 +21115,7 @@
       "playerAbout3": "https://mydramalist.com/people/29603-jung-jae-kwang"
     },
     {
-      "id": 920,
+      "id": 919,
       "koreasName": "The Trauma Code: Heroes on Call",
       "koreasImage": "https://i.mydramalist.com/735qBe_4f.jpg",
       "type": "k-drama",
@@ -21159,6 +21136,29 @@
       "playerAbout1": "https://mydramalist.com/people/251-joo-ji-hoon",
       "playerAbout2": "https://mydramalist.com/people/59471-chu-young-woo",
       "playerAbout3": "https://mydramalist.com/people/24353-shin-ha-young"
-    }
+    },
+    {
+      "id": 920,
+      "koreasName": "Love Your Enemy",
+      "koreasImage": "https://i.mydramalist.com/73ZR3B_4f.jpg",
+      "type": "k-drama",
+      "rating": 8.1,
+      "description": "2024 yılı yapımı bu dizide: Aynı gün doğmuş ve aynı adı taşıyan Seok Ji Won ve Yoon Ji Won, yıllardır rakiptirler. 18 yıl sonra, artık Seokban İnşaat'ın genel müdürü ve Dokmok Lisesi'nin başkanı olan Seok Ji Won eve döndüğünde yeniden bir araya gelirler. Bir zamanlar \"Dokmok Lisesi'nin Çılgın Köpeği\" olarak bilinen Yoon Ji Won ise okulda beden eğitimi öğretmenidir. İkisi de değişmiştir, ancak geçmişleri ve bugünleriyle yüzleşirken eski rekabetleri yeniden alevlenir.",
+      "playerName1": "Ju Ji Hoon\n(Seok Ji Won)",
+      "playerName2": "Jung Yu Mi\n(Yun Ji Won)",
+      "playerName3": "Kim Ye Won\n(Cha Ji Hye)",
+      "playerImage1": "https://i.mydramalist.com/qJVnB_5c.jpg",
+      "playerImage2": "https://i.mydramalist.com/pRQxE_5c.jpg",
+      "playerImage3": "https://i.mydramalist.com/1wLQBy_5c.jpg",
+      "genreIds": [4, 5, 3],
+      "genre1": "Komedi",
+      "genre2": "Romantik",
+      "genre3": "Dram",
+      "contentRating": "15+",
+      "episode": "Bölüm: 12",
+      "playerAbout1": "https://mydramalist.com/people/251-joo-ji-hoon",
+      "playerAbout2": "https://mydramalist.com/people/1273-jung-yoo-mi",
+      "playerAbout3": "https://mydramalist.com/people/1572-kim-ye-won"
+    },
   ]
 }
