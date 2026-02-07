@@ -245,20 +245,20 @@
     {
       "id": 40,
       "name": "TRT Belgesel",
-      "video": "https://tv-xxx.live.trt.com.tr/master_720.m3u8",
-      "image": "https://leventakgun06.github.io/assets/xxx.png"
+      "video": "https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8",
+      "image": "https://leventakgun06.github.io/assets/trtbelgesel.png"
     },
     {
       "id": 41,
       "name": "TGRT Belgesel",
       "video": "https://tv.ensonhaber.com/tv/tr/xxx/index.m3u8",
-      "image": "https://leventakgun06.github.io/assets/xxx.png"
+      "image": "https://leventakgun06.github.io/assets/tgrtbelgesel.png"
     },
     {
       "id": 42,
-      "name": "xxx TV",
-      "video": "https://59cba4d34b678.streamlock.net/live1/xxxtv/playlist.m3u8",
-      "image": "https://leventakgun06.github.io/assets/xxx.png"
+      "name": "TCL",
+      "video": "http://dygvideo.dygdigital.com/live/hls/tlctvdai?m3u8",
+      "image": "https://leventakgun06.github.io/assets/tcl.png"
     }
   ],
   "music": [
