@@ -256,9 +256,9 @@
     },
     {
       "id": 42,
-      "name": "TCL",
+      "name": "TLC",
       "video": "http://dygvideo.dygdigital.com/live/hls/tlctvdai?m3u8",
-      "image": "https://leventakgun06.github.io/assets/tcl.png"
+      "image": "https://leventakgun06.github.io/assets/tlc.png"
     }
   ],
   "music": [
