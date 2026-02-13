@@ -21160,5 +21160,28 @@
       "playerAbout2": "https://mydramalist.com/people/1273-jung-yoo-mi",
       "playerAbout3": "https://mydramalist.com/people/1572-kim-ye-won"
     },
+    {
+      "id": 921,
+      "koreasName": "Spring Fever",
+      "koreasImage": "https://i.mydramalist.com/JBY2Xm_4f.jpg",
+      "type": "k-drama",
+      "rating": 8.0,
+      "description": "2026 yılı yapımı bu dizide: Seul'de yaşadığı duygusal çalkantıların ardından, değişim öğretmeni olarak yeni bir başlangıç ​​yapmak üzere küçük Sinsu kasabasına taşınan Yun Bom'u konu alıyor. Başlangıçta her şeye karşı mesafeli ve soğuk olan Yun Bom, Seon Jae Gyu ile tanıştıktan sonra yavaş yavaş kalbini açar. Seon Jae Gyu, köyü çılgınlıklarıyla karıştıran önemli bir figürdür. Aynı zamanda JK Power Energy'nin CEO'su ve Sinsu Lisesi öğrencisi Seon Han Gyeol'un amcasıdır. İri yapısı ve ilk izleniminde bir sokak serserisini andırsa da, Jae Gyu beklenmedik bir çekiciliğe, sarsılmaz bir bağlılığa ve başkalarına karşı derin bir düşünceliğe sahip biridir.",
+      "playerName1": "Ahn Bo Hyun\n(Seon Jae Hyun)",
+      "playerName2": "Lee Joo Bin\n(Yun Bom)",
+      "playerName3": "Cha Seo Won\n(Choi I Jun)",
+      "playerImage1": "https://i.mydramalist.com/B6wPl_5c.jpg",
+      "playerImage2": "https://i.mydramalist.com/d0vP10_5c.jpg",
+      "playerImage3": "https://i.mydramalist.com/Xv7Znc.jpg",
+      "genreIds": [4, 5, 3],
+      "genre1": "Komedi",
+      "genre2": "Romantik",
+      "genre3": "Dram",
+      "contentRating": "15+",
+      "episode": "Bölüm: 12",
+      "playerAbout1": "https://mydramalist.com/people/9854-ahn-bo-hyun",
+      "playerAbout2": "https://mydramalist.com/people/19472-lee-joo-bin",
+      "playerAbout3": "https://mydramalist.com/people/15194-lee-chang-yup"
+    }
   ]
 }
