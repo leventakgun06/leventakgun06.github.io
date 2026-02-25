@@ -21182,6 +21182,29 @@
       "playerAbout1": "https://mydramalist.com/people/9854-ahn-bo-hyun",
       "playerAbout2": "https://mydramalist.com/people/19472-lee-joo-bin",
       "playerAbout3": "https://mydramalist.com/people/15194-lee-chang-yup"
+    },
+        {
+      "id": 922,
+      "koreasName": "The Art of Sarah",
+      "koreasImage": "https://i.mydramalist.com/73VmVn_4f.jpg",
+      "type": "k-drama",
+      "rating": 8.0,
+      "description": "2026 yılı yapımı bu dizide: Lüksü, sahte olsa bile, temsil etmek isteyen Sarah Kim ve onun arzularının peşinden giden Park Mu Gyeong'un hikayesi. Sarah Kim, adı her yerde geçen ama hiçbir yerde bulunamayan gizemli bir karakter. Lüks bir markanın Asya şubesinin başkanı olarak, aniden kimliği belirsiz bir cinayet davasının kurbanı olur. Park Mu Gyeong, şiddet suçları biriminde çalışan zeki ve azimli bir dedektiftir. Mu Gyeong davayı daha derinlemesine araştırdıkça, Sarah Kim'in farklı isimler, yaşlar, meslekler ve geçmişler içeren gizemli kimliği yavaş yavaş ortaya çıkar.",
+      "playerName1": "Shin Hae Sun\n(Sarah Kim)",
+      "playerName2": "Lee Jun Hyuk\n(Park Mu Gyeong)",
+      "playerName3": "Kim Jae Won\n(Kang Ji Hwon)",
+      "playerImage1": "https://i.mydramalist.com/O8J8kk_5c.jpg",
+      "playerImage2": "https://i.mydramalist.com/jQ2288_5c.jpg",
+      "playerImage3": "https://mydramalist.com/people/71991-kim-jae-won",
+      "genreIds": [15, 2, 12],
+      "genre1": "Gizem",
+      "genre2": "Gerilim",
+      "genre3": "Suç",
+      "contentRating": "15+",
+      "episode": "Bölüm: 8",
+      "playerAbout1": "https://mydramalist.com/people/7194-shin-hye-sun",
+      "playerAbout2": "https://mydramalist.com/people/843-lee-joon-hyuk",
+      "playerAbout3": "https://i.mydramalist.com/DkVjpn_5c.jpg"
     }
   ]
 }
