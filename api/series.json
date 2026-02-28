@@ -21205,6 +21205,29 @@
       "playerAbout1": "https://mydramalist.com/people/7194-shin-hye-sun",
       "playerAbout2": "https://mydramalist.com/people/843-lee-joon-hyuk",
       "playerAbout3": "https://mydramalist.com/people/71991-kim-jae-won"
+    },
+    {
+      "id": 923,
+      "koreasName": "Positively Yours",
+      "koreasImage": "https://i.mydramalist.com/PxAA70_4f.jpg",
+      "type": "k-drama",
+      "rating": 0,
+      "description": "2026 yılı yapımı bu dizide: Bir gecelik ilişkiyle başlayan ve ikisi de bu hayatta asla evlenmeyeceklerine yemin etmiş bir adam ve bir kadın arasındaki \"Zorla kazanılmış aşk\"ı konu alan, tersine bir romantik komedi. Kang Du Jun, baştan aşağı kusursuz görünen ikinci kuşak bir zengin iş adamıdır. Evliliğin bu hayatta kendisine yakışmadığına karar vermiş, ölen ağabeyinin yerine kalan ailesi ve şirketi için yaşamaktadır. Ancak, çılgın bir gecelik ilişki sonrasında Jang Hui Won ile bir araya gelince hayatı beklenmedik bir dönüş alır. Jang Hui Won, iş hayatında 100 puan alan ama aşk hayatında 0 puan alan bir kariyer kadınıdır. Ebeveynlerinin boşanması ve soğuk, eleştirel bir annenin yanında geçirdiği zorlu çocukluktan dolayı travma geçirmiş, evlilik fikrinden kendini uzaklaştırmış ve bekarlığı kendi seçimiyle benimsemiştir. Ancak, o dürtüsel gecenin ardından, özenle kurduğu hayatı beklenmedik bir şekilde altüst olur.",
+      "playerName1": "Choi Jin Hyuk\n(Kang Du Jun)",
+      "playerName2": "Oh Yeon Seo\n(Jang Hui Won)",
+      "playerName3": "Hong Jong Hyun\n(Cha Min Hyun)",
+      "playerImage1": "https://i.mydramalist.com/pb7nb_5c.jpg",
+      "playerImage2": "https://i.mydramalist.com/XQ88Z_5c.jpg",
+      "playerImage3": "https://i.mydramalist.com/ABLQbE_5c.jpg",
+      "genreIds": [4, 5, 20],
+      "genre1": "Komedi",
+      "genre2": "Romantik",
+      "genre3": "Aile",
+      "contentRating": "15+",
+      "episode": "Bölüm: 12",
+      "playerAbout1": "https://mydramalist.com/people/1328-choi-jin-hyuk",
+      "playerAbout2": "https://mydramalist.com/people/1722-oh-yeon-seo",
+      "playerAbout3": "https://mydramalist.com/people/2384-hong-jong-hyun"
     }
   ]
 }
