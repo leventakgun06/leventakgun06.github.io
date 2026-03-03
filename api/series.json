@@ -21228,6 +21228,29 @@
       "playerAbout1": "https://mydramalist.com/people/1328-choi-jin-hyuk",
       "playerAbout2": "https://mydramalist.com/people/1722-oh-yeon-seo",
       "playerAbout3": "https://mydramalist.com/people/2384-hong-jong-hyun"
+    },
+    {
+      "id": 924,
+      "koreasName": "No Tail to Tell",
+      "koreasImage": "https://i.mydramalist.com/O8wdRd_4f.jpg",
+      "type": "k-drama",
+      "rating": 7.6,
+      "description": "2026 yılı yapımı bu dizide: Eun Ho, dilek gerçekleştirme işiyle geçinen ve asla insan olmak istemeyen, alaycı dokuz kuyruklu bir tilkidir. Myohyangsan Dağı'ndan gelen Eun Ho, yüzyıllarca insan olmak için kendini geliştirmiştir; ta ki insan olmak istemediğine karar verene kadar. Ancak narsist ama sıcak kalpli yıldız futbolcu Kang Si Yeol'un karıştığı ani bir kaza onu sıradan bir insana dönüştürdüğünde, ters giden bir dilek, ikisinin de hiç istemediği büyülü ve kaotik bir romantizmi tetikler. Aşk asla planın bir parçası değildi. Si Yeol, Thames FC'nin santraforudur. Takım oyununa uygun olmayan, ancak küme düşme tehlikesiyle karşı karşıya olan bir kulübü bile şampiyonluğa taşıyabilecek kadar baskın bir yetenektir. Hayatı ihtişamdan yoksun ve rutinle tanımlanmıştır. Bu denge, Eun Ho tarafından kendisine verilen gizemli bir kartvizitin dokuz yıl sonra yeniden ortaya çıkmasıyla bozulur. Kaderin (ve ters giden bir dileğin) bir araya getirdiği Eun Ho ve Si Yeol, esprili diyaloglar, kaotik yanlış anlamalar ve hissetmediklerine yemin ettikleri türden kıvılcımlarla dolu, itiş kakışlı, aşk-nefret ilişkisine girerler. Doğaüstü olaylar gerçek hayattaki duygularla çarpışırken, ikili, uyulması en zor kuralların kalplerinin sürekli kırdığı kurallar olduğunu keşfeder. İnsanlığın yerine dikkatlice dengelenmiş bir hayatı seçen Eun Ho'nun düzenli varoluşu, Si Yeol ile yolları kesiştiğinde çözülmeye başlar.",
+      "playerName1": "Kim Hye Yoon\n(Eun Ho)",
+      "playerName2": "Lomon\n(Kang Si Yeol)",
+      "playerName3": "Jang Dong Joo\n(Hyun U Seok)",
+      "playerImage1": "https://i.mydramalist.com/xpnmE_5c.jpg",
+      "playerImage2": "https://i.mydramalist.com/kA0exO_5c.jpg",
+      "playerImage3": "https://i.mydramalist.com/RBe26V_5c.jpg",
+      "genreIds": [4, 5, 7],
+      "genre1": "Komedi",
+      "genre2": "Romantik",
+      "genre3": "Fantastik",
+      "contentRating": "15+",
+      "episode": "Bölüm: 12",
+      "playerAbout1": "https://mydramalist.com/people/21677-kim-hye-yoon",
+      "playerAbout2": "https://mydramalist.com/people/15157-park-solomon",
+      "playerAbout3": "https://mydramalist.com/people/15568-jang-dong-joo"
     }
   ]
 }
