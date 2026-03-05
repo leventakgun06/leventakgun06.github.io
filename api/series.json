@@ -21251,6 +21251,29 @@
       "playerAbout1": "https://mydramalist.com/people/21677-kim-hye-yoon",
       "playerAbout2": "https://mydramalist.com/people/15157-park-solomon",
       "playerAbout3": "https://mydramalist.com/people/15568-jang-dong-joo"
+    },
+    {
+      "id": 925,
+      "koreasName": "The Judge Returns",
+      "koreasImage": "https://i.mydramalist.com/oQXq66_4f.jpg",
+      "type": "k-drama",
+      "rating": 8.2,
+      "description": "2026 yılı yapımı bu dizide: Düşük gelirli bir aileden gelmesine ve prestijli olmayan bir üniversitede okumasına rağmen, Lee Han Yeong yargı kademelerinde yükselmeyi başarır. Haenal Hukuk Bürosu CEO'sunun kızıyla evlendiğinde, firmanın yararına hakimlik konumunu kullanarak, kızının babasıyla da bir iş ilişkisine başlar. Ancak yıllar geçtikçe Han Yeong'un vicdan azabı daha da artar ve sonunda emirlerine karşı gelerek, yolsuzluk yapan bir başkanı 10 yıl hapis cezasına çarptırır; ancak bunun sonucunda kendisi öldürülür. Mucizevi bir şekilde, tüm anıları yerinde olarak on yıl öncesine geri döndüğünü fark eder ve her şeyi düzeltmek için ikinci bir şans verildiğini anlar. Savcı Kim Jin A'nın yardımıyla Han Yeong, en zor zamanlarda bile adaleti sağlamaya çalışır.",
+      "playerName1": "Ji Sung\n(Lee Han Yeong)",
+      "playerName2": "Park Hee Soon\n(Kang Sin Jin)",
+      "playerName3": "Won Jin A\n(Kim Jin A)",
+      "playerImage1": "https://i.mydramalist.com/E55lEp_5c.jpg",
+      "playerImage2": "https://i.mydramalist.com/kWLmrc.jpg",
+      "playerImage3": "https://i.mydramalist.com/735P6y_5c.jpg",
+      "genreIds": [7, 13, 15],
+      "genre1": "Gizem",
+      "genre2": "Hukuk",
+      "genre3": "Fantastik",
+      "contentRating": "15+",
+      "episode": "Bölüm: 14",
+      "playerAbout1": "https://mydramalist.com/people/469-ji-sung",
+      "playerAbout2": "https://mydramalist.com/people/2587-park-hee-soon",
+      "playerAbout3": "https://mydramalist.com/people/15721-won-jin-ah"
     }
   ]
 }
