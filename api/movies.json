@@ -3794,6 +3794,29 @@
       "playerAbout1": "https://mydramalist.com/people/1974-jo-jung-suk",
       "playerAbout2": "https://mydramalist.com/people/23873-lee-joo-myung",
       "playerAbout3": "https://mydramalist.com/people/4870-han-sun-hwa"
+    },
+    {
+      "id": 166,
+      "koreasName": "Harbin",
+      "type": "k-movie",
+      "koreasImage": "https://upload.wikimedia.org/wikipedia/en/0/04/Harbin_movie.jpg",
+      "rating": 7.4,
+      "description": "2025 yılı yapımı bu filmde: 1905'te Japonya, Kore'yi Eulsa Antlaşması'nı imzalamaya zorlayarak ülkenin diplomatik haklarını elinden aldı ve tüm yarımadanı bir Japon kolonisine indirdi. 1909'da Harbin başladığında, Kore'nin küçük ama inatçı Adil Ordu milisleri Japonlara karşı silahlı direniş kampanyasının derinliklerine inmişti. Özellikle kanlı bir çatışmadan hayatta kalan tek kişi olarak ortaya çıkan An Jung Geun, Kore'nin ilk Japon Yerleşik Generali ve şiddetli sömürge baskısının önemli bir sembolü olan Itō Hirobumi'ye suikast düzenlemek için bir operasyona başkanlık ediyor. Operasyon onun ve ekibinin gizlice Rusya'ya gitmesini, kaynak ve müttefik toplamasını ve bir yandan da karmaşık tuzaklar kurmasını gerektirecek. Her fırsatta korkunç riskler, cani güvenlik güçleri peşlerinde ve tüm plan sürekli çökme tehdidi altındayken şu soru ortaya çıkıyor: Ülkelerinin bağımsızlığı uğruna kaç Koreli ölmeli?",
+      "playerName1": "Hyun Bin\n(An Jung Geun)",
+      "playerName2": "Park Jeong Min\n(Woo Deok Sun)",
+      "playerName3": "Jo Woo Jin\n(Kim Sang Hyeon)",
+      "playerImage1": "https://i.mydramalist.com/qAkLdc.jpg",
+      "playerImage2": "https://i.mydramalist.com/yWwKnN_5c.jpg",
+      "playerImage3": "https://i.mydramalist.com/6zd3g_5c.jpg",
+      "genreIds": [8, 12, 26],
+      "genre1": "Tarihi",
+      "genre2": "Suç",
+      "genre3": "Savaş",
+      "contentRating": "15+",
+      "episode": "Süre: 1s 48d",
+      "playerAbout1": "https://mydramalist.com/people/183-hyun-bin",
+      "playerAbout2": "https://mydramalist.com/people/2879-park-jung-min",
+      "playerAbout3": "https://mydramalist.com/people/6557-jo-woo-jin"
     }
   ]
 }
