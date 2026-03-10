@@ -21320,6 +21320,29 @@
       "playerAbout1": "https://mydramalist.com/people/15244-kim-sun-ho",
       "playerAbout2": "https://mydramalist.com/people/22074-go-yoon-jung",
       "playerAbout3": "https://mydramalist.com/people/3494-fukushi-sota"
+    },
+        {
+      "id": 928,
+      "koreasName": "To My Beloved Thief",
+      "koreasImage": "https://i.mydramalist.com/JBYLVX_4f.jpg",
+      "type": "k-drama",
+      "rating": 8.3,
+      "description": "2026 yılı yapımı bu dizide: Bir soylu ile bir köle kadının gizli ilişkisinden doğan Hong Eun Jo, özellikle babasının hastalanmasından sonra, sıradan bir insanın çektiği sıkıntılara yabancı değildir. Gündüzleri doktor olarak çalışan Eun Jo, geceleri ise ihtiyaç sahiplerine servet dağıtmak için yozlaşmış yetkililerden çalan \"Hong Gil Dong\" adlı bir hırsız kimliğine bürünür. Hong Gil Dong'un bu tuhaf davranışları, soruşturmalara meraklı olan ve dürüst hırsızın gizemiyle kişisel olarak ilgilenen Prens Yi Yeol'un dikkatini çeker; ancak saray yetkililerinin çoğu onun sadece şaka yaptığını düşünür. Araştırması sırasında Yi Yeol, Eun Jo ile karşılaşır ve ilk görüşte aşık olur; ancak Yi Yeol ve Eun Jo'nun bedenleri değiştiğinde, ikisinin de saklamaya çalıştığı sırlar ortaya çıkma riskiyle karşı karşıya kalırlar.",
+      "playerName1": "Nam Ji Hyun\n(Hong Eun Jo)",
+      "playerName2": "Moon Sang Min\n(Yi Yeol)",
+      "playerName3": "Hong Min Ki\n(Im Jae I)",
+      "playerImage1": "https://i.mydramalist.com/ZL4dW_5c.jpg",
+      "playerImage2": "https://i.mydramalist.com/qYwngB_5c.jpg",
+      "playerImage3": "https://i.mydramalist.com/Lwqzoy_5c.jpg",
+      "genreIds": [8, 4, 5],
+      "genre1": "Tarihi",
+      "genre2": "Komedi",
+      "genre3": "Romantik",
+      "contentRating": "15+",
+      "episode": "Bölüm: 16",
+      "playerAbout1": "https://mydramalist.com/people/1434-nam-ji-hyun",
+      "playerAbout2": "https://mydramalist.com/people/36335-mun-sang-min",
+      "playerAbout3": "https://mydramalist.com/people/72365-hong-min-ki"
     }
   ]
 }
