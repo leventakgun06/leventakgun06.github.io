@@ -21321,7 +21321,7 @@
       "playerAbout2": "https://mydramalist.com/people/22074-go-yoon-jung",
       "playerAbout3": "https://mydramalist.com/people/3494-fukushi-sota"
     },
-        {
+    {
       "id": 928,
       "koreasName": "To My Beloved Thief",
       "koreasImage": "https://i.mydramalist.com/JBYLVX_4f.jpg",
@@ -21343,6 +21343,29 @@
       "playerAbout1": "https://mydramalist.com/people/1434-nam-ji-hyun",
       "playerAbout2": "https://mydramalist.com/people/36335-mun-sang-min",
       "playerAbout3": "https://mydramalist.com/people/72365-hong-min-ki"
+    },
+    {
+      "id": 929,
+      "koreasName": "Undercover Miss Hong",
+      "koreasImage": "https://i.mydramalist.com/JB5Beo_4f.jpg",
+      "type": "k-drama",
+      "rating": 0,
+      "description": "2026 yılı yapımı bu dizide: 1990'ların sonlarında geçen hikâyede, 30'lu yaşlarında olan Hong Geum Bo, Mali Denetleme Servisi'nde elit bir denetçidir. Soğukkanlı, işine odaklanmış bir kadındır. 20 yaşında bir lise mezunu olan Hong Jang Mi kılığında gizli göreve başlar ve şüpheli fon akışlarının tespit edildiği bir menkul kıymetler şirketinde çalışmaya başlar. Orada, Hanmin Menkul Kıymetler şirketinin yeni CEO'su Sin Jeong U ile tanışır. Sin Jeong U, doğuştan yönetim danışmanı ve şirket yağmacısıdır ve sadece rakamların dürüst olduğuna inanır. Hedefine ulaşmak için her türlü yolu kullanır. Bir zamanlar aşık olduğu, yüzü Hong Geum Bo'nunkine tıpatıp benzeyen Hong Jang Mi ile tanışır ve karmaşık bir şekilde birbirlerine bağlanırlar.",
+      "playerName1": "Park Shin Hye\n(Hong Geum Bo)",
+      "playerName2": "Go Kyung Pyo\n(Sin Jeon U)",
+      "playerName3": "Ha Yoon Kyung\n(Ko Bok Hui)",
+      "playerImage1": "https://i.mydramalist.com/Q3Nz7_5c.jpg",
+      "playerImage2": "https://i.mydramalist.com/73WZ8e_5c.jpg",
+      "playerImage3": "https://i.mydramalist.com/jz0zd_5c.jpg",
+      "genreIds": [15, 4, 12],
+      "genre1": "Gizem",
+      "genre2": "Komedi",
+      "genre3": "Suç",
+      "contentRating": "15+",
+      "episode": "Bölüm: 16",
+      "playerAbout1": "https://mydramalist.com/people/210-park-shin-hye",
+      "playerAbout2": "https://mydramalist.com/people/2374-go-kyung-pyo",
+      "playerAbout3": "https://mydramalist.com/people/9536-ha-yoon-kyung"
     }
   ]
 }
