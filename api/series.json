@@ -21366,6 +21366,29 @@
       "playerAbout1": "https://mydramalist.com/people/210-park-shin-hye",
       "playerAbout2": "https://mydramalist.com/people/2374-go-kyung-pyo",
       "playerAbout3": "https://mydramalist.com/people/9536-ha-yoon-kyung"
+    },
+    {
+      "id": 930,
+      "koreasName": "Bloody Flower",
+      "koreasImage": "https://i.mydramalist.com/JB8jRy_4f.jpg",
+      "type": "k-drama",
+      "rating": 7.8,
+      "description": "2026 yılı yapımı bu dizide: Hikaye, bir gün bir adamın iki engelli kişiyi kaçırmak suçlamasıyla polis tarafından tutuklanmasıyla başlar. Tutuklanan şüphelinin soruşturması sırasında, sadece kaçırma değil, aynı zamanda insan vücudu üzerinde deneyler yapma bahanesiyle insanları öldürdüğü ortaya çıkar ve savcılar onu tutuklar. Adı Lee U Gyeom'dur. Tıp fakültesini yarıda bırakmış olan bu adam, tüm insan hastalıklarını iyileştirebileceğini iddia eder. Sadece basit hastalıkları değil, mevcut tıp teknolojisinin çözemediği kanser gibi çeşitli tedavi edilemez hastalıkları da tamamen iyileştirebilen bir teknoloji geliştirdiğini söyler. İnanılmaz bir şekilde, kendisi tarafından tedavi edilen hastaların ifadeleri ardı ardına gelir. Bu mükemmel tıbbi teknolojiyi insanlığın yararına açıklayacağına söz verir, ancak şimdiye kadar yaptığı insan deneylerinden sorumlu tutulmayacağı şartıyla. Kendini suçlarsa intihar etmekle tehdit eder. Ölümüyle birlikte, sadece kafasında kalan bu tıbbi teknoloji kaybolur. Beyin tümörü olan kızı için Lee U Gyeom'u kurtarmak zorunda olan bir avukat. Savcı Chae Yeon, haksız yere ölen insanların yasal cezası olarak U Gyeom'u idam ettirmek istiyor. Ve sanatçı, etraflarındaki insanların kendi hikayeleriyle yanıp tutuşmasına dair sorular soruyor. Sizce Lee U Gyeom nadir bir katil mi, yoksa insanlığın kurtarıcısı mı?",
+      "playerName1": "Ryeo Un\n(Lee U Gyeom)",
+      "playerName2": "Sung Dong Il\n(Park Han Jun)",
+      "playerName3": "Keum Sae Rok\n(Cha I Yeon)",
+      "playerImage1": "https://i.mydramalist.com/zB2n3J_5c.jpg",
+      "playerImage2": "https://i.mydramalist.com/XOo6p_5c.jpg",
+      "playerImage3": "https://i.mydramalist.com/yWd6jn_5c.jpg",
+      "genreIds": [2, 12, 15],
+      "genre1": "Gerilim",
+      "genre2": "Gizem",
+      "genre3": "Suç",
+      "contentRating": "15+",
+      "episode": "Bölüm: 8",
+      "playerAbout1": "https://mydramalist.com/people/23633-ryeo-woon",
+      "playerAbout2": "https://mydramalist.com/people/1113-sung-dong-il",
+      "playerAbout3": "https://mydramalist.com/people/17947-geum-sae-rok"
     }
   ]
 }
