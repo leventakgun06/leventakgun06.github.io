@@ -21412,6 +21412,29 @@
       "playerAbout1": "https://mydramalist.com/people/17972-kim-ji-eun",
       "playerAbout2": "https://mydramalist.com/people/15157-park-solomon",
       "playerAbout3": "https://mydramalist.com/people/16354-yang-hye-ji"
+    },
+    {
+      "id": 932,
+      "koreasName": "Moon River",
+      "koreasImage": "https://i.mydramalist.com/mOrExP_4f.jpg",
+      "type": "k-drama",
+      "rating": 8.1,
+      "description": "2025 yılı yapımı bu dizide: Hikaye, gülümsemesini kaybetmiş bir prens ile hafızasını yitirmiş bir atlı tüccar arasında gerçekleşen ruh değişimini anlatıyor. Veliaht prensesini kaybeden Joseon Veliaht Prensi Yi Gang, kendi mutluluğundan vazgeçmiş ve sadece intikamı düşünmüştür. Yi Gang'ın uzun zamandır planladığı intikam planı nihayet ilk adımı attığında, ölen veliaht prensese tıpatıp benzeyen atlı tüccar Park Dal I ile karşılaşır ve bilinmeyen bir nedenle bedenleri değişir, bu da bir dizi kaosa yol açar.",
+      "playerName1": "Kang Tae Oh\n(Crown Prince)",
+      "playerName2": "Kim Se Jeong\n(Park Dal I)",
+      "playerName3": "Lee Shin Young\n(Yi Un)",
+      "playerImage1": "https://i.mydramalist.com/qv3mz_5c.jpg",
+      "playerImage2": "https://i.mydramalist.com/vrmWX_5c.jpg",
+      "playerImage3": "https://i.mydramalist.com/ABODV4_5c.jpg",
+      "genreIds": [8, 4, 5],
+      "genre1": "Tarihi",
+      "genre2": "Komedi",
+      "genre3": "Romantik",
+      "contentRating": "15+",
+      "episode": "Bölüm: 14",
+      "playerAbout1": "https://mydramalist.com/people/6776-kang-tae-oh",
+      "playerAbout2": "https://mydramalist.com/people/13855-kim-se-jung",
+      "playerAbout3": "https://mydramalist.com/people/21356-lee-shin-yeong"
     }
   ]
 }
