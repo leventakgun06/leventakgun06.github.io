@@ -21435,6 +21435,29 @@
       "playerAbout1": "https://mydramalist.com/people/6776-kang-tae-oh",
       "playerAbout2": "https://mydramalist.com/people/13855-kim-se-jung",
       "playerAbout3": "https://mydramalist.com/people/21356-lee-shin-yeong"
+    },
+    {
+      "id": 933,
+      "koreasName": "My Dearest Nemesis",
+      "koreasImage": "https://i.mydramalist.com/l0Dqz6_4f.jpg",
+      "type": "k-drama",
+      "rating": 8.0,
+      "description": "2025 yılı yapımı bu dizide: Lise yıllarında Baek Su Jeong, \"Kara Ejderha\" lakaplı bir çevrimiçi oyuncuya aşık olmuş, ancak onun sakar bir ortaokul öğrencisi olduğu ortaya çıkınca utanç duymuştur. On altı yıl sonra, Su Jeong, Yongseong Alışveriş Merkezi'nde çalışmaktadır ve yeni stratejik planlama müdürü Ban Ju Yeon'un \"Kara Ejderha\" olduğu ortaya çıkar. Hala kin besleyen Su Jeong, geçmişi ve olası yeni bir ilişkiyi dengelemek zorundadır.",
+      "playerName1": "Mun Ka Young\n(Baek Su Jeong)",
+      "playerName2": "Choi Hyun Wook\n(Ban Ju Yeon)",
+      "playerName3": "Im Se Mi\n(Seo Ha Jin)",
+      "playerImage1": "https://i.mydramalist.com/O8JKLk_5c.jpg",
+      "playerImage2": "https://i.mydramalist.com/pqZBD_5c.jpg",
+      "playerImage3": "https://i.mydramalist.com/KpEXeX_5c.jpg",
+      "genreIds": [3, 4, 5],
+      "genre1": "Dram",
+      "genre2": "Komedi",
+      "genre3": "Romantik",
+      "contentRating": "15+",
+      "episode": "Bölüm: 12",
+      "playerAbout1": "https://mydramalist.com/people/5346-moon-ga-young",
+      "playerAbout2": "https://mydramalist.com/people/40661-choi-hyun-wook",
+      "playerAbout3": "https://mydramalist.com/people/1585-im-se-mi"
     }
   ]
 }
