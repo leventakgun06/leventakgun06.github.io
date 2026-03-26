@@ -505,6 +505,29 @@
       "playerAbout1": "https://mydramalist.com/people/6593-yoshine-kyoko",
       "playerAbout2": "https://mydramalist.com/people/40635-honda-kyoya",
       "playerAbout3": "https://mydramalist.com/people/2054-yamamoto-maika"
-    }
+    },
+    {
+      "id": 23,
+      "koreasName": "Miss King",
+      "koreasImage": "https://i.mydramalist.com/ABVXOE_4f.jpg",
+      "type": "j-drama",
+      "rating": 7.6,
+      "description": "2025 yılı yapımı bu dizide: Dahi shogi oyuncusu babası tarafından hayatı çalınan Asuka adlı bir kahramanın insani dramını konu alan bu film, derin bir nefretle beslenen Asuka'nın gizli yeteneklerini uyandırmasını ve sarsılmaz bir kararlılıkla hayatını geri kazanmaya başlamasını anlatıyor.",
+      "playerName1": "Non\n(Kunimi Asuka)",
+      "playerName2": "Fujiki Naohito\n(Todo Seigo)",
+      "playerName3": "Kurashina Kana\n(Sakai Reiko)",
+      "playerImage1": "https://i.mydramalist.com/mOdlo0_5c.jpg",
+      "playerImage2": "https://i.mydramalist.com/qL61Q_5c.jpg",
+      "playerImage3": "https://i.mydramalist.com/NdbezA_5c.jpg",
+      "genreIds": [2, 3, 20],
+      "genre1": "Gerilim",
+      "genre2": "Dram",
+      "genre3": "Aile",
+      "contentRating": "15+",
+      "episode": "Bölüm: 8",
+      "playerAbout1": "https://mydramalist.com/people/2565-nounen-rena",
+      "playerAbout2": "https://mydramalist.com/people/244-fujiki-naohito",
+      "playerAbout3": "https://mydramalist.com/people/1914-kurashina-kana"
+    }    
   ]
 }
