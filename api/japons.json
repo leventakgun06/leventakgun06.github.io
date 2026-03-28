@@ -551,6 +551,29 @@
       "playerAbout1": "https://mydramalist.com/people/977-okada-junichi",
       "playerAbout2": "https://mydramalist.com/people/120155-fujisaki-yumia",
       "playerAbout3": "https://mydramalist.com/people/12016-kiyohara-kaya"
+    },
+    {
+      "id": 25,
+      "koreasName": "Romantics Anonymous",
+      "koreasImage": "https://i.mydramalist.com/734QvR_4f.jpg",
+      "type": "j-drama",
+      "rating": 8.1,
+      "description": "2025 yılı yapımı bu dizide: Hikaye, çikolataya olan ortak sevgileriyle tetiklenen bir erkek ve bir kadın arasındaki tesadüfi bir karşılaşmayla başlıyor. Peki sorun ne? İkisi de kendi kaygı bozukluklarıyla yaşıyor. Adam başkalarına fiziksel olarak dokunamıyor, kadın ise göz teması kuramıyor; bu da filizlenen ilişkilerini hem zorlu hem de sevimli kılıyor. Fujiwara Sosuke, popüler çikolata dükkanı \"Le Sauveur\"ün yeni temsilcisi ve büyük bir şekerleme patronunun oğlu. Travmatik bir geçmişten kaynaklanan mikrop fobisi, Fujiwara Sosuke'nin yeni işini zorlaştırıyor. Lee Ha Na, Le Sauveur üyelerinden (sahibi hariç) kimliğini gizleyen yetenekli bir çikolatacı ve sosyal etkileşim korkularıyla mücadele ediyor. Irene, sadece Fujiwara Sosuke'nin başhekimi olmakla kalmayıp aynı zamanda Lee Ha Na'ya da danışmanlık yaparak zorluklarının üstesinden gelmesine yardımcı olan tanınmış bir psikolog ve yazardır. Profesyonel başarısına rağmen, Irene alkolizm ve romantik ilişkilerle ilgili kendi mücadeleleriyle karşı karşıyadır. Takada Hiroshi, Lee Ha Na'nın gizlice duygular beslediği \"Brush\" barının sahibi. Fujiwara Sosuke ile okul yıllarından beri arkadaş olan ve \"Le Sauveur\"ün asıl sahibi, yani Lee Ha Na'nın akıl hocasıyla da yakın bir ilişkisi olan bir isimdir.",
+      "playerName1": "Oguri Shun\n(Fujiwara Sosuke)",
+      "playerName2": "Han Hyo Joo\n(Lee Ha Na)",
+      "playerName3": "Akanishi Jin\n(Takada Hiroshi)",
+      "playerImage1": "https://i.mydramalist.com/jYAAB_5c.jpg",
+      "playerImage2": "https://i.mydramalist.com/R6W7x_5c.jpg",
+      "playerImage3": "https://i.mydramalist.com/1BOpy_5c.jpg",
+      "genreIds": [3, 4, 5],
+      "genre1": "Dram",
+      "genre2": "Komedi",
+      "genre3": "Romantik",
+      "contentRating": "15+",
+      "episode": "Bölüm: 8",
+      "playerAbout1": "https://mydramalist.com/people/1586-oguri-shun",
+      "playerAbout2": "https://mydramalist.com/people/300-han-hyo-joo",
+      "playerAbout3": "https://mydramalist.com/people/267-akanishi-jin"
     }
   ]
 }
