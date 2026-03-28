@@ -528,6 +528,29 @@
       "playerAbout1": "https://mydramalist.com/people/2565-nounen-rena",
       "playerAbout2": "https://mydramalist.com/people/244-fujiki-naohito",
       "playerAbout3": "https://mydramalist.com/people/1914-kurashina-kana"
-    }    
+    },
+    {
+      "id": 24,
+      "koreasName": "Last Samurai Standing",
+      "koreasImage": "https://i.mydramalist.com/oQ08pL_4f.jpg",
+      "type": "j-drama",
+      "rating": 8.3,
+      "description": "2025 yılı yapımı bu dizide: Hikaye, samurayların görkemli günlerinden 10 yıl sonra, 1878 yılında Japonya'nın Kyoto kentinde başlar. Kimlikleri ve statüleri ellerinden alınan ve artık kılıç taşımalarına bile izin verilmeyen samuraylar, bu yeni çağda hayatta kalma mücadelesi verirler. Varlık uçurumu genişledikçe ve ölümcül bir kolera salgını yayıldıkça, bir kurtuluş şansı yakalanır: 100 bin yenlik bir turnuvaya katılma daveti. 292 savaşçı Tenryuji Tapınağı'nda toplanırlar, her biri tahta bir etiket verilir ve acımasız bir yarışmaya girilir. Hayatta kalabilmek için rakiplerinin etiketlerini çalmalı ve büyük para ödülünü almak için Tokyo'ya ulaşmalılar, ancak sorun şu ki sadece bir oyuncu hayatta kalacak. Oyun başladığında, savaşçılar akla gelebilecek her taktiği kullanırlar, bazıları uzaktan oklar fırlatır, diğerleri hançerlerle kaosun içinden geçer, bazıları ezici bir güce sahip devasa kılıçlar kullanır, bazıları ise kurnaz stratejilere güvenir. Savaşmanın pek çok yolu varken, hayatta kalma savaşı baş döndürücü bir hızla ilerler. Bu acımasız yolculuğa kim katlanacak ve bu gizemli ve öldürücü oyunun arkasındaki beyin kim?",
+      "playerName1": "Okada Junuchi\n(Shujiro Saga)",
+      "playerName2": "Fujisaki Yumia\n(Kazuki Futaba)",
+      "playerName3": "Kiyohara Kaya\n(Kinugasa Iroha)",
+      "playerImage1": "https://i.mydramalist.com/qKVN0_5c.jpg",
+      "playerImage2": "https://i.mydramalist.com/KpRkEq_5c.jpg",
+      "playerImage3": "https://i.mydramalist.com/QJYpx5_5c.jpg",
+      "genreIds": [1, 2, 8],
+      "genre1": "Aksiyon",
+      "genre2": "Gerilim",
+      "genre3": "Tarihi",
+      "contentRating": "15+",
+      "episode": "Bölüm: 6",
+      "playerAbout1": "https://mydramalist.com/people/977-okada-junichi",
+      "playerAbout2": "https://mydramalist.com/people/120155-fujisaki-yumia",
+      "playerAbout3": "https://mydramalist.com/people/12016-kiyohara-kaya"
+    }
   ]
 }
