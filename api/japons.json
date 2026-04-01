@@ -574,6 +574,29 @@
       "playerAbout1": "https://mydramalist.com/people/1586-oguri-shun",
       "playerAbout2": "https://mydramalist.com/people/300-han-hyo-joo",
       "playerAbout3": "https://mydramalist.com/people/267-akanishi-jin"
+    },
+    {
+      "id": 26,
+      "koreasName": "Suspicious Partner",
+      "koreasImage": "https://i.mydramalist.com/5v75o4_4f.jpg",
+      "type": "j-drama",
+      "rating": 7.4,
+      "description": "2025 yılı yapımı bu dizide: Yetenekli bir savcı olan Tateishi Haruto, otobüste Miyashita Sakura tarafından tacizci sanılır ve korkunç bir deneyim yaşar. Bundan sonra, erkek arkadaşı tarafından aldatıldıktan sonra zor zamanlar geçiren Sakura ile karşılaşır ve düşünmeden ona yardım eder... Bu durum, Haruto'nun Sakura'nın boğulma krizine katılmasına yol açar ve tamamen sarhoşken Sakura onu iter! Birkaç gün sonra, savcılık eğitimine gelen Sakura ile Haruto yeniden bir araya gelir. Haruto, Sakura'ya karşı serttir, ancak nedense onu yalnız bırakamaz. Bu ikili, olabilecek en kötü karşılaşmayla başlamıştır. Bu karşılaşma bir tesadüf müydü? Yoksa kaçınılmaz mıydı? Aşk konusunda çekingen iki insan hakkında, kaderin varlığına inanmanızı sağlayacak, buruk bir aşk komedisi, bu bahar gösterime giriyor!",
+      "playerName1": "Yagi Yusei\n(Tateishi Haruto)",
+      "playerName2": "Saito Kyoko\n(Miyashita Sakura)",
+      "playerName3": "Kusakawa Takuya\n(Umehara Ren)",
+      "playerImage1": "https://i.mydramalist.com/mOP2NJ_5c.jpg",
+      "playerImage2": "https://i.mydramalist.com/eYoNXd_5c.jpg",
+      "playerImage3": "",
+      "genreIds": [15, 4, 5],
+      "genre1": "Gerilim",
+      "genre2": "Komedi",
+      "genre3": "Romantik",
+      "contentRating": "15+",
+      "episode": "Bölüm: ",
+      "playerAbout1": "https://mydramalist.com/people/50187-yagi-yusei",
+      "playerAbout2": "https://mydramalist.com/people/15861-saito-kyoko",
+      "playerAbout3": "https://mydramalist.com/people/14443-kusakawa-takuya"
     }
   ]
 }
