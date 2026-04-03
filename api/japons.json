@@ -643,6 +643,29 @@
       "playerAbout1": "https://mydramalist.com/people/19244-itou-asahi",
       "playerAbout2": "https://mydramalist.com/people/56513-muto-jun",
       "playerAbout3": "https://mydramalist.com/people/17293-kitamura-yui"
+    },
+    {
+      "id": 29,
+      "koreasName": "Silent Truth",
+      "koreasImage": "https://i.mydramalist.com/VXPvWE_4f.jpg",
+      "type": "j-drama",
+      "rating": 7.5,
+      "description": "2026 yılı yapımı bu dizide: Hikaye 23 yıl öncesinde başlıyor. O zamanlar ilkokul altıncı sınıf öğrencisi olan Junichi, üç sınıf arkadaşıyla birlikte okul bahçesindeki bir kiraz ağacının altına, belirli bir olayda kullanılan bir tabancayı gömüyor. Dört çocuk bu sırrı paylaşıyor ve her biri kendi hayatını yaşıyor, sonunda ise yolları ayrılıyor. Yıllar sonra Junichi dedektif oluyor ve bir cinayet davasını soruşturmakla görevlendiriliyor. Soruşturma sırasında, çocukluk sırrını paylaştığı arkadaşlarından biri ve aynı zamanda ilk aşkı olan Makiko ile yeniden karşılaşıyor; Makiko şimdi onun karşısında \"Dedektif ve şüpheli\" olarak duruyor. Kısa süre sonra, cinayette kullanılan silahın, dördünün de uzun zaman önce gömdüğü tabanca olduğu ortaya çıkıyor.",
+      "playerName1": "Takeuchi Ryoma\n(Tobina Junichi)",
+      "playerName2": "Inoue Mao\n(Iwamoto Makiko)",
+      "playerName3": "Seto Koji\n(Kiyohara Keisuke)",
+      "playerImage1": "https://i.mydramalist.com/ZZ07O_5c.jpg",
+      "playerImage2": "https://i.mydramalist.com/r5Jdp_5c.jpg",
+      "playerImage3": "https://i.mydramalist.com/v5zAB_5c.jpg",
+      "genreIds": [15, 3, 5],
+      "genre1": "Gizem",
+      "genre2": "Romantik",
+      "genre3": "Dram",
+      "contentRating": "13+",
+      "episode": "Bölüm: 9",
+      "playerAbout1": "https://mydramalist.com/people/8686-takeuchi-ryoma",
+      "playerAbout2": "https://mydramalist.com/people/227-inoue-mao",
+      "playerAbout3": "https://mydramalist.com/people/358-seto-koji"
     }
   ]
 }
