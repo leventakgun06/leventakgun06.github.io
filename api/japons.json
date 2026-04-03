@@ -620,6 +620,29 @@
       "playerAbout1": "https://mydramalist.com/people/4013-koshiba-fuka",
       "playerAbout2": "https://mydramalist.com/people/249-sato-takeru",
       "playerAbout3": "https://mydramalist.com/people/483-yokoyama-yu"
+    },
+    {
+      "id": 28,
+      "koreasName": "When It Rains, It Pours",
+      "koreasImage": "https://i.mydramalist.com/zBbR4A_4f.jpg",
+      "type": "j-drama",
+      "rating": 8.1,
+      "description": "2025 yılı yapımı bu dizide: Hagiwara Kazuaki, kız arkadaşıyla yakınlık kurmadan bir hayat sürerken, bir gün yanlışlıkla iş arkadaşı Nakarai Sei'ye bir e-posta gönderir. Basit bir mesaj olarak başlayan bu ilişki, sevgi ve cinselliği arzulayan iki insan arasında açık ve özgürleştirici bir bağa dönüşür.",
+      "playerName1": "Ito Asahi\n(Nakarai Sei)",
+      "playerName2": "Muto Jun\n(Hagiwara Kazuaki)",
+      "playerName3": "Kitamura Yui\n(Shinomiya)",
+      "playerImage1": "https://i.mydramalist.com/4DmlJc.jpg",
+      "playerImage2": "https://i.mydramalist.com/JBWE5w_5c.jpg",
+      "playerImage3": "https://i.mydramalist.com/YYpmqe_5c.jpg",
+      "genreIds": [2, 3, 5],
+      "genre1": "Dram",
+      "genre2": "Romantik",
+      "genre3": "Gerilim",
+      "contentRating": "15+",
+      "episode": "Bölüm: 7",
+      "playerAbout1": "https://mydramalist.com/people/19244-itou-asahi",
+      "playerAbout2": "https://mydramalist.com/people/56513-muto-jun",
+      "playerAbout3": "https://mydramalist.com/people/17293-kitamura-yui"
     }
   ]
 }
