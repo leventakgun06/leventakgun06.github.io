@@ -666,6 +666,29 @@
       "playerAbout1": "https://mydramalist.com/people/8686-takeuchi-ryoma",
       "playerAbout2": "https://mydramalist.com/people/227-inoue-mao",
       "playerAbout3": "https://mydramalist.com/people/358-seto-koji"
+    },
+    {
+      "id": 30,
+      "koreasName": "Escape",
+      "koreasImage": "https://i.mydramalist.com/l0LPLQ_4f.jpg",
+      "type": "j-drama",
+      "rating": 8.0,
+      "description": "2025 yılı yapımı bu dizide: Büyük bir şirketin tek kızı olan Yagami Yui, 20. yaş günü partisinin yapıldığı gün kaçırılır. Ancak plan başarısızlıkla sonuçlanır ve faillerden biri olan Hayashida Daisuke orada şaşkın bir şekilde durur. Ancak rehine olması gereken genç kadının bir anda \"Benimle kaçın!\" demesiyle \"rehine ve kaçıran\" ikilinin tuhaf kaçışı başlar. Etraflarında bir kuşatma kuruluyor ve müttefikler ve düşmanlar bir anda yer değiştiriyor. Neden kaçmayı seçti? Tam olarak neyden kaçmaya çalışıyor? Aslında gizli bir \"sırrı\" vardır... Bir kaçırılma olayı, iki kişinin garip kaderlerini harekete geçirir. Gerçeği değiştirmek için çabalayan bu iki tamamlanmamış insanın sonucu ne olacak?",
+      "playerName1": "Sakurada Hiyori\n(Yagami Yui)",
+      "playerName2": "Sano Hayato\n(Hayashida Daisuke)",
+      "playerName3": "Kitamura Kazuki\n(Yagami Keiski)",
+      "playerImage1": "https://i.mydramalist.com/YY1PKd_5c.jpg",
+      "playerImage2": "https://i.mydramalist.com/oQZnkO_5c.jpg",
+      "playerImage3": "https://i.mydramalist.com/Zb3xL_5c.jpg",
+      "genreIds": [2, 3, 15],
+      "genre1": "Gerilim",
+      "genre2": "Dram",
+      "genre3": "Gizem",
+      "contentRating": "15+",
+      "episode": "Bölüm: 10",
+      "playerAbout1": "https://mydramalist.com/people/8720-sakurada-hiyori",
+      "playerAbout2": "https://mydramalist.com/people/13661-sano-hayato",
+      "playerAbout3": "https://mydramalist.com/people/1760-kitamura-kazuki"
     }
   ]
 }
