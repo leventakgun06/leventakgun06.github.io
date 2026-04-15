@@ -712,6 +712,29 @@
       "playerAbout1": "https://mydramalist.com/people/5211-yoshioka-hidetaka",
       "playerAbout2": "https://mydramalist.com/people/11002-noda-yojiro",
       "playerAbout3": "https://mydramalist.com/people/10157-takiuchi-kumi"
+    },
+    {
+      "id": 32,
+      "koreasName": "Sins of Kujo",
+      "koreasImage": "https://i.mydramalist.com/b3po2j_4f.jpg",
+      "type": "j-drama",
+      "rating": 7.6,
+      "description": "2026 yılı yapımı bu dizide: Hikaye, öncelikle gangsterler, yakuza üyeleri ve sabıkası olan kişiler gibi zorlu müvekkillerin davalarıyla ilgilenen bir avukatın, hukuku ahlaktan ayırarak müvekkilleri için en iyi çözümleri aramasını konu alıyor.",
+      "playerName1": "Yagira Yuya\n(Kujo Taiza)",
+      "playerName2": "Matsumura Hokuto\n(Karasuma Shinji)",
+      "playerName3": "Ikeda Elaiza\n(Yakushimae Hitomi)",
+      "playerImage1": "https://i.mydramalist.com/O8myPx_5c.jpg",
+      "playerImage2": "https://i.mydramalist.com/d0O3y0_5c.jpg",
+      "playerImage3": "https://i.mydramalist.com/kxvvb_5c.jpg",
+      "genreIds": [2, 12, 13],
+      "genre1": "Gerilim",
+      "genre2": "Hukuk",
+      "genre3": "Suç",
+      "contentRating": "15+",
+      "episode": "Bölüm: 10",
+      "playerAbout1": "https://mydramalist.com/people/836-yagira-yuuya",
+      "playerAbout2": "https://mydramalist.com/people/3032-matsumura-hokuto",
+      "playerAbout3": "https://mydramalist.com/people/10781-ikeda-elaiza"
     }
   ]
 }
