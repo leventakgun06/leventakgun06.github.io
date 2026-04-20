@@ -21458,6 +21458,29 @@
       "playerAbout1": "https://mydramalist.com/people/5346-moon-ga-young",
       "playerAbout2": "https://mydramalist.com/people/40661-choi-hyun-wook",
       "playerAbout3": "https://mydramalist.com/people/1585-im-se-mi"
+    },
+    {
+      "id": 934,
+      "koreasName": "Climax",
+      "koreasImage": "https://i.mydramalist.com/mOpzwQ_4f.jpg",
+      "type": "k-drama",
+      "rating": 7.0,
+      "description": "2026 yılı yapımı bu dizide: Durgunlaşmış kariyerini canlandırmak için umutsuz bir girişimde bulunan savcı Bang Tae Seop, absürt ama cesur bir plan kurar: Seul belediye başkanını, WR Group holdinginin başkanı Lee Yang Mi ile olan yolsuzluk bağlantılarını ortaya çıkararak devirmek. Tae Seop, Hwang Jeong Won'u muhbir olarak görevlendirir ve Yang Mi'ye karşı kendi kinini besleyen WR Group varisi Kwon Jong Uk'u da kendi davasına katılmaya ikna etmeyi başarır. Ancak Tae Seop, eskiden sevdiği oyuncu olan karısı Chu Sang A'nın kendisinden tehlikeli sırlar saklıyor olabileceğini keşfettiğinde, başlangıçta beklediğinden daha karmaşık bir durumla karşı karşıya kalır.",
+      "playerName1": "Ju Ji Hoon\n(Bang Tae Seop)",
+      "playerName2": "Ha Ji Won\n(Chu Sang A)",
+      "playerName3": "Nana\n(Hwang Jeong Won)",
+      "playerImage1": "https://i.mydramalist.com/qJVnB_5c.jpg",
+      "playerImage2": "https://i.mydramalist.com/oQKmqz_5c.jpg",
+      "playerImage3": "https://i.mydramalist.com/jbdQB_5c.jpg",
+      "genreIds": [2, 15, 16],
+      "genre1": "Gerilim",
+      "genre2": "Gizem",
+      "genre3": "Politik",
+      "contentRating": "15+",
+      "episode": "Bölüm: ",
+      "playerAbout1": "https://mydramalist.com/people/251-joo-ji-hoon",
+      "playerAbout2": "https://mydramalist.com/people/187-ha-ji-won",
+      "playerAbout3": "https://mydramalist.com/people/7694-nana"
     }
   ]
 }
