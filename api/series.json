@@ -21481,6 +21481,29 @@
       "playerAbout1": "https://mydramalist.com/people/251-joo-ji-hoon",
       "playerAbout2": "https://mydramalist.com/people/187-ha-ji-won",
       "playerAbout3": "https://mydramalist.com/people/7694-nana"
+    },
+    {
+      "id": 935,
+      "koreasName": "Phantom Lawyer",
+      "koreasImage": "https://i.mydramalist.com/g0pyn1_4f.jpg",
+      "type": "k-drama",
+      "rating": 8.1,
+      "description": "2026 yılı yapımı bu dizide: Hayaletleri gören avukat Sin I Rang ve seçkin avukat Han Na Hyeon'un, çok özel müvekkillerinin adaletsizliklerini hukuk yoluyla çözdüğü, tuhaf ve yürek ısıtan bir macera. Bu \"Özel müvekkiller\" aslında hayaletlerdir ve iki avukat davalarının ardındaki gerçeği ortaya çıkarırlar. Sin I Rang, eski bir şamanın evinde avukatlık yapmaya ve hayaletleri görmeye başlayan bir avukattır. Güvenilir görünümüne rağmen, Sin I Rang aslında çekingen ve sakardır. Ancak, trajik bir geçmişe sahip hayalet bir müvekkilinin yanında, beklenmedik derecede güçlü bir kararlılık sergiler. \"Ele geçirildiğinde\", yardım etmeye çalıştığı müvekkilinin özelliklerini geçici olarak ele geçirir ve bu da dramatik kişilik değişikliklerine yol açar. Han Na Hyeon, kusursuz bir kazanma geçmişine sahip seçkin bir avukattır. Sadece kazanma arzusuyla hareket eden Han Na Hyeon, acımasız bir verimlilikle alanının zirvesine tırmanmıştır. Ancak, Sin I Rang'a bir dava kaybettikten sonra hayatı beklenmedik bir dönüş almaya başlar. Başlangıçta Sin I Rang'ın hayaletleri görebildiğine inanmayı reddeder, ancak gözlerinin önünde gelişen tuhaf olaylara tanık oldukça, yavaş yavaş ona açılır ve soğuk ve hesapçı bir profesyonelden, gizli yaralarından iyileşmeye başlayan birine dönüşür.",
+      "playerName1": "Yoo Yeon Seok\n(Sin I Rang)",
+      "playerName2": "Esom\n(Han Na Hyeon)",
+      "playerName3": "Kim Kyung Nam\n(Yang Do Gyeong)",
+      "playerImage1": "https://i.mydramalist.com/p31Py_5c.jpg",
+      "playerImage2": "https://i.mydramalist.com/18ED5_5c.jpg",
+      "playerImage3": "https://i.mydramalist.com/qY2jQQ_5c.jpg",
+      "genreIds": [15, 4, 13],
+      "genre1": "Gizem",
+      "genre2": "Komedi",
+      "genre3": "Hukuk",
+      "contentRating": "15+",
+      "episode": "Bölüm: 16",
+      "playerAbout1": "https://mydramalist.com/people/1908-yoo-yeon-seok",
+      "playerAbout2": "https://mydramalist.com/people/2540-lee-som",
+      "playerAbout3": "https://mydramalist.com/people/16105-kim-kyung-nam"
     }
   ]
 }
