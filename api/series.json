@@ -21527,6 +21527,29 @@
       "playerAbout1": "https://mydramalist.com/people/593-ha-jung-woo",
       "playerAbout2": "https://mydramalist.com/people/283-im-soo-jung",
       "playerAbout3": "https://mydramalist.com/people/15803-kim-joon-han"
+    },
+    {
+      "id": 937,
+      "koreasName": "Reverse",
+      "koreasImage": "https://i.mydramalist.com/Kp4E44_4f.jpg",
+      "type": "k-drama",
+      "rating": 6.9,
+      "description": "2026 yılı yapımı bu dizide: Myo Jin, çocukken gizemli bir kazada anne ve babasını kaybetmiştir. 15 yıl boyunca sadece intikam düşüncesiyle acı çekmiştir. Mükemmel bir fırsat karşısına çıkar, ancak... Bir trafik kazasına karışır ve tüm hafızasını kaybeder. Kayıp anılarını kovalarken yeni gerçeklerle karşılaşır. Krizlerin etkisiyle, şok edici bir gerçeğe yaklaşmak zorunda kalırlar.",
+      "playerName1": "Seo Ji Hye\n(Ham Myo Jin)",
+      "playerName2": "Go Soo\n(Ryu Jun Ho)",
+      "playerName3": "Kim Jae Kyung\n(Choi Hui Su)",
+      "playerImage1": "https://i.mydramalist.com/En2vO_5c.jpg",
+      "playerImage2": "https://i.mydramalist.com/d3wYW_5c.jpg",
+      "playerImage3": "https://i.mydramalist.com/X6VEX_5c.jpg",
+      "genreIds": [2, 15, 3],
+      "genre1": "Gerilim",
+      "genre2": "Gizem",
+      "genre3": "Dram",
+      "contentRating": "15+",
+      "episode": "Bölüm: 8",
+      "playerAbout1": "https://mydramalist.com/people/534-seo-ji-hye",
+      "playerAbout2": "https://mydramalist.com/people/299-go-soo",
+      "playerAbout3": "https://mydramalist.com/people/2542-kim-jae-kyung"
     }
   ]
 }
