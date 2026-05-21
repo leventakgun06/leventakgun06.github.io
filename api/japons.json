@@ -1,6 +1,7 @@
 {
   "data": [
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Gannibal",
       "id": 1,
       "koreasName": "Gannibal",
       "type": "j-drama",
@@ -13,7 +14,11 @@
       "playerImage1": "https://i.mydramalist.com/r5rDj_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/XdAeeZ_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/jRQYr_5c.jpg",
-      "genreIds": [2, 15, 21],
+      "genreIds": [
+        2,
+        15,
+        21
+      ],
       "genre1": "Gerilim",
       "genre2": "Gizem",
       "genre3": "Korku",
@@ -24,6 +29,7 @@
       "playerAbout3": "https://mydramalist.com/people/12670-yoshioka-riho"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Boku%20Dake%20ga%20Inai%20Machi",
       "id": 2,
       "koreasName": "Boku Dake ga Inai Machi",
       "type": "j-drama",
@@ -36,7 +42,11 @@
       "playerImage1": "https://i.mydramalist.com/BnbRq_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/pVAD8_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/vEoRD_5c.jpg",
-      "genreIds": [2, 3, 15],
+      "genreIds": [
+        2,
+        3,
+        15
+      ],
       "genre1": "Gerilim",
       "genre2": "Dram",
       "genre3": "Gizem",
@@ -47,6 +57,7 @@
       "playerAbout3": "https://mydramalist.com/people/2791-kurotani-tomoka"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Saiai",
       "id": 3,
       "koreasName": "Saiai",
       "type": "j-drama",
@@ -59,7 +70,11 @@
       "playerImage1": "https://i.mydramalist.com/rz5em_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/EBEmQ_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/QPeL5_5c.jpg",
-      "genreIds": [2, 4, 15],
+      "genreIds": [
+        2,
+        4,
+        15
+      ],
       "genre1": "Gerilim",
       "genre2": "Romantik",
       "genre3": "Gizem",
@@ -70,6 +85,7 @@
       "playerAbout3": "https://mydramalist.com/people/1004-iura-arata"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Trillion%20Game",
       "id": 4,
       "koreasName": "Trillion Game",
       "type": "j-drama",
@@ -82,7 +98,11 @@
       "playerImage1": "https://i.mydramalist.com/e4lkn_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/Rv7wr_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/rljZD_5c.jpg",
-      "genreIds": [3, 4, 32],
+      "genreIds": [
+        3,
+        4,
+        32
+      ],
       "genre1": "Dram",
       "genre2": "Romantik",
       "genre3": "İş",
@@ -93,6 +113,7 @@
       "playerAbout3": "https://mydramalist.com/people/17543-imada-mio"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Mitaraike%2C%20Enjou%20Suru",
       "id": 5,
       "koreasName": "Mitaraike, Enjou Suru",
       "type": "j-drama",
@@ -105,7 +126,11 @@
       "playerImage1": "https://i.mydramalist.com/EXZel_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/e1ggW_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/E5vVJm_5c.jpg",
-      "genreIds": [2, 15, 3],
+      "genreIds": [
+        2,
+        15,
+        3
+      ],
       "genre1": "Gerilim",
       "genre2": "Gizem",
       "genre3": "Dram",
@@ -116,6 +141,7 @@
       "playerAbout3": "https://mydramalist.com/people/7860-kudo-asuka"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Pending%20Train%3A%208%3A23%2C%20Ashita%20Kimi%20to",
       "id": 6,
       "koreasName": "Pending Train: 8:23, Ashita Kimi to",
       "type": "j-drama",
@@ -128,7 +154,11 @@
       "playerImage1": "https://i.mydramalist.com/B1Wl6_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/Xd3jPq_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/vyrY2c.jpg",
-      "genreIds": [15, 3, 19],
+      "genreIds": [
+        15,
+        3,
+        19
+      ],
       "genre1": "Gizem",
       "genre2": "Dram",
       "genre3": "Yaşam",
@@ -139,6 +169,7 @@
       "playerAbout3": "https://mydramalist.com/people/19697-kamishiraishi-moka"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Rikon%20Shiyou%20Yo",
       "id": 7,
       "koreasName": "Rikon Shiyou Yo",
       "type": "j-drama",
@@ -151,7 +182,11 @@
       "playerImage1": "https://i.mydramalist.com/RBYqDP_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/r57rg_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/WDgxm_5c.jpg",
-      "genreIds": [3, 4, 19],
+      "genreIds": [
+        3,
+        4,
+        19
+      ],
       "genre1": "Dram",
       "genre2": "Komedi",
       "genre3": "Yaşam",
@@ -162,6 +197,7 @@
       "playerAbout3": "https://mydramalist.com/people/184-nishikido-ryo"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=From%20Me%20to%20You",
       "id": 8,
       "koreasName": "From Me to You",
       "type": "j-drama",
@@ -174,7 +210,11 @@
       "playerImage1": "https://i.mydramalist.com/dkJpg_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/RnZXE_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/jJREJ_5c.jpg",
-      "genreIds": [5, 19, 29],
+      "genreIds": [
+        5,
+        19,
+        29
+      ],
       "genre1": "Romantik",
       "genre2": "Yaşam",
       "genre3": "Gençlik",
@@ -185,6 +225,7 @@
       "playerAbout3": "https://mydramalist.com/people/70969-kaito"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Yu%20Yu%20Hakusho",
       "id": 9,
       "koreasName": "Yu Yu Hakusho",
       "type": "j-drama",
@@ -197,7 +238,11 @@
       "playerImage1": "https://i.mydramalist.com/pddm8n_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/vXoWnB_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/qxYYP_5c.jpg",
-      "genreIds": [1, 11, 31],
+      "genreIds": [
+        1,
+        11,
+        31
+      ],
       "genre1": "Aksiyon",
       "genre2": "Macera",
       "genre3": "Doğaüstü",
@@ -208,6 +253,7 @@
       "playerAbout3": "https://mydramalist.com/people/6613-shison-jun"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Vivant",
       "id": 10,
       "koreasName": "Vivant",
       "type": "j-drama",
@@ -220,7 +266,11 @@
       "playerImage1": "https://i.mydramalist.com/E1kgm_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/6wwg0_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/E3ew7_5c.jpg",
-      "genreIds": [1, 2, 15],
+      "genreIds": [
+        1,
+        2,
+        15
+      ],
       "genre1": "Aksiyon",
       "genre2": "Gerilim",
       "genre3": "Gizem",
@@ -231,11 +281,12 @@
       "playerAbout3": "https://mydramalist.com/people/3489-nikaido-fumi"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Fermat%20no%20Ryori",
       "id": 11,
       "koreasName": "Fermat no Ryori",
       "type": "j-drama",
       "koreasImage": "https://i.mydramalist.com/RBP2lx_4f.jpg",
-      "rating": 8.0,
+      "rating": 8,
       "description": "2023 yılı yapımı bu dizide: Kitada Gaku matematikte yeteneklidir. Matematikçi olmayı hayal eder ama bu hayalinden vazgeçer. Artık günlerini amaçsız geçirir. Bir gün Asakura Kai adında dahi bir şefle tanışır. Asakura Kai, Kitada Gaku'yu mutfak dünyasına taşır. Kitada Gaku kısa süre sonra dünyanın her yerinden yetenekli şeflerin birlikte çalışıp birlikte öğrendiği Asakura Kai'nin iki yıldızlı restoranı K'ya katılır. Kitada Gaku orada yemek yapmayı da öğrenir ve matematiksel düşünceden yola çıkarak kendi tariflerini geliştirir.",
       "playerName1": "Takahashi Fumiya\n(Kitada Gaku)",
       "playerName2": "Shison Jun\n(Asakura Kai)",
@@ -243,7 +294,11 @@
       "playerImage1": "https://i.mydramalist.com/BkwL7_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/qxYYP_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/q1eXB_5c.jpg",
-      "genreIds": [3, 24, 32],
+      "genreIds": [
+        3,
+        24,
+        32
+      ],
       "genre1": "Dram",
       "genre2": "Yemek",
       "genre3": "İş",
@@ -254,6 +309,7 @@
       "playerAbout3": "https://mydramalist.com/people/4013-koshiba-fuka"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Maiko-san%20Chi%20no%20Makanai-san",
       "id": 12,
       "koreasName": "Maiko-san Chi no Makanai-san",
       "type": "j-drama",
@@ -266,7 +322,11 @@
       "playerImage1": "https://i.mydramalist.com/eYwKVY_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/0glkK_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/ROleV_5c.jpg",
-      "genreIds": [4, 19, 24],
+      "genreIds": [
+        4,
+        19,
+        24
+      ],
       "genre1": "Komedi",
       "genre2": "Yaşam",
       "genre3": "Yemek",
@@ -277,6 +337,7 @@
       "playerAbout3": "https://mydramalist.com/people/13949-makita-aju"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Kimi%20to%20Nara%20Koi%20wo%20Shite%20Mite%20mo",
       "id": 13,
       "koreasName": "Kimi to Nara Koi wo Shite Mite mo",
       "type": "j-drama",
@@ -289,7 +350,11 @@
       "playerImage1": "https://i.mydramalist.com/WD7PX_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/d6PjW_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/EmYbz_5c.jpg",
-      "genreIds": [5, 19, 29],
+      "genreIds": [
+        5,
+        19,
+        29
+      ],
       "genre1": "Romantik",
       "genre2": "Yaşam",
       "genre3": "Gençlik",
@@ -300,6 +365,7 @@
       "playerAbout3": "https://mydramalist.com/people/110629-aoyama-ryota"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=One%20Piece",
       "id": 14,
       "koreasName": "One Piece",
       "type": "j-drama",
@@ -312,7 +378,11 @@
       "playerImage1": "https://i.mydramalist.com/jQQqDw_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/jP2OJ_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/Bdd7wq_5c.jpg",
-      "genreIds": [1, 4, 11],
+      "genreIds": [
+        1,
+        4,
+        11
+      ],
       "genre1": "Aksiyon",
       "genre2": "Komedi",
       "genre3": "Macera",
@@ -323,6 +393,7 @@
       "playerAbout3": "https://mydramalist.com/people/116491-emily-rudd"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Wonderhatch%3A%20Soratobu%20Ryu%20no%20Shima",
       "id": 15,
       "koreasName": "Wonderhatch: Soratobu Ryu no Shima",
       "type": "j-drama",
@@ -335,7 +406,11 @@
       "playerImage1": "https://i.mydramalist.com/BEqjz_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/dNknK_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/jP2OJ_5c.jpg",
-      "genreIds": [1, 3, 11],
+      "genreIds": [
+        1,
+        3,
+        11
+      ],
       "genre1": "Aksiyon",
       "genre2": "Dram",
       "genre3": "Macera",
@@ -346,6 +421,7 @@
       "playerAbout3": "https://mydramalist.com/people/10816-mackenyu"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Yugure%20ni%2C%20Te%20wo%20Tsunagu",
       "id": 16,
       "koreasName": "Yugure ni, Te wo Tsunagu",
       "type": "j-drama",
@@ -358,7 +434,11 @@
       "playerImage1": "https://i.mydramalist.com/QJnYg7_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/jmVe8_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/eYyLdE_5c.jpg",
-      "genreIds": [5, 19, 29],
+      "genreIds": [
+        5,
+        19,
+        29
+      ],
       "genre1": "Romantik",
       "genre2": "Yaşam",
       "genre3": "Gençlik",
@@ -369,6 +449,7 @@
       "playerAbout3": "https://mydramalist.com/people/3530-matsumoto-wakana"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=House%20of%20Ninjas",
       "id": 17,
       "koreasName": "House of Ninjas",
       "type": "j-drama",
@@ -381,7 +462,11 @@
       "playerImage1": "https://i.mydramalist.com/ejpnq_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/jRQYr_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/1gOWyc.jpg",
-      "genreIds": [1, 2, 15],
+      "genreIds": [
+        1,
+        2,
+        15
+      ],
       "genre1": "Aksiyon",
       "genre2": "Gerilim",
       "genre3": "Gizem",
@@ -392,6 +477,7 @@
       "playerAbout3": "https://mydramalist.com/people/681-eguchi-yosuke"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Sugar%20Sugar%20Honey",
       "id": 18,
       "koreasName": "Sugar Sugar Honey",
       "type": "j-drama",
@@ -404,7 +490,11 @@
       "playerImage1": "https://i.mydramalist.com/20KqP_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/rl2r2_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/1VAw7_5c.jpg",
-      "genreIds": [5, 19, 24],
+      "genreIds": [
+        5,
+        19,
+        24
+      ],
       "genre1": "Romantik",
       "genre2": "Yaşam",
       "genre3": "Yemek",
@@ -415,6 +505,7 @@
       "playerAbout3": "https://mydramalist.com/people/19678-oshida-gaku"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Shogun",
       "id": 19,
       "koreasName": "Shogun",
       "type": "j-drama",
@@ -427,7 +518,11 @@
       "playerImage1": "https://i.mydramalist.com/jwqyb_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/QJmR64_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/1wg0nb_5c.jpg",
-      "genreIds": [1, 8, 3],
+      "genreIds": [
+        1,
+        8,
+        3
+      ],
       "genre1": "Aksiyon",
       "genre2": "Tarihi",
       "genre3": "Dram",
@@ -438,6 +533,7 @@
       "playerAbout3": "https://mydramalist.com/people/98733-anna-sawai"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=House%20of%20the%20Owl",
       "id": 20,
       "koreasName": "House of the Owl",
       "type": "j-drama",
@@ -450,7 +546,11 @@
       "playerImage1": "https://i.mydramalist.com/1wdwvd_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/jP2OJ_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/rNNQL7_5c.jpg",
-      "genreIds": [1, 2, 3],
+      "genreIds": [
+        1,
+        2,
+        3
+      ],
       "genre1": "Aksiyon",
       "genre2": "Gerilim",
       "genre3": "Dram",
@@ -461,6 +561,7 @@
       "playerAbout3": "https://mydramalist.com/people/2655-manda-hisako"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Onzoshi%20ni%20Koi%20wa%20Muzu%20Sugiru",
       "id": 21,
       "koreasName": "Onzoshi ni Koi wa Muzu Sugiru",
       "type": "j-drama",
@@ -473,7 +574,11 @@
       "playerImage1": "https://i.mydramalist.com/kAd2z8_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/RBY20o_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/qYxyj2_5c.jpg",
-      "genreIds": [3, 4, 5],
+      "genreIds": [
+        3,
+        4,
+        5
+      ],
       "genre1": "Komedi",
       "genre2": "Romantik",
       "genre3": "Dram",
@@ -484,6 +589,7 @@
       "playerAbout3": "https://mydramalist.com/people/8858-nishihata-daigo"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=A%20Calm%20Sea%20and%20Beautiful%20Days%20with%20You",
       "id": 22,
       "koreasName": "A Calm Sea and Beautiful Days with You",
       "type": "j-drama",
@@ -496,7 +602,11 @@
       "playerImage1": "https://i.mydramalist.com/Kp0EZn_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/81gVrQ_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/73W1zy_5c.jpg",
-      "genreIds": [8, 5, 3],
+      "genreIds": [
+        8,
+        5,
+        3
+      ],
       "genre1": "Tarihi",
       "genre2": "Romantik",
       "genre3": "Dram",
@@ -507,6 +617,7 @@
       "playerAbout3": "https://mydramalist.com/people/2054-yamamoto-maika"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Miss%20King",
       "id": 23,
       "koreasName": "Miss King",
       "koreasImage": "https://i.mydramalist.com/ABVXOE_4f.jpg",
@@ -519,7 +630,11 @@
       "playerImage1": "https://i.mydramalist.com/mOdlo0_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/qL61Q_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/NdbezA_5c.jpg",
-      "genreIds": [2, 3, 20],
+      "genreIds": [
+        2,
+        3,
+        20
+      ],
       "genre1": "Gerilim",
       "genre2": "Dram",
       "genre3": "Aile",
@@ -530,6 +645,7 @@
       "playerAbout3": "https://mydramalist.com/people/1914-kurashina-kana"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Last%20Samurai%20Standing",
       "id": 24,
       "koreasName": "Last Samurai Standing",
       "koreasImage": "https://i.mydramalist.com/oQ08pL_4f.jpg",
@@ -542,7 +658,11 @@
       "playerImage1": "https://i.mydramalist.com/qKVN0_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/KpRkEq_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/QJYpx5_5c.jpg",
-      "genreIds": [1, 2, 8],
+      "genreIds": [
+        1,
+        2,
+        8
+      ],
       "genre1": "Aksiyon",
       "genre2": "Gerilim",
       "genre3": "Tarihi",
@@ -553,6 +673,7 @@
       "playerAbout3": "https://mydramalist.com/people/12016-kiyohara-kaya"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Romantics%20Anonymous",
       "id": 25,
       "koreasName": "Romantics Anonymous",
       "koreasImage": "https://i.mydramalist.com/734QvR_4f.jpg",
@@ -565,7 +686,11 @@
       "playerImage1": "https://i.mydramalist.com/jYAAB_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/R6W7x_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/1BOpy_5c.jpg",
-      "genreIds": [3, 4, 5],
+      "genreIds": [
+        3,
+        4,
+        5
+      ],
       "genre1": "Dram",
       "genre2": "Komedi",
       "genre3": "Romantik",
@@ -576,6 +701,7 @@
       "playerAbout3": "https://mydramalist.com/people/267-akanishi-jin"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Suspicious%20Partner",
       "id": 26,
       "koreasName": "Suspicious Partner",
       "koreasImage": "https://i.mydramalist.com/5v75o4_4f.jpg",
@@ -588,7 +714,11 @@
       "playerImage1": "https://i.mydramalist.com/mOP2NJ_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/eYoNXd_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/w3gyJ_5c.jpg",
-      "genreIds": [15, 4, 5],
+      "genreIds": [
+        15,
+        4,
+        5
+      ],
       "genre1": "Gerilim",
       "genre2": "Komedi",
       "genre3": "Romantik",
@@ -599,6 +729,7 @@
       "playerAbout3": "https://mydramalist.com/people/14443-kusakawa-takuya"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Marry%20My%20Husband%3A%20Japan",
       "id": 27,
       "koreasName": "Marry My Husband: Japan",
       "koreasImage": "https://i.mydramalist.com/81LkAK_4f.jpg",
@@ -611,7 +742,11 @@
       "playerImage1": "https://i.mydramalist.com/81Po5K_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/NdnWwv_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/WPv04D_5c.jpg",
-      "genreIds": [5, 3, 7],
+      "genreIds": [
+        5,
+        3,
+        7
+      ],
       "genre1": "Romantik",
       "genre2": "Dram",
       "genre3": "Fantastik",
@@ -622,6 +757,7 @@
       "playerAbout3": "https://mydramalist.com/people/483-yokoyama-yu"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=When%20It%20Rains%2C%20It%20Pours",
       "id": 28,
       "koreasName": "When It Rains, It Pours",
       "koreasImage": "https://i.mydramalist.com/zBbR4A_4f.jpg",
@@ -634,7 +770,11 @@
       "playerImage1": "https://i.mydramalist.com/4DmlJc.jpg",
       "playerImage2": "https://i.mydramalist.com/JBWE5w_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/YYpmqe_5c.jpg",
-      "genreIds": [2, 3, 5],
+      "genreIds": [
+        2,
+        3,
+        5
+      ],
       "genre1": "Dram",
       "genre2": "Romantik",
       "genre3": "Gerilim",
@@ -645,6 +785,7 @@
       "playerAbout3": "https://mydramalist.com/people/17293-kitamura-yui"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Silent%20Truth",
       "id": 29,
       "koreasName": "Silent Truth",
       "koreasImage": "https://i.mydramalist.com/VXPvWE_4f.jpg",
@@ -657,7 +798,11 @@
       "playerImage1": "https://i.mydramalist.com/ZZ07O_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/r5Jdp_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/v5zAB_5c.jpg",
-      "genreIds": [15, 3, 5],
+      "genreIds": [
+        15,
+        3,
+        5
+      ],
       "genre1": "Gizem",
       "genre2": "Romantik",
       "genre3": "Dram",
@@ -668,11 +813,12 @@
       "playerAbout3": "https://mydramalist.com/people/358-seto-koji"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Escape",
       "id": 30,
       "koreasName": "Escape",
       "koreasImage": "https://i.mydramalist.com/l0LPLQ_4f.jpg",
       "type": "j-drama",
-      "rating": 8.0,
+      "rating": 8,
       "description": "2025 yılı yapımı bu dizide: Büyük bir şirketin tek kızı olan Yagami Yui, 20. yaş günü partisinin yapıldığı gün kaçırılır. Ancak plan başarısızlıkla sonuçlanır ve faillerden biri olan Hayashida Daisuke orada şaşkın bir şekilde durur. Ancak rehine olması gereken genç kadının bir anda \"Benimle kaçın!\" demesiyle \"rehine ve kaçıran\" ikilinin tuhaf kaçışı başlar. Etraflarında bir kuşatma kuruluyor ve müttefikler ve düşmanlar bir anda yer değiştiriyor. Neden kaçmayı seçti? Tam olarak neyden kaçmaya çalışıyor? Aslında gizli bir \"sırrı\" vardır... Bir kaçırılma olayı, iki kişinin garip kaderlerini harekete geçirir. Gerçeği değiştirmek için çabalayan bu iki tamamlanmamış insanın sonucu ne olacak?",
       "playerName1": "Sakurada Hiyori\n(Yagami Yui)",
       "playerName2": "Sano Hayato\n(Hayashida Daisuke)",
@@ -680,7 +826,11 @@
       "playerImage1": "https://i.mydramalist.com/YY1PKd_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/oQZnkO_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/Zb3xL_5c.jpg",
-      "genreIds": [2, 3, 15],
+      "genreIds": [
+        2,
+        3,
+        15
+      ],
       "genre1": "Gerilim",
       "genre2": "Dram",
       "genre3": "Gizem",
@@ -691,6 +841,7 @@
       "playerAbout3": "https://mydramalist.com/people/1760-kitamura-kazuki"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Yoru%20no%20Dohyo%3A%20Aru%20Yogi%20Sha%20wo%20Meguru%20Kiroku",
       "id": 31,
       "koreasName": "Yoru no Dohyo: Aru Yogi Sha wo Meguru Kiroku",
       "koreasImage": "https://i.mydramalist.com/VXAJeL_4f.jpg",
@@ -703,7 +854,11 @@
       "playerImage1": "https://i.mydramalist.com/RBYvEo_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/6BD7X_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/jo2nB_5c.jpg",
-      "genreIds": [3, 15, 12],
+      "genreIds": [
+        3,
+        15,
+        12
+      ],
       "genre1": "Dram",
       "genre2": "Gizem",
       "genre3": "Suç",
@@ -714,6 +869,7 @@
       "playerAbout3": "https://mydramalist.com/people/10157-takiuchi-kumi"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Sins%20of%20Kujo",
       "id": 32,
       "koreasName": "Sins of Kujo",
       "koreasImage": "https://i.mydramalist.com/b3po2j_4f.jpg",
@@ -726,7 +882,11 @@
       "playerImage1": "https://i.mydramalist.com/O8myPx_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/d0O3y0_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/kxvvb_5c.jpg",
-      "genreIds": [2, 12, 13],
+      "genreIds": [
+        2,
+        12,
+        13
+      ],
       "genre1": "Gerilim",
       "genre2": "Hukuk",
       "genre3": "Suç",

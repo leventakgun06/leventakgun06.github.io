@@ -1,6 +1,7 @@
 {
   "data": [
     {
+      "koreasWeb": "https://mydramalist.com/search?q=200%20Pounds%20Beauty",
       "id": 1,
       "koreasName": "200 Pounds Beauty",
       "type": "k-movie",
@@ -13,7 +14,11 @@
       "playerImage1": "https://i.mydramalist.com/2KKJ2_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/QPeRg_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/XOo6p_5c.jpg",
-      "genreIds": [14, 4, 5],
+      "genreIds": [
+        14,
+        4,
+        5
+      ],
       "genre1": "Müzikal",
       "genre2": "Komedi",
       "genre3": "Romantik",
@@ -24,6 +29,7 @@
       "playerAbout3": "https://mydramalist.com/people/1113-sung-dong-il"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=26%20Years%20Diary",
       "id": 2,
       "koreasName": "26 Years Diary",
       "type": "k-movie",
@@ -36,7 +42,11 @@
       "playerImage1": "https://i.mydramalist.com/b3ykNc.jpg",
       "playerImage2": "https://i.mydramalist.com/xQA4wc.jpg",
       "playerImage3": "https://i.mydramalist.com/BWdqV_5c.jpg",
-      "genreIds": [5, 3, 19],
+      "genreIds": [
+        5,
+        3,
+        19
+      ],
       "genre1": "Romantik",
       "genre2": "Dram",
       "genre3": "Yaşam",
@@ -47,6 +57,7 @@
       "playerAbout3": ""
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=A%20Frozen%20Flower",
       "id": 3,
       "koreasName": "A Frozen Flower",
       "type": "k-movie",
@@ -59,7 +70,11 @@
       "playerImage1": "https://i.mydramalist.com/w8eqAc.jpg",
       "playerImage2": "https://i.mydramalist.com/2KKJ2_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/xYozyc.jpg",
-      "genreIds": [8, 3, 23],
+      "genreIds": [
+        8,
+        3,
+        23
+      ],
       "genre1": "Tarihi",
       "genre2": "Dram",
       "genre3": "Trajedi",
@@ -70,6 +85,7 @@
       "playerAbout3": ""
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=A%20Hard%20Day",
       "id": 4,
       "koreasName": "A Hard Day",
       "type": "k-movie",
@@ -82,7 +98,11 @@
       "playerImage1": "https://i.mydramalist.com/472z1_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/kOYmOc.jpg",
       "playerImage3": "https://i.mydramalist.com/jxNbz_5c.jpg",
-      "genreIds": [2, 15, 22],
+      "genreIds": [
+        2,
+        15,
+        22
+      ],
       "genre1": "Gerilim",
       "genre2": "Gizem",
       "genre3": "Polisiye",
@@ -93,6 +113,7 @@
       "playerAbout3": ""
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=A%20Taxi%20Driver",
       "id": 5,
       "koreasName": "A Taxi Driver",
       "type": "k-movie",
@@ -105,7 +126,11 @@
       "playerImage1": "https://i.mydramalist.com/RZ60Ec.jpg",
       "playerImage2": "https://i.mydramalist.com/7nXPyc.jpg",
       "playerImage3": "https://i.mydramalist.com/qoJl8c.jpg",
-      "genreIds": [8, 3, 16],
+      "genreIds": [
+        8,
+        3,
+        16
+      ],
       "genre1": "Tarihi",
       "genre2": "Dram",
       "genre3": "Politik",
@@ -116,6 +141,7 @@
       "playerAbout3": ""
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=A%20Violent%20Prosecutor",
       "id": 6,
       "koreasName": "A Violent Prosecutor",
       "type": "k-movie",
@@ -128,7 +154,11 @@
       "playerImage1": "https://i.mydramalist.com/dQWWb_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/Z650W_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/4rxVk_5c.jpg",
-      "genreIds": [13, 12, 22],
+      "genreIds": [
+        13,
+        12,
+        22
+      ],
       "genre1": "Hukuk",
       "genre2": "Suç",
       "genre3": "Polisiye",
@@ -139,6 +169,7 @@
       "playerAbout3": "https://mydramalist.com/people/1658-lee-sung-min"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=A%20Werewolf%20Boy",
       "id": 7,
       "koreasName": "A Werewolf Boy",
       "type": "k-movie",
@@ -151,7 +182,11 @@
       "playerImage1": "https://i.mydramalist.com/1kymd_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/vywkBc.jpg",
       "playerImage3": "https://i.mydramalist.com/6E2dg_5c.jpg",
-      "genreIds": [5, 3, 7],
+      "genreIds": [
+        5,
+        3,
+        7
+      ],
       "genre1": "Romantik",
       "genre2": "Dram",
       "genre3": "Fantastik",
@@ -162,6 +197,7 @@
       "playerAbout3": ""
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Am%2011%3A00",
       "id": 8,
       "koreasName": "Am 11:00",
       "type": "k-movie",
@@ -174,7 +210,11 @@
       "playerImage1": "https://i.mydramalist.com/pOLDEc.jpg",
       "playerImage2": "https://i.mydramalist.com/r3qVp_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/xg8WXc.jpg",
-      "genreIds": [2, 15, 3],
+      "genreIds": [
+        2,
+        15,
+        3
+      ],
       "genre1": "Gerilim",
       "genre2": "Gizem",
       "genre3": "Dram",
@@ -185,6 +225,7 @@
       "playerAbout3": "https://mydramalist.com/people/629-choi-daniel"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Anarchist%20From%20Colony",
       "id": 9,
       "koreasName": "Anarchist From Colony",
       "type": "k-movie",
@@ -197,7 +238,11 @@
       "playerImage1": "https://i.mydramalist.com/BzlmV_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/4Dn7dc.jpg",
       "playerImage3": "https://i.mydramalist.com/724rLc.jpg",
-      "genreIds": [8, 4, 3],
+      "genreIds": [
+        8,
+        4,
+        3
+      ],
       "genre1": "Tarihi",
       "genre2": "Komedi",
       "genre3": "Dram",
@@ -208,6 +253,7 @@
       "playerAbout3": ""
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=APT",
       "id": 10,
       "koreasName": "APT",
       "type": "k-movie",
@@ -220,7 +266,11 @@
       "playerImage1": "https://i.mydramalist.com/14ny6c.jpg",
       "playerImage2": "https://i.mydramalist.com/pVLYB_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/p1PAE_5c.jpg",
-      "genreIds": [2, 15, 21],
+      "genreIds": [
+        2,
+        15,
+        21
+      ],
       "genre1": "Gerilim",
       "genre2": "Gizem",
       "genre3": "Korku",
@@ -231,6 +281,7 @@
       "playerAbout3": "https://mydramalist.com/people/1465-kim-dong-wook"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Assassination",
       "id": 11,
       "koreasName": "Assassination",
       "type": "k-movie",
@@ -243,7 +294,11 @@
       "playerImage1": "https://i.mydramalist.com/x1Xb0_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/2zEwW_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/xw56y_5c.jpg",
-      "genreIds": [8, 12, 3],
+      "genreIds": [
+        8,
+        12,
+        3
+      ],
       "genre1": "Tarihi",
       "genre2": "Suç",
       "genre3": "Dram",
@@ -254,6 +309,7 @@
       "playerAbout3": "https://mydramalist.com/people/593-ha-jung-woo"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Bluebeard",
       "id": 12,
       "koreasName": "Bluebeard",
       "type": "k-movie",
@@ -266,7 +322,11 @@
       "playerImage1": "https://i.mydramalist.com/kOYmOc.jpg",
       "playerImage2": "https://i.mydramalist.com/exVee_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/xxxlz_5c.jpg",
-      "genreIds": [2, 12, 3],
+      "genreIds": [
+        2,
+        12,
+        3
+      ],
       "genre1": "Gerilim",
       "genre2": "Suç",
       "genre3": "Dram",
@@ -277,6 +337,7 @@
       "playerAbout3": ""
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Bounty%20Hunters",
       "id": 13,
       "koreasName": "Bounty Hunters",
       "type": "k-movie",
@@ -289,7 +350,11 @@
       "playerImage1": "https://i.mydramalist.com/kEpQwc.jpg",
       "playerImage2": "https://i.mydramalist.com/RO6VP_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/wB7Qp_5c.jpg",
-      "genreIds": [4, 5, 12],
+      "genreIds": [
+        4,
+        5,
+        12
+      ],
       "genre1": "Komedi",
       "genre2": "Romantik",
       "genre3": "Suç",
@@ -300,6 +365,7 @@
       "playerAbout3": ""
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Burning",
       "id": 14,
       "koreasName": "Burning",
       "type": "k-movie",
@@ -312,7 +378,11 @@
       "playerImage1": "https://i.mydramalist.com/2WKrw_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/zvQeec.jpg",
       "playerImage3": "https://i.mydramalist.com/B4Jl5_5c.jpg",
-      "genreIds": [15, 9, 5],
+      "genreIds": [
+        15,
+        9,
+        5
+      ],
       "genre1": "Gizem",
       "genre2": "Psikolojik",
       "genre3": "Romantik",
@@ -323,6 +393,7 @@
       "playerAbout3": "https://mydramalist.com/people/15813-jun-song-seo"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Castaway%20on%20the%20Moon",
       "id": 15,
       "koreasName": "Castaway on the Moon",
       "type": "k-movie",
@@ -335,7 +406,11 @@
       "playerImage1": "https://i.mydramalist.com/pOLDEc.jpg",
       "playerImage2": "https://i.mydramalist.com/xkjmwc.jpg",
       "playerImage3": "https://i.mydramalist.com/MjjKyc.jpg",
-      "genreIds": [4, 19, 3],
+      "genreIds": [
+        4,
+        19,
+        3
+      ],
       "genre1": "Komedi",
       "genre2": "Yaşam",
       "genre3": "Dram",
@@ -346,6 +421,7 @@
       "playerAbout3": ""
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Cold%20Eyes",
       "id": 16,
       "koreasName": "Cold Eyes",
       "type": "k-movie",
@@ -358,7 +434,11 @@
       "playerImage1": "https://i.mydramalist.com/2zEmO_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/BoB0z_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/j8P5vc.jpg",
-      "genreIds": [2, 15, 12],
+      "genreIds": [
+        2,
+        15,
+        12
+      ],
       "genre1": "Gerilim",
       "genre2": "Gizem",
       "genre3": "Suç",
@@ -369,6 +449,7 @@
       "playerAbout3": "https://mydramalist.com/people/1266-sol-kyung-gu"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Confession%20of%20Murder",
       "id": 17,
       "koreasName": "Confession of Murder",
       "type": "k-movie",
@@ -381,7 +462,11 @@
       "playerImage1": "https://i.mydramalist.com/pOLDEc.jpg",
       "playerImage2": "https://i.mydramalist.com/2DjjVc.jpg",
       "playerImage3": "https://i.mydramalist.com/N7XnAc.jpg",
-      "genreIds": [1, 2, 12],
+      "genreIds": [
+        1,
+        2,
+        12
+      ],
       "genre1": "Aksiyon",
       "genre2": "Gerilim",
       "genre3": "Suç",
@@ -392,6 +477,7 @@
       "playerAbout3": ""
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Daisy",
       "id": 18,
       "koreasName": "Daisy",
       "type": "k-movie",
@@ -404,7 +490,11 @@
       "playerImage1": "https://i.mydramalist.com/2zEmO_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/x1Xb0_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/ej27Q_5c.jpg",
-      "genreIds": [1, 5, 3],
+      "genreIds": [
+        1,
+        5,
+        3
+      ],
       "genre1": "Aksiyon",
       "genre2": "Romantik",
       "genre3": "Dram",
@@ -415,6 +505,7 @@
       "playerAbout3": "https://mydramalist.com/people/1404-lee-sung-jae"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Detective%20K%3A%20Secret%20of%20the%20Lost%20Island",
       "id": 19,
       "koreasName": "Detective K: Secret of the Lost Island",
       "type": "k-movie",
@@ -427,7 +518,11 @@
       "playerImage1": "https://i.mydramalist.com/Wz3ml_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/2nD0d_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/BwXQ5c.jpg",
-      "genreIds": [8, 4, 22],
+      "genreIds": [
+        8,
+        4,
+        22
+      ],
       "genre1": "Tarihi",
       "genre2": "Komedi",
       "genre3": "Polisiye",
@@ -438,6 +533,7 @@
       "playerAbout3": "https://mydramalist.com/people/552-lee-yun-hee"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Don't%20Worry%20It's%20a%20Ghost",
       "id": 20,
       "koreasName": "Don't Worry It's a Ghost",
       "type": "k-movie",
@@ -450,7 +546,11 @@
       "playerImage1": "https://i.mydramalist.com/B4qqb_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/EbNvW_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/enkVqc.jpg",
-      "genreIds": [5, 7, 23],
+      "genreIds": [
+        5,
+        7,
+        23
+      ],
       "genre1": "Romantik",
       "genre2": "Fantastik",
       "genre3": "Trajedi",
@@ -461,6 +561,7 @@
       "playerAbout3": ""
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Dreams%20Come%20True",
       "id": 21,
       "koreasName": "Dreams Come True",
       "type": "k-movie",
@@ -473,7 +574,11 @@
       "playerImage1": "https://i.mydramalist.com/ej27Q_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/0b5dkc.jpg",
       "playerImage3": "https://i.mydramalist.com/v3O68_5c.jpg",
-      "genreIds": [3, 27, 19],
+      "genreIds": [
+        3,
+        27,
+        19
+      ],
       "genre1": "Dram",
       "genre2": "Spor",
       "genre3": "Yaşam",
@@ -484,6 +589,7 @@
       "playerAbout3": "https://mydramalist.com/people/4439-kim-byung-chul"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Exit",
       "id": 22,
       "koreasName": "Exit",
       "type": "k-movie",
@@ -496,7 +602,11 @@
       "playerImage1": "https://i.mydramalist.com/j8VlOc.jpg",
       "playerImage2": "https://i.mydramalist.com/4Jjdk_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/RJnePc.jpg",
-      "genreIds": [1, 4, 2],
+      "genreIds": [
+        1,
+        4,
+        2
+      ],
       "genre1": "Aksiyon",
       "genre2": "Komedi",
       "genre3": "Gerilim",
@@ -507,6 +617,7 @@
       "playerAbout3": "https://mydramalist.com/people/1659-go-doo-shim"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Empire%20of%20Lust",
       "id": 23,
       "koreasName": "Empire of Lust",
       "type": "k-movie",
@@ -519,7 +630,11 @@
       "playerImage1": "https://i.mydramalist.com/EN4dp_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/01XN7c.jpg",
       "playerImage3": "https://i.mydramalist.com/0Kxmr_5c.jpg",
-      "genreIds": [1, 8, 5],
+      "genreIds": [
+        1,
+        8,
+        5
+      ],
       "genre1": "Aksiyon",
       "genre2": "Tarihi",
       "genre3": "Romantik",
@@ -530,6 +645,7 @@
       "playerAbout3": "https://mydramalist.com/people/3850-kang-ha-neul"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Enemies%20In-Law",
       "id": 24,
       "koreasName": "Enemies In-Law",
       "type": "k-movie",
@@ -542,7 +658,11 @@
       "playerImage1": "https://i.mydramalist.com/vn118c.jpg",
       "playerImage2": "https://i.mydramalist.com/vzjEW_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/wwnNNc.jpg",
-      "genreIds": [4, 5, 20],
+      "genreIds": [
+        4,
+        5,
+        20
+      ],
       "genre1": "Komedi",
       "genre2": "Romantik",
       "genre3": "Aile",
@@ -553,6 +673,7 @@
       "playerAbout3": ""
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Extreme%20Job",
       "id": 25,
       "koreasName": "Extreme Job",
       "type": "k-movie",
@@ -565,7 +686,11 @@
       "playerImage1": "https://i.mydramalist.com/qPwzQ_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/4BEOr_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/0dndK_5c.jpg",
-      "genreIds": [4, 12, 22],
+      "genreIds": [
+        4,
+        12,
+        22
+      ],
       "genre1": "Komedi",
       "genre2": "Suç",
       "genre3": "Polisiye",
@@ -576,6 +701,7 @@
       "playerAbout3": "https://mydramalist.com/people/5628-jin-sun-gyu"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Fabricated%20City",
       "id": 26,
       "koreasName": "Fabricated City",
       "type": "k-movie",
@@ -588,7 +714,11 @@
       "playerImage1": "https://i.mydramalist.com/ZyyEJ_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/WKZ3l_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/27JKOc.jpg",
-      "genreIds": [1, 2, 12],
+      "genreIds": [
+        1,
+        2,
+        12
+      ],
       "genre1": "Aksiyon",
       "genre2": "Gerilim",
       "genre3": "Suç",
@@ -599,6 +729,7 @@
       "playerAbout3": "https://mydramalist.com/people/6005-ahn-jae-hong"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Fatal%20Intuition",
       "id": 27,
       "koreasName": "Fatal Intuition",
       "type": "k-movie",
@@ -611,7 +742,11 @@
       "playerImage1": "https://i.mydramalist.com/wrJg1_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/qoJl8c.jpg",
       "playerImage3": "https://i.mydramalist.com/x5Wl0_5c.jpg",
-      "genreIds": [2, 6, 3],
+      "genreIds": [
+        2,
+        6,
+        3
+      ],
       "genre1": "Gerilim",
       "genre2": "Soruşturma",
       "genre3": "Dram",
@@ -622,6 +757,7 @@
       "playerAbout3": "https://mydramalist.com/people/9289-lee-yoo-young"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Gangnam%201970",
       "id": 28,
       "koreasName": "Gangnam 1970",
       "type": "k-movie",
@@ -634,7 +770,11 @@
       "playerImage1": "https://i.mydramalist.com/kEpQwc.jpg",
       "playerImage2": "https://i.mydramalist.com/vEpkg_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/dZojW_5c.jpg",
-      "genreIds": [1, 3, 23],
+      "genreIds": [
+        1,
+        3,
+        23
+      ],
       "genre1": "Aksiyon",
       "genre2": "Dram",
       "genre3": "Trajedi",
@@ -645,6 +785,7 @@
       "playerAbout3": "https://mydramalist.com/people/289-jung-jin-young"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Hansel%20and%20Gretel",
       "id": 29,
       "koreasName": "Hansel and Gretel",
       "type": "k-movie",
@@ -657,7 +798,11 @@
       "playerImage1": "https://i.mydramalist.com/08rD4_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/WKZ3l_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/9OBpPc.jpg",
-      "genreIds": [21, 3, 7],
+      "genreIds": [
+        21,
+        3,
+        7
+      ],
       "genre1": "Korku",
       "genre2": "Dram",
       "genre3": "Fantastik",
@@ -668,6 +813,7 @@
       "playerAbout3": ""
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Hit-and-Run%20Squad",
       "id": 30,
       "koreasName": "Hit-and-Run Squad",
       "type": "k-movie",
@@ -680,7 +826,11 @@
       "playerImage1": "https://i.mydramalist.com/4k0oZc.jpg",
       "playerImage2": "https://i.mydramalist.com/dBNgb_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/j8VlOc.jpg",
-      "genreIds": [1, 15, 6],
+      "genreIds": [
+        1,
+        15,
+        6
+      ],
       "genre1": "Aksiyon",
       "genre2": "Gizem",
       "genre3": "Soruşturma",
@@ -691,6 +841,7 @@
       "playerAbout3": "https://mydramalist.com/people/1974-jo-jung-suk"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=House%20of%20the%20Disappeared",
       "id": 31,
       "koreasName": "House of the Disappeared",
       "type": "k-movie",
@@ -703,7 +854,11 @@
       "playerImage1": "https://i.mydramalist.com/27NzEc.jpg",
       "playerImage2": "https://i.mydramalist.com/eQwkY_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/0d5kY_5c.jpg",
-      "genreIds": [2, 15, 21],
+      "genreIds": [
+        2,
+        15,
+        21
+      ],
       "genre1": "Gerilim",
       "genre2": "Gizem",
       "genre3": "Korku",
@@ -714,6 +869,7 @@
       "playerAbout3": ""
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Humming",
       "id": 32,
       "koreasName": "Humming",
       "type": "k-movie",
@@ -726,7 +882,11 @@
       "playerImage1": "https://i.mydramalist.com/qDwpD_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/B3YD7c.jpg",
       "playerImage3": "https://i.mydramalist.com/wE3Qp_5c.jpg",
-      "genreIds": [5, 7, 3],
+      "genreIds": [
+        5,
+        7,
+        3
+      ],
       "genre1": "Romantik",
       "genre2": "Fantastik",
       "genre3": "Dram",
@@ -737,6 +897,7 @@
       "playerAbout3": "https://mydramalist.com/people/656-lee-min-ki"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Il%20Mare",
       "id": 33,
       "koreasName": "Il Mare",
       "type": "k-movie",
@@ -749,7 +910,11 @@
       "playerImage1": "https://i.mydramalist.com/x1Xb0_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/2zEwW_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/2wdORc.jpg",
-      "genreIds": [5, 7, 3],
+      "genreIds": [
+        5,
+        7,
+        3
+      ],
       "genre1": "Romantik",
       "genre2": "Fantastik",
       "genre3": "Dram",
@@ -760,6 +925,7 @@
       "playerAbout3": ""
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Intimate%20Strangers",
       "id": 34,
       "koreasName": "Intimate Strangers",
       "type": "k-movie",
@@ -772,7 +938,11 @@
       "playerImage1": "https://i.mydramalist.com/qoJl8c.jpg",
       "playerImage2": "https://i.mydramalist.com/kOYmOc.jpg",
       "playerImage3": "https://i.mydramalist.com/zvDe1c.jpg",
-      "genreIds": [2, 4, 3],
+      "genreIds": [
+        2,
+        4,
+        3
+      ],
       "genre1": "Gerilim",
       "genre2": "Komedi",
       "genre3": "Dram",
@@ -783,6 +953,7 @@
       "playerAbout3": "https://mydramalist.com/people/699-lee-seo-jin"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Jeon%20Woo%20Chi%3A%20The%20Taoist%20Wizard",
       "id": 35,
       "koreasName": "Jeon Woo Chi: The Taoist Wizard",
       "type": "k-movie",
@@ -795,7 +966,11 @@
       "playerImage1": "https://i.mydramalist.com/Z650W_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/WK2AR_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/Z8dB1c.jpg",
-      "genreIds": [1, 4, 7],
+      "genreIds": [
+        1,
+        4,
+        7
+      ],
       "genre1": "Aksiyon",
       "genre2": "Komedi",
       "genre3": "Fantastik",
@@ -806,6 +981,7 @@
       "playerAbout3": "https://mydramalist.com/people/659-kim-yoon-seok"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=KUNDO%3A%20Age%20of%20the%20Rampant",
       "id": 36,
       "koreasName": "KUNDO: Age of the Rampant",
       "type": "k-movie",
@@ -818,7 +994,11 @@
       "playerImage1": "https://i.mydramalist.com/xw56y_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/Z650W_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/j6Zl8_5c.jpg",
-      "genreIds": [1, 8, 3],
+      "genreIds": [
+        1,
+        8,
+        3
+      ],
       "genre1": "Aksiyon",
       "genre2": "Tarihi",
       "genre3": "Dram",
@@ -829,6 +1009,7 @@
       "playerAbout3": ""
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Love%2C%20Lies",
       "id": 37,
       "koreasName": "Love, Lies",
       "type": "k-movie",
@@ -841,7 +1022,11 @@
       "playerImage1": "https://i.mydramalist.com/BoB0z_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/p31Py_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/23LA2c.jpg",
-      "genreIds": [14, 8, 23],
+      "genreIds": [
+        14,
+        8,
+        23
+      ],
       "genre1": "Müzikal",
       "genre2": "Tarihi",
       "genre3": "Trajedi",
@@ -852,6 +1037,7 @@
       "playerAbout3": "https://mydramalist.com/people/4163-chun-woo-hee"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Luck-Key",
       "id": 38,
       "koreasName": "Luck-Key",
       "type": "k-movie",
@@ -864,7 +1050,11 @@
       "playerImage1": "https://i.mydramalist.com/qoJl8c.jpg",
       "playerImage2": "https://i.mydramalist.com/xLdjw_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/Zwg0Y_5c.jpg",
-      "genreIds": [4, 5, 12],
+      "genreIds": [
+        4,
+        5,
+        12
+      ],
       "genre1": "Komedi",
       "genre2": "Romantik",
       "genre3": "Suç",
@@ -875,6 +1065,7 @@
       "playerAbout3": "https://mydramalist.com/people/7310-im-ji-yeon"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Mandate",
       "id": 39,
       "koreasName": "Mandate",
       "type": "k-movie",
@@ -887,7 +1078,11 @@
       "playerImage1": "https://i.mydramalist.com/XXjeq_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/QgJoW_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/Bgvkq_5c.jpg",
-      "genreIds": [1, 2, 7],
+      "genreIds": [
+        1,
+        2,
+        7
+      ],
       "genre1": "Aksiyon",
       "genre2": "Gerilim",
       "genre3": "Fantastik",
@@ -898,6 +1093,7 @@
       "playerAbout3": ""
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Master",
       "id": 40,
       "koreasName": "Master",
       "type": "k-movie",
@@ -910,7 +1106,11 @@
       "playerImage1": "https://i.mydramalist.com/Erx2Qc.jpg",
       "playerImage2": "https://i.mydramalist.com/Z650W_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/RbYgo_5c.jpg",
-      "genreIds": [1, 12, 22],
+      "genreIds": [
+        1,
+        12,
+        22
+      ],
       "genre1": "Aksiyon",
       "genre2": "Spor",
       "genre3": "Polisiye",
@@ -921,6 +1121,7 @@
       "playerAbout3": "https://mydramalist.com/people/2406-kim-woo-bin"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Midnight%20Runners",
       "id": 41,
       "koreasName": "Midnight Runners",
       "type": "k-movie",
@@ -933,7 +1134,11 @@
       "playerImage1": "https://i.mydramalist.com/j8meyc.jpg",
       "playerImage2": "https://i.mydramalist.com/0Kxmr_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/XOo6p_5c.jpg",
-      "genreIds": [1, 18, 4],
+      "genreIds": [
+        1,
+        18,
+        4
+      ],
       "genre1": "Aksiyon",
       "genre2": "Dostluk",
       "genre3": "Komedi",
@@ -944,6 +1149,7 @@
       "playerAbout3": "https://mydramalist.com/people/1113-sung-dong-il"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Miss%20Granny",
       "id": 42,
       "koreasName": "Miss Granny",
       "type": "k-movie",
@@ -956,7 +1162,11 @@
       "playerImage1": "https://i.mydramalist.com/WvVvDc.jpg",
       "playerImage2": "https://i.mydramalist.com/WKZ3l_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/XrQ8Jc.jpg",
-      "genreIds": [14, 4, 3],
+      "genreIds": [
+        14,
+        4,
+        3
+      ],
       "genre1": "Müzikal",
       "genre2": "Komedi",
       "genre3": "Dram",
@@ -967,6 +1177,7 @@
       "playerAbout3": ""
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Montage",
       "id": 43,
       "koreasName": "Montage",
       "type": "k-movie",
@@ -979,7 +1190,11 @@
       "playerImage1": "https://i.mydramalist.com/dK73e_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/ZdZAq_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/nKo28c.jpg",
-      "genreIds": [2, 15, 3],
+      "genreIds": [
+        2,
+        15,
+        3
+      ],
       "genre1": "Gerilim",
       "genre2": "Gizem",
       "genre3": "Dram",
@@ -990,6 +1205,7 @@
       "playerAbout3": ""
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Mood%20of%20the%20Day",
       "id": 44,
       "koreasName": "Mood of the Day",
       "type": "k-movie",
@@ -1002,7 +1218,11 @@
       "playerImage1": "https://i.mydramalist.com/p31Py_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/Xqy8Z_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/0d5kY_5c.jpg",
-      "genreIds": [4, 5, 18],
+      "genreIds": [
+        4,
+        5,
+        18
+      ],
       "genre1": "Komedi",
       "genre2": "Romantik",
       "genre3": "Dostluk",
@@ -1013,6 +1233,7 @@
       "playerAbout3": ""
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=My%20Little%20Baby%2C%20Jaya",
       "id": 45,
       "koreasName": "My Little Baby, Jaya",
       "type": "k-movie",
@@ -1025,7 +1246,11 @@
       "playerImage1": "https://i.mydramalist.com/M33kVc.jpg",
       "playerImage2": "https://i.mydramalist.com/x2vdjc.jpg",
       "playerImage3": "https://i.mydramalist.com/rzprE_5c.jpg",
-      "genreIds": [19, 29, 23],
+      "genreIds": [
+        19,
+        29,
+        23
+      ],
       "genre1": "Yaşam",
       "genre2": "Gençlik",
       "genre3": "Trajedi",
@@ -1036,6 +1261,7 @@
       "playerAbout3": ""
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=No%20Tears%20For%20The%20Dead",
       "id": 46,
       "koreasName": "No Tears For The Dead",
       "type": "k-movie",
@@ -1048,7 +1274,11 @@
       "playerImage1": "https://i.mydramalist.com/Lxm33c.jpg",
       "playerImage2": "https://i.mydramalist.com/vgn5D_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/Qo6y4_5c.jpg",
-      "genreIds": [1, 2, 3],
+      "genreIds": [
+        1,
+        2,
+        3
+      ],
       "genre1": "Aksiyon",
       "genre2": "Gerilim",
       "genre3": "Dram",
@@ -1059,6 +1289,7 @@
       "playerAbout3": ""
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Northern%20Limit%20Line",
       "id": 47,
       "koreasName": "Northern Limit Line",
       "type": "k-movie",
@@ -1071,7 +1302,11 @@
       "playerImage1": "https://i.mydramalist.com/64JeXc.jpg",
       "playerImage2": "https://i.mydramalist.com/qbrYdc.jpg",
       "playerImage3": "https://i.mydramalist.com/pzODD_5c.jpg",
-      "genreIds": [1, 25, 26],
+      "genreIds": [
+        1,
+        25,
+        26
+      ],
       "genre1": "Aksiyon",
       "genre2": "Askeri",
       "genre3": "Savaş",
@@ -1082,6 +1317,7 @@
       "playerAbout3": "https://mydramalist.com/people/2671-kim-mu-yeol"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Office",
       "id": 48,
       "koreasName": "Office",
       "type": "k-movie",
@@ -1094,7 +1330,11 @@
       "playerImage1": "https://i.mydramalist.com/xW5v0_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/dAyjWc.jpg",
       "playerImage3": "https://i.mydramalist.com/Zvb4jc.jpg",
-      "genreIds": [15, 21, 9],
+      "genreIds": [
+        15,
+        21,
+        9
+      ],
       "genre1": "Gizem",
       "genre2": "Korku",
       "genre3": "Psikolojik",
@@ -1105,6 +1345,7 @@
       "playerAbout3": "https://mydramalist.com/people/1742-park-sung-woong"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Operation%20Chromite",
       "id": 49,
       "koreasName": "Operation Chromite",
       "type": "k-movie",
@@ -1117,7 +1358,11 @@
       "playerImage1": "https://i.mydramalist.com/AJrB8c.jpg",
       "playerImage2": "https://i.mydramalist.com/2zEwW_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/vzjEW_5c.jpg",
-      "genreIds": [8, 3, 26],
+      "genreIds": [
+        8,
+        3,
+        26
+      ],
       "genre1": "Tarihi",
       "genre2": "Dram",
       "genre3": "Savaş",
@@ -1128,6 +1373,7 @@
       "playerAbout3": "https://mydramalist.com/people/2121-jin-se-yeon"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Pandora",
       "id": 50,
       "koreasName": "Pandora",
       "type": "k-movie",
@@ -1140,7 +1386,11 @@
       "playerImage1": "https://i.mydramalist.com/x8mJ0_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/Wq7jD_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/dZojW_5c.jpg",
-      "genreIds": [2, 3, 5],
+      "genreIds": [
+        2,
+        3,
+        5
+      ],
       "genre1": "Gerilim",
       "genre2": "Dram",
       "genre3": "Romantik",
@@ -1151,6 +1401,7 @@
       "playerAbout3": "https://mydramalist.com/people/289-jung-jin-young"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Paradise",
       "id": 51,
       "koreasName": "Paradise",
       "type": "k-movie",
@@ -1163,7 +1414,11 @@
       "playerImage1": "https://i.mydramalist.com/Qy7kW_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/43jwQc.jpg",
       "playerImage3": "https://i.mydramalist.com/RRnBx_5c.jpg",
-      "genreIds": [5, 19, 3],
+      "genreIds": [
+        5,
+        19,
+        3
+      ],
       "genre1": "Romantik",
       "genre2": "Yaşam",
       "genre3": "Dram",
@@ -1174,6 +1429,7 @@
       "playerAbout3": ""
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Phantom%20Detective",
       "id": 52,
       "koreasName": "Phantom Detective",
       "type": "k-movie",
@@ -1186,7 +1442,11 @@
       "playerImage1": "https://i.mydramalist.com/BzlmV_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/eRgOKc.jpg",
       "playerImage3": "https://i.mydramalist.com/w8WwYc.jpg",
-      "genreIds": [15, 12, 22],
+      "genreIds": [
+        15,
+        12,
+        22
+      ],
       "genre1": "Gizem",
       "genre2": "Suç",
       "genre3": "Polisiye",
@@ -1197,6 +1457,7 @@
       "playerAbout3": "https://mydramalist.com/people/3044-kim-sung-kyun"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Postman%20to%20Heaven",
       "id": 53,
       "koreasName": "Postman to Heaven",
       "type": "k-movie",
@@ -1209,7 +1470,11 @@
       "playerImage1": "https://i.mydramalist.com/BoB0z_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/2ld4V_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/exVee_5c.jpg",
-      "genreIds": [5, 3, 7],
+      "genreIds": [
+        5,
+        3,
+        7
+      ],
       "genre1": "Romantik",
       "genre2": "Dram",
       "genre3": "Fantastik",
@@ -1220,6 +1485,7 @@
       "playerAbout3": ""
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Private%20Eye",
       "id": 54,
       "koreasName": "Private Eye",
       "type": "k-movie",
@@ -1232,7 +1498,11 @@
       "playerImage1": "https://i.mydramalist.com/2nD0d_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/0jgR4_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/dQWWb_5c.jpg",
-      "genreIds": [2, 15, 3],
+      "genreIds": [
+        2,
+        15,
+        3
+      ],
       "genre1": "Gerilim",
       "genre2": "Gizem",
       "genre3": "Dram",
@@ -1243,6 +1513,7 @@
       "playerAbout3": "https://mydramalist.com/people/938-hwang-jung-min"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Public%20Enemy%20Returns",
       "id": 55,
       "koreasName": "Public Enemy Returns",
       "type": "k-movie",
@@ -1255,7 +1526,11 @@
       "playerImage1": "https://i.mydramalist.com/pOLDEc.jpg",
       "playerImage2": "https://i.mydramalist.com/j8P5vc.jpg",
       "playerImage3": "https://i.mydramalist.com/x8mJ0_5c.jpg",
-      "genreIds": [2, 12, 22],
+      "genreIds": [
+        2,
+        12,
+        22
+      ],
       "genre1": "Gerilim",
       "genre2": "Suç",
       "genre3": "Polisiye",
@@ -1266,6 +1541,7 @@
       "playerAbout3": "https://mydramalist.com/people/261-kim-nam-gil"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Rampant",
       "id": 56,
       "koreasName": "Rampant",
       "type": "k-movie",
@@ -1278,7 +1554,11 @@
       "playerImage1": "https://i.mydramalist.com/qAkLdc.jpg",
       "playerImage2": "https://i.mydramalist.com/Lxm33c.jpg",
       "playerImage3": "https://i.mydramalist.com/6zd3g_5c.jpg",
-      "genreIds": [2, 12, 22],
+      "genreIds": [
+        2,
+        12,
+        22
+      ],
       "genre1": "Gerilim",
       "genre2": "Suç",
       "genre3": "Polisiye",
@@ -1289,6 +1569,7 @@
       "playerAbout3": "https://mydramalist.com/people/6557-jo-woo-jin"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Secretly%20Greatly",
       "id": 57,
       "koreasName": "Secretly Greatly",
       "type": "k-movie",
@@ -1301,7 +1582,11 @@
       "playerImage1": "https://i.mydramalist.com/WonJO_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/qbrYdc.jpg",
       "playerImage3": "https://i.mydramalist.com/jVw6zc.jpg",
-      "genreIds": [1, 4, 3],
+      "genreIds": [
+        1,
+        4,
+        3
+      ],
       "genre1": "Aksiyon",
       "genre2": "Komedi",
       "genre3": "Dram",
@@ -1312,6 +1597,7 @@
       "playerAbout3": "https://mydramalist.com/people/1544-park-ki-woong"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Secret%20Reunion",
       "id": 58,
       "koreasName": "Secret Reunion",
       "type": "k-movie",
@@ -1324,7 +1610,11 @@
       "playerImage1": "https://i.mydramalist.com/RZ60Ec.jpg",
       "playerImage2": "https://i.mydramalist.com/Z650W_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/xXNAEc.jpg",
-      "genreIds": [1, 2, 3],
+      "genreIds": [
+        1,
+        2,
+        3
+      ],
       "genre1": "Aksiyon",
       "genre2": "Gerilim",
       "genre3": "Dram",
@@ -1335,6 +1625,7 @@
       "playerAbout3": ""
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Seondal%3A%20The%20Man%20Who%20Sells%20the%20River",
       "id": 59,
       "koreasName": "Seondal: The Man Who Sells the River",
       "type": "k-movie",
@@ -1347,7 +1638,11 @@
       "playerImage1": "https://i.mydramalist.com/BDveR_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/pVp2B_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/e36zdc.jpg",
-      "genreIds": [8, 4, 12],
+      "genreIds": [
+        8,
+        4,
+        12
+      ],
       "genre1": "Tarihi",
       "genre2": "Komedi",
       "genre3": "Suç",
@@ -1358,6 +1653,7 @@
       "playerAbout3": ""
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Seven%20Days",
       "id": 60,
       "koreasName": "Seven Days",
       "type": "k-movie",
@@ -1370,7 +1666,11 @@
       "playerImage1": "https://i.mydramalist.com/27NzEc.jpg",
       "playerImage2": "https://i.mydramalist.com/YyvZWc.jpg",
       "playerImage3": "https://i.mydramalist.com/kWLmrc.jpg",
-      "genreIds": [2, 3, 6],
+      "genreIds": [
+        2,
+        3,
+        6
+      ],
       "genre1": "Gerilim",
       "genre2": "Dram",
       "genre3": "Soruşturma",
@@ -1381,6 +1681,7 @@
       "playerAbout3": "https://mydramalist.com/people/2587-park-hee-soon"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Shadows%20in%20the%20Palace",
       "id": 61,
       "koreasName": "Shadows in the Palace",
       "type": "k-movie",
@@ -1393,7 +1694,11 @@
       "playerImage1": "https://i.mydramalist.com/wkN3n_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/Xqopn_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/WXOy3_5c.jpg",
-      "genreIds": [8, 15, 3],
+      "genreIds": [
+        8,
+        15,
+        3
+      ],
       "genre1": "Tarihi",
       "genre2": "Gizem",
       "genre3": "Dram",
@@ -1404,6 +1709,7 @@
       "playerAbout3": ""
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Snowpiercer",
       "id": 62,
       "koreasName": "Snowpiercer",
       "type": "k-movie",
@@ -1416,7 +1722,11 @@
       "playerImage1": "https://i.mydramalist.com/jKmr8_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/RZ60Ec.jpg",
       "playerImage3": "https://i.mydramalist.com/rYe5Dc.jpg",
-      "genreIds": [7, 1, 3],
+      "genreIds": [
+        7,
+        1,
+        3
+      ],
       "genre1": "Fantastik",
       "genre2": "Aksiyon",
       "genre3": "Dram",
@@ -1427,6 +1737,7 @@
       "playerAbout3": "https://mydramalist.com/people/17441-tilda-swinton"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Spellbound",
       "id": 63,
       "koreasName": "Spellbound",
       "type": "k-movie",
@@ -1439,7 +1750,11 @@
       "playerImage1": "https://i.mydramalist.com/vgnXX_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/wE3Qp_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/dKZEA_5c.jpg",
-      "genreIds": [4, 5, 3],
+      "genreIds": [
+        4,
+        5,
+        3
+      ],
       "genre1": "Komedi",
       "genre2": "Romantik",
       "genre3": "Dram",
@@ -1450,6 +1765,7 @@
       "playerAbout3": ""
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Split",
       "id": 64,
       "koreasName": "Split",
       "type": "k-movie",
@@ -1462,7 +1778,11 @@
       "playerImage1": "https://i.mydramalist.com/eeyxe_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/6Pl1K_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/rOEnpc.jpg",
-      "genreIds": [18, 3, 27],
+      "genreIds": [
+        18,
+        3,
+        27
+      ],
       "genre1": "Dostluk",
       "genre2": "Dram",
       "genre3": "Spor",
@@ -1473,6 +1793,7 @@
       "playerAbout3": ""
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Stateless%20Things",
       "id": 65,
       "koreasName": "Stateless Things",
       "type": "k-movie",
@@ -1485,7 +1806,11 @@
       "playerImage1": "https://i.mydramalist.com/aD2Azc.jpg",
       "playerImage2": "https://i.mydramalist.com/GQ587c.jpg",
       "playerImage3": "https://i.mydramalist.com/1qq5Qc.jpg",
-      "genreIds": [3, 5, 18],
+      "genreIds": [
+        3,
+        5,
+        18
+      ],
       "genre1": "Dram",
       "genre2": "Romantik",
       "genre3": "Dostluk",
@@ -1496,6 +1821,7 @@
       "playerAbout3": ""
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Steel%20Rain",
       "id": 66,
       "koreasName": "Steel Rain",
       "type": "k-movie",
@@ -1508,7 +1834,11 @@
       "playerImage1": "https://i.mydramalist.com/2zEmO_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/x2xvzc.jpg",
       "playerImage3": "https://i.mydramalist.com/RRXLz_5c.jpg",
-      "genreIds": [2, 3, 16],
+      "genreIds": [
+        2,
+        3,
+        16
+      ],
       "genre1": "Gerilim",
       "genre2": "Dram",
       "genre3": "Politik",
@@ -1519,6 +1849,7 @@
       "playerAbout3": "https://mydramalist.com/people/949-kim-gab-soo"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Swing%20Kids",
       "id": 67,
       "koreasName": "Swing Kids",
       "type": "k-movie",
@@ -1531,7 +1862,11 @@
       "playerImage1": "https://i.mydramalist.com/43e46c.jpg",
       "playerImage2": "https://i.mydramalist.com/4rWdw_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/2Jn1O_5c.jpg",
-      "genreIds": [14, 8, 3],
+      "genreIds": [
+        14,
+        8,
+        3
+      ],
       "genre1": "Müzikal",
       "genre2": "Tarihi",
       "genre3": "Dram",
@@ -1542,6 +1877,7 @@
       "playerAbout3": ""
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Tabloid%20Truth",
       "id": 68,
       "koreasName": "Tabloid Truth",
       "type": "k-movie",
@@ -1554,7 +1890,11 @@
       "playerImage1": "https://i.mydramalist.com/kdVAm_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/dZojW_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/e36zdc.jpg",
-      "genreIds": [12, 3, 16],
+      "genreIds": [
+        12,
+        3,
+        16
+      ],
       "genre1": "Suç",
       "genre2": "Dram",
       "genre3": "Politik",
@@ -1565,6 +1905,7 @@
       "playerAbout3": ""
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=The%20Accidental%20Detective%201",
       "id": 69,
       "koreasName": "The Accidental Detective 1",
       "type": "k-movie",
@@ -1577,7 +1918,11 @@
       "playerImage1": "https://i.mydramalist.com/eogkWc.jpg",
       "playerImage2": "https://i.mydramalist.com/XOo6p_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/WXOy3_5c.jpg",
-      "genreIds": [15, 4, 22],
+      "genreIds": [
+        15,
+        4,
+        22
+      ],
       "genre1": "Gizem",
       "genre2": "Komedi",
       "genre3": "Polisiye",
@@ -1588,6 +1933,7 @@
       "playerAbout3": ""
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=The%20Advocate%3A%20A%20Missing%20Body",
       "id": 70,
       "koreasName": "The Advocate: A Missing Body",
       "type": "k-movie",
@@ -1600,7 +1946,11 @@
       "playerImage1": "https://i.mydramalist.com/472z1_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/EjOYb_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/1LJLdc.jpg",
-      "genreIds": [4, 13, 12],
+      "genreIds": [
+        4,
+        13,
+        12
+      ],
       "genre1": "Komedi",
       "genre2": "Hukuk",
       "genre3": "Suç",
@@ -1611,6 +1961,7 @@
       "playerAbout3": ""
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=The%20Age%20of%20Shadows",
       "id": 71,
       "koreasName": "The Age of Shadows",
       "type": "k-movie",
@@ -1623,7 +1974,11 @@
       "playerImage1": "https://i.mydramalist.com/RZ60Ec.jpg",
       "playerImage2": "https://i.mydramalist.com/XKLRxc.jpg",
       "playerImage3": "https://i.mydramalist.com/vgRRZ_5c.jpg",
-      "genreIds": [25, 8, 28],
+      "genreIds": [
+        25,
+        8,
+        28
+      ],
       "genre1": "Askeri",
       "genre2": "Tarihi",
       "genre3": "Siyasi",
@@ -1634,6 +1989,7 @@
       "playerAbout3": ""
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=The%20Battleship%20Island",
       "id": 72,
       "koreasName": "The Battleship Island",
       "type": "k-movie",
@@ -1646,7 +2002,11 @@
       "playerImage1": "https://i.mydramalist.com/dQWWb_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/p0pErc.jpg",
       "playerImage3": "https://i.mydramalist.com/1kymd_5c.jpg",
-      "genreIds": [1, 3, 26],
+      "genreIds": [
+        1,
+        3,
+        26
+      ],
       "genre1": "Aksiyon",
       "genre2": "Dram",
       "genre3": "Savaş",
@@ -1657,6 +2017,7 @@
       "playerAbout3": "https://mydramalist.com/people/431-song-joong-ki"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=The%20Beauty%20Inside",
       "id": 73,
       "koreasName": "The Beauty Inside",
       "type": "k-movie",
@@ -1669,7 +2030,11 @@
       "playerImage1": "https://i.mydramalist.com/BoB0z_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/xxxlz_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/qbrYdc.jpg",
-      "genreIds": [5, 3, 11],
+      "genreIds": [
+        5,
+        3,
+        11
+      ],
       "genre1": "Romantik",
       "genre2": "Dram",
       "genre3": "Macera",
@@ -1680,6 +2045,7 @@
       "playerAbout3": ""
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=The%20Cat%20Funeral",
       "id": 74,
       "koreasName": "The Cat Funeral",
       "type": "k-movie",
@@ -1692,7 +2058,11 @@
       "playerImage1": "https://i.mydramalist.com/RJ48Rc.jpg",
       "playerImage2": "https://i.mydramalist.com/r3VXZ_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/x271rc.jpg",
-      "genreIds": [5, 3, 19],
+      "genreIds": [
+        5,
+        3,
+        19
+      ],
       "genre1": "Romantik",
       "genre2": "Dram",
       "genre3": "Yaşam",
@@ -1703,6 +2073,7 @@
       "playerAbout3": "https://mydramalist.com/people/542-jung-gyu-woon"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=The%20Classic",
       "id": 75,
       "koreasName": "The Classic",
       "type": "k-movie",
@@ -1715,7 +2086,11 @@
       "playerImage1": "https://i.mydramalist.com/vgnXX_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/QmdJ7c.jpg",
       "playerImage3": "https://i.mydramalist.com/w8eqAc.jpg",
-      "genreIds": [29, 3, 23],
+      "genreIds": [
+        29,
+        3,
+        23
+      ],
       "genre1": "Gençlik",
       "genre2": "Dram",
       "genre3": "Trajedi",
@@ -1726,6 +2101,7 @@
       "playerAbout3": ""
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=The%20Con%20Artist",
       "id": 76,
       "koreasName": "The Con Artist",
       "type": "k-movie",
@@ -1738,7 +2114,11 @@
       "playerImage1": "https://i.mydramalist.com/RbYgo_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/e36zdc.jpg",
       "playerImage3": "https://i.mydramalist.com/qbrYdc.jpg",
-      "genreIds": [2, 4, 12],
+      "genreIds": [
+        2,
+        4,
+        12
+      ],
       "genre1": "Gerilim",
       "genre2": "Komedi",
       "genre3": "Suç",
@@ -1749,6 +2129,7 @@
       "playerAbout3": ""
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=The%20Divine%20Weapon",
       "id": 77,
       "koreasName": "The Divine Weapon",
       "type": "k-movie",
@@ -1761,7 +2142,11 @@
       "playerImage1": "https://i.mydramalist.com/pOLDEc.jpg",
       "playerImage2": "https://i.mydramalist.com/w2J1Ac.jpg",
       "playerImage3": "https://i.mydramalist.com/1zb2d_5c.jpg",
-      "genreIds": [1, 8, 26],
+      "genreIds": [
+        1,
+        8,
+        26
+      ],
       "genre1": "Aksiyon",
       "genre2": "Tarihi",
       "genre3": "Savaş",
@@ -1772,6 +2157,7 @@
       "playerAbout3": "https://mydramalist.com/people/9500-heo-joon-ho"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=The%20Dude%20In%20Me",
       "id": 78,
       "koreasName": "The Dude In Me",
       "type": "k-movie",
@@ -1784,7 +2170,11 @@
       "playerImage1": "https://i.mydramalist.com/j821bc.jpg",
       "playerImage2": "https://i.mydramalist.com/Zvb4jc.jpg",
       "playerImage3": "https://i.mydramalist.com/vlbeg_5c.jpg",
-      "genreIds": [4, 17, 7],
+      "genreIds": [
+        4,
+        17,
+        7
+      ],
       "genre1": "Komedi",
       "genre2": "Okul",
       "genre3": "Fantastik",
@@ -1795,6 +2185,7 @@
       "playerAbout3": "https://mydramalist.com/people/3654-ra-mi-ran"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=The%20End%20of%20April",
       "id": 79,
       "koreasName": "The End of April",
       "type": "k-movie",
@@ -1807,7 +2198,11 @@
       "playerImage1": "https://i.mydramalist.com/44w8Zc.jpg",
       "playerImage2": "https://i.mydramalist.com/VBoVQc.jpg",
       "playerImage3": "https://i.mydramalist.com/EDN3pc.jpg",
-      "genreIds": [2, 15, 3],
+      "genreIds": [
+        2,
+        15,
+        3
+      ],
       "genre1": "Gerilim",
       "genre2": "Gizem",
       "genre3": "Dram",
@@ -1818,6 +2213,7 @@
       "playerAbout3": ""
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=The%20Fortress",
       "id": 80,
       "koreasName": "The Fortress",
       "type": "k-movie",
@@ -1830,7 +2226,11 @@
       "playerImage1": "https://i.mydramalist.com/Erx2Qc.jpg",
       "playerImage2": "https://i.mydramalist.com/Z8dB1c.jpg",
       "playerImage3": "https://i.mydramalist.com/dvdBDc.jpg",
-      "genreIds": [8, 26, 28],
+      "genreIds": [
+        8,
+        26,
+        28
+      ],
       "genre1": "Tarihi",
       "genre2": "Savaş",
       "genre3": "Siyasi",
@@ -1841,6 +2241,7 @@
       "playerAbout3": "https://mydramalist.com/people/342-park-hae-il"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=The%20Front%20Line",
       "id": 81,
       "koreasName": "The Front Line",
       "type": "k-movie",
@@ -1853,7 +2254,11 @@
       "playerImage1": "https://i.mydramalist.com/EN4dp_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/d3wYW_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/6Pl1K_5c.jpg",
-      "genreIds": [8, 26, 23],
+      "genreIds": [
+        8,
+        26,
+        23
+      ],
       "genre1": "Tarihi",
       "genre2": "Savaş",
       "genre3": "Trajedi",
@@ -1864,6 +2269,7 @@
       "playerAbout3": ""
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=The%20Gifted%20Hands",
       "id": 82,
       "koreasName": "The Gifted Hands",
       "type": "k-movie",
@@ -1876,7 +2282,11 @@
       "playerImage1": "https://i.mydramalist.com/kdVAm_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/vZxrW_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/dWxog_5c.jpg",
-      "genreIds": [2, 15, 6],
+      "genreIds": [
+        2,
+        15,
+        6
+      ],
       "genre1": "Gerilim",
       "genre2": "Gizem",
       "genre3": "Soruşturma",
@@ -1887,6 +2297,7 @@
       "playerAbout3": "https://mydramalist.com/people/843-lee-joon-hyuk"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=The%20Girl's%20Ghost%20Story",
       "id": 83,
       "koreasName": "The Girl's Ghost Story",
       "type": "k-movie",
@@ -1899,7 +2310,11 @@
       "playerImage1": "https://i.mydramalist.com/0Kxmr_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/WqRbm_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/X1bDw_5c.jpg",
-      "genreIds": [21, 17, 3],
+      "genreIds": [
+        21,
+        17,
+        3
+      ],
       "genre1": "Korku",
       "genre2": "Okul",
       "genre3": "Dram",
@@ -1910,6 +2325,7 @@
       "playerAbout3": ""
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=The%20Great%20Battle",
       "id": 84,
       "koreasName": "The Great Battle",
       "type": "k-movie",
@@ -1922,7 +2338,11 @@
       "playerImage1": "https://i.mydramalist.com/w8eqAc.jpg",
       "playerImage2": "https://i.mydramalist.com/ql7W2_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/250rk_5c.jpg",
-      "genreIds": [8, 3, 26],
+      "genreIds": [
+        8,
+        3,
+        26
+      ],
       "genre1": "Tarihi",
       "genre2": "Dram",
       "genre3": "Savaş",
@@ -1933,6 +2353,7 @@
       "playerAbout3": "https://mydramalist.com/people/7714-nam-joo-hyuk"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=The%20Handmaiden",
       "id": 85,
       "koreasName": "The Handmaiden",
       "type": "k-movie",
@@ -1945,7 +2366,11 @@
       "playerImage1": "https://i.mydramalist.com/vgn5D_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/pLwEr_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/xw56y_5c.jpg",
-      "genreIds": [8, 9, 3],
+      "genreIds": [
+        8,
+        9,
+        3
+      ],
       "genre1": "Tarihi",
       "genre2": "Psikolojik",
       "genre3": "Dram",
@@ -1956,6 +2381,7 @@
       "playerAbout3": "https://mydramalist.com/people/593-ha-jung-woo"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=The%20King%E2%80%99s%20Letters",
       "id": 86,
       "koreasName": "The King’s Letters",
       "type": "k-movie",
@@ -1968,7 +2394,11 @@
       "playerImage1": "https://i.mydramalist.com/RZ60Ec.jpg",
       "playerImage2": "https://i.mydramalist.com/dvdBDc.jpg",
       "playerImage3": "https://i.mydramalist.com/p41jDc.jpg",
-      "genreIds": [8, 3, 5],
+      "genreIds": [
+        8,
+        3,
+        5
+      ],
       "genre1": "Tarihi",
       "genre2": "Dram",
       "genre3": "Romantik",
@@ -1979,6 +2409,7 @@
       "playerAbout3": ""
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=The%20Last%20Princess",
       "id": 87,
       "koreasName": "The Last Princess",
       "type": "k-movie",
@@ -1991,7 +2422,11 @@
       "playerImage1": "https://i.mydramalist.com/vgnXX_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/dvdBDc.jpg",
       "playerImage3": "https://i.mydramalist.com/2Pl4E_5c.jpg",
-      "genreIds": [8, 3, 19],
+      "genreIds": [
+        8,
+        3,
+        19
+      ],
       "genre1": "Tarihi",
       "genre2": "Dram",
       "genre3": "Yaşam",
@@ -2002,6 +2437,7 @@
       "playerAbout3": "https://mydramalist.com/people/1851-kim-so-hyun"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=The%20Long%20Way%20Home",
       "id": 88,
       "koreasName": "The Long Way Home",
       "type": "k-movie",
@@ -2014,7 +2450,11 @@
       "playerImage1": "https://i.mydramalist.com/j8P5vc.jpg",
       "playerImage2": "https://i.mydramalist.com/WKkL3_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/j6Zl8_5c.jpg",
-      "genreIds": [8, 4, 26],
+      "genreIds": [
+        8,
+        4,
+        26
+      ],
       "genre1": "Tarihi",
       "genre2": "Komedi",
       "genre3": "Savaş",
@@ -2025,6 +2465,7 @@
       "playerAbout3": ""
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=The%20Magician",
       "id": 89,
       "koreasName": "The Magician",
       "type": "k-movie",
@@ -2037,7 +2478,11 @@
       "playerImage1": "https://i.mydramalist.com/BDveR_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/ejKbK_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/x2xvzc.jpg",
-      "genreIds": [8, 3, 7],
+      "genreIds": [
+        8,
+        3,
+        7
+      ],
       "genre1": "Tarihi",
       "genre2": "Dram",
       "genre3": "Fantastik",
@@ -2048,6 +2493,7 @@
       "playerAbout3": ""
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=The%20Man%20from%20Nowhere",
       "id": 90,
       "koreasName": "The Man from Nowhere",
       "type": "k-movie",
@@ -2060,7 +2506,11 @@
       "playerImage1": "https://i.mydramalist.com/EWrOp_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/qOrRBc.jpg",
       "playerImage3": "https://i.mydramalist.com/1qZ0Kc.jpg",
-      "genreIds": [2, 12, 3],
+      "genreIds": [
+        2,
+        12,
+        3
+      ],
       "genre1": "Gerilim",
       "genre2": "Suç",
       "genre3": "Dram",
@@ -2071,6 +2521,7 @@
       "playerAbout3": "https://mydramalist.com/people/3622-kim-hee-won"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=The%20Merciless",
       "id": 91,
       "koreasName": "The Merciless",
       "type": "k-movie",
@@ -2083,7 +2534,11 @@
       "playerImage1": "https://i.mydramalist.com/j8P5vc.jpg",
       "playerImage2": "https://i.mydramalist.com/QQJv2_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/j6Zl8_5c.jpg",
-      "genreIds": [1, 12, 3],
+      "genreIds": [
+        1,
+        12,
+        3
+      ],
       "genre1": "Aksiyon",
       "genre2": "Suç",
       "genre3": "Dram",
@@ -2094,6 +2549,7 @@
       "playerAbout3": ""
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=The%20Naked%20Kitchen",
       "id": 92,
       "koreasName": "The Naked Kitchen",
       "type": "k-movie",
@@ -2106,7 +2562,11 @@
       "playerImage1": "https://i.mydramalist.com/qJVnB_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/47PO1_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/Q71NAc.jpg",
-      "genreIds": [24, 5, 3],
+      "genreIds": [
+        24,
+        5,
+        3
+      ],
       "genre1": "Yemek",
       "genre2": "Romantik",
       "genre3": "Dram",
@@ -2117,6 +2577,7 @@
       "playerAbout3": "https://mydramalist.com/people/282-shin-min-ah"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=The%20New%20World",
       "id": 93,
       "koreasName": "The New World",
       "type": "k-movie",
@@ -2129,7 +2590,11 @@
       "playerImage1": "https://i.mydramalist.com/2zEwW_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/RRgdR_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/dQWWb_5c.jpg",
-      "genreIds": [1, 12, 3],
+      "genreIds": [
+        1,
+        12,
+        3
+      ],
       "genre1": "Aksiyon",
       "genre2": "Suç",
       "genre3": "Dram",
@@ -2140,6 +2605,7 @@
       "playerAbout3": "https://mydramalist.com/people/938-hwang-jung-min"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=The%20Odd%20Family%3A%20Zombie%20On%20Sale",
       "id": 94,
       "koreasName": "The Odd Family: Zombie On Sale",
       "type": "k-movie",
@@ -2152,7 +2618,11 @@
       "playerImage1": "https://i.mydramalist.com/pOLDEc.jpg",
       "playerImage2": "https://i.mydramalist.com/x8mJ0_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/Wll2P_5c.jpg",
-      "genreIds": [21, 4, 5],
+      "genreIds": [
+        21,
+        4,
+        5
+      ],
       "genre1": "Korku",
       "genre2": "Komedi",
       "genre3": "Romantik",
@@ -2163,6 +2633,7 @@
       "playerAbout3": "https://mydramalist.com/people/9077-lee-soo-kyung"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=The%20Pirates",
       "id": 95,
       "koreasName": "The Pirates",
       "type": "k-movie",
@@ -2175,7 +2646,11 @@
       "playerImage1": "https://i.mydramalist.com/x8mJ0_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/vgnXX_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/47PO1_5c.jpg",
-      "genreIds": [8, 4, 7],
+      "genreIds": [
+        8,
+        4,
+        7
+      ],
       "genre1": "Tarihi",
       "genre2": "Komedi",
       "genre3": "Fantastik",
@@ -2186,6 +2661,7 @@
       "playerAbout3": ""
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=The%20Phone",
       "id": 96,
       "koreasName": "The Phone",
       "type": "k-movie",
@@ -2198,7 +2674,11 @@
       "playerImage1": "https://i.mydramalist.com/xwPKqc.jpg",
       "playerImage2": "https://i.mydramalist.com/0jgR4_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/dAyjWc.jpg",
-      "genreIds": [1, 2, 15],
+      "genreIds": [
+        1,
+        2,
+        15
+      ],
       "genre1": "Aksiyon",
       "genre2": "Gerilim",
       "genre3": "Gizem",
@@ -2209,6 +2689,7 @@
       "playerAbout3": ""
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=The%20Prison",
       "id": 97,
       "koreasName": "The Prison",
       "type": "k-movie",
@@ -2221,7 +2702,11 @@
       "playerImage1": "https://i.mydramalist.com/vEpkg_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/B0e75c.jpg",
       "playerImage3": "https://i.mydramalist.com/j6Zl8_5c.jpg",
-      "genreIds": [1, 2, 12],
+      "genreIds": [
+        1,
+        2,
+        12
+      ],
       "genre1": "Aksiyon",
       "genre2": "Gerilim",
       "genre3": "Suç",
@@ -2232,6 +2717,7 @@
       "playerAbout3": ""
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=The%20Soul-Mate",
       "id": 98,
       "koreasName": "The Soul-Mate",
       "type": "k-movie",
@@ -2244,7 +2730,11 @@
       "playerImage1": "https://i.mydramalist.com/pekDn_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/QNxJQc.jpg",
       "playerImage3": "https://i.mydramalist.com/x5Wl0_5c.jpg",
-      "genreIds": [4, 3, 22],
+      "genreIds": [
+        4,
+        3,
+        22
+      ],
       "genre1": "Komedi",
       "genre2": "Dram",
       "genre3": "Polisiye",
@@ -2255,6 +2745,7 @@
       "playerAbout3": "https://mydramalist.com/people/9289-lee-yoo-young"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=The%20Spy%20Gone%20North",
       "id": 99,
       "koreasName": "The Spy Gone North",
       "type": "k-movie",
@@ -2267,7 +2758,11 @@
       "playerImage1": "https://i.mydramalist.com/dQWWb_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/4rxVk_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/kOYmOc.jpg",
-      "genreIds": [2, 3, 16],
+      "genreIds": [
+        2,
+        3,
+        16
+      ],
       "genre1": "Gerilim",
       "genre2": "Dram",
       "genre3": "Politik",
@@ -2278,6 +2773,7 @@
       "playerAbout3": "https://mydramalist.com/people/1493-jo-jin-woong"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=The%20Swindlers",
       "id": 100,
       "koreasName": "The Swindlers",
       "type": "k-movie",
@@ -2290,7 +2786,11 @@
       "playerImage1": "https://i.mydramalist.com/qAkLdc.jpg",
       "playerImage2": "https://i.mydramalist.com/eeyxe_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/jbdQB_5c.jpg",
-      "genreIds": [1, 2, 12],
+      "genreIds": [
+        1,
+        2,
+        12
+      ],
       "genre1": "Aksiyon",
       "genre2": "Gerilim",
       "genre3": "Suç",
@@ -2301,6 +2801,7 @@
       "playerAbout3": "https://mydramalist.com/people/7694-nana"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=The%20Terror%20Live",
       "id": 101,
       "koreasName": "The Terror Live",
       "type": "k-movie",
@@ -2313,7 +2814,11 @@
       "playerImage1": "https://i.mydramalist.com/xw56y_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/xQ0Rzc.jpg",
       "playerImage3": "https://i.mydramalist.com/k1Pkb_5c.jpg",
-      "genreIds": [2, 15, 16],
+      "genreIds": [
+        2,
+        15,
+        16
+      ],
       "genre1": "Gerilim",
       "genre2": "Gizem",
       "genre3": "Politik",
@@ -2324,6 +2829,7 @@
       "playerAbout3": "https://mydramalist.com/people/5947-kim-so-jin"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=The%20Throne",
       "id": 102,
       "koreasName": "The Throne",
       "type": "k-movie",
@@ -2336,7 +2842,11 @@
       "playerImage1": "https://i.mydramalist.com/RZ60Ec.jpg",
       "playerImage2": "https://i.mydramalist.com/2WKrw_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/xYYlNc.jpg",
-      "genreIds": [8, 3, 23],
+      "genreIds": [
+        8,
+        3,
+        23
+      ],
       "genre1": "Tarihi",
       "genre2": "Dram",
       "genre3": "Trajedi",
@@ -2347,6 +2857,7 @@
       "playerAbout3": ""
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=The%20Tiger",
       "id": 103,
       "koreasName": "The Tiger",
       "type": "k-movie",
@@ -2359,7 +2870,11 @@
       "playerImage1": "https://i.mydramalist.com/RRgdR_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/B2n3qc.jpg",
       "playerImage3": "https://i.mydramalist.com/gZgdoc.jpg",
-      "genreIds": [1, 8, 3],
+      "genreIds": [
+        1,
+        8,
+        3
+      ],
       "genre1": "Aksiyon",
       "genre2": "Tarihi",
       "genre3": "Dram",
@@ -2370,6 +2885,7 @@
       "playerAbout3": ""
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=The%20Tower",
       "id": 104,
       "koreasName": "The Tower",
       "type": "k-movie",
@@ -2382,7 +2898,11 @@
       "playerImage1": "https://i.mydramalist.com/vgnXX_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/ZdZAq_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/j8P5vc.jpg",
-      "genreIds": [2, 4, 3],
+      "genreIds": [
+        2,
+        4,
+        3
+      ],
       "genre1": "Gerilim",
       "genre2": "Komedi",
       "genre3": "Dram",
@@ -2393,6 +2913,7 @@
       "playerAbout3": "https://mydramalist.com/people/1266-sol-kyung-gu"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=The%20Truth%20Beneath",
       "id": 105,
       "koreasName": "The Truth Beneath",
       "type": "k-movie",
@@ -2405,7 +2926,11 @@
       "playerImage1": "https://i.mydramalist.com/vgnXX_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/BDjPq_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/kJ378c.jpg",
-      "genreIds": [2, 3, 19],
+      "genreIds": [
+        2,
+        3,
+        19
+      ],
       "genre1": "Gerilim",
       "genre2": "Dram",
       "genre3": "Yaşam",
@@ -2416,6 +2941,7 @@
       "playerAbout3": ""
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=The%20Villainess",
       "id": 106,
       "koreasName": "The Villainess",
       "type": "k-movie",
@@ -2428,7 +2954,11 @@
       "playerImage1": "https://i.mydramalist.com/r3qVp_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/EN4dp_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/eZwVe_5c.jpg",
-      "genreIds": [5, 12, 3],
+      "genreIds": [
+        5,
+        12,
+        3
+      ],
       "genre1": "Romantik",
       "genre2": "Suç",
       "genre3": "Dram",
@@ -2439,6 +2969,7 @@
       "playerAbout3": "https://mydramalist.com/people/1137-sung-joon"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=The%20Wailing",
       "id": 107,
       "koreasName": "The Wailing",
       "type": "k-movie",
@@ -2451,7 +2982,11 @@
       "playerImage1": "https://i.mydramalist.com/x2xvzc.jpg",
       "playerImage2": "https://i.mydramalist.com/dQWWb_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/6zrOW_5c.jpg",
-      "genreIds": [2, 21, 3],
+      "genreIds": [
+        2,
+        21,
+        3
+      ],
       "genre1": "Gerilim",
       "genre2": "Korku",
       "genre3": "Dram",
@@ -2462,6 +2997,7 @@
       "playerAbout3": ""
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=The%20Whistleblower",
       "id": 108,
       "koreasName": "The Whistleblower",
       "type": "k-movie",
@@ -2474,7 +3010,11 @@
       "playerImage1": "https://i.mydramalist.com/dvdBDc.jpg",
       "playerImage2": "https://i.mydramalist.com/p31Py_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/j6Zl8_5c.jpg",
-      "genreIds": [2, 15, 3],
+      "genreIds": [
+        2,
+        15,
+        3
+      ],
       "genre1": "Gerilim",
       "genre2": "Gizem",
       "genre3": "Dram",
@@ -2485,6 +3025,7 @@
       "playerAbout3": ""
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Time%20Renegades",
       "id": 109,
       "koreasName": "Time Renegades",
       "type": "k-movie",
@@ -2497,7 +3038,11 @@
       "playerImage1": "https://i.mydramalist.com/WK2AR_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/jBpAB_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/j8VlOc.jpg",
-      "genreIds": [2, 5, 3],
+      "genreIds": [
+        2,
+        5,
+        3
+      ],
       "genre1": "Gerilim",
       "genre2": "Romantik",
       "genre3": "Dram",
@@ -2508,6 +3053,7 @@
       "playerAbout3": "https://mydramalist.com/people/1974-jo-jung-suk"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Train%20to%20Busan",
       "id": 110,
       "koreasName": "Train to Busan",
       "type": "k-movie",
@@ -2520,7 +3066,11 @@
       "playerImage1": "https://i.mydramalist.com/XKLRxc.jpg",
       "playerImage2": "https://i.mydramalist.com/pRQxE_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/pekDn_5c.jpg",
-      "genreIds": [1, 2, 21],
+      "genreIds": [
+        1,
+        2,
+        21
+      ],
       "genre1": "Aksiyon",
       "genre2": "Gerilim",
       "genre3": "Korku",
@@ -2531,6 +3081,7 @@
       "playerAbout3": "https://mydramalist.com/people/1702-ma-dong-seok"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Tunnel",
       "id": 111,
       "koreasName": "Tunnel",
       "type": "k-movie",
@@ -2543,7 +3094,11 @@
       "playerImage1": "https://i.mydramalist.com/pb7nb_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/B450A_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/x5Wl0_5c.jpg",
-      "genreIds": [2, 12, 7],
+      "genreIds": [
+        2,
+        12,
+        7
+      ],
       "genre1": "Gerilim",
       "genre2": "Suç",
       "genre3": "Fantastik",
@@ -2554,6 +3109,7 @@
       "playerAbout3": "https://mydramalist.com/people/9289-lee-yoo-young"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Vanishing%20Time%3A%20A%20Boy%20Who%20Returned",
       "id": 112,
       "koreasName": "Vanishing Time: A Boy Who Returned",
       "type": "k-movie",
@@ -2566,7 +3122,11 @@
       "playerImage1": "https://i.mydramalist.com/Xz7Wn_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/Z650W_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/kxoZ8_5c.jpg",
-      "genreIds": [3, 7, 23],
+      "genreIds": [
+        3,
+        7,
+        23
+      ],
       "genre1": "Dram",
       "genre2": "Fantastik",
       "genre3": "Trajedi",
@@ -2577,6 +3137,7 @@
       "playerAbout3": ""
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=War%20of%20the%20Arrows",
       "id": 113,
       "koreasName": "War of the Arrows",
       "type": "k-movie",
@@ -2589,7 +3150,11 @@
       "playerImage1": "https://i.mydramalist.com/dvdBDc.jpg",
       "playerImage2": "https://i.mydramalist.com/qPwzQ_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/Xqy8Z_5c.jpg",
-      "genreIds": [1, 8, 3],
+      "genreIds": [
+        1,
+        8,
+        3
+      ],
       "genre1": "Aksiyon",
       "genre2": "Tarihi",
       "genre3": "Dram",
@@ -2600,6 +3165,7 @@
       "playerAbout3": "https://mydramalist.com/people/1220-moon-chae-won"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Will%20You%20Be%20There",
       "id": 114,
       "koreasName": "Will You Be There",
       "type": "k-movie",
@@ -2612,7 +3178,11 @@
       "playerImage1": "https://i.mydramalist.com/Z8dB1c.jpg",
       "playerImage2": "https://i.mydramalist.com/jPLOB_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/XKY4nc.jpg",
-      "genreIds": [5, 7, 3],
+      "genreIds": [
+        5,
+        7,
+        3
+      ],
       "genre1": "Romantik",
       "genre2": "Fantastik",
       "genre3": "Dram",
@@ -2623,6 +3193,7 @@
       "playerAbout3": ""
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Wonderful%20Nightmare",
       "id": 115,
       "koreasName": "Wonderful Nightmare",
       "type": "k-movie",
@@ -2635,7 +3206,11 @@
       "playerImage1": "https://i.mydramalist.com/dK73e_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/vqlqec.jpg",
       "playerImage3": "https://i.mydramalist.com/eWZDW_5c.jpg",
-      "genreIds": [4, 5, 7],
+      "genreIds": [
+        4,
+        5,
+        7
+      ],
       "genre1": "Komedi",
       "genre2": "Romantik",
       "genre3": "Fantastik",
@@ -2646,6 +3221,7 @@
       "playerAbout3": ""
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=You%20Call%20It%20Passion",
       "id": 116,
       "koreasName": "You Call It Passion",
       "type": "k-movie",
@@ -2658,7 +3234,11 @@
       "playerImage1": "https://i.mydramalist.com/pOLDEc.jpg",
       "playerImage2": "https://i.mydramalist.com/vywkBc.jpg",
       "playerImage3": "https://i.mydramalist.com/dAyjWc.jpg",
-      "genreIds": [4, 3, 32],
+      "genreIds": [
+        4,
+        3,
+        32
+      ],
       "genre1": "Komedi",
       "genre2": "Dram",
       "genre3": "İş",
@@ -2669,6 +3249,7 @@
       "playerAbout3": ""
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Parasite",
       "id": 117,
       "koreasName": "Parasite",
       "type": "k-movie",
@@ -2681,7 +3262,11 @@
       "playerImage1": "https://i.mydramalist.com/xWAE0_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/vLOYZ_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/RZ60Ec.jpg",
-      "genreIds": [4, 3, 20],
+      "genreIds": [
+        4,
+        3,
+        20
+      ],
       "genre1": "Komedi",
       "genre2": "Dram",
       "genre3": "Aile",
@@ -2692,6 +3277,7 @@
       "playerAbout3": "https://mydramalist.com/people/276-song-kang-ho"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=The%20Call",
       "id": 118,
       "koreasName": "The Call",
       "type": "k-movie",
@@ -2704,7 +3290,11 @@
       "playerImage1": "https://i.mydramalist.com/B4qqb_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/B4Jl5_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/Xqopn_5c.jpg",
-      "genreIds": [21, 12, 7],
+      "genreIds": [
+        21,
+        12,
+        7
+      ],
       "genre1": "Korku",
       "genre2": "Suç",
       "genre3": "Fantastik",
@@ -2715,6 +3305,7 @@
       "playerAbout3": ""
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=The%20Chronicles%20of%20Evil",
       "id": 119,
       "koreasName": "The Chronicles of Evil",
       "type": "k-movie",
@@ -2727,7 +3318,11 @@
       "playerImage1": "https://i.mydramalist.com/xwPKqc.jpg",
       "playerImage2": "https://i.mydramalist.com/xg8WXc.jpg",
       "playerImage3": "https://i.mydramalist.com/j8meyc.jpg",
-      "genreIds": [2, 15, 22],
+      "genreIds": [
+        2,
+        15,
+        22
+      ],
       "genre1": "Gerilim",
       "genre2": "Gizem",
       "genre3": "Polisiye",
@@ -2738,6 +3333,7 @@
       "playerAbout3": "https://mydramalist.com/people/2195-park-seo-joon"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=The%20Closet",
       "id": 120,
       "koreasName": "The Closet",
       "type": "k-movie",
@@ -2750,7 +3346,11 @@
       "playerImage1": "https://i.mydramalist.com/xw56y_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/x8mJ0_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/RR64R_5c.jpg",
-      "genreIds": [15, 21, 3],
+      "genreIds": [
+        15,
+        21,
+        3
+      ],
       "genre1": "Gizem",
       "genre2": "Korku",
       "genre3": "Dram",
@@ -2761,6 +3361,7 @@
       "playerAbout3": ""
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=The%20Day%20I%20Died%3A%20Unclosed%20Case",
       "id": 121,
       "koreasName": "The Day I Died: Unclosed Case",
       "type": "k-movie",
@@ -2773,7 +3374,11 @@
       "playerImage1": "https://i.mydramalist.com/exkqp_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/WXzZ3_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/BNYK1_5c.jpg",
-      "genreIds": [3, 20, 6],
+      "genreIds": [
+        3,
+        20,
+        6
+      ],
       "genre1": "Dram",
       "genre2": "Aile",
       "genre3": "Soruşturma",
@@ -2784,6 +3389,7 @@
       "playerAbout3": ""
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Deliver%20Us%20From%20Evil",
       "id": 122,
       "koreasName": "Deliver Us From Evil",
       "type": "k-movie",
@@ -2796,7 +3402,11 @@
       "playerImage1": "https://i.mydramalist.com/dQWWb_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/2zEwW_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/BEWEb_5c.jpg",
-      "genreIds": [1, 12, 3],
+      "genreIds": [
+        1,
+        12,
+        3
+      ],
       "genre1": "Aksiyon",
       "genre2": "Suç",
       "genre3": "Dram",
@@ -2807,6 +3417,7 @@
       "playerAbout3": ""
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=71%3A%20Into%20the%20Fire",
       "id": 123,
       "koreasName": "71: Into the Fire",
       "type": "k-movie",
@@ -2819,7 +3430,11 @@
       "playerImage1": "https://i.mydramalist.com/kWkwdc.jpg",
       "playerImage2": "https://i.mydramalist.com/eogkWc.jpg",
       "playerImage3": "https://i.mydramalist.com/w2mvkc.jpg",
-      "genreIds": [1, 25, 26],
+      "genreIds": [
+        1,
+        25,
+        26
+      ],
       "genre1": "Aksiyon",
       "genre2": "Askeri",
       "genre3": "Savaş",
@@ -2830,6 +3445,7 @@
       "playerAbout3": ""
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=My%20Way",
       "id": 124,
       "koreasName": "My Way",
       "type": "k-movie",
@@ -2842,7 +3458,11 @@
       "playerImage1": "https://i.mydramalist.com/dmE7K_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/Lxm33c.jpg",
       "playerImage3": "https://i.mydramalist.com/BwXQ5c.jpg",
-      "genreIds": [8, 3, 26],
+      "genreIds": [
+        8,
+        3,
+        26
+      ],
       "genre1": "Tarihi",
       "genre2": "Dram",
       "genre3": "Savaş",
@@ -2853,6 +3473,7 @@
       "playerAbout3": "https://mydramalist.com/people/552-lee-yun-hee"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Confidential%20Assignment",
       "id": 125,
       "koreasName": "Confidential Assignment",
       "type": "k-movie",
@@ -2865,7 +3486,11 @@
       "playerImage1": "https://i.mydramalist.com/qAkLdc.jpg",
       "playerImage2": "https://i.mydramalist.com/qoJl8c.jpg",
       "playerImage3": "https://i.mydramalist.com/4Jjdk_5c.jpg",
-      "genreIds": [2, 4, 3],
+      "genreIds": [
+        2,
+        4,
+        3
+      ],
       "genre1": "Gerilim",
       "genre2": "Komedi",
       "genre3": "Dram",
@@ -2876,6 +3501,7 @@
       "playerAbout3": "https://mydramalist.com/people/972-im-yoon-ah"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=The%20Negotiation",
       "id": 126,
       "koreasName": "The Negotiation",
       "type": "k-movie",
@@ -2888,7 +3514,11 @@
       "playerImage1": "https://i.mydramalist.com/qAkLdc.jpg",
       "playerImage2": "https://i.mydramalist.com/vgnXX_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/B3Vm1c.jpg",
-      "genreIds": [2, 12, 28],
+      "genreIds": [
+        2,
+        12,
+        28
+      ],
       "genre1": "Gerilim",
       "genre2": "Suç",
       "genre3": "Siyasi",
@@ -2899,6 +3529,7 @@
       "playerAbout3": ""
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=The%20Fatal%20Encounter",
       "id": 127,
       "koreasName": "The Fatal Encounter",
       "type": "k-movie",
@@ -2911,7 +3542,11 @@
       "playerImage1": "https://i.mydramalist.com/qAkLdc.jpg",
       "playerImage2": "https://i.mydramalist.com/j8VlOc.jpg",
       "playerImage3": "https://i.mydramalist.com/pOLDEc.jpg",
-      "genreIds": [2, 8, 28],
+      "genreIds": [
+        2,
+        8,
+        28
+      ],
       "genre1": "Gerilim",
       "genre2": "Tarihi",
       "genre3": "Siyasi",
@@ -2922,6 +3557,7 @@
       "playerAbout3": ""
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Kingdom%3A%20Ashin%20of%20the%20North",
       "id": 128,
       "koreasName": "Kingdom: Ashin of the North",
       "type": "k-movie",
@@ -2934,7 +3570,11 @@
       "playerImage1": "https://i.mydramalist.com/x1Xb0_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/4J4gw_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/jxgWB_5c.jpg",
-      "genreIds": [8, 21, 19],
+      "genreIds": [
+        8,
+        21,
+        19
+      ],
       "genre1": "Tarihi",
       "genre2": "Korku",
       "genre3": "Yaşam",
@@ -2945,6 +3585,7 @@
       "playerAbout3": "https://mydramalist.com/people/5574-park-byung-eun"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Midnight",
       "id": 129,
       "koreasName": "Midnight",
       "type": "k-movie",
@@ -2957,7 +3598,11 @@
       "playerImage1": "https://i.mydramalist.com/r7XQ7_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/xzdP0_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/RQ0YP_5c.jpg",
-      "genreIds": [1, 2, 15],
+      "genreIds": [
+        1,
+        2,
+        15
+      ],
       "genre1": "Aksiyon",
       "genre2": "Gerilim",
       "genre3": "Gizem",
@@ -2968,6 +3613,7 @@
       "playerAbout3": ""
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Mission%3A%20Possible",
       "id": 130,
       "koreasName": "Mission: Possible",
       "type": "k-movie",
@@ -2980,7 +3626,11 @@
       "playerImage1": "https://i.mydramalist.com/QNxJQc.jpg",
       "playerImage2": "https://i.mydramalist.com/B1e2l_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/By1D7_5c.jpg",
-      "genreIds": [1, 2, 4],
+      "genreIds": [
+        1,
+        2,
+        4
+      ],
       "genre1": "Aksiyon",
       "genre2": "Gerilim",
       "genre3": "Komedi",
@@ -2991,6 +3641,7 @@
       "playerAbout3": "https://mydramalist.com/people/4731-oh-dae-hwan"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Forgotten",
       "id": 131,
       "koreasName": "Forgotten",
       "type": "k-movie",
@@ -3003,7 +3654,11 @@
       "playerImage1": "https://i.mydramalist.com/0Kxmr_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/pzODD_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/QPZ02_5c.jpg",
-      "genreIds": [2, 15, 3],
+      "genreIds": [
+        2,
+        15,
+        3
+      ],
       "genre1": "Gerilim",
       "genre2": "Gizem",
       "genre3": "Dram",
@@ -3014,6 +3669,7 @@
       "playerAbout3": ""
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=No%20Mercy",
       "id": 132,
       "koreasName": "No Mercy",
       "type": "k-movie",
@@ -3026,7 +3682,11 @@
       "playerImage1": "https://i.mydramalist.com/rggJm_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/B4vO5_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/1ld2d_5c.jpg",
-      "genreIds": [1, 15, 3],
+      "genreIds": [
+        1,
+        15,
+        3
+      ],
       "genre1": "Aksiyon",
       "genre2": "Gizem",
       "genre3": "Dram",
@@ -3037,6 +3697,7 @@
       "playerAbout3": ""
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=The%20Battle%3A%20Roar%20to%20Victory",
       "id": 133,
       "koreasName": "The Battle: Roar to Victory",
       "type": "k-movie",
@@ -3049,7 +3710,11 @@
       "playerImage1": "https://i.mydramalist.com/qoJl8c.jpg",
       "playerImage2": "https://i.mydramalist.com/dBNgb_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/6zd3g_5c.jpg",
-      "genreIds": [1, 3, 26],
+      "genreIds": [
+        1,
+        3,
+        26
+      ],
       "genre1": "Aksiyon",
       "genre2": "Dram",
       "genre3": "Savaş",
@@ -3060,6 +3725,7 @@
       "playerAbout3": "https://mydramalist.com/people/6557-jo-woo-jin"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Miss%20%26%20Mrs.%20Cops",
       "id": 134,
       "koreasName": "Miss & Mrs. Cops",
       "type": "k-movie",
@@ -3072,7 +3738,11 @@
       "playerImage1": "https://i.mydramalist.com/vlbeg_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/6q6Z2_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/dxN6W_5c.jpg",
-      "genreIds": [1, 15, 4],
+      "genreIds": [
+        1,
+        15,
+        4
+      ],
       "genre1": "Aksiyon",
       "genre2": "Gizem",
       "genre3": "Komedi",
@@ -3083,6 +3753,7 @@
       "playerAbout3": ""
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Sinkhole",
       "id": 135,
       "koreasName": "Sinkhole",
       "type": "k-movie",
@@ -3095,7 +3766,11 @@
       "playerImage1": "https://i.mydramalist.com/kWkwdc.jpg",
       "playerImage2": "https://i.mydramalist.com/w8WwYc.jpg",
       "playerImage3": "https://i.mydramalist.com/w6PLY_5c.jpg",
-      "genreIds": [4, 3, 20],
+      "genreIds": [
+        4,
+        3,
+        20
+      ],
       "genre1": "Komedi",
       "genre2": "Dram",
       "genre3": "Aile",
@@ -3106,6 +3781,7 @@
       "playerAbout3": "https://mydramalist.com/people/1817-lee-kwang-soo"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Homme%20Fatale",
       "id": 136,
       "koreasName": "Homme Fatale",
       "type": "k-movie",
@@ -3118,7 +3794,11 @@
       "playerImage1": "https://i.mydramalist.com/pepxB_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/dY80Kc.jpg",
       "playerImage3": "https://i.mydramalist.com/E84Rlc.jpg",
-      "genreIds": [8, 4, 5],
+      "genreIds": [
+        8,
+        4,
+        5
+      ],
       "genre1": "Tarihi",
       "genre2": "Komedi",
       "genre3": "Romantik",
@@ -3129,6 +3809,7 @@
       "playerAbout3": ""
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=The%20Assassin",
       "id": 137,
       "koreasName": "The Assassin",
       "type": "k-movie",
@@ -3141,7 +3822,11 @@
       "playerImage1": "https://i.mydramalist.com/6031k2_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/jKm7d_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/BdprX5_5c.jpg",
-      "genreIds": [1, 8, 11],
+      "genreIds": [
+        1,
+        8,
+        11
+      ],
       "genre1": "Aksiyon",
       "genre2": "Tarihi",
       "genre3": "Macera",
@@ -3152,6 +3837,7 @@
       "playerAbout3": "https://mydramalist.com/people/2147-kim-min-kyung"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Hard%20Hit",
       "id": 138,
       "koreasName": "Hard Hit",
       "type": "k-movie",
@@ -3164,7 +3850,11 @@
       "playerImage1": "https://i.mydramalist.com/6zd3g_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/ZyyEJ_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/1wd6r6_5c.jpg",
-      "genreIds": [1, 2, 15],
+      "genreIds": [
+        1,
+        2,
+        15
+      ],
       "genre1": "Aksiyon",
       "genre2": "Gerilim",
       "genre3": "Gizem",
@@ -3175,6 +3865,7 @@
       "playerAbout3": "https://mydramalist.com/people/10359-lee-jae-in"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Hansan%3A%20Rising%20Dragon",
       "id": 139,
       "koreasName": "Hansan: Rising Dragon",
       "type": "k-movie",
@@ -3187,7 +3878,11 @@
       "playerImage1": "https://i.mydramalist.com/dvdBDc.jpg",
       "playerImage2": "https://i.mydramalist.com/jPLOB_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/XB23d_5c.jpg",
-      "genreIds": [3, 8, 26],
+      "genreIds": [
+        3,
+        8,
+        26
+      ],
       "genre1": "Dram",
       "genre2": "Tarihi",
       "genre3": "Savaş",
@@ -3198,6 +3893,7 @@
       "playerAbout3": "https://mydramalist.com/people/2722-ahn-sung-ki"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Special%20Delivery",
       "id": 140,
       "koreasName": "Special Delivery",
       "type": "k-movie",
@@ -3210,7 +3906,11 @@
       "playerImage1": "https://i.mydramalist.com/qYyNKP_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/QXBL5c.jpg",
       "playerImage3": "https://i.mydramalist.com/j86wrc.jpg",
-      "genreIds": [1, 3, 12],
+      "genreIds": [
+        1,
+        3,
+        12
+      ],
       "genre1": "Aksiyon",
       "genre2": "Dram",
       "genre3": "Suç",
@@ -3221,6 +3921,7 @@
       "playerAbout3": "https://mydramalist.com/people/4625-kim-eui-sung"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=The%20Ghost%20Station",
       "id": 141,
       "koreasName": "The Ghost Station",
       "type": "k-movie",
@@ -3233,7 +3934,11 @@
       "playerImage1": "https://i.mydramalist.com/1ALoz_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/2wdnZO_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/dW5Y0_5c.jpg",
-      "genreIds": [2, 15, 25],
+      "genreIds": [
+        2,
+        15,
+        25
+      ],
       "genre1": "Gerilim",
       "genre2": "Gizem",
       "genre3": "Askeri",
@@ -3244,6 +3949,7 @@
       "playerAbout3": "https://mydramalist.com/people/3824-shin-so-yool"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=The%20Childe",
       "id": 142,
       "koreasName": "The Childe",
       "type": "k-movie",
@@ -3256,7 +3962,11 @@
       "playerImage1": "https://i.mydramalist.com/p3LJD_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/eKJ5Q_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/kdVAm_5c.jpg",
-      "genreIds": [1, 12, 15],
+      "genreIds": [
+        1,
+        12,
+        15
+      ],
       "genre1": "Aksiyon",
       "genre2": "Suç",
       "genre3": "Gizem",
@@ -3267,6 +3977,7 @@
       "playerAbout3": "https://mydramalist.com/people/1267-kim-kang-woo"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Gentleman",
       "id": 143,
       "koreasName": "Gentleman",
       "type": "k-movie",
@@ -3279,7 +3990,11 @@
       "playerImage1": "https://i.mydramalist.com/qJVnB_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/Zvb4jc.jpg",
       "playerImage3": "https://i.mydramalist.com/pNdwb_5c.jpg",
-      "genreIds": [1, 12, 15],
+      "genreIds": [
+        1,
+        12,
+        15
+      ],
       "genre1": "Aksiyon",
       "genre2": "Suç",
       "genre3": "Gizem",
@@ -3290,11 +4005,12 @@
       "playerAbout3": "https://mydramalist.com/people/38385-choi-sung-eun"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=The%20Pirates%202%3A%20The%20Last%20Royal%20Treasure",
       "id": 144,
       "koreasName": "The Pirates 2: The Last Royal Treasure",
       "type": "k-movie",
       "koreasImage": "https://i.mydramalist.com/WRd5p_4f.jpg",
-      "rating": 8.0,
+      "rating": 8,
       "description": "2022 yılı yapımı bu filmde: Kraliyet ailesine ait batık hazineyi bulmak için masmavi denizde gezinen öldürücü ama neşeli uyumsuzlardan oluşan bir geminin macerasına katılın. Eski haydut lideri Woo Moo Chi ve sağ kolu Kang Seob, gemide yaşamayı tercih ederler. Kaptan Hae Rang ve onun karışık mürettebatı, ödüle hak iddia etmek için yelken açarlar ancak Bu Heung Soo'nun hoş karşılanmayan rekabetiyle karşılaşırlar.",
       "playerName1": "Kang Ha Neul\n(Wu Mu Chi)",
       "playerName2": "Han Hyo Joo\n(Hae Rang)",
@@ -3302,7 +4018,11 @@
       "playerImage1": "https://i.mydramalist.com/0Kxmr_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/R6W7x_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/w6PLY_5c.jpg",
-      "genreIds": [4, 8, 11],
+      "genreIds": [
+        4,
+        8,
+        11
+      ],
       "genre1": "Komedi",
       "genre2": "Tarihi",
       "genre3": "Macera",
@@ -3313,6 +4033,7 @@
       "playerAbout3": "https://mydramalist.com/people/1817-lee-kwang-soo"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=The%20Point%20Men",
       "id": 145,
       "koreasName": "The Point Men",
       "type": "k-movie",
@@ -3325,7 +4046,11 @@
       "playerImage1": "https://i.mydramalist.com/dQWWb_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/qAkLdc.jpg",
       "playerImage3": "https://i.mydramalist.com/EeKV5_5c.jpg",
-      "genreIds": [1, 2, 15],
+      "genreIds": [
+        1,
+        2,
+        15
+      ],
       "genre1": "Aksiyon",
       "genre2": "Gerilim",
       "genre3": "Gizem",
@@ -3336,6 +4061,7 @@
       "playerAbout3": "https://mydramalist.com/people/9081-kang-ki-young"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Emergency%20Declaration",
       "id": 146,
       "koreasName": "Emergency Declaration",
       "type": "k-movie",
@@ -3348,7 +4074,11 @@
       "playerImage1": "https://i.mydramalist.com/RZ60Ec.jpg",
       "playerImage2": "https://i.mydramalist.com/Erx2Qc.jpg",
       "playerImage3": "https://i.mydramalist.com/2DKBdc.jpg",
-      "genreIds": [1, 3, 15],
+      "genreIds": [
+        1,
+        3,
+        15
+      ],
       "genre1": "Aksiyon",
       "genre2": "Dram",
       "genre3": "Gizem",
@@ -3359,6 +4089,7 @@
       "playerAbout3": "https://mydramalist.com/people/994-jun-do-yeon"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Unlocked",
       "id": 147,
       "koreasName": "Unlocked",
       "type": "k-movie",
@@ -3371,7 +4102,11 @@
       "playerImage1": "https://i.mydramalist.com/0rZON_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/QQJv2_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/1qZ0Kc.jpg",
-      "genreIds": [2, 12, 15],
+      "genreIds": [
+        2,
+        12,
+        15
+      ],
       "genre1": "Gerilim",
       "genre2": "Suç",
       "genre3": "Gizem",
@@ -3382,6 +4117,7 @@
       "playerAbout3": "https://mydramalist.com/people/3622-kim-hee-won"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Ransomed",
       "id": 148,
       "koreasName": "Ransomed",
       "type": "k-movie",
@@ -3394,7 +4130,11 @@
       "playerImage1": "https://i.mydramalist.com/xw56y_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/qJVnB_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/WZpxp_5c.jpg",
-      "genreIds": [1, 3, 15],
+      "genreIds": [
+        1,
+        3,
+        15
+      ],
       "genre1": "Aksiyon",
       "genre2": "Dram",
       "genre3": "Gizem",
@@ -3405,6 +4145,7 @@
       "playerAbout3": "https://mydramalist.com/people/3042-im-hyun-kook"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Ballerina",
       "id": 149,
       "koreasName": "Ballerina",
       "type": "k-movie",
@@ -3417,7 +4158,11 @@
       "playerImage1": "https://i.mydramalist.com/B4Jl5_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/rXKp7_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/111mz_5c.jpg",
-      "genreIds": [1, 2, 3],
+      "genreIds": [
+        1,
+        2,
+        3
+      ],
       "genre1": "Aksiyon",
       "genre2": "Gerilim",
       "genre3": "Dram",
@@ -3428,6 +4173,7 @@
       "playerAbout3": "https://mydramalist.com/people/24043-park-yoo-rim"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Kill%20Bok%20Soon",
       "id": 150,
       "koreasName": "Kill Bok Soon",
       "type": "k-movie",
@@ -3440,7 +4186,11 @@
       "playerImage1": "https://i.mydramalist.com/2DKBdc.jpg",
       "playerImage2": "https://i.mydramalist.com/j8P5vc.jpg",
       "playerImage3": "https://i.mydramalist.com/1wwm3b_5c.jpg",
-      "genreIds": [1, 2, 12],
+      "genreIds": [
+        1,
+        2,
+        12
+      ],
       "genre1": "Aksiyon",
       "genre2": "Gerilim",
       "genre3": "Suç",
@@ -3451,6 +4201,7 @@
       "playerAbout3": "https://mydramalist.com/people/20488-kim-shi-ah"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Phantom",
       "id": 151,
       "koreasName": "Phantom",
       "type": "k-movie",
@@ -3463,7 +4214,11 @@
       "playerImage1": "https://i.mydramalist.com/j8P5vc.jpg",
       "playerImage2": "https://i.mydramalist.com/4BEOr_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/qYyNKP_5c.jpg",
-      "genreIds": [1, 2, 8],
+      "genreIds": [
+        1,
+        2,
+        8
+      ],
       "genre1": "Aksiyon",
       "genre2": "Gerilim",
       "genre3": "Tarihi",
@@ -3474,6 +4229,7 @@
       "playerAbout3": "https://mydramalist.com/people/7706-park-so-dam"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=The%20Distributors",
       "id": 152,
       "koreasName": "The Distributors",
       "type": "k-movie",
@@ -3486,7 +4242,11 @@
       "playerImage1": "https://i.mydramalist.com/B8wl7_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/1xgAQ_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/jQ0g1w_5c.jpg",
-      "genreIds": [2, 3, 12],
+      "genreIds": [
+        2,
+        3,
+        12
+      ],
       "genre1": "Gerilim",
       "genre2": "Dram",
       "genre3": "Suç",
@@ -3497,6 +4257,7 @@
       "playerAbout3": "https://mydramalist.com/people/868-ahn-suk-hwan"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=The%20Moon",
       "id": 153,
       "koreasName": "The Moon",
       "type": "k-movie",
@@ -3509,7 +4270,11 @@
       "playerImage1": "https://i.mydramalist.com/j8P5vc.jpg",
       "playerImage2": "https://i.mydramalist.com/43e46c.jpg",
       "playerImage3": "https://i.mydramalist.com/pjevQc.jpg",
-      "genreIds": [1, 2, 3],
+      "genreIds": [
+        1,
+        2,
+        3
+      ],
       "genre1": "Aksiyon",
       "genre2": "Gerilim",
       "genre3": "Dram",
@@ -3520,6 +4285,7 @@
       "playerAbout3": "https://mydramalist.com/people/1278-kim-hee-ae"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=The%20Policeman's%20Lineage",
       "id": 154,
       "koreasName": "The Policeman's Lineage",
       "type": "k-movie",
@@ -3532,7 +4298,11 @@
       "playerImage1": "https://i.mydramalist.com/kOYmOc.jpg",
       "playerImage2": "https://i.mydramalist.com/xWAE0_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/kWLmrc.jpg",
-      "genreIds": [3, 12, 15],
+      "genreIds": [
+        3,
+        12,
+        15
+      ],
       "genre1": "Dram",
       "genre2": "Suç",
       "genre3": "Gizem",
@@ -3543,6 +4313,7 @@
       "playerAbout3": "https://mydramalist.com/people/2587-park-hee-soon"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=12.12%3A%20The%20Day",
       "id": 155,
       "koreasName": "12.12: The Day",
       "type": "k-movie",
@@ -3555,7 +4326,11 @@
       "playerImage1": "https://i.mydramalist.com/dQWWb_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/4e3101_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/d78nD_5c.jpg",
-      "genreIds": [1, 2, 3],
+      "genreIds": [
+        1,
+        2,
+        3
+      ],
       "genre1": "Aksiyon",
       "genre2": "Gerilim",
       "genre3": "Dram",
@@ -3566,6 +4341,7 @@
       "playerAbout3": "https://mydramalist.com/people/1658-lee-sung-min"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Behind%20the%20Shadows",
       "id": 156,
       "koreasName": "Behind the Shadows",
       "type": "k-movie",
@@ -3578,7 +4354,11 @@
       "playerImage1": "https://i.mydramalist.com/ppKl8_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/47eEJ_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/4Y7Ok_5c.jpg",
-      "genreIds": [5, 8, 29],
+      "genreIds": [
+        5,
+        8,
+        29
+      ],
       "genre1": "Romantik",
       "genre2": "Tarihi",
       "genre3": "Gençlik",
@@ -3589,6 +4369,7 @@
       "playerAbout3": "https://mydramalist.com/people/26995-hong-seung-hee"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Devils",
       "id": 157,
       "koreasName": "Devils",
       "type": "k-movie",
@@ -3601,7 +4382,11 @@
       "playerImage1": "https://i.mydramalist.com/R6Xvz_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/jKznr_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/wzO8Y_5c.jpg",
-      "genreIds": [2, 12, 15],
+      "genreIds": [
+        2,
+        12,
+        15
+      ],
       "genre1": "Gerilim",
       "genre2": "Suç",
       "genre3": "Gizem",
@@ -3612,6 +4397,7 @@
       "playerAbout3": "https://mydramalist.com/people/11820-jang-jae-ho"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Live%20Stream",
       "id": 158,
       "koreasName": "Live Stream",
       "type": "k-movie",
@@ -3624,7 +4410,11 @@
       "playerImage1": "https://i.mydramalist.com/Zvb4jc.jpg",
       "playerImage2": "https://i.mydramalist.com/xrkqr_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/rAKwD_5c.jpg",
-      "genreIds": [2, 12, 15],
+      "genreIds": [
+        2,
+        12,
+        15
+      ],
       "genre1": "Gerilim",
       "genre2": "Suç",
       "genre3": "Gizem",
@@ -3635,6 +4425,7 @@
       "playerAbout3": "https://mydramalist.com/people/5635-kim-hee-jung"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=The%20Gangster%2C%20the%20Cop%20and%20the%20Devil",
       "id": 159,
       "koreasName": "The Gangster, the Cop and the Devil",
       "type": "k-movie",
@@ -3647,7 +4438,11 @@
       "playerImage1": "https://i.mydramalist.com/pekDn_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/pzODD_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/EL62p_5c.jpg",
-      "genreIds": [1, 2, 12],
+      "genreIds": [
+        1,
+        2,
+        12
+      ],
       "genre1": "Aksiyon",
       "genre2": "Gerilim",
       "genre3": "Suç",
@@ -3658,11 +4453,12 @@
       "playerAbout3": "https://mydramalist.com/people/19984-kim-sung-gyu"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=The%20Roundup%3A%20No%20Way%20Out",
       "id": 160,
       "koreasName": "The Roundup: No Way Out",
       "type": "k-movie",
       "koreasImage": "https://i.mydramalist.com/Z858r7_4f.jpg",
-      "rating": 8.0,
+      "rating": 8,
       "description": "2023 yılı yapımı bu filmde: Incheon'daki uyuşturucu suçlarını temizlemeye çalışan Dedektif Ma Seok Do ve Geumcheon-seo'daki bir çetenin hikayesini anlatıyor.",
       "playerName1": "Ma Dong Seok\n(Ma Suk Do)",
       "playerName2": "Lee Joon Hyuk\n(Joo Sung Cheol)",
@@ -3670,7 +4466,11 @@
       "playerImage1": "https://i.mydramalist.com/pekDn_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/jQ2288_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/kZJEb_5c.jpg",
-      "genreIds": [1, 2, 12],
+      "genreIds": [
+        1,
+        2,
+        12
+      ],
       "genre1": "Aksiyon",
       "genre2": "Gerilim",
       "genre3": "Suç",
@@ -3681,6 +4481,7 @@
       "playerAbout3": "https://mydramalist.com/people/1045-aoki-munetaka"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=The%20Accidental%20Detective%202%3A%20In%20Action",
       "id": 161,
       "koreasName": "The Accidental Detective 2: In Action",
       "type": "k-movie",
@@ -3693,7 +4494,11 @@
       "playerImage1": "https://i.mydramalist.com/Rm22Y_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/XOo6p_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/w6PLY_5c.jpg",
-      "genreIds": [2, 15, 4],
+      "genreIds": [
+        2,
+        15,
+        4
+      ],
       "genre1": "Gerilim",
       "genre2": "Gizem",
       "genre3": "Komedi",
@@ -3704,6 +4509,7 @@
       "playerAbout3": "https://mydramalist.com/people/1817-lee-kwang-soo"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Revelations",
       "id": 162,
       "koreasName": "Revelations",
       "type": "k-movie",
@@ -3716,7 +4522,11 @@
       "playerImage1": "https://i.mydramalist.com/dBNgb_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/1n4K3_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/Xzw7p_5c.jpg",
-      "genreIds": [2, 15, 21],
+      "genreIds": [
+        2,
+        15,
+        21
+      ],
       "genre1": "Gerilim",
       "genre2": "Gizem",
       "genre3": "Korku",
@@ -3727,6 +4537,7 @@
       "playerAbout3": "https://mydramalist.com/people/19118-shin-min-jae"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Hijack%201971",
       "id": 163,
       "koreasName": "Hijack 1971",
       "type": "k-movie",
@@ -3739,7 +4550,11 @@
       "playerImage1": "https://i.mydramalist.com/xw56y_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/WKkL3_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/XOo6p_5c.jpg",
-      "genreIds": [1, 2, 11],
+      "genreIds": [
+        1,
+        2,
+        11
+      ],
       "genre1": "Aksiyon",
       "genre2": "Gerilim",
       "genre3": "Macera",
@@ -3750,6 +4565,7 @@
       "playerAbout3": "https://mydramalist.com/people/1113-sung-dong-il"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Mantis",
       "id": 164,
       "koreasName": "Mantis",
       "type": "k-movie",
@@ -3762,7 +4578,11 @@
       "playerImage1": "https://i.mydramalist.com/yWZ3ld_5c.jpg",
       "playerImage2": "https://i.mydramalist.com/oQBr6N_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/6zd3g_5c.jpg",
-      "genreIds": [1, 2, 15],
+      "genreIds": [
+        1,
+        2,
+        15
+      ],
       "genre1": "Aksiyon",
       "genre2": "Gerilim",
       "genre3": "Gizem",
@@ -3773,6 +4593,7 @@
       "playerAbout3": "https://mydramalist.com/people/6557-jo-woo-jin"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Pilot",
       "id": 165,
       "koreasName": "Pilot",
       "type": "k-movie",
@@ -3785,7 +4606,11 @@
       "playerImage1": "https://i.mydramalist.com/j8VlOc.jpg",
       "playerImage2": "https://i.mydramalist.com/qe2O5_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/DkrJYn_5c.jpg",
-      "genreIds": [3, 4, 5],
+      "genreIds": [
+        3,
+        4,
+        5
+      ],
       "genre1": "Dram",
       "genre2": "Komedi",
       "genre3": "Dram",
@@ -3796,6 +4621,7 @@
       "playerAbout3": "https://mydramalist.com/people/4870-han-sun-hwa"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Harbin",
       "id": 166,
       "koreasName": "Harbin",
       "type": "k-movie",
@@ -3808,7 +4634,11 @@
       "playerImage1": "https://i.mydramalist.com/qAkLdc.jpg",
       "playerImage2": "https://i.mydramalist.com/yWwKnN_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/6zd3g_5c.jpg",
-      "genreIds": [8, 12, 26],
+      "genreIds": [
+        8,
+        12,
+        26
+      ],
       "genre1": "Tarihi",
       "genre2": "Suç",
       "genre3": "Savaş",
@@ -3819,6 +4649,7 @@
       "playerAbout3": "https://mydramalist.com/people/6557-jo-woo-jin"
     },
     {
+      "koreasWeb": "https://mydramalist.com/search?q=Humint",
       "id": 167,
       "koreasName": "Humint",
       "type": "k-movie",
@@ -3831,7 +4662,11 @@
       "playerImage1": "https://i.mydramalist.com/w8eqAc.jpg",
       "playerImage2": "https://i.mydramalist.com/yWwKnN_5c.jpg",
       "playerImage3": "https://i.mydramalist.com/RRQJR_5c.jpg",
-      "genreIds": [1, 2, 12],
+      "genreIds": [
+        1,
+        2,
+        12
+      ],
       "genre1": "Aksiyon",
       "genre2": "Gerilim",
       "genre3": "Suç",
