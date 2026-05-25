@@ -22535,6 +22535,29 @@
       "playerAbout1": "https://mydramalist.com/people/1897-park-eun-bin",
       "playerAbout2": "https://mydramalist.com/people/10399-cha-eun-woo",
       "playerAbout3": "https://mydramalist.com/people/3568-kim-hae-sook"
+    },
+    {
+      "id": 940,
+      "koreasName": "Gold Land",
+      "koreasImage": "https://i.mydramalist.com/nOzye6_4f.jpg",
+      "type": "k-drama",
+      "rating": 7.6,
+      "description": "2026 yılı yapımı bu dizide: Kim Hui Ju, uluslararası bir havaalanında güvenlik görevlisi olarak çalışmaktadır. Havayolu şirketinde yardımcı pilot olarak çalışan erkek arkadaşı Lee Do Gyeong yüzünden, bir kaçakçılık örgütünden yanlışlıkla altın alır. Kim Hui Ju altına takıntılı hale gelir. Tefeci çalışanı Jang Uk, dedektif Kim Jin Man ve Gold Land otel kumarhanesiyle bağlantılı Geumsung çetesinin yöneticisi Park Ho Cheol dahil olmak üzere çeşitli kişilerin karıştığı bir kaos, açgözlülük ve ihanetin merkezinde yer alır.",
+      "playerName1": "Park Bo Young\n(Kim Hui Ju)",
+      "playerName2": "Kim Sung Cheol\n(Jang Uk)",
+      "playerName3": "Lee Hyun Wook\n(Lee Do Gyeong)",
+      "playerImage1": "https://i.mydramalist.com/l0AEjv_5c.jpg",
+      "playerImage2": "https://i.mydramalist.com/mO2q2k_5c.jpg",
+      "playerImage3": "https://i.mydramalist.com/4Aq5K_5c.jpg",
+      "genreIds": [1, 15, 12],
+      "genre1": "Aksiyon",
+      "genre2": "Gizem",
+      "genre3": "Suç",
+      "contentRating": "15+",
+      "episode": "Bölüm: 10",
+      "playerAbout1": "https://mydramalist.com/people/1498-park-bo-young",
+      "playerAbout2": "https://mydramalist.com/people/16728-kim-sung-chul",
+      "playerAbout3": "https://mydramalist.com/people/9597-lee-hyun-wook"
     }
   ]
 }
