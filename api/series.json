@@ -22558,6 +22558,29 @@
       "playerAbout1": "https://mydramalist.com/people/1498-park-bo-young",
       "playerAbout2": "https://mydramalist.com/people/16728-kim-sung-chul",
       "playerAbout3": "https://mydramalist.com/people/9597-lee-hyun-wook"
+    },
+    {
+      "id": 941,
+      "koreasName": "We Are All Trying Here",
+      "koreasImage": "https://i.mydramalist.com/Kp45k4_4f.jpg",
+      "type": "k-drama",
+      "rating": 8.5,
+      "description": "2026 yılı yapımı bu dizide: Kıskançlık ve hasetle boğuşan, kendi huzurlarını bulmaya çalışan insanların mücadelelerini ve yolculuklarını anlatan bir hikaye. Hwang Dong Man, ünlü film endüstrisi grubu \"Sekizler\"in henüz çıkış yapmamış tek üyesi olan, yönetmen olma hayali kuran biridir. Kendini değersiz hissetme duygusuna kapılmamaya çalışır. Byeon Eun A, Choi Film'de yapımcı olarak çalışmaktadır. Keskin senaryo eleştirileri nedeniyle \"Balta\" lakabıyla anılır. Öfkesini ve korkularını içinde saklar. Park Gyeong Se bir film yönetmenidir. Son filminin gişede başarısız olmasının ardından Hwang Dong Man'den özellikle etkilenir ve strese girer. Ko Hye Jin, Gobak Film'in CEO'sudur ve Park Gyeong Se ile evlidir. Hwang Dong Man'in uzun uzadıya konuşmalarını kucaklayacak kadar açık fikirli ve kararlıdır. Hwang Jin Man, Hwang Dong Man'in ağabeyi ve eski bir şairdir. Yetersizliğin sonunu yaşadıktan sonra, iç dünyası çökmüş ve boşluk hissetmektedir.",
+      "playerName1": "Koo Kyo Hwan\n(Hwang Dong Man)",
+      "playerName2": "Go Youn Jung\n(Byeon Eun A)",
+      "playerName3": "Oh Jung Se\n(Park Gyeong Se)",
+      "playerImage1": "https://i.mydramalist.com/zB268z_5c.jpg",
+      "playerImage2": "https://i.mydramalist.com/mO44Nq_5c.jpg",
+      "playerImage3": "https://i.mydramalist.com/VXDoEJ_5c.jpg",
+      "genreIds": [9, 19, 3],
+      "genre1": "Psikolojik",
+      "genre2": "Yaşam",
+      "genre3": "Dram",
+      "contentRating": "15+",
+      "episode": "Bölüm: 12",
+      "playerAbout1": "https://mydramalist.com/people/15792-gu-gyo-hwan",
+      "playerAbout2": "https://mydramalist.com/people/22074-go-yoon-jung",
+      "playerAbout3": "https://mydramalist.com/people/4684-oh-jung-se"
     }
   ]
 }
