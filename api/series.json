@@ -22581,6 +22581,29 @@
       "playerAbout1": "https://mydramalist.com/people/15792-gu-gyo-hwan",
       "playerAbout2": "https://mydramalist.com/people/22074-go-yoon-jung",
       "playerAbout3": "https://mydramalist.com/people/4684-oh-jung-se"
+    },
+    {
+      "id": 942,
+      "koreasName": "The Scarecrow",
+      "koreasImage": "https://i.mydramalist.com/yW1A5K_4f.jpg",
+      "type": "k-drama",
+      "rating": 8.1,
+      "description": "2026 yılı yapımı bu dizide: Suç profili uzmanı Kang Tae Ju, tüyler ürten bir çağrı üzerine emeklilikten geri döner: Hapisteki bir seri katil, DNA kanıtlarıyla çözülememiş başka ölümlerle de ilişkilendirilmiştir, ancak katil, Tae Ju'nun masumiyetini kanıtlayabileceğine inanarak soruşturmaya katılmasında ısrar eder. Tae Ju, 33 yıl önce geride bıraktığını sandığı bir dünyaya geri döner ve zorlu bir geçmişi paylaştığı hırslı savcı Cha Si Yeong ile gerçeğin peşinde yüzleşmek zorunda kalır. Ancak birçok soğuk vakada olduğu gibi, gerçek göründüğü kadar basit değildir ve Tae Ju, bildiğinden daha fazla işin içinde olabilir. Tae Ju, \"Korkuluk\" cinayetleri konusundaki bu bölümü nihayet tamamen kapatabilecek mi, yoksa yeni bir gelişme hayatını alt üst edecek mi?",
+      "playerName1": "Park Hae Soo\n(Kang Tae Ju)",
+      "playerName2": "Lee Hee Joon\n(Cha Si Yeong)",
+      "playerName3": "Kwak Sun Young\n(Seo Ji Won)",
+      "playerImage1": "https://i.mydramalist.com/VXxKlx_5c.jpg",
+      "playerImage2": "https://i.mydramalist.com/ZpyqW_5c.jpg",
+      "playerImage3": "https://i.mydramalist.com/yWyrd4_5c.jpg",
+      "genreIds": [2, 15, 12],
+      "genre1": "Gerilim",
+      "genre2": "Gizem",
+      "genre3": "Suç",
+      "contentRating": "15+",
+      "episode": "Bölüm: 12",
+      "playerAbout1": "https://mydramalist.com/people/2810-park-hae-soo",
+      "playerAbout2": "https://mydramalist.com/people/1885-lee-hee-joon",
+      "playerAbout3": "https://mydramalist.com/people/19642-kwak-sun-young"
     }
   ]
 }
