@@ -22604,6 +22604,29 @@
       "playerAbout1": "https://mydramalist.com/people/2810-park-hae-soo",
       "playerAbout2": "https://mydramalist.com/people/1885-lee-hee-joon",
       "playerAbout3": "https://mydramalist.com/people/19642-kwak-sun-young"
+    },
+    {
+      "id": 943,
+      "koreasName": "The East Palace",
+      "koreasImage": "https://i.mydramalist.com/O8VpgL_4f.jpg",
+      "type": "k-drama",
+      "rating": 8.4,
+      "description": "2026 yılı yapımı bu dizide: Tuhaf ve korkunç olayların musallat olduğu kurgusal bir krallıkta, kral gizlice, ruha dönüşebilen ve hayaletler aleminde yolculuk edebilen gururlu ve güçlü bir hayalet avcısı olan Gu Cheon'u ve ölülerle iletişim kurma ve onları duyma yeteneğiyle lanetlenmiş bir saray hanımı olan Saeng Gang'ı görevlendirir. Veliaht Prens'in Doğu Sarayı'nda gizlenen uğursuz bir gücü araştırmakla görevlendirilen bu beklenmedik ikili, kraliyet duvarlarının ardında saklı uzun zamandır gömülü sırları ortaya çıkarır. Yaşayanların ve ölülerin iç içe geçtiği bir dünyaya daha derinlere doğru ilerledikçe, intikamcı ruhlarla, karanlık komplolarla ve sarayı içeriden tehdit eden hayal edilemez bir kötülükle yüzleşmek zorundadırlar.",
+      "playerName1": "Nam Joo Hyuk\n(Gu Cheon)",
+      "playerName2": "Roh Yoon Seon\n(Saeng Gang)",
+      "playerName3": "Cho Seung Woo\n(King Ju Sang)",
+      "playerImage1": "https://i.mydramalist.com/VXl4Nm_5c.jpg",
+      "playerImage2": "https://i.mydramalist.com/NdnkOY_5c.jpg",
+      "playerImage3": "https://i.mydramalist.com/g0z3mn_5c.jpg",
+      "genreIds": [8, 21, 7],
+      "genre1": "Tarihi",
+      "genre2": "Korku",
+      "genre3": "Fantastik",
+      "contentRating": "15+",
+      "episode": "Bölüm: 8",
+      "playerAbout1": "https://mydramalist.com/people/7714-nam-joo-hyuk",
+      "playerAbout2": "https://mydramalist.com/people/80981-roh-yoon-seo",
+      "playerAbout3": "https://mydramalist.com/people/298-jo-seung-woo"
     }
   ]
 }
