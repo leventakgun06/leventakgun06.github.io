@@ -22650,6 +22650,29 @@
       "playerAbout1": "https://mydramalist.com/people/9854-ahn-bo-hyun",
       "playerAbout2": "https://mydramalist.com/people/1144-jung-eun-chae",
       "playerAbout3": "https://mydramalist.com/people/589-yoo-seung-ho"
+    },
+    {
+      "id": 945,
+      "koreasName": "Agent Kim Reactivated",
+      "koreasImage": "https://i.mydramalist.com/oQzRO6_4f.jpg",
+      "type": "k-drama",
+      "rating": 8.6,
+      "description": "2026 yılı yapımı bu dizide: Müdür Kim, küçük bir tasarruf bankasında çalışır. Kızı Min Ji'yi büyüten sıradan bir bekar baba gibi görünür. Kendi kızına bile açıklayamadığı bir sırrı vardır. Onun sırrı, sayısız özel operasyona gönderilen eski bir casus olmasıdır. Kendisi Kuzey Kore'nin en çok arananlar listesinde yer alır ve Güney Kore'deki varlığı ifşa edilmemesi gereken bir saatli bomba gibidir. Geçmişini saklayarak sıradan bir vatandaş gibi yaşar ama sevgili kızı Min Ji kaybolur. Sırrını açıklamaktan çekinmeden ve her şeyi riske atarak kızını kurtarmak için mücadele eder.",
+      "playerName1": "So Ji Sub\n(Manager Kim)",
+      "playerName2": "Choi Dae Hoon\n(Seong Han Su)",
+      "playerName3": "Yoon Kyung Ho\n(Park Jin Cheol)",
+      "playerImage1": "https://i.mydramalist.com/nO7JzE_5c.jpg",
+      "playerImage2": "https://i.mydramalist.com/X85nqc.jpg",
+      "playerImage3": "https://i.mydramalist.com/WK0oR_5c.jpg",
+      "genreIds": [2, 12, 15],
+      "genre1": "Gerilim",
+      "genre2": "Suç",
+      "genre3": "Gizem",
+      "contentRating": "15+",
+      "episode": "Bölüm: 10",
+      "playerAbout1": "https://mydramalist.com/people/493-so-ji-sub",
+      "playerAbout2": "https://mydramalist.com/people/4039-choi-dae-hoon",
+      "playerAbout3": "https://mydramalist.com/people/11281-yoon-gyung-ho"
     }
   ]
 }
