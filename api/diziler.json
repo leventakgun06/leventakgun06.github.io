@@ -106,5 +106,41 @@
         "image": "https://filmmakinesi.to/uploads/oyuncular/owain-yeoman.jpg-thumb-detay.webp"
       }
     ]
+  },
+  {
+    "id": "4",
+    "title": "Reacher",
+    "genres": ["Aksiyon", "Dram", "Suç"],
+    "rating": 8.0,
+    "seasons": "4 Sezon",
+    "year": "2022",
+    "poster": "https://filmmakinesi.to/uploads/postlar/afis/reacher-2022.jpg-thumb-detay.webp",
+    "description": "Lee Child’ın Jack Reacher serisinin ilk kitabı \"Killing Floor\"dan uyarlanan ve Nick Santora tarafından televizyona aktarılan Reacher, emekli askeri polis müfettişi Jack Reacher’ın sivil hayata adım atışını anlatıyor. Ülkeyi baştan başa dolaşarak bir zamanlar hizmet ettiği Amerika’yı yeniden tanımak isteyen Reacher, Georgia'daki Margrave kasabasına vardığında, uzun yıllardır yaşanmayan bir cinayetle sarsılan bu küçük topluluğun içine düşer. Görgü tanıklarının onu olay yerinde gördüğünü söylemeleri üzerine kendisini hapiste bulan Reacher, masumiyetini ispatlamak için uğraşırken, kasabanın derinlerinde gizlenen bir komployu gün yüzüne çıkarmaya başlar.",
+    "cast": [
+      {
+        "id": "c13",
+        "name": "Alan Ritchson",
+        "character": "Jack Reacher",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/alan-ritchson.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c14",
+        "name": "Maria Sten",
+        "character": "Frances Neagley",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/maria-sten.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c15",
+        "name": "Malcolm Goodwin",
+        "character": "Oscar Finlay",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/malcolm-goodwin.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c16",
+        "name": "Willa Fitzgerald",
+        "character": "Roscoe Conklin",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/willa-fitzgerald.jpg-thumb-detay.webp"
+      }
+    ]
   }
 ]
