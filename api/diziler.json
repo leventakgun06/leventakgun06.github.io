@@ -70,5 +70,41 @@
         "image": "https://filmmakinesi.to/uploads/oyuncular/jon-huertas.jpg-thumb-detay.webp"
       }
     ]
+  },
+  {
+    "id": "3",
+    "title": "The Mentalist",
+    "genres": ["Gizem", "Dram", "Suç"],
+    "rating": 8.2,
+    "seasons": "7 Sezon",
+    "year": "2008",
+    "poster": "https://filmmakinesi.to/uploads/postlar/afis/the-mentalist-2008.jpg-thumb-detay.webp",
+    "description": "Patrick Jane, geçmişte kendini medyum gibi gösterip insanları kandırarak para kazanan bir dolandırıcıdır. Bir televizyon programında, o dönemin meşhur seri katili Red John hakkında küçümseyici sözler sarf eder. Ancak bu düşüncesizce davranışının bedelini, eşi ve kızının Red John tarafından öldürülmesiyle ağır bir şekilde öder. Bu trajik olayın ardından, Jane umutsuzca eşi ve kızının cinayetini araştırmak için Kaliforniya Araştırma Bürosu'na (CBI) başvurur. Keskin gözlem yetenekleriyle bir vakayı çözdükten sonra, Jane CBI bünyesine danışman olarak katılır. CBI Ajanı Teresa Lisbon ve ekibiyle birlikte cinayet vakalarını çözmeye çalışırken, aklında tek bir hedef vardır: Red John'u bulup öldürmek.",
+    "cast": [
+      {
+        "id": "c9",
+        "name": "Simon Baker",
+        "character": "Patrick Jane",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/simon-baker.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c10",
+        "name": "Robin Tunney",
+        "character": "Teresa Lisbon",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/robin-tunney.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c11",
+        "name": "Tim Kang",
+        "character": "Kimball Cho",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/tim-kang.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c12",
+        "name": "Owain Yeoman",
+        "character": "Wayne Rigsby",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/owain-yeoman.jpg-thumb-detay.webp"
+      }
+    ]
   }
 ]
