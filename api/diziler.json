@@ -1,69 +1,69 @@
 [
   {
     "id": "1",
-    "title": "Breaking Bad",
-    "genres": ["Suç", "Dram", "Gerilim"],
-    "rating": 9.5,
-    "poster": "https://images.unsplash.com/photo-1594909122845-11baa439b7bf?q=80&w=800&auto=format&fit=crop",
-    "description": "Kanser teşhisi konan bir kimya öğretmeninin, ailesinin geleceğini garanti altına almak için eski bir öğrencisiyle birlikte metamfetamin üretip satmaya başlamasını anlatıyor.",
+    "title": "We Were the Lucky Ones",
+    "genres": ["Savaş", "Dram", "Tarihi"],
+    "rating": 7.7,
+    "poster": "https://filmmakinesi.to/uploads/postlar/afis/we-were-the-lucky-ones-2024.jpg-thumb-detay.webp",
+    "description": "Holokost'tan sağ kurtulan ancak İkinci Dünya Savaşı sırasında trajik bir şekilde dağılan bir Yahudi ailesinin öyküsünü anlatıyor. 1939'un baharında, Polonya'da yaşayan üç kuşak Yahudi aile, karşılaştıkları zorluklara rağmen nispeten sıradan bir yaşam sürdürmektedir. Ancak savaş patlak verdiğinde ve aile fertleri birbirinden koparıldığında, beş Kurc kardeş, harap olmuş bir kıtada özgürlüğe ulaşabilmek için ellerinden gelen her şeyi yaparak zorlu bir mücadeleye girişir.",
     "cast": [
       {
         "id": "c1",
-        "name": "Bryan Cranston",
-        "character": "Walter White",
-        "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=400&auto=format&fit=crop"
+        "name": "Joey King",
+        "character": "",
+        "image": "https://filmmakinesi.to/oyuncular/joey-king/"
       },
       {
         "id": "c2",
-        "name": "Aaron Paul",
-        "character": "Jesse Pinkman",
-        "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?q=80&w=400&auto=format&fit=crop"
+        "name": "Logan Lerman",
+        "character": "",
+        "image": "https://filmmakinesi.to/oyuncular/logan-lerman/"
       },
       {
         "id": "c3",
-        "name": "Anna Gunn",
-        "character": "Skyler White",
-        "image": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?q=80&w=400&auto=format&fit=crop"
+        "name": "Robin Weigert",
+        "character": "",
+        "image": "https://filmmakinesi.to/oyuncular/robin-weigert/"
       },
       {
         "id": "c4",
-        "name": "Dean Norris",
-        "character": "Hank Schrader",
-        "image": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?q=80&w=400&auto=format&fit=crop"
+        "name": "Lior Ashkenazi",
+        "character": "",
+        "image": "https://filmmakinesi.to/oyuncular/lior-ashkenazi/"
       }
     ]
   },
   {
     "id": "2",
-    "title": "Stranger Things",
-    "genres": ["Macera", "Dram", "Korku"],
-    "rating": 8.7,
-    "poster": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?q=80&w=800&auto=format&fit=crop",
-    "description": "Küçük bir kasabada bir çocuğun kaybolması üzerine başlayan arayış; gizemli deneylerin, doğaüstü güçlerin ve tuhaf bir küçük kızın yer aldığı bir sır perdesini aralar.",
+    "title": "Castle",
+    "genres": ["Komedi", "Dram", "Suç"],
+    "rating": 8.1,
+    "poster": "https://filmmakinesi.to/uploads/postlar/afis/castle-2009.jpg-thumb-detay.webp",
+    "description": "Ünlü yazar Richard Castle, kitaplarındaki cinayetlerin gerçek hayatta işlenmeye başlamasıyla polisle iş birliği yapar. Cinayet soruşturması sırasında çekici ve zeki Detektif Kate Beckett ile tanışır. Castle, Beckett'tan etkilenir ve yeni romanının başkahramanını ona benzetmek ister. Amirlerin kararıyla Castle, Beckett'ın yanına ortak olarak atanır ve macera dolu bir iş birliği başlar. İkili, suçları çözerken aralarındaki dinamik de giderek derinleşir ve karmaşık bir hal alır.",
     "cast": [
       {
         "id": "c5",
-        "name": "Millie Bobby Brown",
-        "character": "Eleven",
-        "image": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?q=80&w=400&auto=format&fit=crop"
+        "name": "Nathan Fillion",
+        "character": "",
+        "image": "https://filmmakinesi.to/oyuncular/nathan-fillion/"
       },
       {
         "id": "c6",
-        "name": "Finn Wolfhard",
-        "character": "Mike Wheeler",
-        "image": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?q=80&w=400&auto=format&fit=crop"
+        "name": "Stana Katic",
+        "character": "",
+        "image": "https://filmmakinesi.to/oyuncular/stana-katic/"
       },
       {
         "id": "c7",
-        "name": "Winona Ryder",
-        "character": "Joyce Byers",
-        "image": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?q=80&w=400&auto=format&fit=crop"
+        "name": "Molly C. Quinn",
+        "character": "",
+        "image": "https://filmmakinesi.to/oyuncular/molly-c-quinn/"
       },
       {
         "id": "c8",
-        "name": "David Harbour",
-        "character": "Jim Hopper",
-        "image": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?q=80&w=400&auto=format&fit=crop"
+        "name": "Jon Huertas",
+        "character": "",
+        "image": "https://filmmakinesi.to/oyuncular/jon-huertas/"
       }
     ]
   }
