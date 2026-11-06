@@ -10,25 +10,25 @@
       {
         "id": "c1",
         "name": "Joey King",
-        "character": "",
+        "character": "Halina Kurc",
         "image": "https://filmmakinesi.to/oyuncular/joey-king/"
       },
       {
         "id": "c2",
         "name": "Logan Lerman",
-        "character": "",
+        "character": "Addy Kurc",
         "image": "https://filmmakinesi.to/oyuncular/logan-lerman/"
       },
       {
         "id": "c3",
         "name": "Robin Weigert",
-        "character": "",
+        "character": "Nechuma Kurc",
         "image": "https://filmmakinesi.to/oyuncular/robin-weigert/"
       },
       {
         "id": "c4",
         "name": "Lior Ashkenazi",
-        "character": "",
+        "character": "Sol Kurc",
         "image": "https://filmmakinesi.to/oyuncular/lior-ashkenazi/"
       }
     ]
@@ -44,25 +44,25 @@
       {
         "id": "c5",
         "name": "Nathan Fillion",
-        "character": "",
+        "character": "Richard Castle",
         "image": "https://filmmakinesi.to/oyuncular/nathan-fillion/"
       },
       {
         "id": "c6",
         "name": "Stana Katic",
-        "character": "",
+        "character": "Kate Beckett",
         "image": "https://filmmakinesi.to/oyuncular/stana-katic/"
       },
       {
         "id": "c7",
         "name": "Molly C. Quinn",
-        "character": "",
+        "character": "Alexis Castle",
         "image": "https://filmmakinesi.to/oyuncular/molly-c-quinn/"
       },
       {
         "id": "c8",
         "name": "Jon Huertas",
-        "character": "",
+        "character": "Javier Esposito",
         "image": "https://filmmakinesi.to/oyuncular/jon-huertas/"
       }
     ]
