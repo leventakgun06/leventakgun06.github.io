@@ -1078,5 +1078,689 @@
         "image": "https://filmmakinesi.to/uploads/oyuncular/callum-vinson.jpg-thumb-detay.webp"
       }
     ]
+  },
+  {
+    "id": "31",
+    "title": "Cross",
+    "genres": ["Aksiyon", "Dram", "Suç"],
+    "rating": 7.2,
+    "seasons": "2 Sezon",
+    "year": "2024",
+    "poster": "https://filmmakinesi.to/uploads/postlar/afis/cross-2024.jpg-thumb-detay.webp",
+    "description": "Alex Cross, hem dedektif hem de adli psikolog olarak, katillerin ve kurbanların psikolojilerini derinlemesine inceleyerek suçluları teşhis etme ve yakalama konusunda eşsiz bir yeteneğe sahiptir. Aynı zamanda sevgi dolu bir baba olan Cross, suçluları yakalama konusunda saplantılı bir kararlılıkla hareket eder. Ancak, onu en çok etkileyen ve çözmekte zorlandığı tek bir dava vardır: kendi karısının cinayeti.",
+    "cast": [
+      {
+        "id": "c121",
+        "name": "Aldis Hodge",
+        "character": "Alex Cross",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/aldis-hodge.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c122",
+        "name": "Isaiah Mustafa",
+        "character": "John Sampson",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/isaiah-mustafa.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c123",
+        "name": "Juanita Jennings",
+        "character": "Regina Cross",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/juanita-jennings.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c124",
+        "name": "Alona Tal",
+        "character": "Kayla Craig",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/alona-tal.jpg-thumb-detay.webp"
+      }
+    ]
+  },
+  {
+    "id": "32",
+    "title": "Matlock",
+    "genres": ["Gizem", "Dram", "Suç"],
+    "rating": 7.5,
+    "seasons": "2 Sezon",
+    "year": "2024",
+    "poster": "https://filmmakinesi.to/uploads/postlar/afis/matlock-2024.jpg-thumb-detay.webp",
+    "description": "Gençlik yıllarında büyük başarılar elde eden dahi yetmişlerindeki Madeline Matlock, saygın bir hukuk firmasına geri döner. Burada, alçakgönüllü tavırları ve kurnaz taktikleriyle davaları kazanır ve içerdeki yolsuzlukları ortaya çıkarır. Aynı isimli klasik televizyon dizisinden esinlenilmiştir.",
+    "cast": [
+      {
+        "id": "c125",
+        "name": "Kathy Bates",
+        "character": "Madeline Matlock",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/kathy-bates.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c126",
+        "name": "Skye P. Marshall",
+        "character": "Olympia Lawrence",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/skye-p-marshall.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c127",
+        "name": "Jason Ritter",
+        "character": "Julian Markston",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/jason-ritter.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c128",
+        "name": "David Del Rio",
+        "character": "Billy Martinez",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/david-del-rio.jpg-thumb-detay.webp"
+      }
+    ]
+  },
+  {
+    "id": "33",
+    "title": "Sherlock",
+    "genres": ["Gizem", "Dram", "Suç"],
+    "rating": 9.0,
+    "seasons": "4 Sezon",
+    "year": "2010",
+    "poster": "https://filmmakinesi.to/uploads/postlar/afis/sherlock-2010.jpg-thumb-detay.webp",
+    "description": "Sir Arthur Conan Doyle'un efsanevi dedektifi Sherlock Holmes, alışılmadık bir yorumla günümüze taşınıyor. Benedict Cumberbatch'in hayat verdiği Sherlock, çağımızın teknolojik nimetlerinden faydalanarak, cep telefonu ve internet sitesi gibi modern araçları kullanıyor. Ancak, zekası ve tuhaflıklarıyla klasik Sherlock ruhunu korumayı başarıyor. Doctor Who’nun baş yazarlarının kaleminden çıkan bu mini dizide, Sherlock’un sadık yardımcısı Dr. Watson rolünde, Bir Otostopçunun Galaksi Rehberi ve Hot Fuzz’dan tanıdığımız Martin Freeman karşımıza çıkıyor. Bu yeni yorum, dünyanın en ünlü dedektifini hem geleneksel hem de modern bir perspektiften izlememizi sağlıyor.",
+    "cast": [
+      {
+        "id": "c129",
+        "name": "Benedict Cumberbatch",
+        "character": "Sherlock Holmes",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/benedict-cumberbatch.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c130",
+        "name": "Louise Brealey",
+        "character": "Molly Hooper",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/louise-brealey.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c131",
+        "name": "Una Stubbs",
+        "character": "Mrs. Hudson",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/una-stubbs.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c132",
+        "name": "Rupert Graves",
+        "character": "DI Lestrade",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/rupert-graves.jpg-thumb-detay.webp"
+      }
+    ]
+  },
+  {
+    "id": "34",
+    "title": "Monsieur Spade",
+    "genres": ["Gerilim", "Dram", "Suç"],
+    "rating": 6.8,
+    "seasons": "1 Sezon",
+    "year": "2024",
+    "poster": "https://filmmakinesi.to/uploads/postlar/afis/monsieur-spade-2024.jpg-thumb-detay.webp",
+    "description": "Yıl 1963. Efsanevi Dedektif Sam Spade, San Francisco'daki hareketli dedektiflik kariyerinden uzaklaşarak Güney Fransa'nın Bozouls kasabasında emekliliğin keyfini sürmektedir. Ancak huzurlu yaşamı, eski bir düşmanının geri döneceği dedikodularıyla altüst olur. Yerel bir manastırda altı rahibenin vahşice öldürülmesiyle kasaba derin bir yasa boğulurken, ortaya çıkan sırlar ve yeni ipuçları olayın seyrini değiştirir. Spade, bu cinayetlerin, olağanüstü güçlere sahip olduğu söylenen gizemli bir çocukla bağlantılı olduğunu keşfeder.",
+    "cast": [
+      {
+        "id": "c133",
+        "name": "Clive Owen",
+        "character": "Sam Spade",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/clive-owen.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c134",
+        "name": "Cara Bossom",
+        "character": "Teresa",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/cara-bossom.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c135",
+        "name": "Denis Menochet",
+        "character": "Chief Patrice",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/denis-mnochet.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c136",
+        "name": "Louise Bourgoin",
+        "character": "Marguerite",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/louise-bourgoin.jpg-thumb-detay.webp"
+      }
+    ]
+  },
+  {
+    "id": "35",
+    "title": "Will Trent",
+    "genres": ["Gizem", "Dram", "Suç"],
+    "rating": 7.7,
+    "seasons": "4 Sezon",
+    "year": "2023",
+    "poster": "https://filmmakinesi.to/uploads/postlar/afis/will-trent-2023.jpg-thumb-detay.webp",
+    "description": "\"Will Trent\" dizisi, Georgia Soruşturma Bürosu'ndan (GBI) Özel Ajan Will Trent'in (Ramón Rodriguez) hayatını konu alıyor. Bebekken terk edilen Trent, Atlanta'nın yoğun koruyucu aile sisteminde zorlu bir çocukluk dönemi geçirmiştir. Şimdi ise bu deneyimlerinden edindiği eşsiz bakış açısını, kimsenin onun yaşadığı gibi terk edilmemesi için kullanmaya kararlıdır ve GBI'deki en yüksek çözüm oranına sahiptir. Angie karakterini canlandıran Christensen ise Atlanta Polis Departmanı'nda görev yapan tecrübeli bir dedektiftir. Polisliğin zorlu dünyasına rağmen espri anlayışını koruyan Angie, Will ile karmaşık bir ilişki içindedir. İkisi de aynı koruyucu aile grubunda büyümüş ve birbirlerine hep destek olmuşlardır. Ancak Angie, bağımlılık sorunlarıyla başa çıkmaya çalışmakta ve çocukluğunun karanlık travmalarını henüz tam olarak aşamamıştır.",
+    "cast": [
+      {
+        "id": "c137",
+        "name": "Ramon Rodriguez",
+        "character": "Will Trent",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/ramn-rodrguez.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c138",
+        "name": "Erika Christensen",
+        "character": "Angie Polaski",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/erika-christensen.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c139",
+        "name": "Iantha Richardson",
+        "character": "Faith Mitchell",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/iantha-richardson.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c140",
+        "name": "Jake McLaughlin",
+        "character": "Michael Ormewood",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/jake-mclaughlin.jpg-thumb-detay.webp"
+      }
+    ]
+  },
+  {
+    "id": "36",
+    "title": "Tracker",
+    "genres": ["Gizem", "Dram", "Suç"],
+    "rating": 7.2,
+    "seasons": "4 Sezon",
+    "year": "2024",
+    "poster": "https://filmmakinesi.to/uploads/postlar/afis/tracker-2024.jpg-thumb-detay.webp",
+    "description": "Hayatta kalma yetenekleri gelişmiş olan yalnız kurt Colter Shaw, ödül avcısı olarak ülkenin dört bir yanını gezer. Bu yolculuk sırasında, dağılmış ailesiyle olan sorunlarını çözmeye çalışırken, bir yandan da vatandaşların yardımına koşarak çeşitli gizemleri aydınlatır ve adalete katkıda bulunur.",
+    "cast": [
+      {
+        "id": "c141",
+        "name": "Justin Hartley",
+        "character": "Colter Shaw",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/justin-hartley.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c142",
+        "name": "Abby McEnany",
+        "character": "Velma Bruin",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/abby-mcenany.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c143",
+        "name": "Eric Graise",
+        "character": "Bobby Exley",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/eric-graise.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c144",
+        "name": "Fiona Rene",
+        "character": "Reenie Greene",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/fiona-rene.jpg-thumb-detay.webp"
+      }
+    ]
+  },
+  {
+    "id": "37",
+    "title": "NCIS: Origins",
+    "genres": ["Gizem", "Dram", "Suç"],
+    "rating": 7.6,
+    "seasons": "3 Sezon",
+    "year": "2024",
+    "poster": "https://filmmakinesi.to/uploads/postlar/afis/ncis-origins-2024.jpg-thumb-detay.webp",
+    "description": "1991 yılında, NCIS olaylarının yıllar öncesinde, Leroy Jethro Gibbs, kariyerine yeni atanmış bir özel ajan olarak başlar. NCIS'in Camp Pendleton'daki yeni ofisinde, efsanevi NCIS ajanı Mike Franks tarafından yönetilen sert ve dağınık bir ekibin parçası olur. Gibbs, burada kendi yerini bulmaya çalışırken, zorlu ve tehlikelerle dolu görevlerle karşılaşır.",
+    "cast": [
+      {
+        "id": "c145",
+        "name": "Austin Stowell",
+        "character": "Leroy Jethro",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/austin-stowell.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c146",
+        "name": "Kyle Schmid",
+        "character": "Mike Franks",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/kyle-schmid.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c147",
+        "name": "Mariel Molino",
+        "character": "Lala Dominguez",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/mariel-molino.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c148",
+        "name": "Tyla Abercrumbie",
+        "character": "Marry Jo Sullivan",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/tyla-abercrumbie.jpg-thumb-detay.webp"
+      }
+    ]
+  },
+  {
+    "id": "38",
+    "title": "Dexter: Original Sin",
+    "genres": ["Gizem", "Dram", "Suç"],
+    "rating": 8.1,
+    "seasons": "1 Sezon",
+    "year": "2024",
+    "poster": "https://filmmakinesi.to/uploads/postlar/afis/dexter-original-sin-2024.jpg-thumb-detay.webp",
+    "description": "Dexter: Original Sin, genç Dexter Morgan'ın intikam arayışının seri katile dönüşmesini ele alıyor. 1991'de Miami'de geçen hikayede, Dexter kendisini cinayet işleme sınırında bulan bir öğrencidir. Kan dökme arzusu dayanılmaz bir hale geldiğinde, üvey babası Harry'nin yanında teselli ve anlayış bulur. Harry, ona yalnızca ölmeyi hak eden kişileri hedef alması gerektiğini öğreterek kurallar koyar. Yakında Miami Polis Departmanı'nda adli patoloji stajına başlayacak olan Dexter, bu yeni kazandığı yetenekleri yakalanmadan nasıl kullanacağını öğrenmek zorundadır.",
+    "cast": [
+      {
+        "id": "c149",
+        "name": "Patrick Gibson",
+        "character": "Dexter Morgan",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/patrick-gibson.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c150",
+        "name": "Christian Slater",
+        "character": "Harry Morgan",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/christian-slater.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c151",
+        "name": "Molly Brown",
+        "character": "Debra Morgan",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/molly-brown.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c152",
+        "name": "Christian Milian",
+        "character": "",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/christina-milian.jpg-thumb-detay.webp"
+      }
+    ]
+  },
+  {
+    "id": "39",
+    "title": "Wednesday",
+    "genres": ["Komedi", "Fantastik", "Suç"],
+    "rating": 8.0,
+    "seasons": "2 Sezon",
+    "year": "2022",
+    "poster": "https://filmmakinesi.to/uploads/postlar/afis/wednesday-2022.jpg-thumb-detay.webp",
+    "description": "Tim Burton'ın eşsiz hayal gücünü yansıtan bu dizi, sekiz bölüm boyunca Addams Ailesi'nin ikonik kızı Wednesday Addams'ın Nevermore Akademisi'ndeki öğrencilik yıllarını ele alıyor. Wednesday, yeni keşfettiği medyumluk yeteneklerini geliştirirken, kasabada işlenen kanlı cinayetlerin ardındaki sır perdesini aralamaya çalışacak. Aynı zamanda, 25 yıl önce ailesinin karıştığı doğaüstü bir gizemi çözmeye çalışırken, okulda kurduğu karmaşık ilişkilerde de dengeyi bulmaya uğraşacak.",
+    "cast": [
+      {
+        "id": "c153",
+        "name": "Jenna Ortega",
+        "character": "Wednesday Addams",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/jenna-ortega.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c154",
+        "name": "Emma Myers",
+        "character": "Enid Sinclair",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/emma-myers.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c155",
+        "name": "Joy Sunday",
+        "character": "Bianka Barclay",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/joy-sunday.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c156",
+        "name": "Hunter Doohan",
+        "character": "Tyler Galpin",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/hunter-doohan.jpg-thumb-detay.webp"
+      }
+    ]
+  },
+  {
+    "id": "40",
+    "title": "The Lincoln Lawyer",
+    "genres": ["Gizem", "Dram", "Suç"],
+    "rating": 7.8,
+    "seasons": "4 Sezon",
+    "year": "2022",
+    "poster": "https://filmmakinesi.to/uploads/postlar/afis/gunesin-karanliginda-2022.jpg-thumb-detay.webp",
+    "description": "Güneşin Karanlığında, Mickey Haller adında, hukuk pratiğini klasik bir Lincoln Town Car'ın arka koltuğundan yürüten sıra dışı bir avukatın hikayesini anlatıyor. Mickey, eski ortağının ani ölümü üzerine onun hukuk firmasını devralmak ve karmaşık bir cinayet davasını üstlenmek zorunda kalır. İlk bakışta sıradan görünen bu dava, Mickey'i beklenmedik tehlikelerle yüzleşmeye iter ve olaylar düşündüğünden çok daha karmaşık bir hâl alır.",
+    "cast": [
+      {
+        "id": "c157",
+        "name": "Manuel Garcia-Rulfo",
+        "character": "Mickey Haller",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/manuel-garcia-rulfo.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c158",
+        "name": "Becki Newton",
+        "character": "Lorna Crane",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/becki-newton.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c159",
+        "name": "Angus Sampson",
+        "character": "Cisco Wojciechowski",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/angus-sampson.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c160",
+        "name": "Jazz Raycole",
+        "character": "Izzy Letts",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/jazz-raycole.jpg-thumb-detay.webp"
+      }
+    ]
+  },
+  {
+    "id": "41",
+    "title": "Under The Banner of Heaven",
+    "genres": ["Gizem", "Dram", "Suç"],
+    "rating": 7.5,
+    "seasons": "1 Sezon",
+    "year": "2022",
+    "poster": "https://filmmakinesi.to/uploads/postlar/afis/under-the-banner-of-heaven-2022.jpg-thumb-detay.webp",
+    "description": "\"Under the Banner of Heaven\", Jon Krakauer'ın 2003 tarihli kurgusal olmayan eserine dayanan bir dizi olarak karşımıza çıkıyor. Utah'ta geçen bu hikaye, derin bir inanç sahibi dedektifin, ürpertici bir cinayet soruşturması sırasında kendi inancını sorgulamak zorunda kalmasını anlatıyor. Olaylar, saygın bir Mormon ailesinin, inançlarına sıkı sıkıya bağlılıkları ve devlet otoritesine karşı besledikleri güvensizlik etrafında gelişiyor. Dizi, din, aile ve adalet kavramlarını sorgulayan sürükleyici bir anlatım sunuyor.",
+    "cast": [
+      {
+        "id": "c161",
+        "name": "Andrew Garfield",
+        "character": "DT. Jeb Pyre",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/andrew-garfield.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c162",
+        "name": "Sam Worthington",
+        "character": "Ron Lafferty",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/sam-worthington.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c163",
+        "name": "Daisy Edgar-Jones",
+        "character": "Brenda Lafferty",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/daisy-edgar-jones.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c164",
+        "name": "Denise Gough",
+        "character": "Dianna Lafferty",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/denise-gough.jpg-thumb-detay.webp"
+      }
+    ]
+  },
+  {
+    "id": "42",
+    "title": "CIA",
+    "genres": ["Aksiyon", "Macera", "Suç"],
+    "rating": 6.3,
+    "seasons": "2 Sezon",
+    "year": "2026",
+    "poster": "https://filmmakinesi.to/uploads/postlar/afis/cia-2026-722.jpg-thumb-detay.webp",
+    "description": "Kurallara sıkı sıkıya bağlı FBI Ajanı Bill Goodman, gizli bir CIA/FBI görev gücüne ödünç verildiğinde, gizemli ve asi CIA görevlisi Colin Glass ile ortak olmak zorunda kalır. İkili, New York'ta gizli operasyonlar yürütürken uluslararası komploları, terörist hücreleri ve jeopolitik sırları ortaya çıkarır. Bu zorlu görevde, hem birbirlerine güvenmeyi öğrenirler hem de karmaşık bir casusluk ağını çözmeye çalışırlar.",
+    "cast": [
+      {
+        "id": "c165",
+        "name": "Tom Ellis",
+        "character": "Golin Glass",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/tom-ellis.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c166",
+        "name": "Natalee Linez",
+        "character": "Gina Gosian",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/natalee-linez.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c167",
+        "name": "Nick Gehlfuss",
+        "character": "Bill Goodman",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/nick-gehlfuss.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c168",
+        "name": "Necar Zadegan",
+        "character": "Nikki Reynard",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/necar-zadegan.jpg-thumb-detay.webp"
+      }
+    ]
+  },
+  {
+    "id": "43",
+    "title": "Run Away",
+    "genres": ["Gizem", "Dram", "Suç"],
+    "rating": 6.9,
+    "seasons": "1 Sezon",
+    "year": "2026",
+    "poster": "https://filmmakinesi.to/uploads/postlar/afis/run-away-2026.jpg-thumb-detay.webp",
+    "description": "Umutsuz bir baba, evden kaçan kızını bulma çabası içindeyken kendisini bir cinayet davasının ortasında bulur. Araştırmaları derinleştikçe, ailesini tamamen yıkabilecek sırlarla karşılaşır. Kızına ulaşma umuduyla çıktığı bu yolculuk, onu hiç beklemediği karanlık gerçeklerle yüzleşmeye zorlar. Baba, hem ailesini hem de kendi iç huzurunu koruyabilmek için zorlu bir mücadele vermek zorunda kalır.",
+    "cast": [
+      {
+        "id": "c169",
+        "name": "Minnie Driver",
+        "character": "Ingrid Greene",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/minnie-driver.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c170",
+        "name": "Ruth Jones",
+        "character": "Elena Ravenscroft",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/ruth-jones.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c171",
+        "name": "James Nesbitt",
+        "character": "Simon Greene",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/james-nesbitt.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c172",
+        "name": "Alfred Enoch",
+        "character": "Isaac Fagbenle",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/alfred-enoch.jpg-thumb-detay.webp"
+      }
+    ]
+  },
+  {
+    "id": "44",
+    "title": "Monster",
+    "genres": ["Biyografi", "Dram", "Suç"],
+    "rating": 7.7,
+    "seasons": "4 Sezon",
+    "year": "2022",
+    "poster": "https://filmmakinesi.to/uploads/postlar/afis/monster-2022.jpg-thumb-detay.webp",
+    "description": "\"Monster: The Jeffrey Dahmer Story,\" 1970'lerden 1990'lara kadar 17 erkeği öldüren, onlara tecavüz eden ve bazılarını yiyen Jeffrey Dahmer'in hikayesini anlatıyor. Dizi, Dahmer'in \"temiz, iyi görünümlü beyaz bir adam\" olarak beyaz ayrıcalığından nasıl faydalandığını ve 1990 yılında tutuklanana kadar işlediği korkunç suçlardan nasıl hafif cezalarla sıyrıldığını gözler önüne seriyor. Dahmer'in dehşet verici suçlarını işlerken sistemin zayıflıklarından nasıl yararlandığına dair çarpıcı bir bakış sunuyor.",
+    "cast": [
+      {
+        "id": "c173",
+        "name": "Evan Peters",
+        "character": "Jeffrey Dahmer",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/evan-peters.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c174",
+        "name": "Richard Jenkins",
+        "character": "Lionel Dahmer",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/richard-jenkins.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c175",
+        "name": "Molly Ringwald",
+        "character": "Shari Dahmer",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/molly-ringwald.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c176",
+        "name": "Cooper Koch",
+        "character": "Erik Menendez",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/cooper-koch.jpg-thumb-detay.webp"
+      }
+    ]
+  },
+  {
+    "id": "45",
+    "title": "The Boys",
+    "genres": ["Aksiyon", "Komedi", "Suç"],
+    "rating": 8.5,
+    "seasons": "5 Sezon",
+    "year": "2019",
+    "poster": "https://filmmakinesi.to/uploads/postlar/afis/the-boys-2019.jpg-thumb-detay.webp",
+    "description": "\"The Boys\" sıradan süper kahraman hikayelerinden uzak, çarpıcı bir evrende geçiyor. Bu dizi, güçlerini ve popülaritelerini suistimal eden süper kahramanların dünyasını gözler önüne seriyor. Kendilerini adaleti sağlamaya adayan ve The Boys olarak bilinen bir grup cesur insan, bu yozlaşmış süper kahramanları durdurmak için tehlikelerle dolu bir maceraya atılıyor. Her biri birbirinden ilginç karakterlerin yer aldığı bu yapım, alışılmışın dışında bir süper kahraman anlatımı sunuyor.",
+    "cast": [
+      {
+        "id": "c177",
+        "name": "Karl Urban",
+        "character": "Billy Butcher",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/karl-urban.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c178",
+        "name": "Jack Quaid",
+        "character": "Hughie Campbell",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/jack-quaid.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c179",
+        "name": "Antony Starr",
+        "character": "Homelander",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/antony-starr.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c180",
+        "name": "Erin Moriarty",
+        "character": "Starlight",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/erin-moriarty.jpg-thumb-detay.webp"
+      }
+    ]
+  },
+  {
+    "id": "46",
+    "title": "Dark Winds",
+    "genres": ["Gizem", "Dram", "Suç"],
+    "rating": 7.7,
+    "seasons": "4 Sezon",
+    "year": "2022",
+    "poster": "https://filmmakinesi.to/uploads/postlar/afis/dark-winds-2022.jpg-thumb-detay.webp",
+    "description": "Dark Winds, Navajo kabilesinden iki polis memuru olan Leephorn ve Chee'nin, çifte cinayet vakasını çözerken kendi manevi inançlarını sorgulamak zorunda kalışlarını anlatıyor. Bu süreçte, geleneksel değerleriyle yüzleşen ikili, hem içsel bir yolculuğa çıkıyor hem de adaletin peşinde koşuyor.",
+    "cast": [
+      {
+        "id": "c181",
+        "name": "Zahn McClarnon",
+        "character": "Joe Leaphorn",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/zahn-mcclarnon.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c182",
+        "name": "Kiowa Gordon",
+        "character": "Jim Chee",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/kiowa-gordon.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c183",
+        "name": "Jessica Matten",
+        "character": "Bernadette Manuelito",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/jessica-matten.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c184",
+        "name": "Deanna Allison",
+        "character": "Emma Leaphorn",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/deanna-allison.jpg-thumb-detay.webp"
+      }
+    ]
+  },
+  {
+    "id": "47",
+    "title": "The Rookie",
+    "genres": ["Aksiyon", "Dram", "Suç"],
+    "rating": 8.0,
+    "seasons": "8 Sezon",
+    "year": "2018",
+    "poster": "https://filmmakinesi.to/uploads/postlar/afis/the-rookie-2018.jpg-thumb-detay.webp",
+    "description": "Kırklı yaşlarındaki John Nolan, küçük bir kasabada yaşamını sürdürmektedir ve en büyük hayali polis olmaktır. Geçirdiği ciddi bir kazanın ardından, hayallerinin peşinden gitmeye karar verir ve Los Angeles’a taşınır. Los Angeles Polis Departmanı’nda işe başlayan John, burada sadece mesleki zorluklarla değil, aynı zamanda orta yaş krizi gibi kişisel sorunlarla da mücadele etmek durumunda kalır.",
+    "cast": [
+      {
+        "id": "c185",
+        "name": "Nathan Fillion",
+        "character": "John Nolan",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/nathan-fillion.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c186",
+        "name": "Melissa O'Neil",
+        "character": "Lucy Chen",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/melissa-oneil.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c187",
+        "name": "Alyssa Diaz",
+        "character": "Angela Lopez",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/alyssa-diaz.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c188",
+        "name": "Eric Winter",
+        "character": "Tim Bradford",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/eric-winter.jpg-thumb-detay.webp"
+      }
+    ]
+  },
+  {
+    "id": "48",
+    "title": "Chicago Justice",
+    "genres": ["Gizem", "Dram", "Suç"],
+    "rating": 6.8,
+    "seasons": "1 Sezon",
+    "year": "2017",
+    "poster": "https://filmmakinesi.to/uploads/postlar/afis/chicago-justice-2017.jpg-thumb-detay.webp",
+    "description": "\"Chicago Justice\", cesur ve kararlı bir şekilde adaleti sağlamak için çalışan savcılar, avukatlar ve müfettişlerden oluşan bir ekibin hikayesini anlatıyor. Devletin bu azimli personeli, hukuk sisteminin zorlu ve karmaşık yollarında adaleti sağlamak için mücadele ediyor.",
+    "cast": [
+      {
+        "id": "c189",
+        "name": "Philip Winchester",
+        "character": "Peter Stone",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/philip-winchester.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c190",
+        "name": "Jon Seda",
+        "character": "Antonio Dawson",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/jon-seda.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c191",
+        "name": "Joelle Carter",
+        "character": "Laura Nagel",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/joelle-carter.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c192",
+        "name": "Monica Barbaro",
+        "character": "Anna Valdez",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/monica-barbaro.jpg-thumb-detay.webp"
+      }
+    ]
+  },
+  {
+    "id": "49",
+    "title": "iZombie",
+    "genres": ["Komedi", "Dram", "Suç"],
+    "rating": 7.8,
+    "seasons": "5 Sezon",
+    "year": "2015",
+    "poster": "https://filmmakinesi.to/uploads/postlar/afis/izombie-2015.jpg-thumb-detay.webp",
+    "description": "Tıp öğrencisi iken zombiye dönüşen Liv, insanlığını yitirmemek için adli tıpta çalışmaya başlar, böylece beyinlere erişimi olur. Ancak yediği her beyin, ona cesedin anılarını da getirir. Bu yeteneği, çözülememiş cinayetlere ışık tutmak için kullanmaya karar veren Liv, patronu ve bir dedektifin desteğiyle suçları çözmeye girişir. DC Comics'in iZombie adlı çizgi romanından uyarlanan dizi, Veronica Mars'ın yapımcıları tarafından hayata geçirilmiştir.",
+    "cast": [
+      {
+        "id": "c193",
+        "name": "Rose Mclver",
+        "character": "Olivia Moore",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/rose-mciver.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c194",
+        "name": "Malcolm Goodwin",
+        "character": "Clive Babineaux",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/malcolm-goodwin.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c195",
+        "name": "Robert Buckley",
+        "character": "Major Lilywhite",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/robert-buckley.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c196",
+        "name": "Rahul Kohli",
+        "character": "Ravi Chakrabarti",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/rahul-kohli.jpg-thumb-detay.webp"
+      }
+    ]
   }
 ]
