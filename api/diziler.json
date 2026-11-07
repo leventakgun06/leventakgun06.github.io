@@ -286,5 +286,77 @@
         "image": "https://filmmakinesi.to/uploads/oyuncular/tessa-ferrer.jpg-thumb-detay.webp"
       }
     ]
+  },
+  {
+    "id": "9",
+    "title": "Harry Hole",
+    "genres": ["Gizem", "Dram", "Suç"],
+    "rating": 7.6,
+    "seasons": "1 Sezon",
+    "year": "2026",
+    "poster": "https://filmmakinesi.to/uploads/postlar/afis/harry-hole-2026.jpg-thumb-detay.webp",
+    "description": "Norveç'in karanlık dehlizlerinde, dehası kadar sorunlarıyla da bilinen Dedektif Harry Hole, soğuk bir seri katilin izini sürerken, kendi teşkilatının yozlaşmış yüzü Komiser Tom Waaler ile amansız bir mücadeleye girişir. Adalet arayışında etik sınırları zorlayan Hole, her adımda kendi şeytanlarıyla yüzleşirken, şehrin derinliklerinde saklı sırları gün yüzüne çıkarmaya kararlıdır. Bu çarpık dünyada, doğru ile yanlış arasındaki çizgi giderek bulanıklaşmaktadır.",
+    "cast": [
+      {
+        "id": "c33",
+        "name": "Tobias Santelmann",
+        "character": "Harry Hole",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/tobias-santelmann.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c34",
+        "name": "Joseph Kinnaman",
+        "character": "Tom Waaler",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/joel-kinnaman.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c35",
+        "name": "Pia Tjelta",
+        "character": "Rakel Fauke",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/pia-tjelta.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c36",
+        "name": "Ellen Helinder",
+        "character": "Beate Lønn",
+        "image": "https://c3687.eu-central-1.linodeobjects.com/2022/11/ellen1.jpg"
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "title": "56 Days",
+    "genres": ["Gizem", "Dram", "Suç"],
+    "rating": 6.7,
+    "seasons": "1 Sezon",
+    "year": "2026",
+    "poster": "https://filmmakinesi.to/uploads/postlar/afis/56-gun-2026.jpg-thumb-detay.webp",
+    "description": "Lüks bir dairede kimliği belirsiz bir ceset bulununca, Dedektifler Lee Reardon ve Karl Connolly, Oliver Kennedy ve sevgilisi Ciara Wyse'ın geçmiş 56 günü kapsayan tehlikeli ilişkilerini mercek altına alırlar. Bu gerilim dolu hikayede, Dove Cameron, Avan Jogia, Karla Souza ve Dorian Missick başrolleri paylaşıyor. Geçmişin sırları ve aşkın karanlık yüzü, izleyiciyi soluksuz bir yolculuğa çıkarıyor.",
+    "cast": [
+      {
+        "id": "c37",
+        "name": "Dove Cameron",
+        "character": "Ciara Wyse",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/dove-cameron.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c38",
+        "name": "Avan Jogia",
+        "character": "Oliver Kennedy",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/avan-jogia.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c39",
+        "name": "Dorian Missick",
+        "character": "Karl Connolly",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/dorian-missick.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c40",
+        "name": "Karla Souza",
+        "character": "Lee Reardon",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/karla-souza.jpg-thumb-detay.webp"
+      }
+    ]
   }
 ]
