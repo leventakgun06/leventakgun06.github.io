@@ -718,5 +718,365 @@
         "image": "https://filmmakinesi.to/uploads/oyuncular/ken-marino.jpg-thumb-detay.webp"
       }
     ]
+  },
+  {
+    "id": "21",
+    "title": "You're Killing Me",
+    "genres": ["Gizem", "Dram", "Suç"],
+    "rating": 6.4,
+    "seasons": "1 Sezon",
+    "year": "2026",
+    "poster": "https://filmmakinesi.to/uploads/postlar/afis/youre-killing-me-2026.jpg-thumb-detay.webp",
+    "description": "New England'ın şirin bir kasabasında, çok satan romancı Allie ile hevesli yazar ve podcast yayıncısı Andi'nin yolları, ortak bir arkadaşlarının esrarengiz cinayetini çözmek için kesişir. İki farklı dünyanın insanı olan bu ikili, acı kaybın gölgesinde, katili bulmak adına beklenmedik bir ittifak kurar. Karanlık sırlar ve kasabanın derinliklerine gömülmüş gerçekler, onları karmaşık bir maceranın içine çekerken, dostlukları da sınanacaktır.",
+    "cast": [
+      {
+        "id": "c81",
+        "name": "Brooke Shields",
+        "character": "Allison Chandler",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/brooke-shields.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c82",
+        "name": "Amalia Williamson",
+        "character": "Andrea Walker",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/amalia-williamson.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c83",
+        "name": "Tom Cavanagh",
+        "character": "Jack Kerrigan",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/tom-cavanagh.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c84",
+        "name": "Jason Diaz",
+        "character": "Noah",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_face/1LfNONb0tFwCWATwCRjvCTTJnKY.jpg"
+      }
+    ]
+  },
+  {
+    "id": "22",
+    "title": "Elsbeth",
+    "genres": ["Komedi", "Dram", "Suç"],
+    "rating": 7.5,
+    "seasons": "4 Sezon",
+    "year": "2024",
+    "poster": "https://filmmakinesi.to/uploads/postlar/afis/elsbeth-2024.jpg-thumb-detay.webp",
+    "description": "Oldukça zeki fakat alışılmışın dışında bir üsluba sahip avukat Elsbeth Tascioni, Chicago'da elde ettiği başarılı kariyerinin ardından bilgi birikimini New York Polis Teşkilatı ile paylaşmaya karar verir. Ancak, Elsbeth'in sıradışı yöntemleri ve alışılmadık yaklaşımı, hem meslektaşları hem de üstleri tarafından şüpheyle karşılanır. Bu durum, Elsbeth'in hem kendi yeteneklerini kanıtlaması hem de adaletin sağlanması için mücadele etmesini gerektirir. Dizi, Elsbeth'in zekâsı, mizah anlayışı ve sıra dışı yöntemleriyle suç dünyasının karmaşık yapısını çözmeye çalışırken yaşadığı zorlukları ve başarılarını konu alıyor.",
+    "cast": [
+      {
+        "id": "c85",
+        "name": "Carrie Preston",
+        "character": "Elsbeth Tascioni",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/carrie-preston.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c86",
+        "name": "Carra Patterson",
+        "character": "Kaya Blanke",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/carra-patterson.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c87",
+        "name": "Wendell Pierce",
+        "character": "Captain C.W Wagner",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/wendell-pierce.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c88",
+        "name": "Daniel K. Isaac",
+        "character": "LT. Steve Connor",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/daniel-k-isaac.jpg-thumb-detay.webp"
+      }
+    ]
+  },
+  {
+    "id": "23",
+    "title": "High Potential",
+    "genres": ["Gizem", "Dram", "Suç"],
+    "rating": 7.5,
+    "seasons": "2 Sezon",
+    "year": "2024",
+    "poster": "https://filmmakinesi.to/uploads/postlar/afis/high-potential-2024.jpg-thumb-detay.webp",
+    "description": "Üç çocuğunu tek başına büyüten Morgan, üstün zekâsı sayesinde hayatını değiştirme fırsatı yakalar. Polis departmanında temizlikçi olarak çalışırken, kanıtları dikkatlice inceleyip yeniden düzenleyerek karmaşık bir suçun çözülmesine katkıda bulunur. Morgan’ın bu beklenmedik başarısı, onun ve ailesinin hayatını farklı bir yöne sürükler.",
+    "cast": [
+      {
+        "id": "c89",
+        "name": "Kaitlin Olson",
+        "character": "Morgan Gillory",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/kaitlin-olson.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c90",
+        "name": "Daniel Sunjata",
+        "character": "Adam Karadec",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/daniel-sunjata.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c91",
+        "name": "Javicia Leslie",
+        "character": "Daphne Forrester",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/javicia-leslie.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c92",
+        "name": "Deniz Akdeniz",
+        "character": "Lev Ozdil",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/deniz-akdeniz.jpg-thumb-detay.webp"
+      }
+    ]
+  },
+  {
+    "id": "24",
+    "title": "Barry",
+    "genres": ["Aksiyon", "Komedi", "Suç"],
+    "rating": 8.3,
+    "seasons": "4 Sezon",
+    "year": "2018",
+    "poster": "https://filmmakinesi.to/uploads/postlar/afis/barry-2018.jpg-thumb-detay.webp",
+    "description": "Bill Hader’ın hem başrolünü üstlendiği hem de yönetmenliğini yaptığı \"Barry\", kara mizah türünde bir dizi olarak karşımıza çıkıyor. Başarısızlıklarla dolu yaşamından bıkan depresif tetikçi Barry, oyunculuk kariyerini denemek için Los Angeles’a gidiyor. Burada bir oyunculuk kursuna katılarak yeni bir başlangıç yapmayı ümit eden Barry, bu süreçte farklı hayalleri olan insanlarla tanışıyor. Ancak geçmişindeki karanlık suçlar peşini bırakmayarak, Barry’nin yeni hayatını tehdit etmeye devam ediyor.",
+    "cast": [
+      {
+        "id": "c93",
+        "name": "Bill Hader",
+        "character": "Barry Berkman",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/bill-hader.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c94",
+        "name": "Sarah Goldberg",
+        "character": "Sally Reed",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/sarah-goldberg.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c95",
+        "name": "Anthony Carrigan",
+        "character": "Noho Hank",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/anthony-carrigan.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c96",
+        "name": "Henry Winkler",
+        "character": "Gene Cousineau",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/henry-winkler.jpg-thumb-detay.webp"
+      }
+    ]
+  },
+  {
+    "id": "25",
+    "title": "Boston Blue",
+    "genres": ["Gizem", "Dram", "Suç"],
+    "rating": 6.3,
+    "seasons": "2 Sezon",
+    "year": "2025",
+    "poster": "https://filmmakinesi.to/uploads/postlar/afis/boston-blue-2025.jpg-thumb-detay.webp",
+    "description": "NYPD Dedektifi Danny Reagan, Boston Polis Teşkilatı'nda yeni bir görev alır ve kendisi gibi kolluk kuvvetleri geçmişine sahip Dedektif Lena Silver ile ortak olur. Silver ailesi, Bölge Savcısı Mae Silver, Polis Müdürü Sarah Silver, acemi polis Jonah Silver ve Rahip Edwin Peters gibi üyelerden oluşmaktadır. Reagan, Boston'da çalışırken aynı zamanda oğlu Sean ile yeniden bağ kurmayı umut eder. Bu yeni şehirde, ailevi ilişkiler ve mesleki sorumluluklar arasında denge kurmaya çalışırken, karmaşık suçlarla mücadele eder.",
+    "cast": [
+      {
+        "id": "c97",
+        "name": "Donnie Wahlberg",
+        "character": "Danny Reagan",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/donnie-wahlberg.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c98",
+        "name": "Sonequa Martin-Green",
+        "character": "Lena Silver",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/sonequa-martin-green.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c99",
+        "name": "Ernie Hudson",
+        "character": "Reverend Edwin Peters",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/ernie-hudson.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c100",
+        "name": "Maggie Lawson",
+        "character": "Sarah Silver",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/maggie-lawson.jpg-thumb-detay.webp"
+      }
+    ]
+  },
+  {
+    "id": "26",
+    "title": "Furious",
+    "genres": ["Gerilim", "Dram", "Suç"],
+    "rating": 7.8,
+    "seasons": "1 Sezon",
+    "year": "2026",
+    "poster": "https://filmmakinesi.to/uploads/postlar/afis/furious-2026.jpg-thumb-detay.webp",
+    "description": "Adalet, bazen en karanlık labirentlerde yolunu kaybeder. FBI ajanı Alice Black, kendi zihninin dehlizlerinde kaybolmuş, soğukkanlı ve dahi bir kadın seri katilin izini sürmektedir. Her ikisi de kendi mutlak doğrularının peşinde, adaleti kendi yöntemleriyle aramaktadır. Ancak bu amansız kedi-fare oyununda yolları kesiştikçe, av ile avcı arasındaki sınırlar belirsizleşir. Doğru ve yanlışın, iyi ve kötünün birbirine karıştığı bu tehlikeli yakınlaşmada Alice, adaleti sağlamak ile canavarlaştığı o ince çizgide yürümek arasında bir seçim yapmak zorunda kalacaktır.",
+    "cast": [
+      {
+        "id": "c101",
+        "name": "Emmy Rossum",
+        "character": "Alice Black",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/emmy-rossum.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c102",
+        "name": "Lola Petticrew",
+        "character": "Catherine Grace",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/lola-petticrew.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c103",
+        "name": "Scoot McNairy",
+        "character": "Danny Kelly",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/scoot-mcnairy.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c104",
+        "name": "Quincy Tyler Bernstine",
+        "character": "Nora Washington",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/quincy-tyler-bernstine.jpg-thumb-detay.webp"
+      }
+    ]
+  },
+  {
+    "id": "27",
+    "title": "The Idaho Murders: College Nightmare",
+    "genres": ["Belgesel", "Dram", "Suç"],
+    "rating": 6.7,
+    "seasons": "1 Sezon",
+    "year": "2026",
+    "poster": "https://filmmakinesi.to/uploads/postlar/afis/idaho-universitesi-cinayetleri-2026.jpg-thumb-detay.webp",
+    "description": "Idaho Üniversitesi kampüsünü sarsan ve dört genç öğrencinin hayatını hayattan koparan o karanlık gece, bu belgeselde tüm çıplaklığıyla masaya yatırılıyor. Olay gecesine ait ürpertici polis vücut kamerası kayıtları, kurbanların son anlarına ışık tutan kişisel mesajlaşmaları ve geride kalan yakınlarının yürek burkan tanıklıkları ilk kez bir araya geliyor. Trajedinin perde arkasını aralayan yapım, izleyiciyi sadece bir cinayet soruşturmasının detaylarına değil, adalet arayışının getirdiği derin acıya da ortak ediyor.",
+    "cast": [
+      {
+        "id": "c105",
+        "name": "Anthony Dahlinger",
+        "character": "Chief Detective",
+        "image": "https://m.media-amazon.com/images/M/MV5BNTc5YWNjODMtOTU3ZS00YzYwLTg1YzQtYmUyNzVjYTVhMmYyXkEyXkFqcGc@._V1_QL75_UX776_.jpg"
+      },
+      {
+        "id": "c106",
+        "name": "Cooper Atkinson",
+        "character": "Self Ethans Friend",
+        "image": "https://m.media-amazon.com/images/M/MV5BNDdmMTBiMDktZmFiYS00NzFhLThjNzktNzZkOWM0MDZjZWNmXkEyXkFqcGc@._V1_QL75_UX314_.jpg"
+      },
+      {
+        "id": "c107",
+        "name": "Jeffrey Kernodle",
+        "character": "Self Xanas Father",
+        "image": "https://m.media-amazon.com/images/M/MV5BNmEyODRlMDUtYWQ3ZC00NDgzLWE0NjMtOWVkN2I5NjBlZTBkXkEyXkFqcGc@._V1_QL75_UX444_.jpg"
+      },
+      {
+        "id": "c108",
+        "name": "Alivea Goncalves Stevenson",
+        "character": "Self Xanas Friend",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/alivea-goncalves-stevenson.jpg-thumb-detay.webp"
+      }
+    ]
+  },
+  {
+    "id": "28",
+    "title": "R.J. Decker",
+    "genres": ["Aksiyon", "Dram", "Suç"],
+    "rating": 7.1,
+    "seasons": "2 Sezon",
+    "year": "2026",
+    "poster": "https://filmmakinesi.to/uploads/postlar/afis/rj-decker-2026.jpg-thumb-detay.webp",
+    "description": "Güney Florida'nın neon ışıkları ve gölgelerinde, eski mahkum fotoğrafçı RJ Decker, kendisini özel dedektiflik dünyasının girdabında bulur. Her vaka bir öncekinden daha tuhaf, her ipucu onu geçmişine biraz daha yaklaştırır. Bu karmaşık labirentte yolunu bulurken, gazeteci eski sevgilisi, onun polis eşi ve geçmişinden gelen esrarengiz bir kadın ona eşlik eder. Bu kadın, Decker'ı ya kurtuluşa taşıyacak ya da tamamen yok edecektir. Sırlar açığa çıktıkça, Decker sadece suçluları değil, kendi içindeki karanlığı da aydınlatmak zorunda kalır.",
+    "cast": [
+      {
+        "id": "c109",
+        "name": "Scott Speedman",
+        "character": "R.C Decker",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/scott-speedman.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c110",
+        "name": "Jaina Lee Ortiz",
+        "character": "Emilia Ochoa",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/jaina-lee-ortiz.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c111",
+        "name": "Kevin Rankin",
+        "character": "Aloysius Aiken",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/kevin-rankin.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c112",
+        "name": "Adelaide Clemens",
+        "character": "Catherine Delacroix",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/adelaide-clemens.jpg-thumb-detay.webp"
+      }
+    ]
+  },
+  {
+    "id": "29",
+    "title": "Lanterns",
+    "genres": ["Aksiyon", "Macera", "Bilim Kurgu"],
+    "rating": 7.7,
+    "seasons": "1 Sezon",
+    "year": "2026",
+    "poster": "https://filmmakinesi.to/uploads/postlar/afis/lanterns-2026.jpg-thumb-detay.webp",
+    "description": "Kozmik asayişin koruyucuları, çaylak John Stewart ve efsanevi Yeşil Fener Hal Jordan, bu kez evrenin derinliklerinde değil, Amerika’nın taşrasında beliren karanlık bir düğümü çözmek için yeryüzüne iniyor. İlk bakışta sıradan görünen bir cinayet vakası, ikiliyi Dünya’nın ücra bir köşesinde saklanan, kökleri derinlere uzanan tekinsiz bir komplonun içine çekiyor. Yıldızlararası adaleti sağlamaya alışmış bu iki zıt karakter, insanlığın en karanlık sırlarıyla yüzleşirken hem birbirlerine güvenmeyi öğrenmek hem de galaksiyi tehdit eden bu gizemi aydınlatmak zorundadır.",
+    "cast": [
+      {
+        "id": "c113",
+        "name": "Kyle Chandler",
+        "character": "Hal Jordan",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/kyle-chandler.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c114",
+        "name": "Aaron Pierre",
+        "character": "John Stewart",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/aaron-pierre.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c115",
+        "name": "Kelly Macdonald",
+        "character": "Sheriff Kerry Kane",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/kelly-macdonald.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c116",
+        "name": "Garret Dillahunt",
+        "character": "Will Macon",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/garret-dillahunt.jpg-thumb-detay.webp"
+      }
+    ]
+  },
+  {
+    "id": "30",
+    "title": "Long Bright River",
+    "genres": ["Gerilim", "Dram", "Suç"],
+    "rating": 6.8,
+    "seasons": "1 Sezon",
+    "year": "2026",
+    "poster": "https://filmmakinesi.to/uploads/postlar/afis/long-bright-river-2025.jpg-thumb-detay.webp",
+    "description": "Mickey, Philadelphia'nın opioid krizinin etkisi altındaki bir mahallesinde görev yapan bir polis memurudur. Toplum, esrarengiz bir dizi cinayetle sarsıldığında, Mickey bu olayların düşündüğünden çok daha fazla kişisel bağlantısı olduğundan şüphelenmeye başlar. Araştırması derinleştikçe, kendi geçmişinin bu suçlarla karmaşık bir bağ içinde olabileceğini keşfeder ve geçmişinin karanlık yönleriyle yüzleşmek zorunda kalır.",
+    "cast": [
+      {
+        "id": "c117",
+        "name": "Amanda Seyfried",
+        "character": "Mickey",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/amanda-seyfried.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c118",
+        "name": "Nicholas Pinnock",
+        "character": "Truman Dawes",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/nicholas-pinnock.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c119",
+        "name": "Ashleigh Cummings",
+        "character": "Kacey",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/ashleigh-cummings.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c120",
+        "name": "Callum Vinson",
+        "character": "Thomas Fitzpatrick",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/callum-vinson.jpg-thumb-detay.webp"
+      }
+    ]
   }
 ]
