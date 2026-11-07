@@ -646,5 +646,77 @@
         "image": "https://filmmakinesi.to/uploads/oyuncular/michael-mosley.jpg-thumb-detay.webp"
       }
     ]
+  },
+  {
+    "id": "19",
+    "title": "Sheriff Country",
+    "genres": ["Gizem", "Dram", "Suç"],
+    "rating": 6.9,
+    "seasons": "1 Sezon",
+    "year": "2025",
+    "poster": "https://filmmakinesi.to/uploads/postlar/afis/sheriff-country-2025.jpg-thumb-detay.webp",
+    "description": "Küçük bir kasaba olan Edgewater'da devriye gezen Mickey Fox, suç faaliyetlerini araştırırken, eski mahkûm babasıyla ve başı belada olan kızıyla ilgili gizemli bir olayla mücadele eder. Mickey, kasabanın huzurunu sağlamak ve ailesinin geçmişinin gölgelerinden kurtulmak için çabalarken, kendisini karmaşık bir olay örgüsünün içinde bulur. Kızının yaşadığı sır perdesini aralarken, hem kişisel hem de profesyonel hayatında beklenmedik zorluklarla yüzleşir. Mickey'nin yolculuğu, adalet ve aile arasında dengede kalmaya çalışırken derinlemesine bir karakter incelemesi sunar.",
+    "cast": [
+      {
+        "id": "c73",
+        "name": "Morena Baccarin",
+        "character": "Mickey Fox",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/morena-baccarin.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c74",
+        "name": "W. Earl Brown",
+        "character": "Wes Fox",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/w-earl-brown.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c75",
+        "name": "Cristopher Gorham",
+        "character": "Travis Fraley",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/christopher-gorham.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c76",
+        "name": "Michele Weaver",
+        "character": "Cassidiy Campbell",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/michele-weaver.jpg-thumb-detay.webp"
+      }
+    ]
+  },
+  {
+    "id": "20",
+    "title": "The Residence",
+    "genres": ["Komedi", "Dram", "Suç"],
+    "rating": 7.7,
+    "seasons": "1 Sezon",
+    "year": "2025",
+    "poster": "https://filmmakinesi.to/uploads/postlar/afis/the-residence-2025.jpg-thumb-detay.webp",
+    "description": "Beyaz Saray’da düzenlenen resmi bir akşam yemeğinde işlenen cinayet, 150’den fazla kişinin potansiyel şüpheli olması nedeniyle oldukça karmaşık bir hale gelir. Washington'un alışılmadık ve zeki polis dedektifi Cordelia Cupp, davanın başına geçer. Kendine özgü mizah anlayışı ve kararlılığıyla bilinen Cordelia, hükümet binasının labirent gibi koridorlarında zorluklarla yüzleşmeye hazırdır. Onun farklı yöntemlerine şüpheyle yaklaşan FBI ajanı Edwin Park ise, Cordelia’ya eşlik eder. İkili, ipuçlarının peşinde koşarken ve şüphelileri sorgularken, karanlık olayları aydınlatmak için mücadele ederler.",
+    "cast": [
+      {
+        "id": "c77",
+        "name": "Uzo Aduba",
+        "character": "Cordelia Cupp",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/uzo-aduba.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c78",
+        "name": "Giancarlo Esposito",
+        "character": "A.B Wynter",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/giancarlo-esposito.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c79",
+        "name": "Molly Griggs",
+        "character": "Lilly Schumacher",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/molly-griggs.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c80",
+        "name": "Ken Marino",
+        "character": "Harry Hollinger",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/ken-marino.jpg-thumb-detay.webp"
+      }
+    ]
   }
 ]
