@@ -358,5 +358,293 @@
         "image": "https://filmmakinesi.to/uploads/oyuncular/karla-souza.jpg-thumb-detay.webp"
       }
     ]
+  },
+  {
+    "id": "11",
+    "title": "Steal",
+    "genres": ["Gerilim", "Dram", "Suç"],
+    "rating": 7.0,
+    "seasons": "1 Sezon",
+    "year": "2026",
+    "poster": "https://filmmakinesi.to/uploads/postlar/afis/soygun-2026.jpg-thumb-detay.webp",
+    "description": "Lochmill Capital'ın sıradan bir günü, silahlı soyguncuların aniden içeri dalmasıyla altüst olur. Zara ve en yakın arkadaşı Luke, zorla isteklerini yerine getirmeye mecbur bırakılır. Olayın ardından, iç çatışmalar yaşayan dedektif Rhys, insanların emeklilik fonlarından çalınan 4 milyar sterlinin peşine düşer. Zamanla yarışan Rhys, bu devasa hırsızlığın arkasında kimlerin olduğunu ve nedenini ortaya çıkarmaya çalışır.",
+    "cast": [
+      {
+        "id": "c41",
+        "name": "Sophie Turner",
+        "character": "Zara Dunne",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/sophie-turner.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c42",
+        "name": "Archie Madekwe",
+        "character": "Luke",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/archie-madekwe.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c43",
+        "name": "Jacob Fortune-Lloyd",
+        "character": "DCI Rhys Covac",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/jacob-fortune-lloyd.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c44",
+        "name": "Andrew Howard",
+        "character": "Snipper",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/andrew-howard.jpg-thumb-detay.webp"
+      }
+    ]
+  },
+  {
+    "id": "12",
+    "title": "His & Hers",
+    "genres": ["Gizem", "Dram", "Suç"],
+    "rating": 7.1,
+    "seasons": "1 Sezon",
+    "year": "2026",
+    "poster": "https://filmmakinesi.to/uploads/postlar/afis/ne-yaptigini-biliyorum-2026.jpg-thumb-detay.webp",
+    "description": "Anna, içine kapanık bir eski haber spikeri, memleketinde işlenen bir cinayet davasına takıntılı hale gelir. Dedektif Jack Harper, Anna'nın olaydaki rolünden şüphelenerek onu soruşturmasının merkezine alır. Anna'nın geçmişiyle yüzleşmesi ve gerçeği ortaya çıkarması gerekirken, Jack de kendi içsel çatışmalarıyla mücadele eder. Bu karmaşık ilişkiler ağı, hem gerilimi hem de duygusal derinliği artırır. İkili, çözülmesi zor bir bilmeceyle karşı karşıya kalır ve sınırları zorlayarak gerçekleri gün yüzüne çıkarmak için amansız bir mücadeleye girişir.",
+    "cast": [
+      {
+        "id": "c45",
+        "name": "Tessa Thompson",
+        "character": "Anna Andrews",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/tessa-thompson.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c46",
+        "name": "Jon Bernthal",
+        "character": "Jack Harper",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/jon-bernthal.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c47",
+        "name": "Pablo Schreiber",
+        "character": "Richard Jones",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/pablo-schreiber.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c48",
+        "name": "Crystal Fox",
+        "character": "Alice",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/crystal-r-fox.jpg-thumb-detay.webp"
+      }
+    ]
+  },
+  {
+    "id": "13",
+    "title": "I Will Find You",
+    "genres": ["Gizem", "Dram", "Suç"],
+    "rating": 7.1,
+    "seasons": "1 Sezon",
+    "year": "2026",
+    "poster": "https://filmmakinesi.to/uploads/postlar/afis/seni-bulacagim-2026.jpg-thumb-detay.webp",
+    "description": "Oğlunun cinayetinden mesul tutularak demir parmaklıklar ardına gönderilen bir babanın yüreği, çocuğunun hayatta olabileceği ihtimaliyle yeniden atmaya başlar. Adaletsizliğin prangalarından kurtulma arzusuyla yanıp tutuşan adam, gerçeğin peşine düşer. Evladına kavuşma umuduyla çıktığı bu çetin yolda, karşısına çıkacak her engeli aşmaya kararlıdır; zira bir babanın sevgisi, en karanlık zindanları bile aydınlatabilecek güçtedir. Bu amansız mücadele, hem kişisel bir kefaret arayışı hem de sarsılmaz bir aile bağının destanıdır.",
+    "cast": [
+      {
+        "id": "c49",
+        "name": "Sam Worthington",
+        "character": "David Burroughs",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/sam-worthington.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c50",
+        "name": "Britt Lower",
+        "character": "Rachel Mills",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/britt-lower.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c51",
+        "name": "Logan Browning",
+        "character": "Sarah Greer",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/logan-browning.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c52",
+        "name": "Erin Richards",
+        "character": "Cheryl Dreason",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/erin-richards.jpg-thumb-detay.webp"
+      }
+    ]
+  },
+  {
+    "id": "14",
+    "title": "FBI",
+    "genres": ["Aksiyon", "Dram", "Suç"],
+    "rating": 7.1,
+    "seasons": "9 Sezon",
+    "year": "2018",
+    "poster": "https://filmmakinesi.to/uploads/postlar/afis/fbi-2018.jpg-thumb-detay.webp",
+    "description": "Ülke güvenliğini tehdit eden terör ve organize suçlarla mücadele eden bir grup yetenekli FBI ajanı, kendi hayatlarını riske atarak etkileyici operasyonlara imza atıyor. Her biri farklı beceri ve uzmanlıklarıyla dikkat çeken bu ajanlar, soluk kesen maceralarda izleyiciyi ekrana kilitliyor.",
+    "cast": [
+      {
+        "id": "c53",
+        "name": "Missy Peregrym",
+        "character": "FBI SA Maggie Bell",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/missy-peregrym.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c54",
+        "name": "Zeeko Zaki",
+        "character": "FBI SA Omar Adom 'OA' Zidan",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/zeeko-zaki.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c55",
+        "name": "Jeremy Sisto",
+        "character": "FBI SA Jubal Valentine",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/jeremy-sisto.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c56",
+        "name": "Alana de la Garza",
+        "character": "FBI SA Isobel Castille",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/alana-de-la-garza.jpg-thumb-detay.webp"
+      }
+    ]
+  },
+  {
+    "id": "15",
+    "title": "Scarpetta",
+    "genres": ["Gizem", "Dram", "Suç"],
+    "rating": 6.1,
+    "seasons": "1 Sezon",
+    "year": "2026",
+    "poster": "https://filmmakinesi.to/uploads/postlar/afis/scarpetta-2026.jpg-thumb-detay.webp",
+    "description": "Adli patolojinin zirvedeki ismi Dr. Kay Scarpetta, Virginia Adli Tıp Kurumu Başkanlığı görevine geri döner. Bu dönüş, onu geçmişin gölgeleriyle yüzleştiren tüyler ürpertici bir cinayetle kesişir; zira vaka, yıllar önceki ilk büyük davasını ürkütücü bir şekilde anımsatmaktadır. 1998 yılına geri döndüğümüzde ise Scarpetta, Dedektif Pete Marino ve FBI Ajanı Benton Wesley ile birlikte acımasız seri cinayetleri çözmek için zamanla yarışmaktadır. Patricia Cornwell'in çok satan romanlarından uyarlanmıştır.",
+    "cast": [
+      {
+        "id": "c57",
+        "name": "Nicole Kidman",
+        "character": "Kay Scarpetta",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/nicole-kidman.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c58",
+        "name": "Jamie Lee Curtis",
+        "character": "Dorothy Farinelli",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/jamie-lee-curtis-340.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c59",
+        "name": "Ariana DeBose",
+        "character": "Lucy Farinelli-Watson",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/ariana-debose.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c60",
+        "name": "Bobby Cannavale",
+        "character": "Pete Marino",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/bobby-cannavale.jpg-thumb-detay.webp"
+      }
+    ]
+  },
+  {
+    "id": "16",
+    "title": "Spider-Noir",
+    "genres": ["Aksiyon", "Dram", "Suç"],
+    "rating": 7.6,
+    "seasons": "1 Sezon",
+    "year": "2026",
+    "poster": "https://filmmakinesi.to/uploads/postlar/afis/spider-noir-2026.jpg-thumb-detay.webp",
+    "description": "Özel dedektif Ben Reilly, New York'un gölgelerinde basit görünen birkaç vakayı üstlenir. Ancak bu sıradan başlangıç, onu şehrin yeraltı dünyasının acımasız gangsterleriyle, korkunç canavarlarla ve esrarengiz, ölümcül bir kadınla karşı karşıya getirir. Bu tehlikeli yolculuk, Reilly'yi kaçınılmaz olarak kendi geçmişiyle, yani bir zamanlar New York'un tek süper kahramanı olan Örümcek Adam kimliğiyle yüzleşmeye zorlar. Şehrin karanlık sırları ve kendi unutulmuş mirası arasında sıkışıp kalan Reilly, kendini beklenmedik bir hesaplaşmanın eşiğinde bulur.",
+    "cast": [
+      {
+        "id": "c61",
+        "name": "Nicholas Cage",
+        "character": "Ben Reilly",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/nicolas-cage.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c62",
+        "name": "Lamorne Morris",
+        "character": "Robbie Robertson",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/lamorne-morris.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c63",
+        "name": "Li Jun Li",
+        "character": "Cat Hardy",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/li-jun-li.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c64",
+        "name": "Karen Rodriguez",
+        "character": "Janet Ruiz",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/karen-rodriguez.jpg-thumb-detay.webp"
+      }
+    ]
+  },
+  {
+    "id": "17",
+    "title": "The Wire",
+    "genres": ["Gerilim", "Dram", "Suç"],
+    "rating": 9.3,
+    "seasons": "5 Sezon",
+    "year": "2002",
+    "poster": "https://filmmakinesi.to/uploads/postlar/afis/the-wire-2002.jpg-thumb-detay.webp",
+    "description": "Baltimore, Amerika'nın 26. büyük şehri ve Maryland'in en büyük şehri olarak, The Wire dizisinin sahne arkasında yatan şehir. The Wire, TV'de hikaye anlatıcılığının öncülerinden biri olarak hafızalarda silinmez bir iz bırakıyor. HBO’nun daha önce OZ ve The Sopranos ile elde ettiği başarının ardından, kanal, bağımsız ve kaliteli yapımlar sunma hedefiyle yeni bir dizi arayışına girdi. Bu noktada, The Corner kitabını mini diziye uyarlayan David Simon, yeni bir projeyle HBO’ya başvurdu. Simon, “Bu bir polis-suçlu kovalamacası olmayacak. İlk bakışta öyle görünebilir ama bu bir Baltimore hikayesi” diyerek projesini tanıttı. The Wire, suç, adalet, kentsel dönüşüm, siyasi otorite gibi konular üzerinden Baltimore'un yaşam dinamiklerini gözler önüne seriyor. Her sezonunda Baltimore'un farklı bir yönünü keşfedeceğiniz dizide, iyilik ve kötülük arasındaki çizgiyi ayırt etmek zorlaşıyor. The Wire, HBO’nun itibarını artırırken TV dünyasına gerçekçilik, görsel hikaye anlatımı ve sosyal eleştiri gibi önemli kavramlar kazandırdı.",
+    "cast": [
+      {
+        "id": "c65",
+        "name": "Dominic West",
+        "character": "DT. Jimmy McNulty",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/dominic-west.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c66",
+        "name": "Lance Reddick",
+        "character": "LT. Cedric Daniels",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/lance-reddick.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c67",
+        "name": "Sonja Sohn",
+        "character": "Detective Shakima Greggs",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/sonja-sohn.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c68",
+        "name": "Wendell Pierce",
+        "character": "Detective William 'Bunk' Moreland",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/wendell-pierce.jpg-thumb-detay.webp"
+      }
+    ]
+  },
+  {
+    "id": "18",
+    "title": "Ballard",
+    "genres": ["Gizem", "Dram", "Suç"],
+    "rating": 7.5,
+    "seasons": "1 Sezon",
+    "year": "2025",
+    "poster": "https://filmmakinesi.to/uploads/postlar/afis/ballard-2025.jpg-thumb-detay.webp",
+    "description": "Dedektif Renée Ballard, acımasız bir seri katilin peşine düşerken, cinayet ve yolsuzluk dolu bir ağın içine sürüklenir. Aynı zamanda, onun değer verdiği her şeyi tehdit eden karanlık bir polis komplosunu açığa çıkarır. Kendi içsel sorunlarıyla da mücadele eden Ballard, hem suçluları hem de meslektaşlarını alt ederek kurbanlar ve aileleri için adaleti sağlamak zorundadır.",
+    "cast": [
+      {
+        "id": "c69",
+        "name": "Maggie Q",
+        "character": "Renee Ballard",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/maggie-q.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c70",
+        "name": "Courteny Taylor",
+        "character": "Samira Parker",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/courtney-taylor.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c71",
+        "name": "John Carroll Lynch",
+        "character": "Thomas Laffont",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/john-carroll-lynch.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c72",
+        "name": "Michael Mosley",
+        "character": "Ted Rawls",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/michael-mosley.jpg-thumb-detay.webp"
+      }
+    ]
   }
 ]
