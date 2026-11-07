@@ -150,32 +150,32 @@
     "rating": 8.3,
     "seasons": "1 Sezon",
     "year": "2010",
-    "poster": "https://www.hdfilmcehennemi.nl/images/list/poster/pasifik-izle@2x.webp",
+    "poster": "https://media.themoviedb.org/t/p/w600_and_h900_face/x9Y1IMFdY8Ma222KcQadFEau0EB.jpg",
     "description": "Pasifik Cephesi HBO kanalında yayınlanan bir savaş drama dizisidir. 200 milyon dolarlık devasa bütçesi ve Steven Spielberg, Tom Hanks, Gary Goetzmen gibi yapımcılarıyla son yılların en büyük televizyon yapımlarından biri olmuştur.",
     "cast": [
       {
         "id": "c17",
         "name": "James Badge Dale",
         "character": "PFC Robert Leckie",
-        "image": "https://www.hdfilmcehennemi.nl/images/thumb/cast/james-badge-dale@2x.webp"
+        "image": "https://media.themoviedb.org/t/p/w276_and_h350_face/lnm8Jm11btONDU7dzPk9liuMibk.jpg"
       },
       {
         "id": "c18",
         "name": "John Seda",
         "character": "Sgt. John Basilone",
-        "image": "https://www.hdfilmcehennemi.nl/images/thumb/cast/jon-seda@2x.webp"
+        "image": "https://media.themoviedb.org/t/p/w276_and_h350_face/4Wwgtvieu2j4f6AHqUMgnDFufa5.jpg"
       },
       {
         "id": "c19",
         "name": "Joseph Mazzello",
         "character": "PFC Eugene Sledge",
-        "image": "https://www.hdfilmcehennemi.nl/images/thumb/cast/joseph-mazzello@2x.webp"
+        "image": "https://media.themoviedb.org/t/p/w276_and_h350_face/44gsv7TlXOOKDGg5aRtqxZjM9ae.jpg"
       },
       {
         "id": "c20",
         "name": "Ashton Holmes",
         "character": "PFC Sidney Philips",
-        "image": "https://www.hdfilmcehennemi.nl/images/thumb/cast/ashton-holmes@2x.webp"
+        "image": "https://media.themoviedb.org/t/p/w276_and_h350_face/lJlIrsFSPilYbd4jIVa2hiCphP7.jpg"
       }
     ]
   },
