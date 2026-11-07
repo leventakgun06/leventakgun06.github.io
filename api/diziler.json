@@ -142,5 +142,149 @@
         "image": "https://filmmakinesi.to/uploads/oyuncular/willa-fitzgerald.jpg-thumb-detay.webp"
       }
     ]
+  },
+  {
+    "id": "5",
+    "title": "The Pasific",
+    "genres": ["Tarihi", "Dram", "Savaş"],
+    "rating": 8.3,
+    "seasons": "1 Sezon",
+    "year": "2010",
+    "poster": "https://www.hdfilmcehennemi.nl/images/list/poster/pasifik-izle@2x.webp",
+    "description": "Pasifik Cephesi HBO kanalında yayınlanan bir savaş drama dizisidir. 200 milyon dolarlık devasa bütçesi ve Steven Spielberg, Tom Hanks, Gary Goetzmen gibi yapımcılarıyla son yılların en büyük televizyon yapımlarından biri olmuştur.",
+    "cast": [
+      {
+        "id": "c17",
+        "name": "James Badge Dale",
+        "character": "PFC Robert Leckie",
+        "image": "https://www.hdfilmcehennemi.nl/images/thumb/cast/james-badge-dale@2x.webp"
+      },
+      {
+        "id": "c18",
+        "name": "John Seda",
+        "character": "Sgt. John Basilone",
+        "image": "https://www.hdfilmcehennemi.nl/images/thumb/cast/jon-seda@2x.webp"
+      },
+      {
+        "id": "c19",
+        "name": "Joseph Mazzello",
+        "character": "PFC Eugene Sledge",
+        "image": "https://www.hdfilmcehennemi.nl/images/thumb/cast/joseph-mazzello@2x.webp"
+      },
+      {
+        "id": "c20",
+        "name": "Ashton Holmes",
+        "character": "PFC Sidney Philips",
+        "image": "https://www.hdfilmcehennemi.nl/images/thumb/cast/ashton-holmes@2x.webp"
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "title": "Brand of Brothers",
+    "genres": ["Aksiyon", "Dram", "Tarihi"],
+    "rating": 9.4,
+    "seasons": "1 Sezon",
+    "year": "2001",
+    "poster": "https://filmmakinesi.to/uploads/postlar/afis/kardesler-takimi-2001.jpg-thumb-detay.webp",
+    "description": "\"Kardeşler Takımı\" Stephen Ambrose'un aynı isimli kitabından uyarlanan, II. Dünya Savaşı'nı konu alan 10 bölümlük etkileyici bir televizyon dizisidir. Steven Spielberg ve Tom Hanks'in ortak yapımcılığını üstlendiği bu 2001 yapımı dizi, hala dünya genelinde birçok televizyon kanalında izleyiciyle buluşmaya devam etmektedir. Dizi, Amerikan ordusunun 101. Hava Tümeni'ne bağlı 506. Alay'ın Easy Bölüğü askerlerinin savaştaki deneyimlerini anlatır. Hikaye, askerlerin Georgia'daki Toccoa kampında aldıkları temel eğitimle başlar ve ardından Normandiya Çıkarması, Market Garden Harekâtı ve Bastogne Savaşı gibi önemli savaş olaylarına odaklanır. Olaylar, Stephen Ambrose'un Easy Bölüğü'nden hayatta kalan askerlerle yaptığı röportajlar ve bu askerlerin savaş sonrasında yazdıkları kitaplardan derlenerek kurgulanmıştır. Dizi, savaşın zorlukları ve askerlerin dayanışması üzerine etkileyici bir anlatım sunar.",
+    "cast": [
+      {
+        "id": "c21",
+        "name": "Damian Lewis",
+        "character": "Richard D. Winters",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/damian-lewis.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c22",
+        "name": "Donnie Wahlberg",
+        "character": "C. Carwood Lipton",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/donnie-wahlberg.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c23",
+        "name": "Ron Livingston",
+        "character": "Levis Nixon",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/ron-livingston.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c24",
+        "name": "Matthew Leitch",
+        "character": "Floyd M. (Tab) Talbert",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/matthew-settle.jpg-thumb-detay.webp"
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "title": "All the Light We Cannot See",
+    "genres": ["Dram", "Savaş", "Tarihi"],
+    "rating": 7.5,
+    "seasons": "1 Sezon",
+    "year": "2023",
+    "poster": "https://filmmakinesi.to/uploads/postlar/afis/goremedigimiz-tum-isiklar-2023.jpg-thumb-detay.webp",
+    "description": "\"All the Light We Cannot See\", görme engelli genç Fransız Marie-Laure ile Alman askeri Werner'in kesişen yaşamlarını anlatıyor. Marie-Laure, Paris'te, babasının çalıştığı müzenin yakınında büyümüştür. Nazilerin Fransa’yı işgali sırasında, babasıyla birlikte Paris’ten kaçarlar. Werner ise yetimhanede büyümüş, radyo konusunda kendi kendini yetiştirmiş bir Alman gencidir ve bu yeteneği sayesinde orduya katılır. Fransız Direnişi'ni alt etmek için görevlendirilen Werner'in yolu, savaşın yıkımı altında hayatta kalmaya çalışan Marie-Laure ile işgal altındaki Fransa’da kesişir. İkili, kaosun ortasında insanlığın ve umudun anlamını yeniden keşfeder.",
+    "cast": [
+      {
+        "id": "c25",
+        "name": "Aria Mia Loberti",
+        "character": "Marie-Laure",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/aria-mia-loberti.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c26",
+        "name": "Louis Hofmann",
+        "character": "Werner",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/louis-hofmann.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c27",
+        "name": "Lars Eidinger",
+        "character": "Commander von Rumpel",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/lars-eidinger.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c28",
+        "name": "Hugh Laurie",
+        "character": "Etienne LeBlanc",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/hugh-laurie.jpg-thumb-detay.webp"
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "title": "Catch-22",
+    "genres": ["Komedi", "Dram", "Aksiyon"],
+    "rating": 7.7,
+    "seasons": "1 Sezon",
+    "year": "2019",
+    "poster": "https://filmmakinesi.to/uploads/postlar/afis/catch-22-2019.jpg-thumb-detay.webp",
+    "description": "Catch-22, ABD Hava Kuvvetleri'nde pilot olarak görev yapan John Yossarian'ın hikayesini anlatıyor. Yossarian, içinde bulunduğu sistemden memnun değildir ve sürekli olarak tanımadığı kişilerin hedefi olmaktan rahatsızlık duyar. Ayrıca, pilotluk mesleğiyle ilgili mantıksız bir kuraldan dolayı huzursuzdur. Bu nedenle, mevcut durumunu değiştirmek ve farklı bir pozisyona geçmek için çaba sarf eder. Film, Yossarian'ın bu çabalarını ve karşılaştığı zorlukları gözler önüne seriyor.",
+    "cast": [
+      {
+        "id": "c29",
+        "name": "Christopher Abbott",
+        "character": "Yossarian",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/christopher-abbott.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c30",
+        "name": "Kyle Chandler",
+        "character": "Colonel Cathcart",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/kyle-chandler.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c31",
+        "name": "Daniel David Stewart",
+        "character": "Milo",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/daniel-david-stewart.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c32",
+        "name": "Tessa Ferrer",
+        "character": "Nurse Duckett",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/tessa-ferrer.jpg-thumb-detay.webp"
+      }
+    ]
   }
 ]
