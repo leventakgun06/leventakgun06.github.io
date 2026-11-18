@@ -1762,5 +1762,41 @@
         "image": "https://filmmakinesi.to/uploads/oyuncular/rahul-kohli.jpg-thumb-detay.webp"
       }
     ]
+  },
+    {
+    "id": "50",
+    "title": "The Outsider",
+    "genres": ["Korku", "Dram", "Suç"],
+    "rating": 7.6,
+    "seasons": "1 Sezon",
+    "year": "2020",
+    "poster": "https://filmmakinesi.to/uploads/postlar/afis/the-outsider-2020.jpg-thumb-detay.webp",
+    "description": "Flint City'de 11 yaşındaki bir çocuğun vahşice katledilmiş bedeni bir parkta bulunur. Tanıklar ve cesetten alınan parmak izleri, kentin en saygın kişilerinden biri olan Terry Maitland'a işaret etmektedir. Terry, Küçükler Ligi koçu, İngilizce öğretmeni, iyi bir eş ve iki kız çocuğu babasıdır. Dedektif Ralph Anderson, Terry'yi halkın önünde tutuklayarak soruşturmayı üstlenir. Terry, suçsuz olduğunu vurgulasa da dava aleyhinde gelişir. Ancak, araştırma derinleştikçe ortaya çıkan gerçekler ve Terry'nin olay gecesine dair anlattıkları, davanın seyrini tamamen değiştirir.",
+    "cast": [
+      {
+        "id": "c197",
+        "name": "Ben Mendelsohn",
+        "character": "Ralph Anderson",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/ben-mendelsohn.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c198",
+        "name": "Cynthia Erivo",
+        "character": "Holly Gibney",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/cynthia-erivo.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c199",
+        "name": "Bill Camp",
+        "character": "Howard Salomon",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/bill-camp.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c200",
+        "name": "Jeremy Bobb",
+        "character": "Alec Pelley",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/jeremy-bobb.jpg-thumb-detay.webp"
+      }
+    ]
   }
 ]
