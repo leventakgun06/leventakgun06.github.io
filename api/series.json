@@ -22696,6 +22696,29 @@
       "playerAbout1": "https://mydramalist.com/people/1897-park-eun-bin",
       "playerAbout2": "https://mydramalist.com/people/13727-yang-se-jong",
       "playerAbout3": "https://mydramalist.com/people/15814-ong-sung-woo"
+    },
+    {
+      "id": 947,
+      "koreasName": "A Bona Fide Killer",
+      "koreasImage": "https://i.mydramalist.com/l0z2x4_4f.jpg",
+      "type": "k-drama",
+      "rating": 8.4,
+      "description": "2026 yılı yapımı bu dizide: Yoo Bo Na, eşi ve kızıyla olan aile hayatını idare etmeye çalışan, 30’lu yaşlarında sıradan bir çalışan anne gibi görünmektedir. Ancak günlük yaşamındaki bu görünümünün ardında, yasaların elinden kaçmayı başarmış acımasız suçluların peşine düşen efsanevi keskin nişancı \"Yalıçapkını\" (Kingfisher) gizlidir. Üç yıllık çocuk bakımı izninin ardından tehlikeli ikili yaşamına geri dönen Bo Na; annelik, evlilik ve ölümcül görevi arasında denge kurmakta zorlanır. Araştırmacı gazeteci olan eşi Kwon Tae Seong, farkında olmadan \"Yalıçapkını\"nın gerçek kimliğini keşfetmeye yaklaşırken; kararlı dedektif Lee Dong Jin de bu gizemli kanunsuzun peşini bir an olsun bırakmaz. Bo Na; ailesi, adalet arayışı ve hayatta kalma mücadelesi arasında sıkışıp kalır. Sadık müttefiki Kim Bong Pal’ın yardımıyla, tek bir hatanın hem gizli yaşamını hem de çok değer verdiği ailesini mahvedebileceği bir dünyada ayakta kalmaya çalışır.",
+      "playerName1": "Kong Hyo Jin\n(Yoo Bo Na)",
+      "playerName2": "Jung Jun Won\n(Kwon Tae Seong)",
+      "playerName3": "Lee Sang Yi\n(Lee Dong Ji)",
+      "playerImage1": "https://i.mydramalist.com/4k0oZc.jpg",
+      "playerImage2": "https://i.mydramalist.com/LwjK4B_5c.jpg",
+      "playerImage3": "https://i.mydramalist.com/5vWEnL_5c.jpg",
+      "genreIds": [1, 2, 15],
+      "genre1": "Aksiyon",
+      "genre2": "Gizem",
+      "genre3": "Gerilim",
+      "contentRating": "15+",
+      "episode": "Bölüm: 14",
+      "playerAbout1": "https://mydramalist.com/people/807-gong-hyo-jin",
+      "playerAbout2": "https://mydramalist.com/people/4410-jung-joon-won",
+      "playerAbout3": "https://mydramalist.com/people/15660-lee-sang-yi"
     }
   ]
 }
