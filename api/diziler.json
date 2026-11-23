@@ -1798,5 +1798,41 @@
         "image": "https://filmmakinesi.to/uploads/oyuncular/jeremy-bobb.jpg-thumb-detay.webp"
       }
     ]
+  },
+    {
+    "id": "51",
+    "title": "FBI: Most Wanted",
+    "genres": ["Aksiyon", "Macera", "Suç"],
+    "rating": 6.9,
+    "seasons": "1 Sezon",
+    "year": "2020",
+    "poster": "https://filmmakinesi.to/uploads/postlar/afis/fbi-most-wanted-2020.jpg-thumb-detay.webp",
+    "description": "FBI'ın en çok arananlar listesindeki suçluları bulup yakalamak amacıyla özel bir birim oluşturulur. Julian McMahon'un canlandırdığı Jess LaCroix'un liderliğindeki ekip, uzun süredir izini kaybettiren suçluları adaletin karşısına çıkarmak için zorlu bir mücadeleye atılır.",
+    "cast": [
+      {
+        "id": "c201",
+        "name": "Roxy Sternberg",
+        "character": "FBI SA Sherly Barnes",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/roxy-sternberg.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c202",
+        "name": "Keisha Castle-Hughes",
+        "character": "FBI SA Hana Gibson",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/keisha-castle-hughes.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c203",
+        "name": "Dylan McDermott",
+        "character": "FBI SSA Remy Scott",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/dylan-mcdermott.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c204",
+        "name": "Edwin Hodge",
+        "character": "FBI SA Ray Cannon",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/edwin-hodge.jpg-thumb-detay.webp"
+      }
+    ]
   }
 ]
