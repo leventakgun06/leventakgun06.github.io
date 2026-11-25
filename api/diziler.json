@@ -1834,5 +1834,41 @@
         "image": "https://filmmakinesi.to/uploads/oyuncular/edwin-hodge.jpg-thumb-detay.webp"
       }
     ]
+  },
+    {
+    "id": "52",
+    "title": "Walker",
+    "genres": ["Aksiyon", "Dram", "Suç"],
+    "rating": 6.2,
+    "seasons": "4 Sezon",
+    "year": "2021",
+    "poster": "https://filmmakinesi.to/uploads/postlar/afis/walker-2021.jpg-thumb-detay.webp",
+    "description": "Cordell Walker, iki çocuk babası ve dul bir adam olarak, yüksek profilli bir davada iki yıllık gizli görevinin ardından Austin'e evine geri döner. Ancak döndüğünde, çözmesi gereken birçok mesele olduğunu anlar. Texas Rangers ekibinde görev yapan nadir kadınlardan biri, Walker'ın yeni ortağı olarak göreve başlar ve birlikte zorlu görevlerin üstesinden gelmeye çalışırlar.",
+    "cast": [
+      {
+        "id": "c205",
+        "name": "Jared Padalecki",
+        "character": "Cordel Walker",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/jared-padalecki.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c206",
+        "name": "Molly Hogan",
+        "character": "Abeline Walker",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/molly-hagan.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c207",
+        "name": "Keegan Allen",
+        "character": "Liam Walker",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/keegan-allen.jpg-thumb-detay.webp"
+      },
+      {
+        "id": "c208",
+        "name": "Violet Brinson",
+        "character": "Stella Walker",
+        "image": "https://filmmakinesi.to/uploads/oyuncular/violet-brinson.jpg-thumb-detay.webp"
+      }
+    ]
   }
 ]
